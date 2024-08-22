@@ -10258,5 +10258,9 @@ export const dictionary = [
     {
         "english": "idea",
         "tera": "minai"
+    },
+    {
+        "english": "bronze",
+        "tera": "hebet"
     }
-]
+];
