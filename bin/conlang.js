@@ -42,13 +42,21 @@ function addWordPair() {
                 rl.question(`"${fromWord}" is already in the dictionary as "${duplicate[toKey]}". Would you like to add it again? [yN]\n`, (response) => {
                     if (response.toLowerCase() === 'y') {
                         rl.question(`Translation in ${toLang}: \n$ `, (toWord) => {
+                            const duplicateTera = findDuplicate(toWord, toKey);
+                            if (duplicateTera) {
+                                console.log(`"${toWord}" in ${toLang} is already in the dictionary as "${duplicateTera[fromKey]}".`);
+                                const addDuplicateTera = readline.keyInYNStrict("Would you like to add it again?");
+                                if (!addDuplicateTera) {
+                                    rl.close();
+                                    return;
+                                }
+                            }
                             dictionary.push({ [fromKey]: fromWord, [toKey]: toWord });
                             console.log(`"${fromWord}" has been added to the dictionary as "${toWord}".`);
                             saveDictionary();
                             rl.close();
                         });
                     } else {
-                        console.log(`"${fromWord}" was not added again.`);
                         rl.close();
                     }
                 });
