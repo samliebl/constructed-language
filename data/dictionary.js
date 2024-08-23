@@ -5052,8 +5052,16 @@ export const dictionary = [
         "tera": "u"
     },
     {
-        "english": "salary",
+        "english": "ate",
+        "tera": "uwen"
+    },
+    {
+        "english": "honorable",
         "tera": "cer"
+    },
+    {
+        "english": "salary",
+        "tera": "cery"
     },
     {
         "english": "mask",
@@ -5104,19 +5112,27 @@ export const dictionary = [
         "tera": "fle"
     },
     {
-        "english": "imae",
+        "english": "",
         "tera": "an"
     },
     {
-        "english": "ta",
+        "english": "",
+        "tera": "imae"
+    },
+    {
+        "english": "dun",
         "tera": "tan"
     },
     {
-        "english": "capta",
+        "english": "there",
+        "tera": "ta"
+    },
+    {
+        "english": "capture",
         "tera": "undam"
     },
     {
-        "english": "gam",
+        "english": "card",
         "tera": "refu"
     },
     {
@@ -5124,16 +5140,32 @@ export const dictionary = [
         "tera": "stup"
     },
     {
-        "english": "ioni",
+        "english": "his",
         "tera": "ix"
+    },
+    {
+        "english": "ix",
+        "tera": "ioni"
+    },
+    {
+        "english": "mare",
+        "tera": "ioni"
     },
     {
         "english": "orbit",
         "tera": "orb"
     },
     {
-        "english": "pesere",
+        "english": "mount",
         "tera": "car"
+    },
+    {
+        "english": "summit",
+        "tera": "carpes"
+    },
+    {
+        "english": "climb",
+        "tera": "carpesere"
     },
     {
         "english": "ur",
@@ -5144,8 +5176,12 @@ export const dictionary = [
         "tera": "volu"
     },
     {
-        "english": "is",
+        "english": "as",
         "tera": "urn"
+    },
+    {
+        "english": "is",
+        "tera": "un"
     },
     {
         "english": "run",
@@ -5164,15 +5200,19 @@ export const dictionary = [
         "tera": "tuo"
     },
     {
-        "english": "isti",
+        "english": "ist",
         "tera": "sed"
     },
     {
-        "english": "phe",
+        "english": "foal",
+        "tera": "isti"
+    },
+    {
+        "english": "ph",
         "tera": "sisy"
     },
     {
-        "english": "o",
+        "english": "owe",
         "tera": "sax"
     },
     {
@@ -5184,24 +5224,36 @@ export const dictionary = [
         "tera": "mum"
     },
     {
-        "english": "carmina",
-        "tera": "carm"
+        "english": "instrument",
+        "tera": "carem"
+    },
+    {
+        "english": "brilliant",
+        "tera": "carmina"
+    },
+    {
+        "english": "steel",
+        "tera": "mina"
     },
     {
         "english": "eu",
         "tera": "fama"
     },
     {
-        "english": "eu",
-        "tera": "eu"
+        "english": "fame",
+        "tera": "eur"
     },
     {
-        "english": "genas",
+        "english": "gens",
         "tera": "mad"
     },
     {
-        "english": "regia",
-        "tera": "reg"
+        "english": "r",
+        "tera": "regegia"
+    },
+    {
+        "english": "belittle",
+        "tera": "egeriga"
     },
     {
         "english": "sus",
@@ -5240,19 +5292,19 @@ export const dictionary = [
         "tera": "erat"
     },
     {
-        "english": "recent",
+        "english": "among",
         "tera": "recen"
     },
     {
-        "english": "inter",
-        "tera": "inter"
+        "english": "between",
+        "tera": "inet"
     },
     {
         "english": "sit",
         "tera": "inces"
     },
     {
-        "english": "su",
+        "english": "soup",
         "tera": "pas"
     },
     {
@@ -5260,40 +5312,48 @@ export const dictionary = [
         "tera": "vul"
     },
     {
-        "english": "tardo",
-        "tera": "tardo"
+        "english": "stallion",
+        "tera": "taredo"
     },
     {
-        "english": "hanc",
+        "english": "plan",
         "tera": "hanc"
     },
     {
-        "english": "simul",
-        "tera": "simul"
+        "english": "illusion",
+        "tera": "siamel"
     },
     {
-        "english": "legem",
+        "english": "target",
         "tera": "legem"
     },
     {
-        "english": "peius",
+        "english": "coat",
         "tera": "rhodo"
     },
     {
+        "english": "hauberk",
+        "tera": "peius"
+    },
+    {
         "english": "it",
+        "tera": "ci"
+    },
+    {
+        "english": "silence",
         "tera": "accip"
     },
     {
-        "english": "heros",
-        "tera": "hero"
+        "english": "chariot",
+        "tera": "heros"
     },
     {
         "english": "tat",
         "tera": "flec"
     },
     {
-        "english": "retro",
-        "tera": "retr"
+        "english": "century",
+        "tera": "reter"
     },
     {
         "english": "sua",
@@ -5305,7 +5365,7 @@ export const dictionary = [
     },
     {
         "english": "donec",
-        "tera": "don"
+        "tera": "donec"
     },
     {
         "english": "as",
@@ -5344,15 +5404,15 @@ export const dictionary = [
         "tera": "muta"
     },
     {
-        "english": "tia",
+        "english": "conceal",
         "tera": "silen"
     },
     {
-        "english": "trames",
+        "english": "currency",
         "tera": "trames"
     },
     {
-        "english": "arduus",
+        "english": "boot",
         "tera": "arduus"
     },
     {
@@ -5360,7 +5420,7 @@ export const dictionary = [
         "tera": "obsucor"
     },
     {
-        "english": "caligine",
+        "english": "obscure",
         "tera": "caligine"
     },
     {
@@ -5368,11 +5428,15 @@ export const dictionary = [
         "tera": "densus"
     },
     {
-        "english": "opaca",
+        "english": "rank",
         "tera": "opaca"
     },
     {
-        "english": "procul",
+        "english": "touch",
+        "tera": "ac"
+    },
+    {
+        "english": "asset",
         "tera": "procul"
     },
     {
@@ -5380,23 +5444,27 @@ export const dictionary = [
         "tera": "afuerunt"
     },
     {
-        "english": "tellus",
+        "english": "enough",
         "tera": "tellus"
     },
     {
-        "english": "margine",
+        "english": "range",
         "tera": "margine"
     },
     {
-        "english": "summae",
+        "english": "cycle",
         "tera": "summae"
     },
     {
-        "english": "deficeret",
+        "english": "inheritance",
         "tera": "deficeret"
     },
     {
-        "english": "metuens",
+        "english": "inherit",
+        "tera": "deficer"
+    },
+    {
+        "english": "seer",
         "tera": "metuens"
     },
     {
@@ -5408,7 +5476,7 @@ export const dictionary = [
         "tera": "videndi"
     },
     {
-        "english": "flexit",
+        "english": "",
         "tera": "flexit"
     },
     {
@@ -5416,15 +5484,15 @@ export const dictionary = [
         "tera": "amans"
     },
     {
-        "english": "oculos",
+        "english": "ram",
         "tera": "oculos"
     },
     {
-        "english": "protinus",
+        "english": "officer",
         "tera": "protinus"
     },
     {
-        "english": "relaspa",
+        "english": "inquiry",
         "tera": "relaspa"
     },
     {
@@ -5448,11 +5516,11 @@ export const dictionary = [
         "tera": "certans"
     },
     {
-        "english": "nil",
+        "english": "would",
         "tera": "nil"
     },
     {
-        "english": "nisi",
+        "english": "brash",
         "tera": "nisi"
     },
     {
@@ -5460,15 +5528,19 @@ export const dictionary = [
         "tera": "cendentes"
     },
     {
-        "english": "infelix",
-        "tera": "infelix"
+        "english": "fox",
+        "tera": "infe"
     },
     {
-        "english": "arripit",
-        "tera": "arripit"
+        "english": "hound",
+        "tera": "elix"
     },
     {
-        "english": "auras",
+        "english": "hall",
+        "tera": "arripet"
+    },
+    {
+        "english": "crown",
         "tera": "auras"
     },
     {
@@ -5505,22 +5577,22 @@ export const dictionary = [
     },
     {
         "english": "vale",
-        "tera": "vale"
+        "tera": "rael"
     },
     {
         "english": "iam",
-        "tera": "iam"
+        "tera": "an"
     },
     {
-        "english": "vix",
+        "english": "curse",
         "tera": "vix"
     },
     {
-        "english": "auribus",
+        "english": "templar",
         "tera": "auribus"
     },
     {
-        "english": "ille",
+        "english": "shut",
         "tera": "ille"
     },
     {
@@ -5536,11 +5608,11 @@ export const dictionary = [
         "tera": "revolutaque"
     },
     {
-        "english": "rursus",
+        "english": "turnip",
         "tera": "rursus"
     },
     {
-        "english": "eodem",
+        "english": "decision",
         "tera": "eodem"
     },
     {
@@ -10474,5 +10546,17 @@ export const dictionary = [
     {
         "english": "open",
         "tera": "eper"
+    },
+    {
+        "english": "donkey",
+        "tera": "udole"
+    },
+    {
+        "english": "rous",
+        "tera": "res"
+    },
+    {
+        "english": "lry",
+        "tera": "lmer"
     }
 ];
