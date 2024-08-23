@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A CLI tool for constructed language management.",
   "main": "bin/conlang.js",
+  "type": "module",
   "bin": {
     "conlang": "./bin/conlang.js"
   },
