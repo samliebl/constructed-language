@@ -1,22 +1,19 @@
 {
   "name": "constructed-language",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
+  "description": "A CLI tool for constructed language management.",
+  "main": "bin/conlang.js",
   "bin": {
     "conlang": "./bin/conlang.js"
-  },
-  "directories": {
-    "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Sam Liebl",
+  "license": "MIT",
   "dependencies": {
     "wordlist-english": "^1.2.1"
   }
 }
+
+

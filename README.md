@@ -6,6 +6,8 @@
 $ conlang
 ```
 
+## Directory structure
+
 ```
 bin
 	conlang.js
@@ -14,3 +16,9 @@ data
 lib
 	translate.js
 ```
+
+## License
+
+All content in `./data`: All rights reserved © Sam Liebl.
+
+Otherwise, MIT (`./LICENSE.txt`).
