@@ -1,4 +1,10 @@
+# Constructed Language CLI
 
+## Conlang command
+
+```sh
+$ conlang
+```
 
 ```
 bin
@@ -6,6 +12,5 @@ bin
 data
 	dictionary.js
 lib
-	findWords.js
 	translate.js
 ```
