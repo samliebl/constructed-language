@@ -1,10562 +1,6903 @@
 export const dictionary = [
-    {
-        "english": "earth",
-        "tera": "hege"
-    },
-    {
-        "english": "left",
-        "tera": "xir"
-    },
-    {
-        "english": "gentry",
-        "tera": "thegre"
-    },
-    {
-        "english": "clerk",
-        "tera": "testo"
-    },
-    {
-        "english": "cry",
-        "tera": "tetes"
-    },
-    {
-        "english": "priest",
-        "tera": "tedos"
-    },
-    {
-        "english": "pencil",
-        "tera": "tetso"
-    },
-    {
-        "english": "anything",
-        "tera": "etea"
-    },
-    {
-        "english": "any",
-        "tera": "ete"
-    },
-    {
-        "english": "part",
-        "tera": "te"
-    },
-    {
-        "english": "nostalgia",
-        "tera": "seclodes"
-    },
-    {
-        "english": "story",
-        "tera": "sophame"
-    },
-    {
-        "english": "title",
-        "tera": "eracam"
-    },
-    {
-        "english": "amazing",
-        "tera": "acier"
-    },
-    {
-        "english": "also",
-        "tera": "vey"
-    },
-    {
-        "english": "past",
-        "tera": "selod"
-    },
-    {
-        "english": "peach",
-        "tera": "tetos"
-    },
-    {
-        "english": "moment",
-        "tera": "rhyev"
-    },
-    {
-        "english": "memory",
-        "tera": "rhyever"
-    },
-    {
-        "english": "candle",
-        "tera": "vertal"
-    },
-    {
-        "english": "glow",
-        "tera": "vera"
-    },
-    {
-        "english": "safe",
-        "tera": "dand"
-    },
-    {
-        "english": "health",
-        "tera": "andit"
-    },
-    {
-        "english": "magnate",
-        "tera": "landt"
-    },
-    {
-        "english": "quarter",
-        "tera": "bles"
-    },
-    {
-        "english": "tragedy",
-        "tera": "doeles"
-    },
-    {
-        "english": "scorn",
-        "tera": "detin"
-    },
-    {
-        "english": "priviledge",
-        "tera": "theun"
-    },
-    {
-        "english": "never",
-        "tera": "euni"
-    },
-    {
-        "english": "in",
-        "tera": "ate"
-    },
-    {
-        "english": "is",
-        "tera": "a"
-    },
-    {
-        "english": "red",
-        "tera": "effa"
-    },
-    {
-        "english": "white",
-        "tera": "rugi"
-    },
-    {
-        "english": "blue",
-        "tera": "gopa"
-    },
-    {
-        "english": "green",
-        "tera": "nali"
-    },
-    {
-        "english": "yellow",
-        "tera": "zebi"
-    },
-    {
-        "english": "black",
-        "tera": "kalo"
-    },
-    {
-        "english": "by",
-        "tera": "no"
-    },
-    {
-        "english": "agree",
-        "tera": "nal"
-    },
-    {
-        "english": "for",
-        "tera": "i"
-    },
-    {
-        "english": "shot",
-        "tera": "ter"
-    },
-    {
-        "english": "ideal",
-        "tera": "stup"
-    },
-    {
-        "english": "die",
-        "tera": "ui"
-    },
-    {
-        "english": "crucial",
-        "tera": "tge"
-    },
-    {
-        "english": "wipe",
-        "tera": "min"
-    },
-    {
-        "english": "react",
-        "tera": "ane"
-    },
-    {
-        "english": "parade",
-        "tera": "ccon"
-    },
-    {
-        "english": "lab",
-        "tera": "iu"
-    },
-    {
-        "english": "track",
-        "tera": "gis"
-    },
-    {
-        "english": "ritual",
-        "tera": "orph"
-    },
-    {
-        "english": "treaty",
-        "tera": "eus"
-    },
-    {
-        "english": "monster",
-        "tera": "quam"
-    },
-    {
-        "english": "item",
-        "tera": "tri"
-    },
-    {
-        "english": "statute",
-        "tera": "aqui"
-    },
-    {
-        "english": "loss",
-        "tera": "timid"
-    },
-    {
-        "english": "now",
-        "tera": "us"
-    },
-    {
-        "english": "visible",
-        "tera": "medi"
-    },
-    {
-        "english": "out",
-        "tera": "op"
-    },
-    {
-        "english": "stair",
-        "tera": "oran"
-    },
-    {
-        "english": "of",
-        "tera": "tec"
-    },
-    {
-        "english": "student",
-        "tera": "atend"
-    },
-    {
-        "english": "eagle",
-        "tera": "nascol"
-    },
-    {
-        "english": "count",
-        "tera": "lacan"
-    },
-    {
-        "english": "pagan",
-        "tera": "lemer"
-    },
-    {
-        "english": "ensign",
-        "tera": "isv"
-    },
-    {
-        "english": "eagle",
-        "tera": "idi"
-    },
-    {
-        "english": "summary",
-        "tera": "tqu"
-    },
-    {
-        "english": "altar",
-        "tera": "empav"
-    },
-    {
-        "english": "country2",
-        "tera": "orno"
-    },
-    {
-        "english": "parish",
-        "tera": "nanter"
-    },
-    {
-        "english": "by",
-        "tera": "el"
-    },
-    {
-        "english": "tent",
-        "tera": "iquit"
-    },
-    {
-        "english": "pack",
-        "tera": "nat"
-    },
-    {
-        "english": "hill",
-        "tera": "ura"
-    },
-    {
-        "english": "hope",
-        "tera": "pri"
-    },
-    {
-        "english": "patriarch",
-        "tera": "orsax"
-    },
-    {
-        "english": "ruin",
-        "tera": "ope"
-    },
-    {
-        "english": "mantlet",
-        "tera": "robor"
-    },
-    {
-        "english": "super",
-        "tera": "tocor"
-    },
-    {
-        "english": "fog",
-        "tera": "pu"
-    },
-    {
-        "english": "melee",
-        "tera": "stri"
-    },
-    {
-        "english": "pennant",
-        "tera": "ainse"
-    },
-    {
-        "english": "towel",
-        "tera": "crim"
-    },
-    {
-        "english": "villager",
-        "tera": "entra"
-    },
-    {
-        "english": "secondary",
-        "tera": "xitvol"
-    },
-    {
-        "english": "thistle",
-        "tera": "tquevi"
-    },
-    {
-        "english": "ideal",
-        "tera": "deri"
-    },
-    {
-        "english": "ease",
-        "tera": "olen"
-    },
-    {
-        "english": "cut",
-        "tera": "os"
-    },
-    {
-        "english": "ruin",
-        "tera": "esecir"
-    },
-    {
-        "english": "out",
-        "tera": "ese"
-    },
-    {
-        "english": "sustain",
-        "tera": "nocen"
-    },
-    {
-        "english": "statement",
-        "tera": "stuque"
-    },
-    {
-        "english": "circuit",
-        "tera": "ocon"
-    },
-    {
-        "english": "release",
-        "tera": "fisaf"
-    },
-    {
-        "english": "answer",
-        "tera": "igur"
-    },
-    {
-        "english": "advice",
-        "tera": "ainef"
-    },
-    {
-        "english": "clock",
-        "tera": "elitec"
-    },
-    {
-        "english": "award",
-        "tera": "xleth"
-    },
-    {
-        "english": "branch",
-        "tera": "aet"
-    },
-    {
-        "english": "listener",
-        "tera": "uaiunct"
-    },
-    {
-        "english": "er",
-        "tera": "unct"
-    },
-    {
-        "english": "right",
-        "tera": "issim"
-    },
-    {
-        "english": "pizza",
-        "tera": "aquon"
-    },
-    {
-        "english": "terrorist",
-        "tera": "dampec"
-    },
-    {
-        "english": "leatherworker",
-        "tera": "dampecca"
-    },
-    {
-        "english": "leather",
-        "tera": "dam"
-    },
-    {
-        "english": "worker",
-        "tera": "pecca"
-    },
-    {
-        "english": "tonight",
-        "tera": "toran"
-    },
-    {
-        "english": "consistent",
-        "tera": "unclap"
-    },
-    {
-        "english": "extensive",
-        "tera": "idesqu"
-    },
-    {
-        "english": "version",
-        "tera": "osum"
-    },
-    {
-        "english": "check",
-        "tera": "idas"
-    },
-    {
-        "english": "mechanism",
-        "tera": "ustinet"
-    },
-    {
-        "english": "affect",
-        "tera": "ideor"
-    },
-    {
-        "english": "leap",
-        "tera": "antem"
-    },
-    {
-        "english": "outsider",
-        "tera": "frustra"
-    },
-    {
-        "english": "belief",
-        "tera": "queit"
-    },
-    {
-        "english": "un",
-        "tera": "on"
-    },
-    {
-        "english": "non",
-        "tera": "ono"
-    },
-    {
-        "english": "pagan",
-        "tera": "onoqueitan"
-    },
-    {
-        "english": "hand",
-        "tera": "erum"
-    },
-    {
-        "english": "otherwise",
-        "tera": "transir"
-    },
-    {
-        "english": "script",
-        "tera": "evol"
-    },
-    {
-        "english": "soldier",
-        "tera": "entemport"
-    },
-    {
-        "english": "men",
-        "tera": "ente"
-    },
-    {
-        "english": "vulnerable",
-        "tera": "itorar"
-    },
-    {
-        "english": "new",
-        "tera": "cu"
-    },
-    {
-        "english": "knighthood",
-        "tera": "eratsept"
-    },
-    {
-        "english": "mortgage",
-        "tera": "septerat"
-    },
-    {
-        "english": "knight",
-        "tera": "septan"
-    },
-    {
-        "english": "biology",
-        "tera": "emta"
-    },
-    {
-        "english": "donor",
-        "tera": "menil"
-    },
-    {
-        "english": "pregnant",
-        "tera": "ledieb"
-    },
-    {
-        "english": "bear",
-        "tera": "ussqu"
-    },
-    {
-        "english": "absolutely",
-        "tera": "alidusin"
-    },
-    {
-        "english": "light",
-        "tera": "ripa"
-    },
-    {
-        "english": "wonder",
-        "tera": "cere"
-    },
-    {
-        "english": "shower",
-        "tera": "rissi"
-    },
-    {
-        "english": "team",
-        "tera": "nemun"
-    },
-    {
-        "english": "inflation",
-        "tera": "eresed"
-    },
-    {
-        "english": "brain",
-        "tera": "itcur"
-    },
-    {
-        "english": "born",
-        "tera": "adol"
-    },
-    {
-        "english": "crossbowmen",
-        "tera": "orquean"
-    },
-    {
-        "english": "man",
-        "tera": "ean"
-    },
-    {
-        "english": "hostage",
-        "tera": "imilacr"
-    },
-    {
-        "english": "basic",
-        "tera": "imaeq"
-    },
-    {
-        "english": "halberds",
-        "tera": "urealimen"
-    },
-    {
-        "english": "typical",
-        "tera": "tafu"
-    },
-    {
-        "english": "parley",
-        "tera": "eress"
-    },
-    {
-        "english": "demesne",
-        "tera": "edeos"
-    },
-    {
-        "english": "kitchen",
-        "tera": "erebi"
-    },
-    {
-        "english": "diary",
-        "tera": "crud"
-    },
-    {
-        "english": "convey",
-        "tera": "esqu"
-    },
-    {
-        "english": "retainer",
-        "tera": "estusin"
-    },
-    {
-        "english": "elephant",
-        "tera": "altamser"
-    },
-    {
-        "english": "position",
-        "tera": "cipitrh"
-    },
-    {
-        "english": "prediction",
-        "tera": "odopen"
-    },
-    {
-        "english": "united",
-        "tera": "puls"
-    },
-    {
-        "english": "musical",
-        "tera": "umqu"
-    },
-    {
-        "english": "protest",
-        "tera": "eaqu"
-    },
-    {
-        "english": "lord",
-        "tera": "ilon"
-    },
-    {
-        "english": "instantly",
-        "tera": "ibushae"
-    },
-    {
-        "english": "extensive",
-        "tera": "mumter"
-    },
-    {
-        "english": "broken",
-        "tera": "tiu"
-    },
-    {
-        "english": "sentiment",
-        "tera": "saequor"
-    },
-    {
-        "english": "sibling",
-        "tera": "eisin"
-    },
-    {
-        "english": "freshman",
-        "tera": "clusumpis"
-    },
-    {
-        "english": "reach",
-        "tera": "cibu"
-    },
-    {
-        "english": "wildlife",
-        "tera": "sannum"
-    },
-    {
-        "english": "enact",
-        "tera": "finie"
-    },
-    {
-        "english": "diplomat",
-        "tera": "rattit"
-    },
-    {
-        "english": "coppersmith",
-        "tera": "anomnem"
-    },
-    {
-        "english": "broadcast",
-        "tera": "queref"
-    },
-    {
-        "english": "chimera",
-        "tera": "ugeratorph"
-    },
-    {
-        "english": "bowl",
-        "tera": "ugera"
-    },
-    {
-        "english": "winged",
-        "tera": "torph"
-    },
-    {
-        "english": "publicity",
-        "tera": "eusfemin"
-    },
-    {
-        "english": "empty",
-        "tera": "eamve"
-    },
-    {
-        "english": "survey",
-        "tera": "nerem"
-    },
-    {
-        "english": "military",
-        "tera": "suequod"
-    },
-    {
-        "english": "without",
-        "tera": "malec"
-    },
-    {
-        "english": "judicial",
-        "tera": "esserat"
-    },
-    {
-        "english": "photograph",
-        "tera": "ilisive"
-    },
-    {
-        "english": "hour",
-        "tera": "fidem"
-    },
-    {
-        "english": "play",
-        "tera": "ded"
-    },
-    {
-        "english": "altogether",
-        "tera": "eratmul"
-    },
-    {
-        "english": "charge",
-        "tera": "tast"
-    },
-    {
-        "english": "amendment",
-        "tera": "amenard"
-    },
-    {
-        "english": "supposedly",
-        "tera": "orhabeb"
-    },
-    {
-        "english": "struggle",
-        "tera": "atiung"
-    },
-    {
-        "english": "highway",
-        "tera": "erese"
-    },
-    {
-        "english": "indicate",
-        "tera": "vatimul"
-    },
-    {
-        "english": "born",
-        "tera": "taedo"
-    },
-    {
-        "english": "continue",
-        "tera": "lueree"
-    },
-    {
-        "english": "elevator",
-        "tera": "pulsae"
-    },
-    {
-        "english": "publicly",
-        "tera": "illeeti"
-    },
-    {
-        "english": "columnist",
-        "tera": "amthrac"
-    },
-    {
-        "english": "regret",
-        "tera": "umpop"
-    },
-    {
-        "english": "balanced",
-        "tera": "ulisfu"
-    },
-    {
-        "english": "angel",
-        "tera": "itaa"
-    },
-    {
-        "english": "regulatory",
-        "tera": "ctoramorem"
-    },
-    {
-        "english": "tournament",
-        "tera": "interos"
-    },
-    {
-        "english": "narrative",
-        "tera": "transfer"
-    },
-    {
-        "english": "jewish",
-        "tera": "remar"
-    },
-    {
-        "english": "lawmaker",
-        "tera": "escitr"
-    },
-    {
-        "english": "selection",
-        "tera": "aqueiu"
-    },
-    {
-        "english": "summary",
-        "tera": "vent"
-    },
-    {
-        "english": "thousand",
-        "tera": "amaetat"
-    },
-    {
-        "english": "amendment",
-        "tera": "isbrev"
-    },
-    {
-        "english": "enthusiasm",
-        "tera": "everet"
-    },
-    {
-        "english": "weekly",
-        "tera": "prim"
-    },
-    {
-        "english": "consider",
-        "tera": "oscarp"
-    },
-    {
-        "english": "worldwide",
-        "tera": "ereflo"
-    },
-    {
-        "english": "passenger",
-        "tera": "rescol"
-    },
-    {
-        "english": "helpful",
-        "tera": "lise"
-    },
-    {
-        "english": "famous",
-        "tera": "ratcoll"
-    },
-    {
-        "english": "proceed",
-        "tera": "emque"
-    },
-    {
-        "english": "repeatedly",
-        "tera": "superplan"
-    },
-    {
-        "english": "listener",
-        "tera": "acampiar"
-    },
-    {
-        "english": "education",
-        "tera": "amvirid"
-    },
-    {
-        "english": "everywhere",
-        "tera": "emfacieb"
-    },
-    {
-        "english": "preference",
-        "tera": "antgra"
-    },
-    {
-        "english": "division",
-        "tera": "minish"
-    },
-    {
-        "english": "spending",
-        "tera": "erbaeum"
-    },
-    {
-        "english": "canyon",
-        "tera": "braloc"
-    },
-    {
-        "english": "constantly",
-        "tera": "odeerat"
-    },
-    {
-        "english": "ultimately",
-        "tera": "quapost"
-    },
-    {
-        "english": "pregnant",
-        "tera": "quampart"
-    },
-    {
-        "english": "companion",
-        "tera": "eseditdis"
-    },
-    {
-        "english": "criminal",
-        "tera": "genitusv"
-    },
-    {
-        "english": "horn",
-        "tera": "atese"
-    },
-    {
-        "english": "violation",
-        "tera": "tfilas"
-    },
-    {
-        "english": "naturally",
-        "tera": "onantiam"
-    },
-    {
-        "english": "lightning",
-        "tera": "ovitumb"
-    },
-    {
-        "english": "closest",
-        "tera": "raloc"
-    },
-    {
-        "english": "transport",
-        "tera": "ovenitnon"
-    },
-    {
-        "english": "regarding",
-        "tera": "chaonis"
-    },
-    {
-        "english": "inspection",
-        "tera": "afuitarbor"
-    },
-    {
-        "english": "clay",
-        "tera": "nonem"
-    },
-    {
-        "english": "take",
-        "tera": "ushel"
-    },
-    {
-        "english": "appreciate",
-        "tera": "iadumnon"
-    },
-    {
-        "english": "parental",
-        "tera": "frondibus"
-    },
-    {
-        "english": "precisely",
-        "tera": "aesculus"
-    },
-    {
-        "english": "placement",
-        "tera": "altisnect"
-    },
-    {
-        "english": "recognize",
-        "tera": "iliaemol"
-    },
-    {
-        "english": "internal",
-        "tera": "lesnecin"
-    },
-    {
-        "english": "promising",
-        "tera": "nubalaur"
-    },
-    {
-        "english": "chemistry",
-        "tera": "usetco"
-    },
-    {
-        "english": "extremely",
-        "tera": "rylifr"
-    },
-    {
-        "english": "entire",
-        "tera": "agile"
-    },
-    {
-        "english": "afternoon",
-        "tera": "setfra"
-    },
-    {
-        "english": "motion",
-        "tera": "xinus"
-    },
-    {
-        "english": "agreement",
-        "tera": "utilish"
-    },
-    {
-        "english": "noble",
-        "tera": "astise"
-    },
-    {
-        "english": "collective",
-        "tera": "nodisque"
-    },
-    {
-        "english": "balanced",
-        "tera": "abiescurv"
-    },
-    {
-        "english": "estimated",
-        "tera": "atquegland"
-    },
-    {
-        "english": "integrated",
-        "tera": "ibusilexetplat"
-    },
-    {
-        "english": "somewhat",
-        "tera": "anusge"
-    },
-    {
-        "english": "collector",
-        "tera": "nialisac"
-    },
-    {
-        "english": "textbook",
-        "tera": "erqueco"
-    },
-    {
-        "english": "practice",
-        "tera": "loribusin"
-    },
-    {
-        "english": "potential",
-        "tera": "paramnic"
-    },
-    {
-        "english": "blend",
-        "tera": "olaeq"
-    },
-    {
-        "english": "helpful",
-        "tera": "uesim"
-    },
-    {
-        "english": "follow",
-        "tera": "ulsa"
-    },
-    {
-        "english": "principle",
-        "tera": "liceset"
-    },
-    {
-        "english": "from",
-        "tera": "aq"
-    },
-    {
-        "english": "orbit",
-        "tera": "uatic"
-    },
-    {
-        "english": "angel",
-        "tera": "alotos"
-    },
-    {
-        "english": "majority",
-        "tera": "perpetu"
-    },
-    {
-        "english": "bird",
-        "tera": "ovirens"
-    },
-    {
-        "english": "christmas",
-        "tera": "buxumte"
-    },
-    {
-        "english": "violence",
-        "tera": "nuesquem"
-    },
-    {
-        "english": "tolerance",
-        "tera": "yricaeet"
-    },
-    {
-        "english": "workplace",
-        "tera": "bicolormyr"
-    },
-    {
-        "english": "assistance",
-        "tera": "tusetbac"
-    },
-    {
-        "english": "instructor",
-        "tera": "iscaer"
-    },
-    {
-        "english": "convention",
-        "tera": "ulatinos"
-    },
-    {
-        "english": "deadline",
-        "tera": "vosquoflex"
-    },
-    {
-        "english": "entirely",
-        "tera": "ipedesh"
-    },
-    {
-        "english": "sacrifice",
-        "tera": "ederaev"
-    },
-    {
-        "english": "highlight",
-        "tera": "enistiset"
-    },
-    {
-        "english": "economic",
-        "tera": "unapamp"
-    },
-    {
-        "english": "autonomy",
-        "tera": "ineaev"
-    },
-    {
-        "english": "excitement",
-        "tera": "itesetamict"
-    },
-    {
-        "english": "catholic",
-        "tera": "aeviti"
-    },
-    {
-        "english": "compelling",
-        "tera": "busulmi"
-    },
-    {
-        "english": "restore",
-        "tera": "orniq"
-    },
-    {
-        "english": "organism",
-        "tera": "ueetpicea"
-    },
-    {
-        "english": "investigator",
-        "tera": "epomoqueonerat"
-    },
-    {
-        "english": "alongside",
-        "tera": "arubent"
-    },
-    {
-        "english": "variety",
-        "tera": "iarb"
-    },
-    {
-        "english": "everything",
-        "tera": "utusetlenta"
-    },
-    {
-        "english": "lifetime",
-        "tera": "evictor"
-    },
-    {
-        "english": "democratic",
-        "tera": "ispraemiapalm"
-    },
-    {
-        "english": "protective",
-        "tera": "aetsucc"
-    },
-    {
-        "english": "click",
-        "tera": "inta"
-    },
-    {
-        "english": "wipe",
-        "tera": "comas"
-    },
-    {
-        "english": "important",
-        "tera": "hirsuta"
-    },
-    {
-        "english": "decorate",
-        "tera": "queverti"
-    },
-    {
-        "english": "individual",
-        "tera": "cepinu"
-    },
-    {
-        "english": "successful",
-        "tera": "segrat"
-    },
-    {
-        "english": "favorite",
-        "tera": "adeummatr"
-    },
-    {
-        "english": "diminish",
-        "tera": "isiqui"
-    },
-    {
-        "english": "awareness",
-        "tera": "demcybel"
-    },
-    {
-        "english": "category",
-        "tera": "eiusatt"
-    },
-    {
-        "english": "psychological",
-        "tera": "isexuithachominem"
-    },
-    {
-        "english": "wolf",
-        "tera": "trunc"
-    },
-    {
-        "english": "guidance",
-        "tera": "oqueindu"
-    },
-    {
-        "english": "ancestor",
-        "tera": "ruitillo"
-    },
-    {
-        "english": "emphasis",
-        "tera": "sculusalti"
-    },
-    {
-        "english": "chemical",
-        "tera": "snectilia"
-    },
-    {
-        "english": "anticipate",
-        "tera": "emollesne"
-    },
-    {
-        "english": "once",
-        "tera": "cefa"
-    },
-    {
-        "english": "variation",
-        "tera": "gusetinnu"
-    },
-    {
-        "english": "teenager",
-        "tera": "balauru"
-    },
-    {
-        "english": "hopefully",
-        "tera": "setcorylifra"
-    },
-    {
-        "english": "spending",
-        "tera": "gilesetfra"
-    },
-    {
-        "english": "unknown",
-        "tera": "onaxa"
-    },
-    {
-        "english": "science",
-        "tera": "axa"
-    },
-    {
-        "english": "computer",
-        "tera": "inusuti"
-    },
-    {
-        "english": "advanced",
-        "tera": "lishastise"
-    },
-    {
-        "english": "gentleman",
-        "tera": "nodisque"
-    },
-    {
-        "english": "processing",
-        "tera": "abiescu"
-    },
-    {
-        "english": "pressure",
-        "tera": "rvataque"
-    },
-    {
-        "english": "lock",
-        "tera": "gela"
-    },
-    {
-        "english": "childhood",
-        "tera": "ndibusile"
-    },
-    {
-        "english": "scramble",
-        "tera": "xetplatanu"
-    },
-    {
-        "english": "harassment",
-        "tera": "sgeniali"
-    },
-    {
-        "english": "diminish",
-        "tera": "sacerque"
-    },
-    {
-        "english": "enterprise",
-        "tera": "coloribu"
-    },
-    {
-        "english": "ambassador",
-        "tera": "sineppe"
-    },
-    {
-        "english": "widespread",
-        "tera": "aramnico"
-    },
-    {
-        "english": "required",
-        "tera": "laeque"
-    },
-    {
-        "english": "inherent",
-        "tera": "simulsali"
-    },
-    {
-        "english": "adoption",
-        "tera": "cesetaqu"
-    },
-    {
-        "english": "tree",
-        "tera": "atic"
-    },
-    {
-        "english": "forest",
-        "tera": "alotospe"
-    },
-    {
-        "english": "woods",
-        "tera": "aevitian"
-    },
-    {
-        "english": "sentiment",
-        "tera": "repetuovi"
-    },
-    {
-        "english": "function",
-        "tera": "rensbuxumte"
-    },
-    {
-        "english": "estimate",
-        "tera": "nuesque"
-    },
-    {
-        "english": "expensive",
-        "tera": "myricaee"
-    },
-    {
-        "english": "investment",
-        "tera": "tbicolorm"
-    },
-    {
-        "english": "resolve",
-        "tera": "yrtusetbaci"
-    },
-    {
-        "english": "engagement",
-        "tera": "scaerula"
-    },
-    {
-        "english": "repeatedly",
-        "tera": "tinosvosqu"
-    },
-    {
-        "english": "allegation",
-        "tera": "oquefle"
-    },
-    {
-        "english": "nobody",
-        "tera": "xip"
-    },
-    {
-        "english": "directly",
-        "tera": "edeshde"
-    },
-    {
-        "english": "emergency",
-        "tera": "raeveni"
-    },
-    {
-        "english": "convince",
-        "tera": "stisetua"
-    },
-    {
-        "english": "completely",
-        "tera": "pampinea"
-    },
-    {
-        "english": "capability",
-        "tera": "evitese"
-    },
-    {
-        "english": "third",
-        "tera": "tamict"
-    },
-    {
-        "english": "wood",
-        "tera": "aeviti"
-    },
-    {
-        "english": "touchdown",
-        "tera": "busulmiu"
-    },
-    {
-        "english": "occasion",
-        "tera": "rniquee"
-    },
-    {
-        "english": "strategy",
-        "tera": "tpiceae"
-    },
-    {
-        "english": "survival",
-        "tera": "pomoque"
-    },
-    {
-        "english": "generous",
-        "tera": "onerata"
-    },
-    {
-        "english": "exchange",
-        "tera": "rubenti"
-    },
-    {
-        "english": "emerging",
-        "tera": "arbutuse"
-    },
-    {
-        "english": "provider",
-        "tera": "tlentaevi"
-    },
-    {
-        "english": "recording",
-        "tera": "ctorisprae"
-    },
-    {
-        "english": "american",
-        "tera": "miapalma"
-    },
-    {
-        "english": "darkness",
-        "tera": "eetsucci"
-    },
-    {
-        "english": "inspection",
-        "tera": "ntacomas"
-    },
-    {
-        "english": "disclose",
-        "tera": "irsutaqu"
-    },
-    {
-        "english": "authority",
-        "tera": "evertice"
-    },
-    {
-        "english": "ridiculous",
-        "tera": "pinusgrata"
-    },
-    {
-        "english": "component",
-        "tera": "deummatri"
-    },
-    {
-        "english": "thief",
-        "tera": "siquide"
-    },
-    {
-        "english": "confession",
-        "tera": "demcybel"
-    },
-    {
-        "english": "girl",
-        "tera": "eiusa"
-    },
-    {
-        "english": "laughter",
-        "tera": "tatisexui"
-    },
-    {
-        "english": "feedback",
-        "tera": "thachomine"
-    },
-    {
-        "english": "mainstream",
-        "tera": "mtruncoque"
-    },
-    {
-        "english": "withdrawal",
-        "tera": "indurui"
-    },
-    {
-        "english": "encounter",
-        "tera": "tilloadf"
-    },
-    {
-        "english": "similarly",
-        "tera": "uithui"
-    },
-    {
-        "english": "punishment",
-        "tera": "caturbaeme"
-    },
-    {
-        "english": "party",
-        "tera": "tasimita"
-    },
-    {
-        "english": "touchdown",
-        "tera": "tacupressu"
-    },
-    {
-        "english": "afternoon",
-        "tera": "snuncarborpu"
-    },
-    {
-        "english": "regularly",
-        "tera": "eranted"
-    },
-    {
-        "english": "appearance",
-        "tera": "eodile"
-    },
-    {
-        "english": "horseman",
-        "tera": "cetusabillo"
-    },
-    {
-        "english": "horse",
-        "tera": "abillo"
-    },
-    {
-        "english": "master",
-        "tera": "cetusa"
-    },
-    {
-        "english": "mastery",
-        "tera": "cetus"
-    },
-    {
-        "english": "valuable",
-        "tera": "quicitha"
-    },
-    {
-        "english": "question",
-        "tera": "ramnervise"
-    },
-    {
-        "english": "existence",
-        "tera": "tnervistempe"
-    },
-    {
-        "english": "warrior",
-        "tera": "ratarc"
-    },
-    {
-        "english": "war",
-        "tera": "rata"
-    },
-    {
-        "english": "publicity",
-        "tera": "umnamque"
-    },
-    {
-        "english": "controversy",
-        "tera": "sacernymphisca"
-    },
-    {
-        "english": "predator",
-        "tera": "rathaeate"
-    },
-    {
-        "english": "please",
-        "tera": "rathe"
-    },
-    {
-        "english": "japanese",
-        "tera": "nentibusa"
-    },
-    {
-        "english": "equality",
-        "tera": "rvaingen"
-    },
-    {
-        "english": "generous",
-        "tera": "scervusera"
-    },
-    {
-        "english": "dominate",
-        "tera": "tlateque"
-    },
-    {
-        "english": "attraction",
-        "tera": "patentibu"
-    },
-    {
-        "english": "diagnose",
-        "tera": "saltasipse"
-    },
-    {
-        "english": "possession",
-        "tera": "suocapi"
-    },
-    {
-        "english": "magazine",
-        "tera": "tipraebe"
-    },
-    {
-        "english": "glass",
-        "tera": "batco"
-    },
-    {
-        "english": "strongly",
-        "tera": "rnibusumbra"
-    },
-    {
-        "english": "education",
-        "tera": "scornuafu"
-    },
-    {
-        "english": "beer",
-        "tera": "elg"
-    },
-    {
-        "english": "television",
-        "tera": "ebantau"
-    },
-    {
-        "english": "disaster",
-        "tera": "rodemissa"
-    },
-    {
-        "english": "spectrum",
-        "tera": "queina"
-    },
-    {
-        "english": "hospital",
-        "tera": "rmospendeba"
-    },
-    {
-        "english": "anonymous",
-        "tera": "nteretige"
-    },
-    {
-        "english": "clinical",
-        "tera": "mmatamoni"
-    },
-    {
-        "english": "lawmaker",
-        "tera": "liacollo"
-    },
-    {
-        "english": "advantage",
-        "tera": "bullasupe"
-    },
-    {
-        "english": "something",
-        "tera": "rfrontemparvi"
-    },
-    {
-        "english": "internet",
-        "tera": "sargentea"
-    },
-    {
-        "english": "property",
-        "tera": "lorisvin"
-    },
-    {
-        "english": "sensitive",
-        "tera": "ctamoveba"
-    },
-    {
-        "english": "ownership",
-        "tera": "turparile"
-    },
-    {
-        "english": "collection",
-        "tera": "squeex"
-    },
-    {
-        "english": "associate",
-        "tera": "aerini"
-    },
-    {
-        "english": "socially",
-        "tera": "tebantau"
-    },
-    {
-        "english": "raider",
-        "tera": "ribusege"
-    },
-    {
-        "english": "chairman",
-        "tera": "miniscircu"
-    },
-    {
-        "english": "guideline",
-        "tera": "mcavatempo"
-    },
-    {
-        "english": "outlaw",
-        "tera": "rabacae"
-    },
-    {
-        "english": "flexible",
-        "tera": "isqueme"
-    },
-    {
-        "english": "partially",
-        "tera": "tuvacuu"
-    },
-    {
-        "english": "sexuality",
-        "tera": "snaturali"
-    },
-    {
-        "english": "lean",
-        "tera": "que"
-    },
-    {
-        "english": "falcon",
-        "tera": "pavorede"
-    },
-    {
-        "english": "primarily",
-        "tera": "positoce"
-    },
-    {
-        "english": "contractor",
-        "tera": "lebraredo"
-    },
-    {
-        "english": "theater",
-        "tera": "mosmulcenda"
-    },
-    {
-        "english": "discourse",
-        "tera": "quecol"
-    },
-    {
-        "english": "exception",
-        "tera": "laquamli"
-    },
-    {
-        "english": "integrate",
-        "tera": "betignoti"
-    },
-    {
-        "english": "taxpayer",
-        "tera": "smanibuspra"
-    },
-    {
-        "english": "doctrine",
-        "tera": "ebereso"
-    },
-    {
-        "english": "conceive",
-        "tera": "lebatsedta"
-    },
-    {
-        "english": "restrict",
-        "tera": "menantea"
-    },
-    {
-        "english": "certainly",
-        "tera": "liosce"
-    },
-    {
-        "english": "placement",
-        "tera": "aepulche"
-    },
-    {
-        "english": "prosecutor",
-        "tera": "rrimegenti"
-    },
-    {
-        "english": "perceive",
-        "tera": "sgratusera"
-    },
-    {
-        "english": "treasure",
-        "tera": "tcyparisseti"
-    },
-    {
-        "english": "plead",
-        "tera": "bitu"
-    },
-    {
-        "english": "mushroom",
-        "tera": "pabulace"
-    },
-    {
-        "english": "expansion",
-        "tera": "rvumadnova"
-    },
-    {
-        "english": "remember",
-        "tera": "tuliqui"
-    },
-    {
-        "english": "pet",
-        "tera": "didu"
-    },
-    {
-        "english": "assumption",
-        "tera": "cebasfonti"
-    },
-    {
-        "english": "influence",
-        "tera": "sadundamtu"
-    },
-    {
-        "english": "accurately",
-        "tera": "modotexe"
-    },
-    {
-        "english": "generate",
-        "tera": "basvario"
-    },
-    {
-        "english": "campaign",
-        "tera": "spercornua"
-    },
-    {
-        "english": "difficulty",
-        "tera": "floresnunc"
-    },
-    {
-        "english": "workplace",
-        "tera": "equesi"
-    },
-    {
-        "english": "vulnerable",
-        "tera": "ntergore"
-    },
-    {
-        "english": "reading",
-        "tera": "sidenshucla"
-    },
-    {
-        "english": "everywhere",
-        "tera": "etuseti"
-    },
-    {
-        "english": "expertise",
-        "tera": "llucmollia"
-    },
-    {
-        "english": "sufficient",
-        "tera": "purpurei"
-    },
-    {
-        "english": "troubled",
-        "tera": "sfrenabaso"
-    },
-    {
-        "english": "importance",
-        "tera": "racapistri"
-    },
-    {
-        "english": "computer",
-        "tera": "saestuse"
-    },
-    {
-        "english": "conviction",
-        "tera": "ratmediu"
-    },
-    {
-        "english": "sprinkle",
-        "tera": "squedie"
-    },
-    {
-        "english": "astronomer",
-        "tera": "ssolisque"
-    },
-    {
-        "english": "touchdown",
-        "tera": "vaporeco"
-    },
-    {
-        "english": "campaign",
-        "tera": "ncavalito"
-    },
-    {
-        "english": "attention",
-        "tera": "reiferve"
-    },
-    {
-        "english": "correspondent",
-        "tera": "bantbracchia"
-    },
-    {
-        "english": "practice",
-        "tera": "cancri"
-    },
-    {
-        "english": "emission",
-        "tera": "fessusinhe"
-    },
-    {
-        "english": "democratic",
-        "tera": "rbosaposu"
-    },
-    {
-        "english": "photograph",
-        "tera": "itsuaco"
-    },
-    {
-        "english": "familiar",
-        "tera": "rporaterra"
-    },
-    {
-        "english": "telephone",
-        "tera": "cervuseta"
-    },
-    {
-        "english": "adventure",
-        "tera": "rboreafri"
-    },
-    {
-        "english": "minimize",
-        "tera": "gusduceba"
-    },
-    {
-        "english": "facilitate",
-        "tera": "tabumbrahu"
-    },
-    {
-        "english": "innovative",
-        "tera": "ncpuerinpru"
-    },
-    {
-        "english": "lay",
-        "tera": "de"
-    },
-    {
-        "english": "disorder",
-        "tera": "nsiaculo"
-    },
-    {
-        "english": "venture",
-        "tera": "cyparissusa"
-    },
-    {
-        "english": "incredibly",
-        "tera": "cutofixi"
-    },
-    {
-        "english": "outsider",
-        "tera": "tutsaevo"
-    },
-    {
-        "english": "love",
-        "tera": "moriente"
-    },
-    {
-        "english": "reform",
-        "tera": "mvuln"
-    },
-    {
-        "english": "perceived",
-        "tera": "erevidi"
-    },
-    {
-        "english": "judicial",
-        "tera": "tvellemori"
-    },
-    {
-        "english": "negotiate",
-        "tera": "statuitqu"
-    },
-    {
-        "english": "perfectly",
-        "tera": "aenonso"
-    },
-    {
-        "english": "operation",
-        "tera": "laciapho"
-    },
-    {
-        "english": "momentum",
-        "tera": "ebusdixi"
-    },
-    {
-        "english": "use",
-        "tera": "t"
-    },
-    {
-        "english": "resource",
-        "tera": "etutlevi"
-    },
-    {
-        "english": "developing",
-        "tera": "terpromate"
-    },
-    {
-        "english": "boat",
-        "tera": "riaque"
-    },
-    {
-        "english": "childhood",
-        "tera": "dolereta"
-    },
-    {
-        "english": "exchange",
-        "tera": "dmonuitge"
-    },
-    {
-        "english": "presence",
-        "tera": "mitilleta"
-    },
-    {
-        "english": "increased",
-        "tera": "menmunusqu"
-    },
-    {
-        "english": "ocean",
-        "tera": "esupremu"
-    },
-    {
-        "english": "convince",
-        "tera": "mhocpetita"
-    },
-    {
-        "english": "pregnancy",
-        "tera": "superisu"
-    },
-    {
-        "english": "capability",
-        "tera": "ttemporelu"
-    },
-    {
-        "english": "crack",
-        "tera": "geat"
-    },
-    {
-        "english": "projection",
-        "tera": "omniia"
-    },
-    {
-        "english": "impression",
-        "tera": "mqueperi"
-    },
-    {
-        "english": "coordinate",
-        "tera": "nmensosege"
-    },
-    {
-        "english": "meantime",
-        "tera": "stosangui"
-    },
-    {
-        "english": "provider",
-        "tera": "nefletusi"
-    },
-    {
-        "english": "definition",
-        "tera": "nviridemve"
-    },
-    {
-        "english": "pleasant",
-        "tera": "rticoepe"
-    },
-    {
-        "english": "citizenship",
-        "tera": "runtmembraco"
-    },
-    {
-        "english": "creative",
-        "tera": "loremetmo"
-    },
-    {
-        "english": "defender",
-        "tera": "doquini"
-    },
-    {
-        "english": "associate",
-        "tera": "veapende"
-    },
-    {
-        "english": "changing",
-        "tera": "bantfron"
-    },
-    {
-        "english": "basketball",
-        "tera": "tecapilli"
-    },
-    {
-        "english": "proclaim",
-        "tera": "horridaca"
-    },
-    {
-        "english": "discovery",
-        "tera": "esarie"
-    },
-    {
-        "english": "virtually",
-        "tera": "sfierisu"
-    },
-    {
-        "english": "ingredient",
-        "tera": "mptori"
-    },
-    {
-        "english": "surprise",
-        "tera": "goreside"
-    },
-    {
-        "english": "standard",
-        "tera": "reumgraci"
-    },
-    {
-        "english": "expected",
-        "tera": "lispectare"
-    },
-    {
-        "english": "supporter",
-        "tera": "cacumine"
-    },
-    {
-        "english": "peace",
-        "tera": "caelum"
-    },
-    {
-        "english": "swamp",
-        "tera": "ingemui"
-    },
-    {
-        "english": "accurately",
-        "tera": "ttristisque"
-    },
-    {
-        "english": "compromise",
-        "tera": "deuslugebere"
-    },
-    {
-        "english": "continuing",
-        "tera": "nobisluge"
-    },
-    {
-        "english": "negative",
-        "tera": "bisquea"
-    },
-    {
-        "english": "attention",
-        "tera": "liosade"
-    },
-    {
-        "english": "momentum",
-        "tera": "risquedo"
-    },
-    {
-        "english": "decrease",
-        "tera": "lentibusi"
-    },
-    {
-        "english": "current",
-        "tera": "enquit"
-    },
-    {
-        "english": "ambition",
-        "tera": "caldicent"
-    },
-    {
-        "english": "jewelry",
-        "tera": "predaerimon"
-    },
-    {
-        "english": "definition",
-        "tera": "onolepta"
-    },
-    {
-        "english": "southeast",
-        "tera": "colosedrasti"
-    },
-    {
-        "english": "prospect",
-        "tera": "eccepone"
-    },
-    {
-        "english": "convince",
-        "tera": "tanyod"
-    },
-    {
-        "english": "instructor",
-        "tera": "tantod"
-    },
-    {
-        "english": "patch",
-        "tera": "iyass"
-    },
-    {
-        "english": "harvest",
-        "tera": "assih"
-    },
-    {
-        "english": "believe",
-        "tera": "acke"
-    },
-    {
-        "english": "simple",
-        "tera": "rgara"
-    },
-    {
-        "english": "source",
-        "tera": "geas"
-    },
-    {
-        "english": "accent",
-        "tera": "sault"
-    },
-    {
-        "english": "threat",
-        "tera": "sile"
-    },
-    {
-        "english": "terrain",
-        "tera": "ntdi"
-    },
-    {
-        "english": "difficulty",
-        "tera": "sposabl"
-    },
-    {
-        "english": "used",
-        "tera": "eren"
-    },
-    {
-        "english": "invasion",
-        "tera": "derfar"
-    },
-    {
-        "english": "ill",
-        "tera": "my"
-    },
-    {
-        "english": "inherent",
-        "tera": "outubec"
-    },
-    {
-        "english": "bit",
-        "tera": "ry"
-    },
-    {
-        "english": "fishing",
-        "tera": "ptofo"
-    },
-    {
-        "english": "shit",
-        "tera": "ota"
-    },
-    {
-        "english": "key",
-        "tera": "ge"
-    },
-    {
-        "english": "design",
-        "tera": "urba"
-    },
-    {
-        "english": "oven",
-        "tera": "nwo"
-    },
-    {
-        "english": "position",
-        "tera": "manrif"
-    },
-    {
-        "english": "dad",
-        "tera": "le"
-    },
-    {
-        "english": "vaccine",
-        "tera": "neura"
-    },
-    {
-        "english": "hold",
-        "tera": "lrec"
-    },
-    {
-        "english": "likely",
-        "tera": "edi"
-    },
-    {
-        "english": "official",
-        "tera": "ngmarke"
-    },
-    {
-        "english": "plead",
-        "tera": "tin"
-    },
-    {
-        "english": "street",
-        "tera": "gmed"
-    },
-    {
-        "english": "cut",
-        "tera": "ia"
-    },
-    {
-        "english": "by",
-        "tera": "ca"
-    },
-    {
-        "english": "golf",
-        "tera": "rho"
-    },
-    {
-        "english": "gym",
-        "tera": "td"
-    },
-    {
-        "english": "assign",
-        "tera": "ogr"
-    },
-    {
-        "english": "senator",
-        "tera": "ende"
-    },
-    {
-        "english": "historical",
-        "tera": "rfarmmo"
-    },
-    {
-        "english": "church",
-        "tera": "tion"
-    },
-    {
-        "english": "sea",
-        "tera": "bi"
-    },
-    {
-        "english": "phone",
-        "tera": "tpla"
-    },
-    {
-        "english": "hungry",
-        "tera": "stic"
-    },
-    {
-        "english": "rear",
-        "tera": "sma"
-    },
-    {
-        "english": "loop",
-        "tera": "rtcon"
-    },
-    {
-        "english": "prey",
-        "tera": "crete"
-    },
-    {
-        "english": "man",
-        "tera": "gan"
-    },
-    {
-        "english": "gay",
-        "tera": "g"
-    },
-    {
-        "english": "utility",
-        "tera": "raf"
-    },
-    {
-        "english": "consider",
-        "tera": "engi"
-    },
-    {
-        "english": "sun",
-        "tera": "nef"
-    },
-    {
-        "english": "french",
-        "tera": "utur"
-    },
-    {
-        "english": "shock",
-        "tera": "ity"
-    },
-    {
-        "english": "surprise",
-        "tera": "wri"
-    },
-    {
-        "english": "is",
-        "tera": "en"
-    },
-    {
-        "english": "rid",
-        "tera": "set"
-    },
-    {
-        "english": "move",
-        "tera": "wat"
-    },
-    {
-        "english": "this",
-        "tera": "che"
-    },
-    {
-        "english": "way",
-        "tera": "noda"
-    },
-    {
-        "english": "word",
-        "tera": "ty"
-    },
-    {
-        "english": "list",
-        "tera": "jel"
-    },
-    {
-        "english": "all",
-        "tera": "li"
-    },
-    {
-        "english": "tension",
-        "tera": "ansem"
-    },
-    {
-        "english": "invention",
-        "tera": "annanoshi"
-    },
-    {
-        "english": "general",
-        "tera": "buya"
-    },
-    {
-        "english": "lesson",
-        "tera": "rif"
-    },
-    {
-        "english": "no",
-        "tera": "le"
-    },
-    {
-        "english": "suck",
-        "tera": "prewa"
-    },
-    {
-        "english": "law",
-        "tera": "reboy"
-    },
-    {
-        "english": "easily",
-        "tera": "lig"
-    },
-    {
-        "english": "fun",
-        "tera": "hest"
-    },
-    {
-        "english": "place",
-        "tera": "sene"
-    },
-    {
-        "english": "workplace",
-        "tera": "uralsile"
-    },
-    {
-        "english": "population",
-        "tera": "ntsanfra"
-    },
-    {
-        "english": "associated",
-        "tera": "ncisco"
-    },
-    {
-        "english": "religion",
-        "tera": "apophe"
-    },
-    {
-        "english": "southeast",
-        "tera": "niacar"
-    },
-    {
-        "english": "south",
-        "tera": "nia"
-    },
-    {
-        "english": "east",
-        "tera": "car"
-    },
-    {
-        "english": "cheap",
-        "tera": "telbo"
-    },
-    {
-        "english": "mouse",
-        "tera": "yrea"
-    },
-    {
-        "english": "threat",
-        "tera": "lisml"
-    },
-    {
-        "english": "statistics",
-        "tera": "egbasys"
-    },
-    {
-        "english": "premise",
-        "tera": "temic"
-    },
-    {
-        "english": "dozen",
-        "tera": "boa"
-    },
-    {
-        "english": "neck",
-        "tera": "tindu"
-    },
-    {
-        "english": "taxpayer",
-        "tera": "strial"
-    },
-    {
-        "english": "pit",
-        "tera": "gr"
-    },
-    {
-        "english": "medal",
-        "tera": "adega"
-    },
-    {
-        "english": "suggest",
-        "tera": "rage"
-    },
-    {
-        "english": "shed",
-        "tera": "cour"
-    },
-    {
-        "english": "computer",
-        "tera": "ierpi"
-    },
-    {
-        "english": "lap",
-        "tera": "st"
-    },
-    {
-        "english": "van",
-        "tera": "ol"
-    },
-    {
-        "english": "come",
-        "tera": "fra"
-    },
-    {
-        "english": "amount",
-        "tera": "nch"
-    },
-    {
-        "english": "pad",
-        "tera": "is"
-    },
-    {
-        "english": "chamber",
-        "tera": "eor"
-    },
-    {
-        "english": "less",
-        "tera": "der"
-    },
-    {
-        "english": "bow",
-        "tera": "fl"
-    },
-    {
-        "english": "fund",
-        "tera": "owa"
-    },
-    {
-        "english": "cap",
-        "tera": "sa"
-    },
-    {
-        "english": "dumb",
-        "tera": "sin"
-    },
-    {
-        "english": "pro",
-        "tera": "wo"
-    },
-    {
-        "english": "tie",
-        "tera": "ma"
-    },
-    {
-        "english": "start",
-        "tera": "nshri"
-    },
-    {
-        "english": "law",
-        "tera": "ne"
-    },
-    {
-        "english": "olympic",
-        "tera": "mar"
-    },
-    {
-        "english": "freedom",
-        "tera": "ket"
-    },
-    {
-        "english": "ha",
-        "tera": "ai"
-    },
-    {
-        "english": "empire",
-        "tera": "sile"
-    },
-    {
-        "english": "as",
-        "tera": "nt"
-    },
-    {
-        "english": "hunt",
-        "tera": "assa"
-    },
-    {
-        "english": "head",
-        "tera": "ult"
-    },
-    {
-        "english": "one",
-        "tera": "as"
-    },
-    {
-        "english": "anyone",
-        "tera": "sas"
-    },
-    {
-        "english": "coast",
-        "tera": "sin"
-    },
-    {
-        "english": "cost",
-        "tera": "urb"
-    },
-    {
-        "english": "off",
-        "tera": "an"
-    },
-    {
-        "english": "tobacco",
-        "tera": "dru"
-    },
-    {
-        "english": "uh",
-        "tera": "ge"
-    },
-    {
-        "english": "start",
-        "tera": "angre"
-    },
-    {
-        "english": "feel",
-        "tera": "rol"
-    },
-    {
-        "english": "hers",
-        "tera": "ver"
-    },
-    {
-        "english": "coffee",
-        "tera": "bit"
-    },
-    {
-        "english": "credit",
-        "tera": "sig"
-    },
-    {
-        "english": "tap",
-        "tera": "ad"
-    },
-    {
-        "english": "him",
-        "tera": "fu"
-    },
-    {
-        "english": "favor",
-        "tera": "tur"
-    },
-    {
-        "english": "over",
-        "tera": "ity"
-    },
-    {
-        "english": "ensure",
-        "tera": "man"
-    },
-    {
-        "english": "sound",
-        "tera": "dis"
-    },
-    {
-        "english": "list",
-        "tera": "sid"
-    },
-    {
-        "english": "explore",
-        "tera": "ent"
-    },
-    {
-        "english": "town",
-        "tera": "manc"
-    },
-    {
-        "english": "should",
-        "tera": "onve"
-    },
-    {
-        "english": "see",
-        "tera": "ni"
-    },
-    {
-        "english": "divide",
-        "tera": "ence"
-    },
-    {
-        "english": "impact",
-        "tera": "sto"
-    },
-    {
-        "english": "rather",
-        "tera": "reb"
-    },
-    {
-        "english": "our",
-        "tera": "e"
-    },
-    {
-        "english": "key",
-        "tera": "ef"
-    },
-    {
-        "english": "no",
-        "tera": "no"
-    },
-    {
-        "english": "joy",
-        "tera": "od"
-    },
-    {
-        "english": "kitchen",
-        "tera": "les"
-    },
-    {
-        "english": "update",
-        "tera": "apo"
-    },
-    {
-        "english": "shock",
-        "tera": "phen"
-    },
-    {
-        "english": "bit",
-        "tera": "ia"
-    },
-    {
-        "english": "level",
-        "tera": "gar"
-    },
-    {
-        "english": "jury",
-        "tera": "age"
-    },
-    {
-        "english": "major",
-        "tera": "sho"
-    },
-    {
-        "english": "age",
-        "tera": "es"
-    },
-    {
-        "english": "drop",
-        "tera": "soul"
-    },
-    {
-        "english": "weak",
-        "tera": "del"
-    },
-    {
-        "english": "sue",
-        "tera": "ay"
-    },
-    {
-        "english": "alien",
-        "tera": "sem"
-    },
-    {
-        "english": "egg",
-        "tera": "io"
-    },
-    {
-        "english": "blade",
-        "tera": "tices"
-    },
-    {
-        "english": "unhappy",
-        "tera": "dea"
-    },
-    {
-        "english": "joy",
-        "tera": "d"
-    },
-    {
-        "english": "cross",
-        "tera": "kow"
-    },
-    {
-        "english": "about",
-        "tera": "loon"
-    },
-    {
-        "english": "gravity",
-        "tera": "mono"
-    },
-    {
-        "english": "discuss",
-        "tera": "fila"
-    },
-    {
-        "english": "store",
-        "tera": "ment"
-    },
-    {
-        "english": "seller",
-        "tera": "met"
-    },
-    {
-        "english": "truth",
-        "tera": "amar"
-    },
-    {
-        "english": "set",
-        "tera": "ke"
-    },
-    {
-        "english": "review",
-        "tera": "tspa"
-    },
-    {
-        "english": "own",
-        "tera": "ce"
-    },
-    {
-        "english": "found",
-        "tera": "con"
-    },
-    {
-        "english": "fourth",
-        "tera": "cre"
-    },
-    {
-        "english": "kid",
-        "tera": "te"
-    },
-    {
-        "english": "tonight",
-        "tera": "tem"
-    },
-    {
-        "english": "shrug",
-        "tera": "nar"
-    },
-    {
-        "english": "sum",
-        "tera": "k"
-    },
-    {
-        "english": "can",
-        "tera": "et"
-    },
-    {
-        "english": "talk",
-        "tera": "kan"
-    },
-    {
-        "english": "set",
-        "tera": "ji"
-    },
-    {
-        "english": "reply",
-        "tera": "tan"
-    },
-    {
-        "english": "it",
-        "tera": "to"
-    },
-    {
-        "english": "worry",
-        "tera": "dig"
-    },
-    {
-        "english": "drink",
-        "tera": "ital"
-    },
-    {
-        "english": "son",
-        "tera": "su"
-    },
-    {
-        "english": "israeli",
-        "tera": "bor"
-    },
-    {
-        "english": "rub",
-        "tera": "bi"
-    },
-    {
-        "english": "pray",
-        "tera": "tal"
-    },
-    {
-        "english": "coal",
-        "tera": "bri"
-    },
-    {
-        "english": "screen",
-        "tera": "dge"
-    },
-    {
-        "english": "some",
-        "tera": "car"
-    },
-    {
-        "english": "drawer",
-        "tera": "elfi"
-    },
-    {
-        "english": "shell",
-        "tera": "lmmo"
-    },
-    {
-        "english": "prove",
-        "tera": "tion"
-    },
-    {
-        "english": "experience",
-        "tera": "concre"
-    },
-    {
-        "english": "whole",
-        "tera": "teshi"
-    },
-    {
-        "english": "missing",
-        "tera": "buya"
-    },
-    {
-        "english": "mysterious",
-        "tera": "aigang"
-    },
-    {
-        "english": "appear",
-        "tera": "com"
-    },
-    {
-        "english": "toy",
-        "tera": "pu"
-    },
-    {
-        "english": "murder",
-        "tera": "ter"
-    },
-    {
-        "english": "rather",
-        "tera": "bic"
-    },
-    {
-        "english": "install",
-        "tera": "ycle"
-    },
-    {
-        "english": "art",
-        "tera": "of"
-    },
-    {
-        "english": "exhibit",
-        "tera": "fice"
-    },
-    {
-        "english": "under",
-        "tera": "abla"
-    },
-    {
-        "english": "haul",
-        "tera": "tive"
-    },
-    {
-        "english": "present",
-        "tera": "sub"
-    },
-    {
-        "english": "pop",
-        "tera": "or"
-    },
-    {
-        "english": "cheer",
-        "tera": "bit"
-    },
-    {
-        "english": "tap",
-        "tera": "al"
-    },
-    {
-        "english": "insist",
-        "tera": "phys"
-    },
-    {
-        "english": "testimony",
-        "tera": "icalvo"
-    },
-    {
-        "english": "distant",
-        "tera": "doo"
-    },
-    {
-        "english": "fat",
-        "tera": "go"
-    },
-    {
-        "english": "field",
-        "tera": "dri"
-    },
-    {
-        "english": "garage",
-        "tera": "fle"
-    },
-    {
-        "english": "rent",
-        "tera": "hum"
-    },
-    {
-        "english": "aid",
-        "tera": "an"
-    },
-    {
-        "english": "case",
-        "tera": "tan"
-    },
-    {
-        "english": "haul",
-        "tera": "toli"
-    },
-    {
-        "english": "endure",
-        "tera": "ght"
-    },
-    {
-        "english": "anymore",
-        "tera": "sadve"
-    },
-    {
-        "english": "skull",
-        "tera": "rtcyb"
-    },
-    {
-        "english": "square",
-        "tera": "ergi"
-    },
-    {
-        "english": "host",
-        "tera": "rltu"
-    },
-    {
-        "english": "grace",
-        "tera": "bea"
-    },
-    {
-        "english": "grief",
-        "tera": "balt"
-    },
-    {
-        "english": "prayer",
-        "tera": "ive"
-    },
-    {
-        "english": "option",
-        "tera": "dolph"
-    },
-    {
-        "english": "time",
-        "tera": "insk"
-    },
-    {
-        "english": "load",
-        "tera": "ysc"
-    },
-    {
-        "english": "free",
-        "tera": "rap"
-    },
-    {
-        "english": "license",
-        "tera": "fer"
-    },
-    {
-        "english": "son",
-        "tera": "ut"
-    },
-    {
-        "english": "late",
-        "tera": "urit"
-    },
-    {
-        "english": "complex",
-        "tera": "ymark"
-    },
-    {
-        "english": "knife",
-        "tera": "eti"
-    },
-    {
-        "english": "nod",
-        "tera": "ng"
-    },
-    {
-        "english": "run",
-        "tera": "ch"
-    },
-    {
-        "english": "or",
-        "tera": "ro"
-    },
-    {
-        "english": "son",
-        "tera": "me"
-    },
-    {
-        "english": "scan",
-        "tera": "manal"
-    },
-    {
-        "english": "short",
-        "tera": "cohol"
-    },
-    {
-        "english": "pile",
-        "tera": "diy"
-    },
-    {
-        "english": "dinner",
-        "tera": "met"
-    },
-    {
-        "english": "head",
-        "tera": "asig"
-    },
-    {
-        "english": "handle",
-        "tera": "ndi"
-    },
-    {
-        "english": "warm",
-        "tera": "git"
-    },
-    {
-        "english": "will",
-        "tera": "alar"
-    },
-    {
-        "english": "million",
-        "tera": "tisa"
-    },
-    {
-        "english": "minimum",
-        "tera": "nal"
-    },
-    {
-        "english": "fabric",
-        "tera": "dis"
-    },
-    {
-        "english": "weather",
-        "tera": "siden"
-    },
-    {
-        "english": "moon",
-        "tera": "tra"
-    },
-    {
-        "english": "diet",
-        "tera": "inse"
-    },
-    {
-        "english": "pot",
-        "tera": "n"
-    },
-    {
-        "english": "solely",
-        "tera": "tien"
-    },
-    {
-        "english": "tool",
-        "tera": "stil"
-    },
-    {
-        "english": "sexual",
-        "tera": "ent"
-    },
-    {
-        "english": "stare",
-        "tera": "mar"
-    },
-    {
-        "english": "honey",
-        "tera": "ketca"
-    },
-    {
-        "english": "openly",
-        "tera": "merae"
-    },
-    {
-        "english": "highway",
-        "tera": "ight"
-    },
-    {
-        "english": "nut",
-        "tera": "bi"
-    },
-    {
-        "english": "coal",
-        "tera": "two"
-    },
-    {
-        "english": "suite",
-        "tera": "man"
-    },
-    {
-        "english": "heel",
-        "tera": "flui"
-    },
-    {
-        "english": "effect",
-        "tera": "dit"
-    },
-    {
-        "english": "landing",
-        "tera": "eti"
-    },
-    {
-        "english": "button",
-        "tera": "ger"
-    },
-    {
-        "english": "ribbon",
-        "tera": "hyph"
-    },
-    {
-        "english": "front",
-        "tera": "ente"
-    },
-    {
-        "english": "due",
-        "tera": "am"
-    },
-    {
-        "english": "secret",
-        "tera": "spa"
-    },
-    {
-        "english": "more",
-        "tera": "ceph"
-    },
-    {
-        "english": "hazard",
-        "tera": "ysi"
-    },
-    {
-        "english": "review",
-        "tera": "calm"
-    },
-    {
-        "english": "runner",
-        "tera": "ono"
-    },
-    {
-        "english": "cling",
-        "tera": "fila"
-    },
-    {
-        "english": "noise",
-        "tera": "ment"
-    },
-    {
-        "english": "cover",
-        "tera": "futu"
-    },
-    {
-        "english": "ease",
-        "tera": "rity"
-    },
-    {
-        "english": "relieve",
-        "tera": "dru"
-    },
-    {
-        "english": "profile",
-        "tera": "gssy"
-    },
-    {
-        "english": "natural",
-        "tera": "ste"
-    },
-    {
-        "english": "loose",
-        "tera": "mice"
-    },
-    {
-        "english": "happy",
-        "tera": "rio"
-    },
-    {
-        "english": "bath",
-        "tera": "dno"
-    },
-    {
-        "english": "another",
-        "tera": "neb"
-    },
-    {
-        "english": "slow",
-        "tera": "rea"
-    },
-    {
-        "english": "shame",
-        "tera": "kin"
-    },
-    {
-        "english": "magic",
-        "tera": "gesp"
-    },
-    {
-        "english": "sock",
-        "tera": "acef"
-    },
-    {
-        "english": "intense",
-        "tera": "lui"
-    },
-    {
-        "english": "dignity",
-        "tera": "dity"
-    },
-    {
-        "english": "ancient",
-        "tera": "refri"
-    },
-    {
-        "english": "love",
-        "tera": "gera"
-    },
-    {
-        "english": "thrive",
-        "tera": "tors"
-    },
-    {
-        "english": "warmth",
-        "tera": "anfra"
-    },
-    {
-        "english": "within",
-        "tera": "enci"
-    },
-    {
-        "english": "propose",
-        "tera": "sco"
-    },
-    {
-        "english": "risk",
-        "tera": "sys"
-    },
-    {
-        "english": "birth",
-        "tera": "tema"
-    },
-    {
-        "english": "free",
-        "tera": "not"
-    },
-    {
-        "english": "fabric",
-        "tera": "ion"
-    },
-    {
-        "english": "seize",
-        "tera": "iamar"
-    },
-    {
-        "english": "comfort",
-        "tera": "keti"
-    },
-    {
-        "english": "above",
-        "tera": "eti"
-    },
-    {
-        "english": "farmer",
-        "tera": "ngau"
-    },
-    {
-        "english": "light",
-        "tera": "gmen"
-    },
-    {
-        "english": "praise",
-        "tera": "tedre"
-    },
-    {
-        "english": "adolescent",
-        "tera": "alityn"
-    },
-    {
-        "english": "sales",
-        "tera": "arrat"
-    },
-    {
-        "english": "qualify",
-        "tera": "ive"
-    },
-    {
-        "english": "wealthy",
-        "tera": "spra"
-    },
-    {
-        "english": "stove",
-        "tera": "wlno"
-    },
-    {
-        "english": "toss",
-        "tera": "nhyp"
-    },
-    {
-        "english": "baby",
-        "tera": "enb"
-    },
-    {
-        "english": "tennis",
-        "tera": "rea"
-    },
-    {
-        "english": "lay",
-        "tera": "ki"
-    },
-    {
-        "english": "language",
-        "tera": "engalemi"
-    },
-    {
-        "english": "worth",
-        "tera": "spa"
-    },
-    {
-        "english": "strike",
-        "tera": "ceco"
-    },
-    {
-        "english": "post",
-        "tera": "mpu"
-    },
-    {
-        "english": "rescue",
-        "tera": "ter"
-    },
-    {
-        "english": "segment",
-        "tera": "toky"
-    },
-    {
-        "english": "cord",
-        "tera": "oen"
-    },
-    {
-        "english": "deep",
-        "tera": "gun"
-    },
-    {
-        "english": "indeed",
-        "tera": "edro"
-    },
-    {
-        "english": "show",
-        "tera": "nesin"
-    },
-    {
-        "english": "useful",
-        "tera": "gula"
-    },
-    {
-        "english": "ball",
-        "tera": "rity"
-    },
-    {
-        "english": "silly",
-        "tera": "ota"
-    },
-    {
-        "english": "bishop",
-        "tera": "kuh"
-    },
-    {
-        "english": "hear",
-        "tera": "yphen"
-    },
-    {
-        "english": "shed",
-        "tera": "ware"
-    },
-    {
-        "english": "several",
-        "tera": "franc"
-    },
-    {
-        "english": "absolute",
-        "tera": "hiseur"
-    },
-    {
-        "english": "straight",
-        "tera": "banpis"
-    },
-    {
-        "english": "spot",
-        "tera": "tolin"
-    },
-    {
-        "english": "shame",
-        "tera": "toas"
-    },
-    {
-        "english": "doorway",
-        "tera": "sass"
-    },
-    {
-        "english": "rose",
-        "tera": "incon"
-    },
-    {
-        "english": "mild",
-        "tera": "stru"
-    },
-    {
-        "english": "happy",
-        "tera": "obsa"
-    },
-    {
-        "english": "scare",
-        "tera": "ctor"
-    },
-    {
-        "english": "deeply",
-        "tera": "derhy"
-    },
-    {
-        "english": "gain",
-        "tera": "phen"
-    },
-    {
-        "english": "duty",
-        "tera": "flow"
-    },
-    {
-        "english": "liquid",
-        "tera": "mar"
-    },
-    {
-        "english": "option",
-        "tera": "ketin"
-    },
-    {
-        "english": "species",
-        "tera": "gapo"
-    },
-    {
-        "english": "join",
-        "tera": "pheni"
-    },
-    {
-        "english": "light",
-        "tera": "agar"
-    },
-    {
-        "english": "poem",
-        "tera": "age"
-    },
-    {
-        "english": "land",
-        "tera": "ada"
-    },
-    {
-        "english": "believe",
-        "tera": "came"
-    },
-    {
-        "english": "spirit",
-        "tera": "care"
-    },
-    {
-        "english": "mind",
-        "tera": "carest"
-    },
-    {
-        "english": "care",
-        "tera": "cor"
-    },
-    {
-        "english": "care",
-        "tera": "core"
-    },
-    {
-        "english": "person",
-        "tera": "des"
-    },
-    {
-        "english": "of",
-        "tera": "e"
-    },
-    {
-        "english": "love",
-        "tera": "ea"
-    },
-    {
-        "english": "friend",
-        "tera": "ech"
-    },
-    {
-        "english": "like",
-        "tera": "echo"
-    },
-    {
-        "english": "knowledge",
-        "tera": "el"
-    },
-    {
-        "english": "know",
-        "tera": "ele"
-    },
-    {
-        "english": "think",
-        "tera": "eme"
-    },
-    {
-        "english": "near",
-        "tera": "en"
-    },
-    {
-        "english": "educate",
-        "tera": "ereme"
-    },
-    {
-        "english": "light",
-        "tera": "est"
-    },
-    {
-        "english": "cloud",
-        "tera": "fos"
-    },
-    {
-        "english": "hide",
-        "tera": "fose"
-    },
-    {
-        "english": "weapon",
-        "tera": "ga"
-    },
-    {
-        "english": "armor",
-        "tera": "garan"
-    },
-    {
-        "english": "protect",
-        "tera": "geme"
-    },
-    {
-        "english": "play",
-        "tera": "go"
-    },
-    {
-        "english": "play",
-        "tera": "gon"
-    },
-    {
-        "english": "movement",
-        "tera": "gane"
-    },
-    {
-        "english": "move",
-        "tera": "gun"
-    },
-    {
-        "english": "flow",
-        "tera": "gus"
-    },
-    {
-        "english": "wind",
-        "tera": "ghos"
-    },
-    {
-        "english": "anger",
-        "tera": "hal"
-    },
-    {
-        "english": "anger",
-        "tera": "hala"
-    },
-    {
-        "english": "delight",
-        "tera": "har"
-    },
-    {
-        "english": "delight",
-        "tera": "hara"
-    },
-    {
-        "english": "entertain",
-        "tera": "here"
-    },
-    {
-        "english": "above",
-        "tera": "hu"
-    },
-    {
-        "english": "death",
-        "tera": "jal"
-    },
-    {
-        "english": "kill",
-        "tera": "jale"
-    },
-    {
-        "english": "position",
-        "tera": "jam"
-    },
-    {
-        "english": "ridge",
-        "tera": "jan"
-    },
-    {
-        "english": "be",
-        "tera": "la"
-    },
-    {
-        "english": "life",
-        "tera": "la"
-    },
-    {
-        "english": "animal",
-        "tera": "lal"
-    },
-    {
-        "english": "cow",
-        "tera": "lam"
-    },
-    {
-        "english": "away",
-        "tera": "lan"
-    },
-    {
-        "english": "eat",
-        "tera": "ma"
-    },
-    {
-        "english": "food",
-        "tera": "mal"
-    },
-    {
-        "english": "slaughter",
-        "tera": "mala"
-    },
-    {
-        "english": "harvest",
-        "tera": "malam"
-    },
-    {
-        "english": "eat",
-        "tera": "mane"
-    },
-    {
-        "english": "food",
-        "tera": "man"
-    },
-    {
-        "english": "reap",
-        "tera": "mla"
-    },
-    {
-        "english": "pretty",
-        "tera": "nala"
-    },
-    {
-        "english": "beautiful",
-        "tera": "aylora"
-    },
-    {
-        "english": "woman",
-        "tera": "nara"
-    },
-    {
-        "english": "antagonize",
-        "tera": "ole"
-    },
-    {
-        "english": "enemy",
-        "tera": "ola"
-    },
-    {
-        "english": "defend",
-        "tera": "rel"
-    },
-    {
-        "english": "fight",
-        "tera": "rege"
-    },
-    {
-        "english": "risk",
-        "tera": "rem"
-    },
-    {
-        "english": "advance",
-        "tera": "ren"
-    },
-    {
-        "english": "into",
-        "tera": "st"
-    },
-    {
-        "english": "music",
-        "tera": "star"
-    },
-    {
-        "english": "speak",
-        "tera": "stare"
-    },
-    {
-        "english": "sing",
-        "tera": "sto"
-    },
-    {
-        "english": "song",
-        "tera": "stom"
-    },
-    {
-        "english": "speak",
-        "tera": "stone"
-    },
-    {
-        "english": "of",
-        "tera": "ta"
-    },
-    {
-        "english": "within",
-        "tera": "tam"
-    },
-    {
-        "english": "without",
-        "tera": "tan"
-    },
-    {
-        "english": "employee",
-        "tera": "thal"
-    },
-    {
-        "english": "serve",
-        "tera": "there"
-    },
-    {
-        "english": "act",
-        "tera": "the"
-    },
-    {
-        "english": "servant",
-        "tera": "thel"
-    },
-    {
-        "english": "army",
-        "tera": "them"
-    },
-    {
-        "english": "subject",
-        "tera": "then"
-    },
-    {
-        "english": "fief",
-        "tera": "thul"
-    },
-    {
-        "english": "help",
-        "tera": "the"
-    },
-    {
-        "english": "servant",
-        "tera": "thel"
-    },
-    {
-        "english": "gold",
-        "tera": "ora"
-    },
-    {
-        "english": "machine",
-        "tera": "styre"
-    },
-    {
-        "english": "hear",
-        "tera": "anse"
-    },
-    {
-        "english": "cave",
-        "tera": "nae"
-    },
-    {
-        "english": "dark",
-        "tera": "nara"
-    },
-    {
-        "english": "fund",
-        "tera": "col"
-    },
-    {
-        "english": "gem",
-        "tera": "calem"
-    },
-    {
-        "english": "good",
-        "tera": "mel"
-    },
-    {
-        "english": "goal",
-        "tera": "eme"
-    },
-    {
-        "english": "river",
-        "tera": "eladel"
-    },
-    {
-        "english": "stream",
-        "tera": "enede"
-    },
-    {
-        "english": "ox",
-        "tera": "lael"
-    },
-    {
-        "english": "submit",
-        "tera": "echo"
-    },
-    {
-        "english": "foundation",
-        "tera": "echere"
-    },
-    {
-        "english": "girlfriend",
-        "tera": "echere"
-    },
-    {
-        "english": "prompt",
-        "tera": "echa"
-    },
-    {
-        "english": "israeli",
-        "tera": "echae"
-    },
-    {
-        "english": "extreme",
-        "tera": "echei"
-    },
-    {
-        "english": "severely",
-        "tera": "echeia"
-    },
-    {
-        "english": "bowl",
-        "tera": "era"
-    },
-    {
-        "english": "home",
-        "tera": "eia"
-    },
-    {
-        "english": "stone",
-        "tera": "emra"
-    },
-    {
-        "english": "empire",
-        "tera": "orele"
-    },
-    {
-        "english": "inside",
-        "tera": "ro"
-    },
-    {
-        "english": "heart",
-        "tera": "rara"
-    },
-    {
-        "english": "way",
-        "tera": "rege"
-    },
-    {
-        "english": "bad",
-        "tera": "she"
-    },
-    {
-        "english": "make",
-        "tera": "ord"
-    },
-    {
-        "english": "stupid",
-        "tera": "was"
-    },
-    {
-        "english": "move",
-        "tera": "eso"
-    },
-    {
-        "english": "tree",
-        "tera": "esa"
-    },
-    {
-        "english": "rock",
-        "tera": "mas"
-    },
-    {
-        "english": "some",
-        "tera": "dele"
-    },
-    {
-        "english": "cool",
-        "tera": "ha"
-    },
-    {
-        "english": "rule",
-        "tera": "erre"
-    },
-    {
-        "english": "bear",
-        "tera": "shel"
-    },
-    {
-        "english": "pin",
-        "tera": "vi"
-    },
-    {
-        "english": "aid",
-        "tera": "po"
-    },
-    {
-        "english": "lot",
-        "tera": "di"
-    },
-    {
-        "english": "why",
-        "tera": "na"
-    },
-    {
-        "english": "out",
-        "tera": "so"
-    },
-    {
-        "english": "physics",
-        "tera": "nis"
-    },
-    {
-        "english": "hip",
-        "tera": "me"
-    },
-    {
-        "english": "as",
-        "tera": "ta"
-    },
-    {
-        "english": "project",
-        "tera": "mor"
-    },
-    {
-        "english": "living",
-        "tera": "pho"
-    },
-    {
-        "english": "pat",
-        "tera": "se"
-    },
-    {
-        "english": "all",
-        "tera": "on"
-    },
-    {
-        "english": "him",
-        "tera": "li"
-    },
-    {
-        "english": "long",
-        "tera": "ber"
-    },
-    {
-        "english": "sit",
-        "tera": "de"
-    },
-    {
-        "english": "pay",
-        "tera": "ci"
-    },
-    {
-        "english": "cap",
-        "tera": "mv"
-    },
-    {
-        "english": "pant",
-        "tera": "sin"
-    },
-    {
-        "english": "mrs",
-        "tera": "in"
-    },
-    {
-        "english": "base",
-        "tera": "per"
-    },
-    {
-        "english": "walk",
-        "tera": "men"
-    },
-    {
-        "english": "baby",
-        "tera": "sum"
-    },
-    {
-        "english": "billion",
-        "tera": "cro"
-    },
-    {
-        "english": "law",
-        "tera": "ce"
-    },
-    {
-        "english": "sad",
-        "tera": "o"
-    },
-    {
-        "english": "jaw",
-        "tera": "ve"
-    },
-    {
-        "english": "pay",
-        "tera": "la"
-    },
-    {
-        "english": "tired",
-        "tera": "tus"
-    },
-    {
-        "english": "bar",
-        "tera": "am"
-    },
-    {
-        "english": "fly",
-        "tera": "ic"
-    },
-    {
-        "english": "ash",
-        "tera": "tu"
-    },
-    {
-        "english": "his",
-        "tera": "a"
-    },
-    {
-        "english": "try",
-        "tera": "e"
-    },
-    {
-        "english": "promise",
-        "tera": "the"
-    },
-    {
-        "english": "sky",
-        "tera": "ra"
-    },
-    {
-        "english": "entity",
-        "tera": "gre"
-    },
-    {
-        "english": "camp",
-        "tera": "tur"
-    },
-    {
-        "english": "mud",
-        "tera": "co"
-    },
-    {
-        "english": "salary",
-        "tera": "num"
-    },
-    {
-        "english": "this",
-        "tera": "que"
-    },
-    {
-        "english": "one",
-        "tera": "hy"
-    },
-    {
-        "english": "history",
-        "tera": "nae"
-    },
-    {
-        "english": "fur",
-        "tera": "us"
-    },
-    {
-        "english": "due",
-        "tera": "ad"
-    },
-    {
-        "english": "front",
-        "tera": "ras"
-    },
-    {
-        "english": "dead",
-        "tera": "ten"
-    },
-    {
-        "english": "arena",
-        "tera": "dit"
-    },
-    {
-        "english": "oh",
-        "tera": "et"
-    },
-    {
-        "english": "rub",
-        "tera": "or"
-    },
-    {
-        "english": "meter",
-        "tera": "phe"
-    },
-    {
-        "english": "fun",
-        "tera": "ne"
-    },
-    {
-        "english": "rife",
-        "tera": "qui"
-    },
-    {
-        "english": "belt",
-        "tera": "quam"
-    },
-    {
-        "english": "fat",
-        "tera": "vo"
-    },
-    {
-        "english": "fix",
-        "tera": "ca"
-    },
-    {
-        "english": "end",
-        "tera": "fu"
-    },
-    {
-        "english": "for",
-        "tera": "it"
-    },
-    {
-        "english": "cow",
-        "tera": "il"
-    },
-    {
-        "english": "dad",
-        "tera": "le"
-    },
-    {
-        "english": "hint",
-        "tera": "dem"
-    },
-    {
-        "english": "scope",
-        "tera": "sed"
-    },
-    {
-        "english": "room",
-        "tera": "nec"
-    },
-    {
-        "english": "banking",
-        "tera": "sol"
-    },
-    {
-        "english": "shade",
-        "tera": "lem"
-    },
-    {
-        "english": "be",
-        "tera": "ni"
-    },
-    {
-        "english": "cousin",
-        "tera": "ver"
-    },
-    {
-        "english": "he",
-        "tera": "ba"
-    },
-    {
-        "english": "protest",
-        "tera": "lae"
-    },
-    {
-        "english": "powder",
-        "tera": "tos"
-    },
-    {
-        "english": "widow",
-        "tera": "vul"
-    },
-    {
-        "english": "cut",
-        "tera": "fe"
-    },
-    {
-        "english": "aspect",
-        "tera": "lix"
-    },
-    {
-        "english": "lap",
-        "tera": "at"
-    },
-    {
-        "english": "eleven",
-        "tera": "lit"
-    },
-    {
-        "english": "inside",
-        "tera": "fax"
-    },
-    {
-        "english": "twenty",
-        "tera": "quo"
-    },
-    {
-        "english": "essence",
-        "tera": "te"
-    },
-    {
-        "english": "spot",
-        "tera": "nuit"
-    },
-    {
-        "english": "paper",
-        "tera": "cri"
-    },
-    {
-        "english": "sky",
-        "tera": "mo"
-    },
-    {
-        "english": "grasp",
-        "tera": "stri"
-    },
-    {
-        "english": "now",
-        "tera": "du"
-    },
-    {
-        "english": "phrase",
-        "tera": "nul"
-    },
-    {
-        "english": "normal",
-        "tera": "los"
-    },
-    {
-        "english": "back",
-        "tera": "nit"
-    },
-    {
-        "english": "lay",
-        "tera": "ti"
-    },
-    {
-        "english": "western",
-        "tera": "bus"
-    },
-    {
-        "english": "can",
-        "tera": "ig"
-    },
-    {
-        "english": "lane",
-        "tera": "nes"
-    },
-    {
-        "english": "mix",
-        "tera": "ex"
-    },
-    {
-        "english": "fix",
-        "tera": "i"
-    },
-    {
-        "english": "grow",
-        "tera": "aus"
-    },
-    {
-        "english": "how",
-        "tera": "pi"
-    },
-    {
-        "english": "write",
-        "tera": "gra"
-    },
-    {
-        "english": "space",
-        "tera": "nam"
-    },
-    {
-        "english": "star",
-        "tera": "nup"
-    },
-    {
-        "english": "predict",
-        "tera": "her"
-    },
-    {
-        "english": "chop",
-        "tera": "bas"
-    },
-    {
-        "english": "refer",
-        "tera": "dum"
-    },
-    {
-        "english": "our",
-        "tera": "no"
-    },
-    {
-        "english": "we",
-        "tera": "va"
-    },
-    {
-        "english": "aid",
-        "tera": "ia"
-    },
-    {
-        "english": "tv",
-        "tera": "mi"
-    },
-    {
-        "english": "use",
-        "tera": "ga"
-    },
-    {
-        "english": "owe",
-        "tera": "oc"
-    },
-    {
-        "english": "without",
-        "tera": "lum"
-    },
-    {
-        "english": "bombing",
-        "tera": "ser"
-    },
-    {
-        "english": "dock",
-        "tera": "pen"
-    },
-    {
-        "english": "mutter",
-        "tera": "tis"
-    },
-    {
-        "english": "bell",
-        "tera": "den"
-    },
-    {
-        "english": "she",
-        "tera": "re"
-    },
-    {
-        "english": "barn",
-        "tera": "cep"
-    },
-    {
-        "english": "ten",
-        "tera": "to"
-    },
-    {
-        "english": "fly",
-        "tera": "sa"
-    },
-    {
-        "english": "guard",
-        "tera": "su"
-    },
-    {
-        "english": "go",
-        "tera": "pe"
-    },
-    {
-        "english": "laser",
-        "tera": "post"
-    },
-    {
-        "english": "town",
-        "tera": "rho"
-    },
-    {
-        "english": "why",
-        "tera": "do"
-    },
-    {
-        "english": "supervisor",
-        "tera": "ius"
-    },
-    {
-        "english": "run",
-        "tera": "au"
-    },
-    {
-        "english": "timber",
-        "tera": "def"
-    },
-    {
-        "english": "begin",
-        "tera": "vit"
-    },
-    {
-        "english": "string",
-        "tera": "tes"
-    },
-    {
-        "english": "meeting",
-        "tera": "non"
-    },
-    {
-        "english": "scandal",
-        "tera": "tem"
-    },
-    {
-        "english": "manage",
-        "tera": "ret"
-    },
-    {
-        "english": "all",
-        "tera": "um"
-    },
-    {
-        "english": "large",
-        "tera": "bras"
-    },
-    {
-        "english": "roof",
-        "tera": "sty"
-    },
-    {
-        "english": "husband",
-        "tera": "tae"
-    },
-    {
-        "english": "pie",
-        "tera": "ri"
-    },
-    {
-        "english": "consist",
-        "tera": "est"
-    },
-    {
-        "english": "booth",
-        "tera": "sus"
-    },
-    {
-        "english": "clip",
-        "tera": "scen"
-    },
-    {
-        "english": "pile",
-        "tera": "por"
-    },
-    {
-        "english": "crime",
-        "tera": "ves"
-    },
-    {
-        "english": "favor",
-        "tera": "pop"
-    },
-    {
-        "english": "ad",
-        "tera": "u"
-    },
-    {
-        "english": "clay",
-        "tera": "sim"
-    },
-    {
-        "english": "charge",
-        "tera": "cra"
-    },
-    {
-        "english": "picture",
-        "tera": "func"
-    },
-    {
-        "english": "concert",
-        "tera": "pul"
-    },
-    {
-        "english": "crisis",
-        "tera": "nen"
-    },
-    {
-        "english": "public",
-        "tera": "iit"
-    },
-    {
-        "english": "nurse",
-        "tera": "moe"
-    },
-    {
-        "english": "force",
-        "tera": "reg"
-    },
-    {
-        "english": "soccer",
-        "tera": "bra"
-    },
-    {
-        "english": "kill",
-        "tera": "rum"
-    },
-    {
-        "english": "camera",
-        "tera": "sis"
-    },
-    {
-        "english": "toward",
-        "tera": "car"
-    },
-    {
-        "english": "wheel",
-        "tera": "ner"
-    },
-    {
-        "english": "another",
-        "tera": "vis"
-    },
-    {
-        "english": "arrest",
-        "tera": "sic"
-    },
-    {
-        "english": "pile",
-        "tera": "ait"
-    },
-    {
-        "english": "ego",
-        "tera": "si"
-    },
-    {
-        "english": "home",
-        "tera": "sub"
-    },
-    {
-        "english": "country1",
-        "tera": "ter"
-    },
-    {
-        "english": "sun",
-        "tera": "nu"
-    },
-    {
-        "english": "round",
-        "tera": "mun"
-    },
-    {
-        "english": "more",
-        "tera": "quem"
-    },
-    {
-        "english": "switch",
-        "tera": "rec"
-    },
-    {
-        "english": "reserve",
-        "tera": "mus"
-    },
-    {
-        "english": "restore",
-        "tera": "cquid"
-    },
-    {
-        "english": "statute",
-        "tera": "cre"
-    },
-    {
-        "english": "leader",
-        "tera": "mur"
-    },
-    {
-        "english": "rich",
-        "tera": "cet"
-    },
-    {
-        "english": "killing",
-        "tera": "fal"
-    },
-    {
-        "english": "due",
-        "tera": "gi"
-    },
-    {
-        "english": "give",
-        "tera": "ris"
-    },
-    {
-        "english": "fly",
-        "tera": "lo"
-    },
-    {
-        "english": "waste",
-        "tera": "huc"
-    },
-    {
-        "english": "map",
-        "tera": "ut"
-    },
-    {
-        "english": "but",
-        "tera": "pa"
-    },
-    {
-        "english": "plan",
-        "tera": "rem"
-    },
-    {
-        "english": "haul",
-        "tera": "tar"
-    },
-    {
-        "english": "seize",
-        "tera": "vil"
-    },
-    {
-        "english": "aid",
-        "tera": "lu"
-    },
-    {
-        "english": "blood",
-        "tera": "bris"
-    },
-    {
-        "english": "extreme",
-        "tera": "sae"
-    },
-    {
-        "english": "down",
-        "tera": "vin"
-    },
-    {
-        "english": "rabbit",
-        "tera": "gut"
-    },
-    {
-        "english": "bottom",
-        "tera": "mon"
-    },
-    {
-        "english": "riot",
-        "tera": "cau"
-    },
-    {
-        "english": "kid",
-        "tera": "ae"
-    },
-    {
-        "english": "premise",
-        "tera": "unx"
-    },
-    {
-        "english": "body",
-        "tera": "cal"
-    },
-    {
-        "english": "coming",
-        "tera": "dif"
-    },
-    {
-        "english": "glad",
-        "tera": "cres"
-    },
-    {
-        "english": "instead",
-        "tera": "cen"
-    },
-    {
-        "english": "car",
-        "tera": "ab"
-    },
-    {
-        "english": "nominee",
-        "tera": "stu"
-    },
-    {
-        "english": "ash",
-        "tera": "an"
-    },
-    {
-        "english": "secular",
-        "tera": "nos"
-    },
-    {
-        "english": "dump",
-        "tera": "pos"
-    },
-    {
-        "english": "church",
-        "tera": "tas"
-    },
-    {
-        "english": "end",
-        "tera": "bo"
-    },
-    {
-        "english": "balance",
-        "tera": "cit"
-    },
-    {
-        "english": "lose",
-        "tera": "hic"
-    },
-    {
-        "english": "vision",
-        "tera": "be"
-    },
-    {
-        "english": "state",
-        "tera": "sit"
-    },
-    {
-        "english": "bit",
-        "tera": "bi"
-    },
-    {
-        "english": "bad",
-        "tera": "gu"
-    },
-    {
-        "english": "involve",
-        "tera": "ror"
-    },
-    {
-        "english": "due",
-        "tera": "es"
-    },
-    {
-        "english": "map",
-        "tera": "fa"
-    },
-    {
-        "english": "set",
-        "tera": "ma"
-    },
-    {
-        "english": "letter",
-        "tera": "vos"
-    },
-    {
-        "english": "through",
-        "tera": "iun"
-    },
-    {
-        "english": "pump",
-        "tera": "xit"
-    },
-    {
-        "english": "opt",
-        "tera": "go"
-    },
-    {
-        "english": "tail",
-        "tera": "haec"
-    },
-    {
-        "english": "cuban",
-        "tera": "ple"
-    },
-    {
-        "english": "near",
-        "tera": "cha"
-    },
-    {
-        "english": "pan",
-        "tera": "os"
-    },
-    {
-        "english": "park",
-        "tera": "hoc"
-    },
-    {
-        "english": "mention",
-        "tera": "gens"
-    },
-    {
-        "english": "salt",
-        "tera": "vas"
-    },
-    {
-        "english": "warm",
-        "tera": "len"
-    },
-    {
-        "english": "few",
-        "tera": "eu"
-    },
-    {
-        "english": "fit",
-        "tera": "ry"
-    },
-    {
-        "english": "afraid",
-        "tera": "ces"
-    },
-    {
-        "english": "so",
-        "tera": "ro"
-    },
-    {
-        "english": "hand",
-        "tera": "pro"
-    },
-    {
-        "english": "paper",
-        "tera": "tex"
-    },
-    {
-        "english": "nuclear",
-        "tera": "ite"
-    },
-    {
-        "english": "tip",
-        "tera": "om"
-    },
-    {
-        "english": "goal",
-        "tera": "bis"
-    },
-    {
-        "english": "basket",
-        "tera": "pau"
-    },
-    {
-        "english": "learning",
-        "tera": "aut"
-    },
-    {
-        "english": "do",
-        "tera": "em"
-    },
-    {
-        "english": "do",
-        "tera": "ul"
-    },
-    {
-        "english": "may",
-        "tera": "hu"
-    },
-    {
-        "english": "pm",
-        "tera": "ge"
-    },
-    {
-        "english": "from",
-        "tera": "lon"
-    },
-    {
-        "english": "high",
-        "tera": "gis"
-    },
-    {
-        "english": "oral",
-        "tera": "cum"
-    },
-    {
-        "english": "since",
-        "tera": "rit"
-    },
-    {
-        "english": "war",
-        "tera": "iu"
-    },
-    {
-        "english": "so",
-        "tera": "er"
-    },
-    {
-        "english": "fellow",
-        "tera": "tri"
-    },
-    {
-        "english": "old",
-        "tera": "mu"
-    },
-    {
-        "english": "spread",
-        "tera": "quod"
-    },
-    {
-        "english": "pretty",
-        "tera": "gant"
-    },
-    {
-        "english": "ge",
-        "tera": "u"
-    },
-    {
-        "english": "ate",
-        "tera": "uwen"
-    },
-    {
-        "english": "honorable",
-        "tera": "cer"
-    },
-    {
-        "english": "salary",
-        "tera": "cery"
-    },
-    {
-        "english": "mask",
-        "tera": "tum"
-    },
-    {
-        "english": "urban",
-        "tera": "nol"
-    },
-    {
-        "english": "cry",
-        "tera": "hi"
-    },
-    {
-        "english": "vote",
-        "tera": "gau"
-    },
-    {
-        "english": "ore",
-        "tera": "due"
-    },
-    {
-        "english": "a",
-        "tera": "li"
-    },
-    {
-        "english": "cen",
-        "tera": "di"
-    },
-    {
-        "english": "vosque",
-        "tera": "ner"
-    },
-    {
-        "english": "ba",
-        "tera": "ver"
-    },
-    {
-        "english": "ven",
-        "tera": "mo"
-    },
-    {
-        "english": "san",
-        "tera": "ex"
-    },
-    {
-        "english": "bant",
-        "tera": "fle"
-    },
-    {
-        "english": "",
-        "tera": "an"
-    },
-    {
-        "english": "",
-        "tera": "imae"
-    },
-    {
-        "english": "dun",
-        "tera": "tan"
-    },
-    {
-        "english": "there",
-        "tera": "ta"
-    },
-    {
-        "english": "capture",
-        "tera": "undam"
-    },
-    {
-        "english": "card",
-        "tera": "refu"
-    },
-    {
-        "english": "stup",
-        "tera": "stup"
-    },
-    {
-        "english": "his",
-        "tera": "ix"
-    },
-    {
-        "english": "ix",
-        "tera": "ioni"
-    },
-    {
-        "english": "mare",
-        "tera": "ioni"
-    },
-    {
-        "english": "orbit",
-        "tera": "orb"
-    },
-    {
-        "english": "mount",
-        "tera": "car"
-    },
-    {
-        "english": "summit",
-        "tera": "carpes"
-    },
-    {
-        "english": "climb",
-        "tera": "carpesere"
-    },
-    {
-        "english": "ur",
-        "tera": "iec"
-    },
-    {
-        "english": "cres",
-        "tera": "volu"
-    },
-    {
-        "english": "as",
-        "tera": "urn"
-    },
-    {
-        "english": "is",
-        "tera": "un"
-    },
-    {
-        "english": "run",
-        "tera": "vac"
-    },
-    {
-        "english": "ides",
-        "tera": "bel"
-    },
-    {
-        "english": "ue",
-        "tera": "inq"
-    },
-    {
-        "english": "tuo",
-        "tera": "tuo"
-    },
-    {
-        "english": "ist",
-        "tera": "sed"
-    },
-    {
-        "english": "foal",
-        "tera": "isti"
-    },
-    {
-        "english": "ph",
-        "tera": "sisy"
-    },
-    {
-        "english": "owe",
-        "tera": "sax"
-    },
-    {
-        "english": "pri",
-        "tera": "tunc"
-    },
-    {
-        "english": "victa",
-        "tera": "mum"
-    },
-    {
-        "english": "instrument",
-        "tera": "carem"
-    },
-    {
-        "english": "brilliant",
-        "tera": "carmina"
-    },
-    {
-        "english": "steel",
-        "tera": "mina"
-    },
-    {
-        "english": "eu",
-        "tera": "fama"
-    },
-    {
-        "english": "fame",
-        "tera": "eur"
-    },
-    {
-        "english": "gens",
-        "tera": "mad"
-    },
-    {
-        "english": "r",
-        "tera": "regegia"
-    },
-    {
-        "english": "belittle",
-        "tera": "egeriga"
-    },
-    {
-        "english": "sus",
-        "tera": "con"
-    },
-    {
-        "english": "su",
-        "tera": "sust"
-    },
-    {
-        "english": "regit",
-        "tera": "orant"
-    },
-    {
-        "english": "ima",
-        "tera": "ima"
-    },
-    {
-        "english": "negare",
-        "tera": "nega"
-    },
-    {
-        "english": "idi",
-        "tera": "eur"
-    },
-    {
-        "english": "vocant",
-        "tera": "vocant"
-    },
-    {
-        "english": "ras",
-        "tera": "umb"
-    },
-    {
-        "english": "erat",
-        "tera": "erat"
-    },
-    {
-        "english": "among",
-        "tera": "recen"
-    },
-    {
-        "english": "between",
-        "tera": "inet"
-    },
-    {
-        "english": "sit",
-        "tera": "inces"
-    },
-    {
-        "english": "soup",
-        "tera": "pas"
-    },
-    {
-        "english": "nere",
-        "tera": "vul"
-    },
-    {
-        "english": "stallion",
-        "tera": "taredo"
-    },
-    {
-        "english": "plan",
-        "tera": "hanc"
-    },
-    {
-        "english": "illusion",
-        "tera": "siamel"
-    },
-    {
-        "english": "target",
-        "tera": "legem"
-    },
-    {
-        "english": "coat",
-        "tera": "rhodo"
-    },
-    {
-        "english": "hauberk",
-        "tera": "peius"
-    },
-    {
-        "english": "it",
-        "tera": "ci"
-    },
-    {
-        "english": "silence",
-        "tera": "accip"
-    },
-    {
-        "english": "chariot",
-        "tera": "heros"
-    },
-    {
-        "english": "tat",
-        "tera": "flec"
-    },
-    {
-        "english": "century",
-        "tera": "reter"
-    },
-    {
-        "english": "sua",
-        "tera": "sua"
-    },
-    {
-        "english": "lumina",
-        "tera": "lumina"
-    },
-    {
-        "english": "donec",
-        "tera": "donec"
-    },
-    {
-        "english": "as",
-        "tera": "avern"
-    },
-    {
-        "english": "exit",
-        "tera": "exit"
-    },
-    {
-        "english": "valles",
-        "tera": "valles"
-    },
-    {
-        "english": "inrita",
-        "tera": "inrita"
-    },
-    {
-        "english": "dona",
-        "tera": "dona"
-    },
-    {
-        "english": "futura",
-        "tera": "futura"
-    },
-    {
-        "english": "tur",
-        "tera": "carpi"
-    },
-    {
-        "english": "vis",
-        "tera": "adcli"
-    },
-    {
-        "english": "muta",
-        "tera": "muta"
-    },
-    {
-        "english": "conceal",
-        "tera": "silen"
-    },
-    {
-        "english": "currency",
-        "tera": "trames"
-    },
-    {
-        "english": "boot",
-        "tera": "arduus"
-    },
-    {
-        "english": "obsucor",
-        "tera": "obsucor"
-    },
-    {
-        "english": "obscure",
-        "tera": "caligine"
-    },
-    {
-        "english": "densus",
-        "tera": "densus"
-    },
-    {
-        "english": "rank",
-        "tera": "opaca"
-    },
-    {
-        "english": "touch",
-        "tera": "ac"
-    },
-    {
-        "english": "asset",
-        "tera": "procul"
-    },
-    {
-        "english": "afuerunt",
-        "tera": "afuerunt"
-    },
-    {
-        "english": "enough",
-        "tera": "tellus"
-    },
-    {
-        "english": "range",
-        "tera": "margine"
-    },
-    {
-        "english": "cycle",
-        "tera": "summae"
-    },
-    {
-        "english": "inheritance",
-        "tera": "deficeret"
-    },
-    {
-        "english": "inherit",
-        "tera": "deficer"
-    },
-    {
-        "english": "seer",
-        "tera": "metuens"
-    },
-    {
-        "english": "avidusque",
-        "tera": "avidusque"
-    },
-    {
-        "english": "videndi",
-        "tera": "videndi"
-    },
-    {
-        "english": "",
-        "tera": "flexit"
-    },
-    {
-        "english": "amans",
-        "tera": "amans"
-    },
-    {
-        "english": "ram",
-        "tera": "oculos"
-    },
-    {
-        "english": "officer",
-        "tera": "protinus"
-    },
-    {
-        "english": "inquiry",
-        "tera": "relaspa"
-    },
-    {
-        "english": "bracciaque",
-        "tera": "bracciaque"
-    },
-    {
-        "english": "intendens",
-        "tera": "intendens"
-    },
-    {
-        "english": "prendique",
-        "tera": "prendique"
-    },
-    {
-        "english": "prendere",
-        "tera": "prendere"
-    },
-    {
-        "english": "certans",
-        "tera": "certans"
-    },
-    {
-        "english": "would",
-        "tera": "nil"
-    },
-    {
-        "english": "brash",
-        "tera": "nisi"
-    },
-    {
-        "english": "cendentes",
-        "tera": "cendentes"
-    },
-    {
-        "english": "fox",
-        "tera": "infe"
-    },
-    {
-        "english": "hound",
-        "tera": "elix"
-    },
-    {
-        "english": "hall",
-        "tera": "arripet"
-    },
-    {
-        "english": "crown",
-        "tera": "auras"
-    },
-    {
-        "english": "iamque",
-        "tera": "iamque"
-    },
-    {
-        "english": "iterum",
-        "tera": "iterum"
-    },
-    {
-        "english": "moriens",
-        "tera": "moriens"
-    },
-    {
-        "english": "coniuge",
-        "tera": "coniuge"
-    },
-    {
-        "english": "quicquam",
-        "tera": "quicquam"
-    },
-    {
-        "english": "questa",
-        "tera": "questa"
-    },
-    {
-        "english": "amitam",
-        "tera": "amitam"
-    },
-    {
-        "english": "supremumque",
-        "tera": "supremumque"
-    },
-    {
-        "english": "vale",
-        "tera": "rael"
-    },
-    {
-        "english": "iam",
-        "tera": "an"
-    },
-    {
-        "english": "curse",
-        "tera": "vix"
-    },
-    {
-        "english": "templar",
-        "tera": "auribus"
-    },
-    {
-        "english": "shut",
-        "tera": "ille"
-    },
-    {
-        "english": "acciperet",
-        "tera": "acciperet"
-    },
-    {
-        "english": "dixit",
-        "tera": "dixit"
-    },
-    {
-        "english": "revolutaque",
-        "tera": "revolutaque"
-    },
-    {
-        "english": "turnip",
-        "tera": "rursus"
-    },
-    {
-        "english": "decision",
-        "tera": "eodem"
-    },
-    {
-        "english": "boring",
-        "tera": "nal"
-    },
-    {
-        "english": "sick",
-        "tera": "stup"
-    },
-    {
-        "english": "toy",
-        "tera": "ui"
-    },
-    {
-        "english": "crisis",
-        "tera": "tge"
-    },
-    {
-        "english": "skin",
-        "tera": "min"
-    },
-    {
-        "english": "atop",
-        "tera": "ane"
-    },
-    {
-        "english": "recent",
-        "tera": "ccon"
-    },
-    {
-        "english": "signal",
-        "tera": "orph"
-    },
-    {
-        "english": "patient",
-        "tera": "eus"
-    },
-    {
-        "english": "highway",
-        "tera": "aquiwere"
-    },
-    {
-        "english": "logic",
-        "tera": "timid"
-    },
-    {
-        "english": "crop",
-        "tera": "medi"
-    },
-    {
-        "english": "old",
-        "tera": "op"
-    },
-    {
-        "english": "aside",
-        "tera": "oran"
-    },
-    {
-        "english": "intent",
-        "tera": "tec"
-    },
-    {
-        "english": "marry",
-        "tera": "ate"
-    },
-    {
-        "english": "consider",
-        "tera": "nascol"
-    },
-    {
-        "english": "into",
-        "tera": "lacan"
-    },
-    {
-        "english": "grief",
-        "tera": "isv"
-    },
-    {
-        "english": "faith",
-        "tera": "idi"
-    },
-    {
-        "english": "landing",
-        "tera": "tqu"
-    },
-    {
-        "english": "plain",
-        "tera": "empav"
-    },
-    {
-        "english": "sail",
-        "tera": "orno"
-    },
-    {
-        "english": "astronomer",
-        "tera": "nanteriw"
-    },
-    {
-        "english": "may",
-        "tera": "el"
-    },
-    {
-        "english": "middle",
-        "tera": "iquit"
-    },
-    {
-        "english": "proper",
-        "tera": "nat"
-    },
-    {
-        "english": "aware",
-        "tera": "ura"
-    },
-    {
-        "english": "stock",
-        "tera": "pri"
-    },
-    {
-        "english": "launch",
-        "tera": "orsax"
-    },
-    {
-        "english": "endorse",
-        "tera": "ope"
-    },
-    {
-        "english": "bow",
-        "tera": "robor"
-    },
-    {
-        "english": "degree",
-        "tera": "tocor"
-    },
-    {
-        "english": "how",
-        "tera": "pu"
-    },
-    {
-        "english": "stove",
-        "tera": "ainse"
-    },
-    {
-        "english": "towards",
-        "tera": "crim"
-    },
-    {
-        "english": "lately",
-        "tera": "entra"
-    },
-    {
-        "english": "incredible",
-        "tera": "xitvol"
-    },
-    {
-        "english": "critical",
-        "tera": "tquevi"
-    },
-    {
-        "english": "just",
-        "tera": "deri"
-    },
-    {
-        "english": "regular",
-        "tera": "olen"
-    },
-    {
-        "english": "step",
-        "tera": "ese"
-    },
-    {
-        "english": "crack",
-        "tera": "nocen"
-    },
-    {
-        "english": "colleague",
-        "tera": "stuque"
-    },
-    {
-        "english": "student",
-        "tera": "ocon"
-    },
-    {
-        "english": "over",
-        "tera": "fisaf"
-    },
-    {
-        "english": "dirty",
-        "tera": "igur"
-    },
-    {
-        "english": "pair",
-        "tera": "ainf"
-    },
-    {
-        "english": "afford",
-        "tera": "eli"
-    },
-    {
-        "english": "illegal",
-        "tera": "xleth"
-    },
-    {
-        "english": "surface",
-        "tera": "aet"
-    },
-    {
-        "english": "advanced",
-        "tera": "uaiunct"
-    },
-    {
-        "english": "smell",
-        "tera": "issim"
-    },
-    {
-        "english": "extreme",
-        "tera": "aquon"
-    },
-    {
-        "english": "excessive",
-        "tera": "dampec"
-    },
-    {
-        "english": "partner",
-        "tera": "toran"
-    },
-    {
-        "english": "taxpayer",
-        "tera": "unclap"
-    },
-    {
-        "english": "challenge",
-        "tera": "idesqu"
-    },
-    {
-        "english": "banker",
-        "tera": "osum"
-    },
-    {
-        "english": "distant",
-        "tera": "idas"
-    },
-    {
-        "english": "religion",
-        "tera": "ustinetisellis"
-    },
-    {
-        "english": "cleric",
-        "tera": "ustinet"
-    },
-    {
-        "english": "finally",
-        "tera": "ideor"
-    },
-    {
-        "english": "cancer",
-        "tera": "antemixis"
-    },
-    {
-        "english": "original",
-        "tera": "frustra"
-    },
-    {
-        "english": "potato",
-        "tera": "queit"
-    },
-    {
-        "english": "solid",
-        "tera": "erum"
-    },
-    {
-        "english": "exposure",
-        "tera": "transir"
-    },
-    {
-        "english": "winter",
-        "tera": "evol"
-    },
-    {
-        "english": "proposal",
-        "tera": "entemport"
-    },
-    {
-        "english": "recipient",
-        "tera": "itorar"
-    },
-    {
-        "english": "own",
-        "tera": "cu"
-    },
-    {
-        "english": "interior",
-        "tera": "eratsept"
-    },
-    {
-        "english": "bury",
-        "tera": "emta"
-    },
-    {
-        "english": "storm",
-        "tera": "menil"
-    },
-    {
-        "english": "vacation",
-        "tera": "ledieb"
-    },
-    {
-        "english": "lock",
-        "tera": "ussqu"
-    },
-    {
-        "english": "gradually",
-        "tera": "alidusin"
-    },
-    {
-        "english": "stand",
-        "tera": "ripa"
-    },
-    {
-        "english": "liver",
-        "tera": "cere"
-    },
-    {
-        "english": "mean",
-        "tera": "rissi"
-    },
-    {
-        "english": "network",
-        "tera": "nemun"
-    },
-    {
-        "english": "artifact",
-        "tera": "eresed"
-    },
-    {
-        "english": "game1",
-        "tera": "itcur"
-    },
-    {
-        "english": "distant",
-        "tera": "adol"
-    },
-    {
-        "english": "situation",
-        "tera": "orquean"
-    },
-    {
-        "english": "hostage",
-        "tera": "imilacr"
-    },
-    {
-        "english": "soak",
-        "tera": "imaeq"
-    },
-    {
-        "english": "listener",
-        "tera": "urealimen"
-    },
-    {
-        "english": "manage",
-        "tera": "tafu"
-    },
-    {
-        "english": "purpose",
-        "tera": "eress"
-    },
-    {
-        "english": "totally",
-        "tera": "edeos"
-    },
-    {
-        "english": "habitat",
-        "tera": "erebi"
-    },
-    {
-        "english": "sickness",
-        "tera": "crud"
-    },
-    {
-        "english": "bullet",
-        "tera": "esqu"
-    },
-    {
-        "english": "hypothesis",
-        "tera": "estusin"
-    },
-    {
-        "english": "notice",
-        "tera": "altamser"
-    },
-    {
-        "english": "magnitude",
-        "tera": "cipitrh"
-    },
-    {
-        "english": "associated",
-        "tera": "odopen"
-    },
-    {
-        "english": "freeze",
-        "tera": "puls"
-    },
-    {
-        "english": "uncover",
-        "tera": "umqu"
-    },
-    {
-        "english": "moral",
-        "tera": "eaqu"
-    },
-    {
-        "english": "icon",
-        "tera": "ilon"
-    },
-    {
-        "english": "argument",
-        "tera": "ibushae"
-    },
-    {
-        "english": "curriculum",
-        "tera": "mumter"
-    },
-    {
-        "english": "holiday",
-        "tera": "tiu"
-    },
-    {
-        "english": "objective",
-        "tera": "saequor"
-    },
-    {
-        "english": "speaker",
-        "tera": "eisin"
-    },
-    {
-        "english": "scramble",
-        "tera": "clusumpis"
-    },
-    {
-        "english": "other",
-        "tera": "cibu"
-    },
-    {
-        "english": "transmit",
-        "tera": "sannum"
-    },
-    {
-        "english": "nasty",
-        "tera": "finie"
-    },
-    {
-        "english": "recipient",
-        "tera": "rattit"
-    },
-    {
-        "english": "struggle",
-        "tera": "anomnem"
-    },
-    {
-        "english": "generous",
-        "tera": "queref"
-    },
-    {
-        "english": "confidence",
-        "tera": "ugeratorph"
-    },
-    {
-        "english": "accuracy",
-        "tera": "eusfemin"
-    },
-    {
-        "english": "feminine",
-        "tera": "eamve"
-    },
-    {
-        "english": "permit",
-        "tera": "nerem"
-    },
-    {
-        "english": "addition",
-        "tera": "suequod"
-    },
-    {
-        "english": "house",
-        "tera": "malec"
-    },
-    {
-        "english": "facilitate",
-        "tera": "esserat"
-    },
-    {
-        "english": "production",
-        "tera": "ilisive"
-    },
-    {
-        "english": "book",
-        "tera": "fidem"
-    },
-    {
-        "english": "against",
-        "tera": "ded"
-    },
-    {
-        "english": "critical",
-        "tera": "eratmul"
-    },
-    {
-        "english": "visit",
-        "tera": "tast"
-    },
-    {
-        "english": "addition",
-        "tera": "amenard"
-    },
-    {
-        "english": "purchase",
-        "tera": "orhabeb"
-    },
-    {
-        "english": "telepathy",
-        "tera": "atiung"
-    },
-    {
-        "english": "advance",
-        "tera": "erese"
-    },
-    {
-        "english": "everywhere",
-        "tera": "vatimul"
-    },
-    {
-        "english": "best",
-        "tera": "taedo"
-    },
-    {
-        "english": "generous",
-        "tera": "lueree"
-    },
-    {
-        "english": "regional",
-        "tera": "pulsae"
-    },
-    {
-        "english": "confront",
-        "tera": "illeeti"
-    },
-    {
-        "english": "catholic",
-        "tera": "amthrac"
-    },
-    {
-        "english": "element",
-        "tera": "umpop"
-    },
-    {
-        "english": "wheelchair",
-        "tera": "ulisfu"
-    },
-    {
-        "english": "strange",
-        "tera": "itaa"
-    },
-    {
-        "english": "schedule",
-        "tera": "ctoramorem"
-    },
-    {
-        "english": "donation",
-        "tera": "interos"
-    },
-    {
-        "english": "question",
-        "tera": "transfer"
-    },
-    {
-        "english": "blow",
-        "tera": "remar"
-    },
-    {
-        "english": "conceive",
-        "tera": "escitr"
-    },
-    {
-        "english": "longtime",
-        "tera": "aqueiu"
-    },
-    {
-        "english": "mark",
-        "tera": "vent"
-    },
-    {
-        "english": "sensitive",
-        "tera": "amaetat"
-    },
-    {
-        "english": "adjustment",
-        "tera": "isbrev"
-    },
-    {
-        "english": "supplier",
-        "tera": "everet"
-    },
-    {
-        "english": "loud",
-        "tera": "prim"
-    },
-    {
-        "english": "currently",
-        "tera": "oscarp"
-    },
-    {
-        "english": "following",
-        "tera": "ereflo"
-    },
-    {
-        "english": "district",
-        "tera": "rescol"
-    },
-    {
-        "english": "great",
-        "tera": "lise"
-    },
-    {
-        "english": "dependent",
-        "tera": "ratcoll"
-    },
-    {
-        "english": "prior",
-        "tera": "emque"
-    },
-    {
-        "english": "sometimes",
-        "tera": "superplan"
-    },
-    {
-        "english": "reportedly",
-        "tera": "acampiar"
-    },
-    {
-        "english": "psychology",
-        "tera": "amvirid"
-    },
-    {
-        "english": "particle",
-        "tera": "emfacieb"
-    },
-    {
-        "english": "contrast",
-        "tera": "antgra"
-    },
-    {
-        "english": "relative",
-        "tera": "minish"
-    },
-    {
-        "english": "thinking",
-        "tera": "erbaeum"
-    },
-    {
-        "english": "prevention",
-        "tera": "braloc"
-    },
-    {
-        "english": "philosophy",
-        "tera": "odeerat"
-    },
-    {
-        "english": "interior",
-        "tera": "quapost"
-    },
-    {
-        "english": "instruct",
-        "tera": "quampart"
-    },
-    {
-        "english": "teaching",
-        "tera": "eseditdis"
-    },
-    {
-        "english": "receiver",
-        "tera": "genitusv"
-    },
-    {
-        "english": "yard",
-        "tera": "atese"
-    },
-    {
-        "english": "population",
-        "tera": "tfilas"
-    },
-    {
-        "english": "structure",
-        "tera": "onantiam"
-    },
-    {
-        "english": "response",
-        "tera": "ovitumb"
-    },
-    {
-        "english": "point",
-        "tera": "raloc"
-    },
-    {
-        "english": "supposed",
-        "tera": "ovenitnon"
-    },
-    {
-        "english": "innovation",
-        "tera": "chaonis"
-    },
-    {
-        "english": "builder",
-        "tera": "afuitarbor"
-    },
-    {
-        "english": "nose",
-        "tera": "nonem"
-    },
-    {
-        "english": "carbon",
-        "tera": "ushel"
-    },
-    {
-        "english": "curiosity",
-        "tera": "iadumnon"
-    },
-    {
-        "english": "profession",
-        "tera": "frondibus"
-    },
-    {
-        "english": "friendly",
-        "tera": "aesculus"
-    },
-    {
-        "english": "innovative",
-        "tera": "altisnect"
-    },
-    {
-        "english": "scout",
-        "tera": "iliaemol"
-    },
-    {
-        "english": "radiation",
-        "tera": "lesnecin"
-    },
-    {
-        "english": "horrible",
-        "tera": "nubalaur"
-    },
-    {
-        "english": "terribly",
-        "tera": "usetco"
-    },
-    {
-        "english": "aggression",
-        "tera": "rylifr"
-    },
-    {
-        "english": "place",
-        "tera": "agile"
-    },
-    {
-        "english": "guardian",
-        "tera": "setfra"
-    },
-    {
-        "english": "each",
-        "tera": "xinus"
-    },
-    {
-        "english": "country3",
-        "tera": "utilish"
-    },
-    {
-        "english": "illustrate",
-        "tera": "astise"
-    },
-    {
-        "english": "experiment",
-        "tera": "nodisque"
-    },
-    {
-        "english": "consistent",
-        "tera": "abiescurv"
-    },
-    {
-        "english": "concerned",
-        "tera": "atqueglan"
-    },
-    {
-        "english": "concern",
-        "tera": "atqueglan"
-    },
-    {
-        "english": "ing",
-        "tera": "glan"
-    },
-    {
-        "english": "representation",
-        "tera": "ibusilexetplat"
-    },
-    {
-        "english": "represent",
-        "tera": "ibusil"
-    },
-    {
-        "english": "show",
-        "tera": "exet"
-    },
-    {
-        "english": "coin",
-        "tera": "plat"
-    },
-    {
-        "english": "survival",
-        "tera": "anesge"
-    },
-    {
-        "english": "al",
-        "tera": "ge"
-    },
-    {
-        "english": "live",
-        "tera": "anu"
-    },
-    {
-        "english": "interested",
-        "tera": "nialisac"
-    },
-    {
-        "english": "interest",
-        "tera": "nialis"
-    },
-    {
-        "english": "ed",
-        "tera": "ac"
-    },
-    {
-        "english": "training",
-        "tera": "erqueco"
-    },
-    {
-        "english": "train",
-        "tera": "erque"
-    },
-    {
-        "english": "sacrifice",
-        "tera": "loribusin"
-    },
-    {
-        "english": "offer",
-        "tera": "lori"
-    },
-    {
-        "english": "divine",
-        "tera": "busin"
-    },
-    {
-        "english": "cultural",
-        "tera": "paramnic"
-    },
-    {
-        "english": "hierarchy",
-        "tera": "param"
-    },
-    {
-        "english": "y",
-        "tera": "ic"
-    },
-    {
-        "english": "fresh",
-        "tera": "olaeq"
-    },
-    {
-        "english": "fresh",
-        "tera": "olaeq"
-    },
-    {
-        "english": "plan",
-        "tera": "uesim"
-    },
-    {
-        "english": "bomb",
-        "tera": "ulsa"
-    },
-    {
-        "english": "publicly",
-        "tera": "liceset"
-    },
-    {
-        "english": "landscape",
-        "tera": "aquic"
-    },
-    {
-        "english": "post",
-        "tera": "uat"
-    },
-    {
-        "english": "cigarette",
-        "tera": "alotos"
-    },
-    {
-        "english": "magnitude",
-        "tera": "perpetu"
-    },
-    {
-        "english": "performer",
-        "tera": "ovirens"
-    },
-    {
-        "english": "investment",
-        "tera": "buxumte"
-    },
-    {
-        "english": "overnight",
-        "tera": "nuesquem"
-    },
-    {
-        "english": "province",
-        "tera": "yricaeet"
-    },
-    {
-        "english": "obligation",
-        "tera": "bicolormyr"
-    },
-    {
-        "english": "permission",
-        "tera": "tusetbac"
-    },
-    {
-        "english": "hospital",
-        "tera": "iscaer"
-    },
-    {
-        "english": "liability",
-        "tera": "ulatinos"
-    },
-    {
-        "english": "indicator",
-        "tera": "vosquoflex"
-    },
-    {
-        "english": "difference",
-        "tera": "ipedesh"
-    },
-    {
-        "english": "beautiful",
-        "tera": "ederaev"
-    },
-    {
-        "english": "lightning",
-        "tera": "enistiset"
-    },
-    {
-        "english": "capacity",
-        "tera": "unapamp"
-    },
-    {
-        "english": "multiple",
-        "tera": "ineaev"
-    },
-    {
-        "english": "attitude",
-        "tera": "itesetamict"
-    },
-    {
-        "english": "collapse",
-        "tera": "aeviti"
-    },
-    {
-        "english": "greatest",
-        "tera": "busulmi"
-    },
-    {
-        "english": "growing",
-        "tera": "orniq"
-    },
-    {
-        "english": "cooperate",
-        "tera": "ueetpicea"
-    },
-    {
-        "english": "conception",
-        "tera": "epomoqueonerat"
-    },
-    {
-        "english": "dissolve",
-        "tera": "arubent"
-    },
-    {
-        "english": "dumb",
-        "tera": "iarb"
-    },
-    {
-        "english": "traditional",
-        "tera": "utusetlenta"
-    },
-    {
-        "english": "remarkable",
-        "tera": "evictor"
-    },
-    {
-        "english": "portrait",
-        "tera": "ispraemiapalm"
-    },
-    {
-        "english": "forehead",
-        "tera": "aetsu"
-    },
-    {
-        "english": "beach",
-        "tera": "inta"
-    },
-    {
-        "english": "land",
-        "tera": "ineta"
-    },
-    {
-        "english": "boil",
-        "tera": "comas"
-    },
-    {
-        "english": "painting",
-        "tera": "hirsuta"
-    },
-    {
-        "english": "signature",
-        "tera": "queverti"
-    },
-    {
-        "english": "workplace",
-        "tera": "cepinu"
-    },
-    {
-        "english": "shop",
-        "tera": "inu"
-    },
-    {
-        "english": "wall",
-        "tera": "sgrat"
-    },
-    {
-        "english": "aircraft",
-        "tera": "adeummatr"
-    },
-    {
-        "english": "confession",
-        "tera": "isiqui"
-    },
-    {
-        "english": "collector",
-        "tera": "demcybel"
-    },
-    {
-        "english": "nutrient",
-        "tera": "eiusatt"
-    },
-    {
-        "english": "institutional",
-        "tera": "isexuithachominem"
-    },
-    {
-        "english": "spot",
-        "tera": "trunc"
-    },
-    {
-        "english": "sanction",
-        "tera": "oqueindu"
-    },
-    {
-        "english": "activity",
-        "tera": "ruitillo"
-    },
-    {
-        "english": "encounter",
-        "tera": "sculusalti"
-    },
-    {
-        "english": "homeland",
-        "tera": "snectilia"
-    },
-    {
-        "english": "steadily",
-        "tera": "emollesne"
-    },
-    {
-        "english": "diary",
-        "tera": "ceyfa"
-    },
-    {
-        "english": "prospect",
-        "tera": "gusetinnu"
-    },
-    {
-        "english": "transfer",
-        "tera": "balauru"
-    },
-    {
-        "english": "identity",
-        "tera": "setcorylifra"
-    },
-    {
-        "english": "espionage",
-        "tera": "gilesetfra"
-    },
-    {
-        "english": "bar",
-        "tera": "xend"
-    },
-    {
-        "english": "balanced",
-        "tera": "inusuti"
-    },
-    {
-        "english": "predator",
-        "tera": "lishastise"
-    },
-    {
-        "english": "rhetoric",
-        "tera": "abiescu"
-    },
-    {
-        "english": "technique",
-        "tera": "rvataque"
-    },
-    {
-        "english": "glove",
-        "tera": "gla"
-    },
-    {
-        "english": "residence",
-        "tera": "ndibusile"
-    },
-    {
-        "english": "highlight",
-        "tera": "xetplatanu"
-    },
-    {
-        "english": "indicator",
-        "tera": "sgeniali"
-    },
-    {
-        "english": "long",
-        "tera": "sacerque"
-    },
-    {
-        "english": "revolution",
-        "tera": "coloribu"
-    },
-    {
-        "english": "slowly",
-        "tera": "sinp"
-    },
-    {
-        "english": "nomination",
-        "tera": "aramnico"
-    },
-    {
-        "english": "variable",
-        "tera": "laeque"
-    },
-    {
-        "english": "emphasis",
-        "tera": "simulsali"
-    },
-    {
-        "english": "assumption",
-        "tera": "cesetaqu"
-    },
-    {
-        "english": "signal",
-        "tera": "atic"
-    },
-    {
-        "english": "difficulty",
-        "tera": "alotospe"
-    },
-    {
-        "english": "immigrant",
-        "tera": "rpetuovi"
-    },
-    {
-        "english": "pitcher",
-        "tera": "rensbuxumte"
-    },
-    {
-        "english": "addition",
-        "tera": "nuesque"
-    },
-    {
-        "english": "widespread",
-        "tera": "myricaee"
-    },
-    {
-        "english": "recipient",
-        "tera": "tbicolorm"
-    },
-    {
-        "english": "previously",
-        "tera": "yrtusetbaci"
-    },
-    {
-        "english": "experience",
-        "tera": "scaerula"
-    },
-    {
-        "english": "grateful",
-        "tera": "tinosvosqu"
-    },
-    {
-        "english": "commoner",
-        "tera": "oquefle"
-    },
-    {
-        "english": "money",
-        "tera": "xip"
-    },
-    {
-        "english": "document",
-        "tera": "edeshde"
-    },
-    {
-        "english": "investor",
-        "tera": "raeveni"
-    },
-    {
-        "english": "difference",
-        "tera": "stisetua"
-    },
-    {
-        "english": "anywhere",
-        "tera": "pampinea"
-    },
-    {
-        "english": "twentieth",
-        "tera": "evitese"
-    },
-    {
-        "english": "intensity",
-        "tera": "tamict"
-    },
-    {
-        "english": "convention",
-        "tera": "busulmiu"
-    },
-    {
-        "english": "motivation",
-        "tera": "rniquee"
-    },
-    {
-        "english": "management",
-        "tera": "tpiceae"
-    },
-    {
-        "english": "question",
-        "tera": "pomoque"
-    },
-    {
-        "english": "beginning",
-        "tera": "onerata"
-    },
-    {
-        "english": "longtime",
-        "tera": "rubenti"
-    },
-    {
-        "english": "teaching",
-        "tera": "arbutuse"
-    },
-    {
-        "english": "difference",
-        "tera": "tlentaevi"
-    },
-    {
-        "english": "principal",
-        "tera": "ctorisprae"
-    },
-    {
-        "english": "strategy",
-        "tera": "miapalma"
-    },
-    {
-        "english": "exhibition",
-        "tera": "eetsucci"
-    },
-    {
-        "english": "campaign",
-        "tera": "ntacomas"
-    },
-    {
-        "english": "impossible",
-        "tera": "irsutaqu"
-    },
-    {
-        "english": "database",
-        "tera": "evertice"
-    },
-    {
-        "english": "sympohny",
-        "tera": "pinusgrata"
-    },
-    {
-        "english": "terrific",
-        "tera": "deummatri"
-    },
-    {
-        "english": "manipulate",
-        "tera": "siquide"
-    },
-    {
-        "english": "downtown",
-        "tera": "mcybel"
-    },
-    {
-        "english": "music",
-        "tera": "eiusa"
-    },
-    {
-        "english": "necklace",
-        "tera": "tatisexui"
-    },
-    {
-        "english": "disaster",
-        "tera": "thachomine"
-    },
-    {
-        "english": "speculate",
-        "tera": "mtruncoque"
-    },
-    {
-        "english": "ambition",
-        "tera": "indurui"
-    },
-    {
-        "english": "yesterday",
-        "tera": "tilloadf"
-    },
-    {
-        "english": "disabled",
-        "tera": "uithui"
-    },
-    {
-        "english": "accuracy",
-        "tera": "cturbaeme"
-    },
-    {
-        "english": "formation",
-        "tera": "tasimita"
-    },
-    {
-        "english": "complain",
-        "tera": "tacupressu"
-    },
-    {
-        "english": "evolution",
-        "tera": "snuncarborpu"
-    },
-    {
-        "english": "southern",
-        "tera": "eranted"
-    },
-    {
-        "english": "negotiate",
-        "tera": "eodile"
-    },
-    {
-        "english": "capability",
-        "tera": "ctusabillo"
-    },
-    {
-        "english": "internal",
-        "tera": "quicitha"
-    },
-    {
-        "english": "television",
-        "tera": "ramnervise"
-    },
-    {
-        "english": "ambassador",
-        "tera": "tnervistempe"
-    },
-    {
-        "english": "pollution",
-        "tera": "ratarc"
-    },
-    {
-        "english": "civilian",
-        "tera": "umnamque"
-    },
-    {
-        "english": "spectacular",
-        "tera": "sacernymphisca"
-    },
-    {
-        "english": "similarly",
-        "tera": "rthaeate"
-    },
-    {
-        "english": "community",
-        "tera": "nentibusa"
-    },
-    {
-        "english": "inevitably",
-        "tera": "rvaingen"
-    },
-    {
-        "english": "continuing",
-        "tera": "scervusera"
-    },
-    {
-        "english": "sufficient",
-        "tera": "tlateque"
-    },
-    {
-        "english": "textbook",
-        "tera": "patentibu"
-    },
-    {
-        "english": "producer",
-        "tera": "saltasipse"
-    },
-    {
-        "english": "undermine",
-        "tera": "suocapi"
-    },
-    {
-        "english": "describe",
-        "tera": "tipraebe"
-    },
-    {
-        "english": "reserve",
-        "tera": "batco"
-    },
-    {
-        "english": "childhood",
-        "tera": "rnibusumbra"
-    },
-    {
-        "english": "assessment",
-        "tera": "scornuafu"
-    },
-    {
-        "english": "hi",
-        "tera": "elg"
-    },
-    {
-        "english": "road",
-        "tera": "ebantau"
-    },
-    {
-        "english": "exclusive",
-        "tera": "rodemissa"
-    },
-    {
-        "english": "difficulty",
-        "tera": "queina"
-    },
-    {
-        "english": "insurance",
-        "tera": "rmospendeba"
-    },
-    {
-        "english": "procedure",
-        "tera": "nteretige"
-    },
-    {
-        "english": "constant",
-        "tera": "mmatamoni"
-    },
-    {
-        "english": "strategic",
-        "tera": "liacollo"
-    },
-    {
-        "english": "transmit",
-        "tera": "bullasupe"
-    },
-    {
-        "english": "biological",
-        "tera": "rfrontemparvi"
-    },
-    {
-        "english": "integrated",
-        "tera": "sargentea"
-    },
-    {
-        "english": "classroom",
-        "tera": "lorisvin"
-    },
-    {
-        "english": "southeast",
-        "tera": "ctamoveba"
-    },
-    {
-        "english": "involved",
-        "tera": "turparile"
-    },
-    {
-        "english": "collection",
-        "tera": "squeex"
-    },
-    {
-        "english": "aggression",
-        "tera": "aerini"
-    },
-    {
-        "english": "presence",
-        "tera": "tebantau"
-    },
-    {
-        "english": "everywhere",
-        "tera": "ribusege"
-    },
-    {
-        "english": "tolerate",
-        "tera": "miniscircu"
-    },
-    {
-        "english": "ideology",
-        "tera": "mcavatempo"
-    },
-    {
-        "english": "columnist",
-        "tera": "rabacae"
-    },
-    {
-        "english": "supervisor",
-        "tera": "isqueme"
-    },
-    {
-        "english": "accuracy",
-        "tera": "tuvacuu"
-    },
-    {
-        "english": "respondent",
-        "tera": "snaturali"
-    },
-    {
-        "english": "atmosphere",
-        "tera": "pavorede"
-    },
-    {
-        "english": "journalism",
-        "tera": "positoce"
-    },
-    {
-        "english": "overlook",
-        "tera": "lebraredo"
-    },
-    {
-        "english": "resemble",
-        "tera": "mosmulcenda"
-    },
-    {
-        "english": "hurricane",
-        "tera": "quecol"
-    },
-    {
-        "english": "feminist",
-        "tera": "laquamli"
-    },
-    {
-        "english": "particular",
-        "tera": "betignoti"
-    },
-    {
-        "english": "detective",
-        "tera": "smanibuspra"
-    },
-    {
-        "english": "counseling",
-        "tera": "ebereso"
-    },
-    {
-        "english": "regulatory",
-        "tera": "lebatsedta"
-    },
-    {
-        "english": "expansion",
-        "tera": "menantea"
-    },
-    {
-        "english": "politics1",
-        "tera": "liosce"
-    },
-    {
-        "english": "analysis",
-        "tera": "aepulche"
-    },
-    {
-        "english": "painting",
-        "tera": "rrimegenti"
-    },
-    {
-        "english": "aggressive",
-        "tera": "sgratusera"
-    },
-    {
-        "english": "likewise",
-        "tera": "tcyparisseti"
-    },
-    {
-        "english": "apple",
-        "tera": "bitu"
-    },
-    {
-        "english": "merchant",
-        "tera": "pabulace"
-    },
-    {
-        "english": "partially",
-        "tera": "rvumadnova"
-    },
-    {
-        "english": "complete",
-        "tera": "tuliqui"
-    },
-    {
-        "english": "beside",
-        "tera": "didu"
-    },
-    {
-        "english": "religious",
-        "tera": "cebasfonti"
-    },
-    {
-        "english": "persuade",
-        "tera": "sadundamtu"
-    },
-    {
-        "english": "protection",
-        "tera": "modotexe"
-    },
-    {
-        "english": "corridor",
-        "tera": "basvario"
-    },
-    {
-        "english": "academic",
-        "tera": "spercornua"
-    },
-    {
-        "english": "industry",
-        "tera": "floresnunc"
-    },
-    {
-        "english": "prospect",
-        "tera": "equesi"
-    },
-    {
-        "english": "doctrine",
-        "tera": "ntergore"
-    },
-    {
-        "english": "expedition",
-        "tera": "sidenshucla"
-    },
-    {
-        "english": "civilian",
-        "tera": "etuseti"
-    },
-    {
-        "english": "technician",
-        "tera": "llucmollia"
-    },
-    {
-        "english": "apologize",
-        "tera": "purpurei"
-    },
-    {
-        "english": "tournament",
-        "tera": "sfrenabaso"
-    },
-    {
-        "english": "expensive",
-        "tera": "racapistri"
-    },
-    {
-        "english": "opponent",
-        "tera": "saestuse"
-    },
-    {
-        "english": "suitable",
-        "tera": "ratmediu"
-    },
-    {
-        "english": "evolution",
-        "tera": "squedie"
-    },
-    {
-        "english": "priority",
-        "tera": "ssolisque"
-    },
-    {
-        "english": "interior",
-        "tera": "vaporeco"
-    },
-    {
-        "english": "birthday",
-        "tera": "ncavalito"
-    },
-    {
-        "english": "interested",
-        "tera": "reiferve"
-    },
-    {
-        "english": "speculate",
-        "tera": "bantbracchia"
-    },
-    {
-        "english": "revolution",
-        "tera": "cancri"
-    },
-    {
-        "english": "ministry",
-        "tera": "fessusinhe"
-    },
-    {
-        "english": "disappear",
-        "tera": "rbosaposu"
-    },
-    {
-        "english": "proclaim",
-        "tera": "itsuaco"
-    },
-    {
-        "english": "inevitably",
-        "tera": "rporaterra"
-    },
-    {
-        "english": "initiate",
-        "tera": "cervuseta"
-    },
-    {
-        "english": "economics",
-        "tera": "rboreafri"
-    },
-    {
-        "english": "election",
-        "tera": "gusduceba"
-    },
-    {
-        "english": "increase",
-        "tera": "tabumbrahu"
-    },
-    {
-        "english": "reflection",
-        "tera": "ncpuerinpru"
-    },
-    {
-        "english": "relative",
-        "tera": "nsiaculo"
-    },
-    {
-        "english": "rolling",
-        "tera": "cyparissusa"
-    },
-    {
-        "english": "substance",
-        "tera": "cutofixi"
-    },
-    {
-        "english": "discovery",
-        "tera": "tutsaevo"
-    },
-    {
-        "english": "physical",
-        "tera": "moriente"
-    },
-    {
-        "english": "fruit",
-        "tera": "mvuln"
-    },
-    {
-        "english": "perfectly",
-        "tera": "erevidi"
-    },
-    {
-        "english": "speculate",
-        "tera": "tvellemori"
-    },
-    {
-        "english": "depending",
-        "tera": "statuitqu"
-    },
-    {
-        "english": "calculate",
-        "tera": "aenonso"
-    },
-    {
-        "english": "frontier",
-        "tera": "laciapho"
-    },
-    {
-        "english": "calculate",
-        "tera": "ebusdixi"
-    },
-    {
-        "english": "die",
-        "tera": "t"
-    },
-    {
-        "english": "nightmare",
-        "tera": "etutlevi"
-    },
-    {
-        "english": "managing",
-        "tera": "terpromate"
-    },
-    {
-        "english": "compliance",
-        "tera": "riaque"
-    },
-    {
-        "english": "comparison",
-        "tera": "dolereta"
-    },
-    {
-        "english": "contribute",
-        "tera": "dmonuitge"
-    },
-    {
-        "english": "compliance",
-        "tera": "mitilleta"
-    },
-    {
-        "english": "component",
-        "tera": "menmunusqu"
-    },
-    {
-        "english": "ocean",
-        "tera": "esupremu"
-    },
-    {
-        "english": "hypothesis",
-        "tera": "mhocpetita"
-    },
-    {
-        "english": "conference",
-        "tera": "superisu"
-    },
-    {
-        "english": "district",
-        "tera": "ttemporelu"
-    },
-    {
-        "english": "album",
-        "tera": "geat"
-    },
-    {
-        "english": "storage",
-        "tera": "omniia"
-    },
-    {
-        "english": "historical",
-        "tera": "mqueperi"
-    },
-    {
-        "english": "specific",
-        "tera": "nmensosege"
-    },
-    {
-        "english": "exhibition",
-        "tera": "stosangui"
-    },
-    {
-        "english": "parental",
-        "tera": "nefletusi"
-    },
-    {
-        "english": "standing",
-        "tera": "nviridemve"
-    },
-    {
-        "english": "exhibition",
-        "tera": "rticoepe"
-    },
-    {
-        "english": "everything",
-        "tera": "runtmembraco"
-    },
-    {
-        "english": "suburban",
-        "tera": "loremetmo"
-    },
-    {
-        "english": "researcher",
-        "tera": "doquini"
-    },
-    {
-        "english": "screening",
-        "tera": "veapende"
-    },
-    {
-        "english": "volunteer",
-        "tera": "bantfron"
-    },
-    {
-        "english": "conscious",
-        "tera": "tecapilli"
-    },
-    {
-        "english": "committee",
-        "tera": "horridaca"
-    },
-    {
-        "english": "construct",
-        "tera": "esarie"
-    },
-    {
-        "english": "percentage",
-        "tera": "sfierisu"
-    },
-    {
-        "english": "functional",
-        "tera": "mptori"
-    },
-    {
-        "english": "accident",
-        "tera": "goreside"
-    },
-    {
-        "english": "schedule",
-        "tera": "reumgraci"
-    },
-    {
-        "english": "vertical",
-        "tera": "lispectare"
-    },
-    {
-        "english": "afterward",
-        "tera": "cacumine"
-    },
-    {
-        "english": "excitement",
-        "tera": "caelum"
-    },
-    {
-        "english": "relative",
-        "tera": "ingemui"
-    },
-    {
-        "english": "government",
-        "tera": "ttristisque"
-    },
-    {
-        "english": "transformation",
-        "tera": "deuslugebere"
-    },
-    {
-        "english": "talented",
-        "tera": "nobisluge"
-    },
-    {
-        "english": "implement",
-        "tera": "bisquea"
-    },
-    {
-        "english": "friendship",
-        "tera": "liosade"
-    },
-    {
-        "english": "permission",
-        "tera": "risquedo"
-    },
-    {
-        "english": "principal",
-        "tera": "lentibusi"
-    },
-    {
-        "english": "current",
-        "tera": "enquit"
-    },
-    {
-        "english": "ambition",
-        "tera": "caldicent"
-    },
-    {
-        "english": "jewelry",
-        "tera": "predaerimon"
-    },
-    {
-        "english": "definition",
-        "tera": "onolepta"
-    },
-    {
-        "english": "southeast",
-        "tera": "colosedrasti"
-    },
-    {
-        "english": "prospect",
-        "tera": "eccepone"
-    },
-    {
-        "english": "convince",
-        "tera": "tanyod"
-    },
-    {
-        "english": "instructor",
-        "tera": "tantod"
-    },
-    {
-        "english": "patch",
-        "tera": "iyass"
-    },
-    {
-        "english": "harvest",
-        "tera": "assih"
-    },
-    {
-        "english": "believe",
-        "tera": "acke"
-    },
-    {
-        "english": "simple",
-        "tera": "rgara"
-    },
-    {
-        "english": "source",
-        "tera": "geas"
-    },
-    {
-        "english": "accent",
-        "tera": "sault"
-    },
-    {
-        "english": "threat",
-        "tera": "sile"
-    },
-    {
-        "english": "terrain",
-        "tera": "ntdi"
-    },
-    {
-        "english": "difficulty",
-        "tera": "sposabl"
-    },
-    {
-        "english": "used",
-        "tera": "eren"
-    },
-    {
-        "english": "invasion",
-        "tera": "derfar"
-    },
-    {
-        "english": "ill",
-        "tera": "my"
-    },
-    {
-        "english": "inherent",
-        "tera": "outubec"
-    },
-    {
-        "english": "bit",
-        "tera": "ry"
-    },
-    {
-        "english": "fishing",
-        "tera": "ptofo"
-    },
-    {
-        "english": "shit",
-        "tera": "ota"
-    },
-    {
-        "english": "key",
-        "tera": "ge"
-    },
-    {
-        "english": "design",
-        "tera": "urba"
-    },
-    {
-        "english": "oven",
-        "tera": "nwo"
-    },
-    {
-        "english": "position",
-        "tera": "manrif"
-    },
-    {
-        "english": "dad",
-        "tera": "le"
-    },
-    {
-        "english": "vaccine",
-        "tera": "neura"
-    },
-    {
-        "english": "hold",
-        "tera": "lrec"
-    },
-    {
-        "english": "likely",
-        "tera": "edi"
-    },
-    {
-        "english": "official",
-        "tera": "ngmarke"
-    },
-    {
-        "english": "plead",
-        "tera": "tin"
-    },
-    {
-        "english": "street",
-        "tera": "gmed"
-    },
-    {
-        "english": "cut",
-        "tera": "ia"
-    },
-    {
-        "english": "by",
-        "tera": "ca"
-    },
-    {
-        "english": "golf",
-        "tera": "rho"
-    },
-    {
-        "english": "gym",
-        "tera": "td"
-    },
-    {
-        "english": "assign",
-        "tera": "ogr"
-    },
-    {
-        "english": "senator",
-        "tera": "ende"
-    },
-    {
-        "english": "historical",
-        "tera": "rfarmmo"
-    },
-    {
-        "english": "church",
-        "tera": "tion"
-    },
-    {
-        "english": "sea",
-        "tera": "bi"
-    },
-    {
-        "english": "phone",
-        "tera": "tpla"
-    },
-    {
-        "english": "hungry",
-        "tera": "stic"
-    },
-    {
-        "english": "rear",
-        "tera": "sma"
-    },
-    {
-        "english": "loop",
-        "tera": "rtcon"
-    },
-    {
-        "english": "predator",
-        "tera": "cretegan"
-    },
-    {
-        "english": "gay",
-        "tera": "g"
-    },
-    {
-        "english": "utility",
-        "tera": "raf"
-    },
-    {
-        "english": "consider",
-        "tera": "ginef"
-    },
-    {
-        "english": "french",
-        "tera": "utur"
-    },
-    {
-        "english": "surprised",
-        "tera": "itywri"
-    },
-    {
-        "english": "rid",
-        "tera": "st"
-    },
-    {
-        "english": "physically",
-        "tera": "watchnoda"
-    },
-    {
-        "english": "literature",
-        "tera": "lityje"
-    },
-    {
-        "english": "tension",
-        "tera": "ansem"
-    },
-    {
-        "english": "invention",
-        "tera": "annanoshi"
-    },
-    {
-        "english": "general",
-        "tera": "buya"
-    },
-    {
-        "english": "lesson",
-        "tera": "rif"
-    },
-    {
-        "english": "no",
-        "tera": "le"
-    },
-    {
-        "english": "suck",
-        "tera": "prewa"
-    },
-    {
-        "english": "regulatory",
-        "tera": "reoy"
-    },
-    {
-        "english": "easily",
-        "tera": "lig"
-    },
-    {
-        "english": "festival",
-        "tera": "htsne"
-    },
-    {
-        "english": "workplace",
-        "tera": "uralsile"
-    },
-    {
-        "english": "population",
-        "tera": "ntsanfra"
-    },
-    {
-        "english": "associated",
-        "tera": "ncisco"
-    },
-    {
-        "english": "religion",
-        "tera": "apophe"
-    },
-    {
-        "english": "southeast",
-        "tera": "niacar"
-    },
-    {
-        "english": "cheap",
-        "tera": "telbo"
-    },
-    {
-        "english": "mouse",
-        "tera": "yrea"
-    },
-    {
-        "english": "threat",
-        "tera": "lisml"
-    },
-    {
-        "english": "statistics",
-        "tera": "egbasys"
-    },
-    {
-        "english": "premise",
-        "tera": "temic"
-    },
-    {
-        "english": "dozen",
-        "tera": "boa"
-    },
-    {
-        "english": "neck",
-        "tera": "tindu"
-    },
-    {
-        "english": "taxpayer",
-        "tera": "strial"
-    },
-    {
-        "english": "pit",
-        "tera": "gr"
-    },
-    {
-        "english": "medal",
-        "tera": "adega"
-    },
-    {
-        "english": "suggest",
-        "tera": "rage"
-    },
-    {
-        "english": "shed",
-        "tera": "cour"
-    },
-    {
-        "english": "computer",
-        "tera": "ierpi"
-    },
-    {
-        "english": "lap",
-        "tera": "st"
-    },
-    {
-        "english": "van",
-        "tera": "ol"
-    },
-    {
-        "english": "come",
-        "tera": "fra"
-    },
-    {
-        "english": "amount",
-        "tera": "nch"
-    },
-    {
-        "english": "pad",
-        "tera": "is"
-    },
-    {
-        "english": "chamber",
-        "tera": "eor"
-    },
-    {
-        "english": "less",
-        "tera": "der"
-    },
-    {
-        "english": "bow",
-        "tera": "fl"
-    },
-    {
-        "english": "fund",
-        "tera": "owa"
-    },
-    {
-        "english": "cap",
-        "tera": "sa"
-    },
-    {
-        "english": "dumb",
-        "tera": "sin"
-    },
-    {
-        "english": "pro",
-        "tera": "wo"
-    },
-    {
-        "english": "tie",
-        "tera": "ma"
-    },
-    {
-        "english": "start",
-        "tera": "nshri"
-    },
-    {
-        "english": "law",
-        "tera": "ne"
-    },
-    {
-        "english": "olympic",
-        "tera": "mar"
-    },
-    {
-        "english": "freedom",
-        "tera": "ket"
-    },
-    {
-        "english": "ha",
-        "tera": "ai"
-    },
-    {
-        "english": "empire",
-        "tera": "sile"
-    },
-    {
-        "english": "as",
-        "tera": "nt"
-    },
-    {
-        "english": "hunt",
-        "tera": "assa"
-    },
-    {
-        "english": "head",
-        "tera": "ult"
-    },
-    {
-        "english": "one",
-        "tera": "as"
-    },
-    {
-        "english": "anyone",
-        "tera": "sas"
-    },
-    {
-        "english": "coast",
-        "tera": "sin"
-    },
-    {
-        "english": "cost",
-        "tera": "urb"
-    },
-    {
-        "english": "off",
-        "tera": "an"
-    },
-    {
-        "english": "tobacco",
-        "tera": "dru"
-    },
-    {
-        "english": "uh",
-        "tera": "ge"
-    },
-    {
-        "english": "start",
-        "tera": "angre"
-    },
-    {
-        "english": "feel",
-        "tera": "rol"
-    },
-    {
-        "english": "hers",
-        "tera": "ver"
-    },
-    {
-        "english": "coffee",
-        "tera": "bit"
-    },
-    {
-        "english": "credit",
-        "tera": "sig"
-    },
-    {
-        "english": "tap",
-        "tera": "ad"
-    },
-    {
-        "english": "him",
-        "tera": "fu"
-    },
-    {
-        "english": "favor",
-        "tera": "tur"
-    },
-    {
-        "english": "over",
-        "tera": "ity"
-    },
-    {
-        "english": "ensure",
-        "tera": "man"
-    },
-    {
-        "english": "sound",
-        "tera": "dis"
-    },
-    {
-        "english": "list",
-        "tera": "sid"
-    },
-    {
-        "english": "explore",
-        "tera": "ent"
-    },
-    {
-        "english": "town",
-        "tera": "manc"
-    },
-    {
-        "english": "should",
-        "tera": "onve"
-    },
-    {
-        "english": "see",
-        "tera": "ni"
-    },
-    {
-        "english": "divide",
-        "tera": "ence"
-    },
-    {
-        "english": "impact",
-        "tera": "sto"
-    },
-    {
-        "english": "rather",
-        "tera": "reb"
-    },
-    {
-        "english": "our",
-        "tera": "e"
-    },
-    {
-        "english": "key",
-        "tera": "ef"
-    },
-    {
-        "english": "no",
-        "tera": "no"
-    },
-    {
-        "english": "joy",
-        "tera": "od"
-    },
-    {
-        "english": "kitchen",
-        "tera": "les"
-    },
-    {
-        "english": "update",
-        "tera": "apo"
-    },
-    {
-        "english": "shock",
-        "tera": "phen"
-    },
-    {
-        "english": "bit",
-        "tera": "ia"
-    },
-    {
-        "english": "level",
-        "tera": "gar"
-    },
-    {
-        "english": "jury",
-        "tera": "age"
-    },
-    {
-        "english": "major",
-        "tera": "sho"
-    },
-    {
-        "english": "age",
-        "tera": "es"
-    },
-    {
-        "english": "drop",
-        "tera": "soul"
-    },
-    {
-        "english": "weak",
-        "tera": "del"
-    },
-    {
-        "english": "sue",
-        "tera": "ay"
-    },
-    {
-        "english": "alien",
-        "tera": "sem"
-    },
-    {
-        "english": "egg",
-        "tera": "io"
-    },
-    {
-        "english": "blade",
-        "tera": "tices"
-    },
-    {
-        "english": "unhappy",
-        "tera": "dea"
-    },
-    {
-        "english": "joy",
-        "tera": "d"
-    },
-    {
-        "english": "cross",
-        "tera": "kow"
-    },
-    {
-        "english": "about",
-        "tera": "loon"
-    },
-    {
-        "english": "gravity",
-        "tera": "mono"
-    },
-    {
-        "english": "discuss",
-        "tera": "fila"
-    },
-    {
-        "english": "store",
-        "tera": "ment"
-    },
-    {
-        "english": "seller",
-        "tera": "met"
-    },
-    {
-        "english": "truth",
-        "tera": "amar"
-    },
-    {
-        "english": "set",
-        "tera": "ke"
-    },
-    {
-        "english": "review",
-        "tera": "tspa"
-    },
-    {
-        "english": "own",
-        "tera": "ce"
-    },
-    {
-        "english": "found",
-        "tera": "con"
-    },
-    {
-        "english": "fourth",
-        "tera": "cre"
-    },
-    {
-        "english": "kid",
-        "tera": "te"
-    },
-    {
-        "english": "tonight",
-        "tera": "tem"
-    },
-    {
-        "english": "shrug",
-        "tera": "nar"
-    },
-    {
-        "english": "sum",
-        "tera": "k"
-    },
-    {
-        "english": "can",
-        "tera": "et"
-    },
-    {
-        "english": "talk",
-        "tera": "kan"
-    },
-    {
-        "english": "set",
-        "tera": "ji"
-    },
-    {
-        "english": "reply",
-        "tera": "tan"
-    },
-    {
-        "english": "it",
-        "tera": "to"
-    },
-    {
-        "english": "worry",
-        "tera": "dig"
-    },
-    {
-        "english": "drink",
-        "tera": "ital"
-    },
-    {
-        "english": "son",
-        "tera": "su"
-    },
-    {
-        "english": "israeli",
-        "tera": "bor"
-    },
-    {
-        "english": "rub",
-        "tera": "bi"
-    },
-    {
-        "english": "pray",
-        "tera": "tal"
-    },
-    {
-        "english": "coal",
-        "tera": "bri"
-    },
-    {
-        "english": "screen",
-        "tera": "dge"
-    },
-    {
-        "english": "some",
-        "tera": "car"
-    },
-    {
-        "english": "drawer",
-        "tera": "elfi"
-    },
-    {
-        "english": "shell",
-        "tera": "lmmo"
-    },
-    {
-        "english": "prove",
-        "tera": "tion"
-    },
-    {
-        "english": "sensitive",
-        "tera": "concre"
-    },
-    {
-        "english": "detect",
-        "tera": "teshi"
-    },
-    {
-        "english": "violence",
-        "tera": "aigang"
-    },
-    {
-        "english": "cling",
-        "tera": "com"
-    },
-    {
-        "english": "toy",
-        "tera": "pu"
-    },
-    {
-        "english": "murder",
-        "tera": "ter"
-    },
-    {
-        "english": "rather",
-        "tera": "bic"
-    },
-    {
-        "english": "install",
-        "tera": "ycle"
-    },
-    {
-        "english": "art",
-        "tera": "of"
-    },
-    {
-        "english": "best",
-        "tera": "fice"
-    },
-    {
-        "english": "under",
-        "tera": "abla"
-    },
-    {
-        "english": "haul",
-        "tera": "tive"
-    },
-    {
-        "english": "bit",
-        "tera": "al"
-    },
-    {
-        "english": "rose",
-        "tera": "phys"
-    },
-    {
-        "english": "manipulate",
-        "tera": "icalvo"
-    },
-    {
-        "english": "lead",
-        "tera": "doo"
-    },
-    {
-        "english": "fuel",
-        "tera": "dri"
-    },
-    {
-        "english": "soon",
-        "tera": "fle"
-    },
-    {
-        "english": "welfare",
-        "tera": "hum"
-    },
-    {
-        "english": "auto",
-        "tera": "toli"
-    },
-    {
-        "english": "ease",
-        "tera": "ght"
-    },
-    {
-        "english": "curious",
-        "tera": "sadve"
-    },
-    {
-        "english": "extra",
-        "tera": "rtcyb"
-    },
-    {
-        "english": "pitch",
-        "tera": "ergi"
-    },
-    {
-        "english": "upon",
-        "tera": "rltu"
-    },
-    {
-        "english": "servant",
-        "tera": "bea"
-    },
-    {
-        "english": "trace",
-        "tera": "balt"
-    },
-    {
-        "english": "result",
-        "tera": "ive"
-    },
-    {
-        "english": "intense",
-        "tera": "dolph"
-    },
-    {
-        "english": "ceiling",
-        "tera": "insk"
-    },
-    {
-        "english": "program",
-        "tera": "ysc"
-    },
-    {
-        "english": "random",
-        "tera": "rap"
-    },
-    {
-        "english": "gaze",
-        "tera": "fer"
-    },
-    {
-        "english": "screw",
-        "tera": "urit"
-    },
-    {
-        "english": "modern",
-        "tera": "ymark"
-    },
-    {
-        "english": "into",
-        "tera": "eti"
-    },
-    {
-        "english": "sit",
-        "tera": "ng"
-    },
-    {
-        "english": "sit",
-        "tera": "ch"
-    },
-    {
-        "english": "belong",
-        "tera": "manal"
-    },
-    {
-        "english": "vehicle",
-        "tera": "cohol"
-    },
-    {
-        "english": "bake",
-        "tera": "diy"
-    },
-    {
-        "english": "suite",
-        "tera": "asig"
-    },
-    {
-        "english": "paint",
-        "tera": "ndi"
-    },
-    {
-        "english": "brother",
-        "tera": "git"
-    },
-    {
-        "english": "vendor",
-        "tera": "alar"
-    },
-    {
-        "english": "comedy",
-        "tera": "tisa"
-    },
-    {
-        "english": "young",
-        "tera": "siden"
-    },
-    {
-        "english": "like",
-        "tera": "tra"
-    },
-    {
-        "english": "recall",
-        "tera": "inse"
-    },
-    {
-        "english": "end",
-        "tera": "n"
-    },
-    {
-        "english": "bake",
-        "tera": "tien"
-    },
-    {
-        "english": "ticket",
-        "tera": "stil"
-    },
-    {
-        "english": "magic",
-        "tera": "ketca"
-    },
-    {
-        "english": "pill",
-        "tera": "merae"
-    },
-    {
-        "english": "crystal",
-        "tera": "ight"
-    },
-    {
-        "english": "tightly",
-        "tera": "two"
-    },
-    {
-        "english": "point",
-        "tera": "flui"
-    },
-    {
-        "english": "someday",
-        "tera": "ger"
-    },
-    {
-        "english": "typical",
-        "tera": "hyph"
-    },
-    {
-        "english": "flee",
-        "tera": "ente"
-    },
-    {
-        "english": "flour",
-        "tera": "spa"
-    },
-    {
-        "english": "gravity",
-        "tera": "ceph"
-    },
-    {
-        "english": "pocket",
-        "tera": "ysi"
-    },
-    {
-        "english": "chip",
-        "tera": "calm"
-    },
-    {
-        "english": "signal",
-        "tera": "ono"
-    },
-    {
-        "english": "virus",
-        "tera": "futu"
-    },
-    {
-        "english": "russian",
-        "tera": "rity"
-    },
-    {
-        "english": "shrug",
-        "tera": "gssy"
-    },
-    {
-        "english": "series",
-        "tera": "ste"
-    },
-    {
-        "english": "pension",
-        "tera": "mice"
-    },
-    {
-        "english": "tent",
-        "tera": "rio"
-    },
-    {
-        "english": "outcome",
-        "tera": "dno"
-    },
-    {
-        "english": "drunk",
-        "tera": "neb"
-    },
-    {
-        "english": "folk",
-        "tera": "rea"
-    },
-    {
-        "english": "refuse",
-        "tera": "kin"
-    },
-    {
-        "english": "cotton",
-        "tera": "gesp"
-    },
-    {
-        "english": "mineral",
-        "tera": "acef"
-    },
-    {
-        "english": "treaty",
-        "tera": "lui"
-    },
-    {
-        "english": "conduct",
-        "tera": "dity"
-    },
-    {
-        "english": "melt",
-        "tera": "refri"
-    },
-    {
-        "english": "within",
-        "tera": "gera"
-    },
-    {
-        "english": "debut",
-        "tera": "tors"
-    },
-    {
-        "english": "monitor",
-        "tera": "anfra"
-    },
-    {
-        "english": "ahead",
-        "tera": "enci"
-    },
-    {
-        "english": "cancel",
-        "tera": "sco"
-    },
-    {
-        "english": "render",
-        "tera": "sys"
-    },
-    {
-        "english": "recipe",
-        "tera": "tema"
-    },
-    {
-        "english": "thirty",
-        "tera": "not"
-    },
-    {
-        "english": "fruit",
-        "tera": "ion"
-    },
-    {
-        "english": "face",
-        "tera": "iamar"
-    },
-    {
-        "english": "queen",
-        "tera": "keti"
-    },
-    {
-        "english": "heresy",
-        "tera": "eti"
-    },
-    {
-        "english": "intact",
-        "tera": "ngau"
-    },
-    {
-        "english": "within",
-        "tera": "gmen"
-    },
-    {
-        "english": "bomb",
-        "tera": "tedre"
-    },
-    {
-        "english": "business",
-        "tera": "alityn"
-    },
-    {
-        "english": "globe",
-        "tera": "arrat"
-    },
-    {
-        "english": "survey",
-        "tera": "spra"
-    },
-    {
-        "english": "human",
-        "tera": "wlno"
-    },
-    {
-        "english": "company",
-        "tera": "nhyp"
-    },
-    {
-        "english": "hope",
-        "tera": "enb"
-    },
-    {
-        "english": "tennis",
-        "tera": "rea"
-    },
-    {
-        "english": "lay",
-        "tera": "ki"
-    },
-    {
-        "english": "sure",
-        "tera": "eng"
-    },
-    {
-        "english": "impress",
-        "tera": "ceco"
-    },
-    {
-        "english": "fraud",
-        "tera": "mpu"
-    },
-    {
-        "english": "long",
-        "tera": "toky"
-    },
-    {
-        "english": "against",
-        "tera": "oen"
-    },
-    {
-        "english": "will",
-        "tera": "gun"
-    },
-    {
-        "english": "little",
-        "tera": "edro"
-    },
-    {
-        "english": "royal",
-        "tera": "nesin"
-    },
-    {
-        "english": "ought",
-        "tera": "gula"
-    },
-    {
-        "english": "anxiety",
-        "tera": "kuh"
-    },
-    {
-        "english": "chart",
-        "tera": "yphen"
-    },
-    {
-        "english": "hole",
-        "tera": "ware"
-    },
-    {
-        "english": "dear",
-        "tera": "franc"
-    },
-    {
-        "english": "immigrant",
-        "tera": "hiseur"
-    },
-    {
-        "english": "champion",
-        "tera": "banpis"
-    },
-    {
-        "english": "extent",
-        "tera": "tolin"
-    },
-    {
-        "english": "soft",
-        "tera": "toas"
-    },
-    {
-        "english": "color",
-        "tera": "sass"
-    },
-    {
-        "english": "like",
-        "tera": "incon"
-    },
-    {
-        "english": "array",
-        "tera": "stru"
-    },
-    {
-        "english": "elect",
-        "tera": "ctor"
-    },
-    {
-        "english": "tuck",
-        "tera": "derhy"
-    },
-    {
-        "english": "essence",
-        "tera": "flow"
-    },
-    {
-        "english": "apart",
-        "tera": "ketin"
-    },
-    {
-        "english": "tight",
-        "tera": "gapo"
-    },
-    {
-        "english": "finance",
-        "tera": "pheni"
-    },
-    {
-        "english": "couch",
-        "tera": "agar"
-    },
-    {
-        "english": "heresy",
-        "tera": "eti"
-    },
-    {
-        "english": "ridge",
-        "tera": "nestno"
-    },
-    {
-        "english": "allegiance",
-        "tera": "nquiut"
-    },
-    {
-        "english": "fortification",
-        "tera": "cumad"
-    },
-    {
-        "english": "fealty",
-        "tera": "sipersed"
-    },
-    {
-        "english": "abbey",
-        "tera": "quod"
-    },
-    {
-        "english": "shield",
-        "tera": "necaut"
-    },
-    {
-        "english": "banner",
-        "tera": "quisil"
-    },
-    {
-        "english": "meadow",
-        "tera": "leego"
-    },
-    {
-        "english": "abbot",
-        "tera": "hico"
-    },
-    {
-        "english": "valor",
-        "tera": "mnis"
-    },
-    {
-        "english": "lord",
-        "tera": "tumeu"
-    },
-    {
-        "english": "squire",
-        "tera": "sisnos"
-    },
-    {
-        "english": "bishop",
-        "tera": "abquis"
-    },
-    {
-        "english": "knight",
-        "tera": "quamaliq"
-    },
-    {
-        "english": "gold",
-        "tera": "uiside"
-    },
-    {
-        "english": "crusade",
-        "tera": "msuus"
-    },
-    {
-        "english": "siege",
-        "tera": "ipsene"
-    },
-    {
-        "english": "monastery",
-        "tera": "monihi"
-    },
-    {
-        "english": "pilgrimage",
-        "tera": "lnequ"
-    },
-    {
-        "english": "chivalry",
-        "tera": "eali"
-    },
-    {
-        "english": "fief",
-        "tera": "usunus"
-    },
-    {
-        "english": "castle",
-        "tera": "tamen"
-    },
-    {
-        "english": "vassal",
-        "tera": "nuncq"
-    },
-    {
-        "english": "sword",
-        "tera": "uoque"
-    },
-    {
-        "english": "honor",
-        "tera": "veleti"
-    },
-    {
-        "english": "cross",
-        "tera": "amita"
-    },
-    {
-        "english": "chivalric",
-        "tera": "enimant"
-    },
-    {
-        "english": "cathedral",
-        "tera": "epost"
-    },
-    {
-        "english": "treason",
-        "tera": "interm"
-    },
-    {
-        "english": "manor",
-        "tera": "odoa"
-    },
-    {
-        "english": "garrison",
-        "tera": "utemta"
-    },
-    {
-        "english": "red",
-        "tera": "men"
-    },
-    {
-        "english": "chalice",
-        "tera": "sinenam"
-    },
-    {
-        "english": "piety",
-        "tera": "tumerg"
-    },
-    {
-        "english": "field",
-        "tera": "opro"
-    },
-    {
-        "english": "armor",
-        "tera": "eoigi"
-    },
-    {
-        "english": "knighthood",
-        "tera": "tursub"
-    },
-    {
-        "english": "banneret",
-        "tera": "dumatq"
-    },
-    {
-        "english": "bishopric",
-        "tera": "uequiss"
-    },
-    {
-        "english": "loyalty",
-        "tera": "quequi"
-    },
-    {
-        "english": "tournament",
-        "tera": "demnisi"
-    },
-    {
-        "english": "vigil",
-        "tera": "cumque"
-    },
-    {
-        "english": "serfdom",
-        "tera": "veroul"
-    },
-    {
-        "english": "blue",
-        "tera": "tracon"
-    },
-    {
-        "english": "abbess",
-        "tera": "trasi"
-    },
-    {
-        "english": "tithe",
-        "tera": "quidem"
-    },
-    {
-        "english": "rampart",
-        "tera": "fortequ"
-    },
-    {
-        "english": "chaplain",
-        "tera": "oniamq"
-    },
-    {
-        "english": "guild",
-        "tera": "uomo"
-    },
-    {
-        "english": "king",
-        "tera": "doqua"
-    },
-    {
-        "english": "truce",
-        "tera": "ndoaliq"
-    },
-    {
-        "english": "bailiff",
-        "tera": "uando"
-    },
-    {
-        "english": "friar",
-        "tera": "tant"
-    },
-    {
-        "english": "herald",
-        "tera": "umvix"
-    },
-    {
-        "english": "monk",
-        "tera": "sicutan"
-    },
-    {
-        "english": "oath",
-        "tera": "tequa"
-    },
-    {
-        "english": "fallow",
-        "tera": "mneveru"
-    },
-    {
-        "english": "duchy",
-        "tera": "mta"
-    },
-    {
-        "english": "yellow",
-        "tera": "mensa"
-    },
-    {
-        "english": "reliquary",
-        "tera": "epeite"
-    },
-    {
-        "english": "glass",
-        "tera": "rumiem"
-    },
-    {
-        "english": "courtly",
-        "tera": "nisiib"
-    },
-    {
-        "english": "green",
-        "tera": "iind"
-    },
-    {
-        "english": "flag",
-        "tera": "ehuc"
-    },
-    {
-        "english": "heraldry",
-        "tera": "adsuma"
-    },
-    {
-        "english": "fortress",
-        "tera": "bsumvid"
-    },
-    {
-        "english": "cloister",
-        "tera": "eoau"
-    },
-    {
-        "english": "penance",
-        "tera": "diove"
-    },
-    {
-        "english": "archbishop",
-        "tera": "nidoha"
-    },
-    {
-        "english": "vassalage",
-        "tera": "beofa"
-    },
-    {
-        "english": "palisade",
-        "tera": "ciodi"
-    },
-    {
-        "english": "catapult",
-        "tera": "copo"
-    },
-    {
-        "english": "trebuchet",
-        "tera": "nostoc"
-    },
-    {
-        "english": "steward",
-        "tera": "urromit"
-    },
-    {
-        "english": "heretic",
-        "tera": "tosu"
-    },
-    {
-        "english": "crusader",
-        "tera": "mferoa"
-    },
-    {
-        "english": "gilded",
-        "tera": "mohoc"
-    },
-    {
-        "english": "tower",
-        "tera": "aidee"
-    },
-    {
-        "english": "fresco",
-        "tera": "imisye"
-    },
-    {
-        "english": "abbotship",
-        "tera": "gohou"
-    },
-    {
-        "english": "drawbridge",
-        "tera": "tosau"
-    },
-    {
-        "english": "pennon",
-        "tera": "tosou"
-    },
-    {
-        "english": "battlement",
-        "tera": "tisle"
-    },
-    {
-        "english": "scutage",
-        "tera": "goei"
-    },
-    {
-        "english": "motte",
-        "tera": "senhos"
-    },
-    {
-        "english": "bailey",
-        "tera": "ouccme"
-    },
-    {
-        "english": "vassalage",
-        "tera": "tagare"
-    },
-    {
-        "english": "parish",
-        "tera": "aneih"
-    },
-    {
-        "english": "mass",
-        "tera": "eprosall"
-    },
-    {
-        "english": "rampart",
-        "tera": "aperihoti"
-    },
-    {
-        "english": "hermit",
-        "tera": "eccpash"
-    },
-    {
-        "english": "portcullis",
-        "tera": "inaca"
-    },
-    {
-        "english": "chapel",
-        "tera": "tahost"
-    },
-    {
-        "english": "serf",
-        "tera": "heospo"
-    },
-    {
-        "english": "vigilance",
-        "tera": "ieohou"
-    },
-    {
-        "english": "tiltyard",
-        "tera": "tosou"
-    },
-    {
-        "english": "peasant",
-        "tera": "dep"
-    },
-    {
-        "english": "holy",
-        "tera": "oeccast"
-    },
-    {
-        "english": "vigilance",
-        "tera": "osgeph"
-    },
-    {
-        "english": "scepter",
-        "tera": "emiapoc"
-    },
-    {
-        "english": "pasture",
-        "tera": "crinoma"
-    },
-    {
-        "english": "thane",
-        "tera": "iphero"
-    },
-    {
-        "english": "church",
-        "tera": "menohor"
-    },
-    {
-        "english": "archer",
-        "tera": "aogino"
-    },
-    {
-        "english": "keep",
-        "tera": "sccola"
-    },
-    {
-        "english": "creed",
-        "tera": "mbaoer"
-    },
-    {
-        "english": "covenant",
-        "tera": "chomaip"
-    },
-    {
-        "english": "armory",
-        "tera": "isteuoe"
-    },
-    {
-        "english": "chancel",
-        "tera": "thnosdo"
-    },
-    {
-        "english": "gate",
-        "tera": "ulosap"
-    },
-    {
-        "english": "friary",
-        "tera": "ostolosn"
-    },
-    {
-        "english": "catacomb",
-        "tera": "omosc"
-    },
-    {
-        "english": "bartizan",
-        "tera": "osmo"
-    },
-    {
-        "english": "titular",
-        "tera": "santhro"
-    },
-    {
-        "english": "scabbard",
-        "tera": "posenl"
-    },
-    {
-        "english": "choir",
-        "tera": "ogosan"
-    },
-    {
-        "english": "lye",
-        "tera": "eragap"
-    },
-    {
-        "english": "pilgrim",
-        "tera": "eergon"
-    },
-    {
-        "english": "gilding",
-        "tera": "adelph"
-    },
-    {
-        "english": "heraldic",
-        "tera": "ospneu"
-    },
-    {
-        "english": "priory",
-        "tera": "mabasi"
-    },
-    {
-        "english": "crenellation",
-        "tera": "leiama"
-    },
-    {
-        "english": "parapet",
-        "tera": "theteso"
-    },
-    {
-        "english": "moat",
-        "tera": "iccosph"
-    },
-    {
-        "english": "turret",
-        "tera": "osecc"
-    },
-    {
-        "english": "minstrel",
-        "tera": "einosp"
-    },
-    {
-        "english": "paladin",
-        "tera": "olisca"
-    },
-    {
-        "english": "sacrament",
-        "tera": "rdiaar"
-    },
-    {
-        "english": "scabbard",
-        "tera": "cheepa"
-    },
-    {
-        "english": "banner",
-        "tera": "ngelia"
-    },
-    {
-        "english": "pilgrim",
-        "tera": "somaa"
-    },
-    {
-        "english": "rampart",
-        "tera": "delph"
-    },
-    {
-        "english": "garden",
-        "tera": "epheme"
-    },
-    {
-        "english": "chivalrous",
-        "tera": "roncha"
-    },
-    {
-        "english": "sepulcher",
-        "tera": "ristha"
-    },
-    {
-        "english": "fresco",
-        "tera": "natosame"
-    },
-    {
-        "english": "cowl",
-        "tera": "npate"
-    },
-    {
-        "english": "presbytery",
-        "tera": "ruio"
-    },
-    {
-        "english": "tyrant",
-        "tera": "sdoron"
-    },
-    {
-        "english": "retinue",
-        "tera": "eleo"
-    },
-    {
-        "english": "liege",
-        "tera": "sergaso"
-    },
-    {
-        "english": "hirn",
-        "tera": "maipler"
-    },
-    {
-        "english": "pewter",
-        "tera": "oecoin"
-    },
-    {
-        "english": "caparison",
-        "tera": "oniaso"
-    },
-    {
-        "english": "furlong",
-        "tera": "teriae"
-    },
-    {
-        "english": "stewardship",
-        "tera": "uange"
-    },
-    {
-        "english": "chantry",
-        "tera": "lionh"
-    },
-    {
-        "english": "oath",
-        "tera": "emeraoi"
-    },
-    {
-        "english": "chieftain",
-        "tera": "dapist"
-    },
-    {
-        "english": "feast",
-        "tera": "isagg"
-    },
-    {
-        "english": "cloister",
-        "tera": "elosso"
-    },
-    {
-        "english": "squire",
-        "tera": "sopros"
-    },
-    {
-        "english": "overlord",
-        "tera": "euchoma"
-    },
-    {
-        "english": "oath",
-        "tera": "idyna"
-    },
-    {
-        "english": "helmet",
-        "tera": "misca"
-    },
-    {
-        "english": "lance",
-        "tera": "ccosca"
-    },
-    {
-        "english": "staff",
-        "tera": "thariso"
-    },
-    {
-        "english": "seal",
-        "tera": "diccaioe"
-    },
-    {
-        "english": "habit",
-        "tera": "escha"
-    },
-    {
-        "english": "yeoman",
-        "tera": "tospneum"
-    },
-    {
-        "english": "service",
-        "tera": "aticcos"
-    },
-    {
-        "english": "standard",
-        "tera": "diccaios"
-    },
-    {
-        "english": "pilgrimage",
-        "tera": "hamar"
-    },
-    {
-        "english": "bell",
-        "tera": "tia"
-    },
-    {
-        "english": "arming",
-        "tera": "onquiu"
-    },
-    {
-        "english": "tapestry",
-        "tera": "tcuma"
-    },
-    {
-        "english": "wall",
-        "tera": "dsiper"
-    },
-    {
-        "english": "monk",
-        "tera": "edquod"
-    },
-    {
-        "english": "clearing",
-        "tera": "necautq"
-    },
-    {
-        "english": "robe",
-        "tera": "uisill"
-    },
-    {
-        "english": "staff",
-        "tera": "eego"
-    },
-    {
-        "english": "gatehouse",
-        "tera": "hicomn"
-    },
-    {
-        "english": "hallowed",
-        "tera": "istum"
-    },
-    {
-        "english": "refectory",
-        "tera": "eusisn"
-    },
-    {
-        "english": "altar",
-        "tera": "osabqu"
-    },
-    {
-        "english": "chapter",
-        "tera": "isqua"
-    },
-    {
-        "english": "chapel",
-        "tera": "maliqui"
-    },
-    {
-        "english": "love",
-        "tera": "sidems"
-    },
-    {
-        "english": "heart",
-        "tera": "uusip"
-    },
-    {
-        "english": "kiss",
-        "tera": "senem"
-    },
-    {
-        "english": "embrace",
-        "tera": "onihiln"
-    },
-    {
-        "english": "passion",
-        "tera": "equea"
-    },
-    {
-        "english": "affection",
-        "tera": "lius"
-    },
-    {
-        "english": "desire",
-        "tera": "unusta"
-    },
-    {
-        "english": "adoration",
-        "tera": "mennun"
-    },
-    {
-        "english": "admire",
-        "tera": "cquoqu"
-    },
-    {
-        "english": "attraction",
-        "tera": "eveletia"
-    },
-    {
-        "english": "beauty",
-        "tera": "mitae"
-    },
-    {
-        "english": "charm",
-        "tera": "nimante"
-    },
-    {
-        "english": "grace",
-        "tera": "postin"
-    },
-    {
-        "english": "elegance",
-        "tera": "term"
-    },
-    {
-        "english": "gorgeous",
-        "tera": "odoau"
-    },
-    {
-        "english": "stunning",
-        "tera": "temtame"
-    },
-    {
-        "english": "radiant",
-        "tera": "nsinena"
-    },
-    {
-        "english": "lovely",
-        "tera": "mtumerg"
-    },
-    {
-        "english": "allure",
-        "tera": "oproei"
-    },
-    {
-        "english": "bliss",
-        "tera": "gitursu"
-    },
-    {
-        "english": "bouquet",
-        "tera": "bdu"
-    },
-    {
-        "english": "blossom",
-        "tera": "matqueq"
-    },
-    {
-        "english": "petal",
-        "tera": "uisqueq"
-    },
-    {
-        "english": "rose",
-        "tera": "uidem"
-    },
-    {
-        "english": "lily",
-        "tera": "nisic"
-    },
-    {
-        "english": "tulip",
-        "tera": "umqueve"
-    },
-    {
-        "english": "daisy",
-        "tera": "roultr"
-    },
-    {
-        "english": "orchid",
-        "tera": "acontra"
-    },
-    {
-        "english": "violet",
-        "tera": "sique"
-    },
-    {
-        "english": "jasmine",
-        "tera": "demfo"
-    },
-    {
-        "english": "lavender",
-        "tera": "rtequon"
-    },
-    {
-        "english": "daffodil",
-        "tera": "iamquomo"
-    },
-    {
-        "english": "sunflower",
-        "tera": "doqua"
-    },
-    {
-        "english": "iris",
-        "tera": "ndoaliq"
-    },
-    {
-        "english": "poppy",
-        "tera": "uandot"
-    },
-    {
-        "english": "peony",
-        "tera": "antum"
-    },
-    {
-        "english": "marigold",
-        "tera": "vixsicu"
-    },
-    {
-        "english": "chrysanthemum",
-        "tera": "tanteq"
-    },
-    {
-        "english": "romance",
-        "tera": "uamneve"
-    },
-    {
-        "english": "candlelight",
-        "tera": "rumtame"
-    },
-    {
-        "english": "serenade",
-        "tera": "nsaepe"
-    },
-    {
-        "english": "poetry",
-        "tera": "iterumi"
-    },
-    {
-        "english": "rosebud",
-        "tera": "amnisiib"
-    },
-    {
-        "english": "gardenia",
-        "tera": "iindeh"
-    },
-    {
-        "english": "honeysuckle",
-        "tera": "ucadsu"
-    },
-    {
-        "english": "magnolia",
-        "tera": "mabsum"
-    },
-    {
-        "english": "pansy",
-        "tera": "videoa"
-    },
-    {
-        "english": "primrose",
-        "tera": "udiove"
-    },
-    {
-        "english": "camellia",
-        "tera": "niodoha"
-    },
-    {
-        "english": "buttercup",
-        "tera": "beofac"
-    },
-    {
-        "english": "dahlia",
-        "tera": "iodicop"
-    },
-    {
-        "english": "begonia",
-        "tera": "onosto"
-    },
-    {
-        "english": "sweetheart",
-        "tera": "curromit"
-    },
-    {
-        "english": "valentine",
-        "tera": "tosumf"
-    },
-    {
-        "english": "caress",
-        "tera": "eroamoh"
-    },
-    {
-        "english": "lover",
-        "tera": "ocaide"
-    },
-    {
-        "english": "cupid",
-        "tera": "eimisy"
-    },
-    {
-        "english": "smitten",
-        "tera": "egohou"
-    },
-    {
-        "english": "rosemary",
-        "tera": "tosauto"
-    },
-    {
-        "english": "aroma",
-        "tera": "soutis"
-    },
-    {
-        "english": "fragrance",
-        "tera": "legoei"
-    },
-    {
-        "english": "perfume",
-        "tera": "senhosou"
-    },
-    {
-        "english": "enchant",
-        "tera": "ccmetaga"
-    },
-    {
-        "english": "sparkle",
-        "tera": "reane"
-    },
-    {
-        "english": "glow",
-        "tera": "ihepros"
-    },
-    {
-        "english": "adorn",
-        "tera": "allaperi"
-    },
-    {
-        "english": "rosy",
-        "tera": "hotiec"
-    },
-    {
-        "english": "blush",
-        "tera": "cpashi"
-    },
-    {
-        "english": "silk",
-        "tera": "nacatah"
-    },
-    {
-        "english": "lace",
-        "tera": "osthe"
-    },
-    {
-        "english": "velvet",
-        "tera": "ospoi"
-    },
-    {
-        "english": "delicate",
-        "tera": "eohouto"
-    },
-    {
-        "english": "tender",
-        "tera": "soudep"
-    },
-    {
-        "english": "flower",
-        "tera": "eohou"
-    },
-    {
-        "english": "ethereal",
-        "tera": "oec"
-    },
-    {
-        "english": "whisper",
-        "tera": "castosg"
-    },
-    {
-        "english": "gentle",
-        "tera": "ephemiap"
-    },
-    {
-        "english": "soft",
-        "tera": "occ"
-    },
-    {
-        "english": "intimate",
-        "tera": "rinomai"
-    },
-    {
-        "english": "devotion",
-        "tera": "pherom"
-    },
-    {
-        "english": "endearment",
-        "tera": "enohorao"
-    },
-    {
-        "english": "beloved",
-        "tera": "ginosc"
-    },
-    {
-        "english": "harmony",
-        "tera": "colamba"
-    },
-    {
-        "english": "union",
-        "tera": "noerch"
-    },
-    {
-        "english": "soulmate",
-        "tera": "omaipis"
-    },
-    {
-        "english": "soul",
-        "tera": "omai"
-    },
-    {
-        "english": "admiration",
-        "tera": "teuoe"
-    },
-    {
-        "english": "amour",
-        "tera": "hnosdou"
-    },
-    {
-        "english": "bashful",
-        "tera": "losaposto"
-    },
-    {
-        "english": "beauteous",
-        "tera": "losnomo"
-    },
-    {
-        "english": "beloved",
-        "tera": "scosmosa"
-    },
-    {
-        "english": "benevolent",
-        "tera": "nthropos"
-    },
-    {
-        "english": "blissful",
-        "tera": "enlogosa"
-    },
-    {
-        "english": "cherish",
-        "tera": "neraga"
-    },
-    {
-        "english": "compassion",
-        "tera": "peergon"
-    },
-    {
-        "english": "courtship",
-        "tera": "adelph"
-    },
-    {
-        "english": "crush",
-        "tera": "ospneu"
-    },
-    {
-        "english": "dainty",
-        "tera": "mabas"
-    },
-    {
-        "english": "darling",
-        "tera": "ileiamat"
-    },
-    {
-        "english": "dear",
-        "tera": "hetesoic"
-    },
-    {
-        "english": "delight",
-        "tera": "cosp"
-    },
-    {
-        "english": "desirable",
-        "tera": "hosecc"
-    },
-    {
-        "english": "dreamy",
-        "tera": "einosp"
-    },
-    {
-        "english": "embraceable",
-        "tera": "oliscar"
-    },
-    {
-        "english": "endearing",
-        "tera": "diaar"
-    },
-    {
-        "english": "enthrall",
-        "tera": "cheepa"
-    },
-    {
-        "english": "entranced",
-        "tera": "ngelia"
-    },
-    {
-        "english": "fascinate",
-        "tera": "somaade"
-    },
-    {
-        "english": "fiery",
-        "tera": "lpheephe"
-    },
-    {
-        "english": "flirt",
-        "tera": "meronch"
-    },
-    {
-        "english": "fond",
-        "tera": "arist"
-    },
-    {
-        "english": "glimmer",
-        "tera": "hanato"
-    },
-    {
-        "english": "glisten",
-        "tera": "same"
-    },
-    {
-        "english": "graceful",
-        "tera": "npater"
-    },
-    {
-        "english": "handsome",
-        "tera": "uiosdo"
-    },
-    {
-        "english": "idyllic",
-        "tera": "ronele"
-    },
-    {
-        "english": "infatuation",
-        "tera": "osergas"
-    },
-    {
-        "english": "intimacy",
-        "tera": "omaipl"
-    },
-    {
-        "english": "luscious",
-        "tera": "eroe"
-    },
-    {
-        "english": "lustrous",
-        "tera": "coinoni"
-    },
-    {
-        "english": "mesmerize",
-        "tera": "asoter"
-    },
-    {
-        "english": "nurturing",
-        "tera": "iaeuan"
-    },
-    {
-        "english": "passionate",
-        "tera": "gelion"
-    },
-    {
-        "english": "radiance",
-        "tera": "hemera"
-    },
-    {
-        "english": "rapport",
-        "tera": "oidapist"
-    },
-    {
-        "english": "joy",
-        "tera": "odai"
-    },
-    {
-        "english": "state",
-        "tera": "pesse"
-    },
-    {
-        "english": "reverie",
-        "tera": "isaggel"
-    },
-    {
-        "english": "rapture",
-        "tera": "ossos"
-    },
-    {
-        "english": "song",
-        "tera": "endo"
-    },
-    {
-        "english": "rhapsody",
-        "tera": "ossosendo"
-    },
-    {
-        "english": "sentimental",
-        "tera": "opro"
-    },
-    {
-        "english": "sincere",
-        "tera": "euchom"
-    },
-    {
-        "english": "spontaneous",
-        "tera": "aidyna"
-    },
-    {
-        "english": "sublime",
-        "tera": "miscac"
-    },
-    {
-        "english": "tenderness",
-        "tera": "coscat"
-    },
-    {
-        "english": "treasure",
-        "tera": "hariso"
-    },
-    {
-        "english": "yearning",
-        "tera": "dicca"
-    },
-    {
-        "english": "fortunate",
-        "tera": "ioeesch"
-    },
-    {
-        "english": "pretty",
-        "tera": "atospne"
-    },
-    {
-        "english": "strong",
-        "tera": "umaticc"
-    },
-    {
-        "english": "weak",
-        "tera": "osdicca"
-    },
-    {
-        "english": "wait",
-        "tera": "arend"
-    },
-    {
-        "english": "water",
-        "tera": "iosha"
-    },
-    {
-        "english": "martia",
-        "tera": "mountain"
-    },
-    {
-        "english": "away",
-        "tera": "lanate"
-    },
-    {
-        "english": "we",
-        "tera": "ham"
-    },
-    {
-        "english": "for",
-        "tera": "ter"
-    },
-    {
-        "english": "be",
-        "tera": "come"
-    },
-    {
-        "english": "by",
-        "tera": "im"
-    },
-    {
-        "english": "him",
-        "tera": "gen"
-    },
-    {
-        "english": "she",
-        "tera": "ne"
-    },
-    {
-        "english": "he",
-        "tera": "ge"
-    },
-    {
-        "english": "his",
-        "tera": "genet"
-    },
-    {
-        "english": "hers",
-        "tera": "nuwet"
-    },
-    {
-        "english": "her",
-        "tera": "nul"
-    },
-    {
-        "english": "them",
-        "tera": "gem"
-    },
-    {
-        "english": "is",
-        "tera": "a"
-    },
-    {
-        "english": "ideology",
-        "tera": "minaiaxon"
-    },
-    {
-        "english": "random",
-        "tera": "wila"
-    },
-    {
-        "english": "seem",
-        "tera": "eayea"
-    },
-    {
-        "english": "see",
-        "tera": "eay"
-    },
-    {
-        "english": "economy",
-        "tera": "cunesdem"
-    },
-    {
-        "english": "order",
-        "tera": "cune"
-    },
-    {
-        "english": "speak",
-        "tera": "ecce"
-    },
-    {
-        "english": "spoken",
-        "tera": "eccen"
-    },
-    {
-        "english": "trade",
-        "tera": "fas"
-    },
-    {
-        "english": "culture",
-        "tera": "genemet"
-    },
-    {
-        "english": "liberal",
-        "tera": "pannaram"
-    },
-    {
-        "english": "free",
-        "tera": "panna"
-    },
-    {
-        "english": "conservative",
-        "tera": "strineram"
-    },
-    {
-        "english": "close",
-        "tera": "strine"
-    },
-    {
-        "english": "gender",
-        "tera": "angiba"
-    },
-    {
-        "english": "ethnicity",
-        "tera": "kilosista"
-    },
-    {
-        "english": "spoken",
-        "tera": "eccen"
-    },
-    {
-        "english": "unspoken",
-        "tera": "isacwen"
-    },
-    {
-        "english": "friend",
-        "tera": "eagem"
-    },
-    {
-        "english": "general",
-        "tera": "ovoresta"
-    },
-    {
-        "english": "broad",
-        "tera": "ovor"
-    },
-    {
-        "english": "intellect",
-        "tera": "bricidemet"
-    },
-    {
-        "english": "strategy",
-        "tera": "bridicemet"
-    },
-    {
-        "english": "calculate",
-        "tera": "bridic"
-    },
-    {
-        "english": "heart",
-        "tera": "core"
-    },
-    {
-        "english": "argue",
-        "tera": "brid"
-    },
-    {
-        "english": "blood",
-        "tera": "treha"
-    },
-    {
-        "english": "without",
-        "tera": "ohan"
-    },
-    {
-        "english": "male",
-        "tera": "ohan"
-    },
-    {
-        "english": "female",
-        "tera": "ankayan"
-    },
-    {
-        "english": "have",
-        "tera": "an"
-    },
-    {
-        "english": "state",
-        "tera": "ista"
-    },
-    {
-        "english": "ness",
-        "tera": "emet"
-    },
-    {
-        "english": "ment",
-        "tera": "esta"
-    },
-    {
-        "english": "ion",
-        "tera": "eprem"
-    },
-    {
-        "english": "thing",
-        "tera": "esdem"
-    },
-    {
-        "english": "child",
-        "tera": "kayan"
-    },
-    {
-        "english": "god",
-        "tera": "el"
-    },
-    {
-        "english": "lord",
-        "tera": "ysians"
-    },
-    {
-        "english": "city",
-        "tera": "erap"
-    },
-    {
-        "english": "council",
-        "tera": "hiquintess"
-    },
-    {
-        "english": "glory",
-        "tera": "enceamarant"
-    },
-    {
-        "english": "blazing",
-        "tera": "enceamel"
-    },
-    {
-        "english": "defeat",
-        "tera": "hineparad"
-    },
-    {
-        "english": "shining",
-        "tera": "oriamel"
-    },
-    {
-        "english": "weed",
-        "tera": "limeen"
-    },
-    {
-        "english": "fort",
-        "tera": "igmac"
-    },
-    {
-        "english": "hero",
-        "tera": "elysi"
-    },
-    {
-        "english": "ing",
-        "tera": "mel"
-    },
-    {
-        "english": "travel",
-        "tera": "andesce"
-    },
-    {
-        "english": "clown",
-        "tera": "iszephy"
-    },
-    {
-        "english": "ly",
-        "tera": "rri"
-    },
-    {
-        "english": "party",
-        "tera": "pepale"
-    },
-    {
-        "english": "family",
-        "tera": "syn"
-    },
-    {
-        "english": "duel",
-        "tera": "ecdoche"
-    },
-    {
-        "english": "flirt",
-        "tera": "velve"
-    },
-    {
-        "english": "shine",
-        "tera": "oria"
-    },
-    {
-        "english": "blaze",
-        "tera": "encea"
-    },
-    {
-        "english": "smoke",
-        "tera": "ashae"
-    },
-    {
-        "english": "free",
-        "tera": "erol"
-    },
-    {
-        "english": "dom",
-        "tera": "tem"
-    },
-    {
-        "english": "hood",
-        "tera": "eteam"
-    },
-    {
-        "english": "hot",
-        "tera": "eish"
-    },
-    {
-        "english": "cold",
-        "tera": "irid"
-    },
-    {
-        "english": "warm",
-        "tera": "erebe"
-    },
-    {
-        "english": "cool",
-        "tera": "inen"
-    },
-    {
-        "english": "winter",
-        "tera": "sesene"
-    },
-    {
-        "english": "summer",
-        "tera": "viridae"
-    },
-    {
-        "english": "spring",
-        "tera": "fosle"
-    },
-    {
-        "english": "fall",
-        "tera": "arde"
-    },
-    {
-        "english": "ed",
-        "tera": "cap"
-    },
-    {
-        "english": "be",
-        "tera": "re"
-    },
-    {
-        "english": "acknowledgment",
-        "tera": "adow"
-    },
-    {
-        "english": "acknowledge",
-        "tera": "adowe"
-    },
-    {
-        "english": "hardtack",
-        "tera": "ccrim"
-    },
-    {
-        "english": "reconnoiter",
-        "tera": "sonscare"
-    },
-    {
-        "english": "report",
-        "tera": "sconsar"
-    },
-    {
-        "english": "mound",
-        "tera": "lethia"
-    },
-    {
-        "english": "pile",
-        "tera": "lethiere"
-    },
-    {
-        "english": "blow",
-        "tera": "roscuron"
-    },
-    {
-        "english": "strike",
-        "tera": "rose"
-    },
-    {
-        "english": "mark",
-        "tera": "curon"
-    },
-    {
-        "english": "evening",
-        "tera": "ebulous"
-    },
-    {
-        "english": "barrier",
-        "tera": "noctur"
-    },
-    {
-        "english": "goblin",
-        "tera": "neglim"
-    },
-    {
-        "english": "grass",
-        "tera": "psesec"
-    },
-    {
-        "english": "display",
-        "tera": "retsand"
-    },
-    {
-        "english": "idea",
-        "tera": "minai"
-    },
-    {
-        "english": "bronze",
-        "tera": "hebet"
-    },
-    {
-        "english": "open",
-        "tera": "eper"
-    },
-    {
-        "english": "donkey",
-        "tera": "udole"
-    },
-    {
-        "english": "rous",
-        "tera": "res"
-    },
-    {
-        "english": "lry",
-        "tera": "lmer"
-    }
+    { "english": "a", "tera": "li" },
+    { "english": "abbess", "tera": "trasi" },
+    { "english": "abbey", "tera": "quod" },
+    { "english": "abbey chapter", "tera": "isqua" },
+    { "english": "abbot", "tera": "hico" },
+    { "english": "abbotship", "tera": "gohou" },
+    { "english": "about", "tera": "loon" },
+    { "english": "above", "tera": "eti" },
+    { "english": "above", "tera": "hu" },
+    { "english": "absolute", "tera": "hiseur" },
+    { "english": "absolutely", "tera": "hiseursin" },
+    { "english": "omnipotent", "tera": "alidusin" },
+    { "english": "ransom", "tera": "ie­cur" },
+    { "english": "definitive", "tera": "vic­ta­rum" },
+    { "english": "academic", "tera": "spercornua" },
+    { "english": "accent", "tera": "sault" },
+    { "english": "acceptable", "tera": "watch noda" },
+    { "english": "acceptance", "tera": "egbasys" },
+    { "english": "accident", "tera": "goreside" },
+    { "english": "acciperet", "tera": "acciperet" },
+    { "english": "accounting", "tera": "di­cen­tem" },
+    { "english": "accounting", "tera": "co­ni­u­ge" },
+    { "english": "accuracy", "tera": "eusfemin" },
+    { "english": "accuracy", "tera": "cturbaeme" },
+    { "english": "accuracy", "tera": "tuvacuu" },
+    { "english": "accurately", "tera": "modotexe" },
+    { "english": "accurately", "tera": "ttristisque" },
+    { "english": "acknowledge", "tera": "adowe" },
+    { "english": "acknowledgment", "tera": "adow" },
+    { "english": "act", "tera": "the" },
+    { "english": "activity", "tera": "ruitillo" },
+    { "english": "ad", "tera": "u" },
+    { "english": "addition", "tera": "suequod" },
+    { "english": "addition", "tera": "amenard" },
+    { "english": "addition", "tera": "nuesque" },
+    { "english": "adjust", "tera": "tin" },
+    { "english": "adjustment", "tera": "isbrev" },
+    { "english": "admiration", "tera": "teuoe" },
+    { "english": "admire", "tera": "cquoqu" },
+    { "english": "adolescent", "tera": "alityn" },
+    { "english": "adoption", "tera": "cesetaqu" },
+    { "english": "adoration", "tera": "mennun" },
+    { "english": "adore", "tera": "imae" },
+    { "english": "adorn", "tera": "allaperi" },
+    { "english": "advance", "tera": "erese" },
+    { "english": "advanced", "tera": "lishastise" },
+    { "english": "advantage", "tera": "bullasupe" },
+    { "english": "adventure", "tera": "rboreafri" },
+    { "english": "advice", "tera": "ainef" },
+    { "english": "affect", "tera": "ideor" },
+    { "english": "affection", "tera": "lius" },
+    { "english": "afford", "tera": "eli" },
+    { "english": "afraid", "tera": "ces" },
+    { "english": "afternoon", "tera": "setfra" },
+    { "english": "afternoon", "tera": "snuncarborpu" },
+    { "english": "afternoon", "tera": "que­re­re­tur" },
+    { "english": "afterward", "tera": "cacumine" },
+    { "english": "afuerunt", "tera": "afuerunt" },
+    { "english": "against", "tera": "ded" },
+    { "english": "against", "tera": "oen" },
+    { "english": "age", "tera": "es" },
+    { "english": "aggression", "tera": "rylifr" },
+    { "english": "aggression", "tera": "aerini" },
+    { "english": "aggressive", "tera": "sgratusera" },
+    { "english": "agree", "tera": "nal" },
+    { "english": "agreement", "tera": "utilish" },
+    { "english": "ahead", "tera": "enci" },
+    { "english": "aid", "tera": "an" },
+    { "english": "aid", "tera": "po" },
+    { "english": "aid", "tera": "ia" },
+    { "english": "aid", "tera": "lu" },
+    { "english": "aid", "tera": "as" },
+    { "english": "air", "tera": "ki" },
+    { "english": "aircraft", "tera": "adeummatr" },
+    { "english": "airplane", "tera": "oec" },
+    { "english": "al", "tera": "ge" },
+    { "english": "album", "tera": "geat" },
+    { "english": "alien", "tera": "sem" },
+    { "english": "all", "tera": "li" },
+    { "english": "all", "tera": "on" },
+    { "english": "all", "tera": "um" },
+    { "english": "allegation", "tera": "oquefle" },
+    { "english": "allegiance", "tera": "nquiut" },
+    { "english": "allure", "tera": "oproei" },
+    { "english": "ally", "tera": "il­le" },
+    { "english": "alongside", "tera": "arubent" },
+    { "english": "also", "tera": "vey" },
+    { "english": "altar", "tera": "empav" },
+    { "english": "altar", "tera": "osabqu" },
+    { "english": "altogether", "tera": "eratmul" },
+    { "english": "amans", "tera": "amans" },
+    { "english": "amazing", "tera": "acier" },
+    { "english": "ambassador", "tera": "sineppe" },
+    { "english": "ambassador", "tera": "tnervistempe" },
+    { "english": "ambition", "tera": "caldicent" },
+    { "english": "ambition", "tera": "indurui" },
+    { "english": "amendment", "tera": "amenard" },
+    { "english": "amendment", "tera": "isbrev" },
+    { "english": "american", "tera": "miapalma" },
+    { "english": "American", "tera": "outubec" },
+    { "english": "amitam", "tera": "amitam" },
+    { "english": "among", "tera": "recen" },
+    { "english": "amount", "tera": "nch" },
+    { "english": "amour", "tera": "hnosdou" },
+    { "english": "analysis", "tera": "aepulche" },
+    { "english": "ancestor", "tera": "ruitillo" },
+    { "english": "ancestor", "tera": "cer­tans" },
+    { "english": "ancient", "tera": "refri" },
+    { "english": "angel", "tera": "itaa" },
+    { "english": "angel", "tera": "alotos" },
+    { "english": "anger", "tera": "hal" },
+    { "english": "anger", "tera": "hala" },
+    { "english": "animal", "tera": "lal" },
+    { "english": "anonymous", "tera": "nteretige" },
+    { "english": "another", "tera": "neb" },
+    { "english": "another", "tera": "vis" },
+    { "english": "answer", "tera": "igur" },
+    { "english": "ant", "tera": "beofac" },
+    { "english": "antagonize", "tera": "ole" },
+    { "english": "anticipate", "tera": "emollesne" },
+    { "english": "anxiety", "tera": "kuh" },
+    { "english": "any", "tera": "ete" },
+    { "english": "anymore", "tera": "sadve" },
+    { "english": "anyone", "tera": "sas" },
+    { "english": "anything", "tera": "etea" },
+    { "english": "anywhere", "tera": "pampinea" },
+    { "english": "apart", "tera": "ketin" },
+    { "english": "apologize", "tera": "purpurei" },
+    { "english": "apology", "tera": "dea" },
+    { "english": "appeal", "tera": "fila" },
+    { "english": "appear", "tera": "com" },
+    { "english": "appearance", "tera": "eodile" },
+    { "english": "appearance", "tera": "strial" },
+    { "english": "apple", "tera": "bitu" },
+    { "english": "apple", "tera": "sidems" },
+    { "english": "appreciate", "tera": "iadumnon" },
+    { "english": "approach", "tera": "ar­ri­pit" },
+    { "english": "approach", "tera": "ac­ci­pe­ret" },
+    { "english": "apron", "tera": "cosp" },
+    { "english": "archbishop", "tera": "nidoha" },
+    { "english": "archbishop", "tera": "niodoha" },
+    { "english": "archer", "tera": "aogino" },
+    { "english": "arena", "tera": "dit" },
+    { "english": "argue", "tera": "brid" },
+    { "english": "argument", "tera": "ibushae" },
+    { "english": "arming", "tera": "onquiu" },
+    { "english": "arming sword", "tera": "onquiu" },
+    { "english": "armor", "tera": "garan" },
+    { "english": "armor", "tera": "eoigi" },
+    { "english": "armory", "tera": "isteuoe" },
+    { "english": "army", "tera": "them" },
+    { "english": "aroma", "tera": "soutis" },
+    { "english": "array", "tera": "stru" },
+    { "english": "array", "tera": "tion" },
+    { "english": "arrest", "tera": "sic" },
+    { "english": "arrow", "tera": "oidapist" },
+    { "english": "art", "tera": "of" },
+    { "english": "articulate", "tera": "a­vi­dus­que" },
+    { "english": "artifact", "tera": "eresed" },
+    { "english": "as", "tera": "nt" },
+    { "english": "as", "tera": "ta" },
+    { "english": "as", "tera": "urn" },
+    { "english": "as", "tera": "avern" },
+    { "english": "ash", "tera": "tu" },
+    { "english": "ash", "tera": "an" },
+    { "english": "aside", "tera": "oran" },
+    { "english": "aside", "tera": "il­la" },
+    { "english": "aspect", "tera": "lix" },
+    { "english": "assemble", "tera": "ave­rn­as" },
+    { "english": "assessment", "tera": "scornuafu" },
+    { "english": "asset", "tera": "procul" },
+    { "english": "assign", "tera": "ogr" },
+    { "english": "assistance", "tera": "tusetbac" },
+    { "english": "associate", "tera": "aerini" },
+    { "english": "associate", "tera": "veapende" },
+    { "english": "associated", "tera": "ncisco" },
+    { "english": "associated", "tera": "odopen" },
+    { "english": "associated", "tera": "annanoshi" },
+    { "english": "assumption", "tera": "cebasfonti" },
+    { "english": "assumption", "tera": "cesetaqu" },
+    { "english": "astronomer", "tera": "ssolisque" },
+    { "english": "astronomer", "tera": "nanteriw" },
+    { "english": "ate", "tera": "uwen" },
+    { "english": "atmosphere", "tera": "pavorede" },
+    { "english": "atop", "tera": "ane" },
+    { "english": "attack", "tera": "phen" },
+    { "english": "attention", "tera": "reiferve" },
+    { "english": "attention", "tera": "liosade" },
+    { "english": "attitude", "tera": "itesetamict" },
+    { "english": "attraction", "tera": "patentibu" },
+    { "english": "attraction", "tera": "eveletia" },
+    { "english": "authority", "tera": "evertice" },
+    { "english": "auto", "tera": "toli" },
+    { "english": "autonomy", "tera": "ineaev" },
+    { "english": "avidusque", "tera": "avidusque" },
+    { "english": "award", "tera": "xleth" },
+    { "english": "aware", "tera": "ura" },
+    { "english": "awareness", "tera": "demcybel" },
+    { "english": "away", "tera": "lan" },
+    { "english": "away", "tera": "lanate" },
+    { "english": "ba", "tera": "ver" },
+    { "english": "baby", "tera": "enb" },
+    { "english": "baby", "tera": "sum" },
+    { "english": "back", "tera": "nit" },
+    { "english": "bacteria", "tera": "pri­mum" },
+    { "english": "bad", "tera": "she" },
+    { "english": "bad", "tera": "gu" },
+    { "english": "bag", "tera": "d" },
+    { "english": "bailey", "tera": "ouccme" },
+    { "english": "bailiff", "tera": "uando" },
+    { "english": "bake", "tera": "diy" },
+    { "english": "bake", "tera": "tien" },
+    { "english": "baker", "tera": "uusip" },
+    { "english": "balance", "tera": "cit" },
+    { "english": "balanced", "tera": "ulisfu" },
+    { "english": "balanced", "tera": "abiescurv" },
+    { "english": "balanced", "tera": "inusuti" },
+    { "english": "ball", "tera": "rity" },
+    { "english": "banker", "tera": "osum" },
+    { "english": "banking", "tera": "sol" },
+    { "english": "banner", "tera": "quisil" },
+    { "english": "banner", "tera": "ngelia" },
+    { "english": "banneret", "tera": "dumatq" },
+    { "english": "bant", "tera": "fle" },
+    { "english": "bar", "tera": "am" },
+    { "english": "bar", "tera": "xend" },
+    { "english": "bar", "tera": "x" },
+    { "english": "barely", "tera": "kan" },
+    { "english": "barn", "tera": "cep" },
+    { "english": "barrier", "tera": "noctur" },
+    { "english": "bartizan", "tera": "osmo" },
+    { "english": "base", "tera": "per" },
+    { "english": "bashful", "tera": "losaposto" },
+    { "english": "basic", "tera": "imaeq" },
+    { "english": "basket", "tera": "pau" },
+    { "english": "basketball", "tera": "tecapilli" },
+    { "english": "bath", "tera": "dno" },
+    { "english": "battle standard", "tera": "diccaios" },
+    { "english": "battlement", "tera": "tisle" },
+    { "english": "be", "tera": "la" },
+    { "english": "be", "tera": "ni" },
+    { "english": "be", "tera": "come" },
+    { "english": "be", "tera": "re" },
+    { "english": "beach", "tera": "inta" },
+    { "english": "bear", "tera": "ussqu" },
+    { "english": "bear", "tera": "shel" },
+    { "english": "bear", "tera": "bit" },
+    { "english": "bear", "tera": "iodicop" },
+    { "english": "bear (animal)", "tera": "ussqu" },
+    { "english": "beauteous", "tera": "losnomo" },
+    { "english": "beautiful", "tera": "aylora" },
+    { "english": "beautiful", "tera": "ederaev" },
+    { "english": "beauty", "tera": "mitae" },
+    { "english": "beer", "tera": "elg" },
+    { "english": "beetle", "tera": "hosecc" },
+    { "english": "begin", "tera": "vit" },
+    { "english": "beginning", "tera": "onerata" },
+    { "english": "begonia", "tera": "onosto" },
+    { "english": "behavior", "tera": "val­les" },
+    { "english": "belief", "tera": "queit" },
+    { "english": "believe", "tera": "acke" },
+    { "english": "believe", "tera": "came" },
+    { "english": "belittle", "tera": "egeriga" },
+    { "english": "bell", "tera": "den" },
+    { "english": "bell", "tera": "tia" },
+    { "english": "belong", "tera": "manal" },
+    { "english": "beloved", "tera": "ginosc" },
+    { "english": "beloved", "tera": "scosmosa" },
+    { "english": "belt", "tera": "quam" },
+    { "english": "benevolent", "tera": "nthropos" },
+    { "english": "beside", "tera": "didu" },
+    { "english": "best", "tera": "taedo" },
+    { "english": "best", "tera": "fice" },
+    { "english": "bet", "tera": "is" },
+    { "english": "between", "tera": "inet" },
+    { "english": "between", "tera": "tindu" },
+    { "english": "bicycle", "tera": "castosg" },
+    { "english": "billion", "tera": "cro" },
+    { "english": "biological", "tera": "rfrontemparvi" },
+    { "english": "biological", "tera": "obsucor" },
+    { "english": "biology", "tera": "emta" },
+    { "english": "bird", "tera": "ovirens" },
+    { "english": "birth", "tera": "tema" },
+    { "english": "birthday", "tera": "ncavalito" },
+    { "english": "birthday", "tera": "ur­nis­que" },
+    { "english": "bishop", "tera": "kuh" },
+    { "english": "bishop", "tera": "abquis" },
+    { "english": "bishopric", "tera": "uequiss" },
+    { "english": "bishopric", "tera": "uequis" },
+    { "english": "bit", "tera": "ry" },
+    { "english": "bit", "tera": "ia" },
+    { "english": "bit", "tera": "bi" },
+    { "english": "bit", "tera": "al" },
+    { "english": "bite", "tera": "tspa" },
+    { "english": "black", "tera": "kalo" },
+    { "english": "blade", "tera": "tices" },
+    { "english": "blame", "tera": "ity" },
+    { "english": "blank", "tera": "lrec" },
+    { "english": "blaze", "tera": "encea" },
+    { "english": "blazing", "tera": "enceamel" },
+    { "english": "blend", "tera": "olaeq" },
+    { "english": "bliss", "tera": "gitursu" },
+    { "english": "blissful", "tera": "enlogosa" },
+    { "english": "blood", "tera": "bris" },
+    { "english": "blood", "tera": "treha" },
+    { "english": "blossom", "tera": "matqueq" },
+    { "english": "blow", "tera": "remar" },
+    { "english": "blow", "tera": "roscuron" },
+    { "english": "blue", "tera": "gopa" },
+    { "english": "blue", "tera": "tracon" },
+    { "english": "blush", "tera": "cpashi" },
+    { "english": "boast", "tera": "man" },
+    { "english": "boat", "tera": "riaque" },
+    { "english": "body", "tera": "cal" },
+    { "english": "boil", "tera": "comas" },
+    { "english": "bomb", "tera": "ulsa" },
+    { "english": "bomb", "tera": "tedre" },
+    { "english": "bombing", "tera": "ser" },
+    { "english": "book", "tera": "fidem" },
+    { "english": "boot", "tera": "arduus" },
+    { "english": "booth", "tera": "sus" },
+    { "english": "boring", "tera": "nal" },
+    { "english": "born", "tera": "adol" },
+    { "english": "born", "tera": "taedo" },
+    { "english": "bottom", "tera": "mon" },
+    { "english": "boundary", "tera": "pas­su" },
+    { "english": "bouquet", "tera": "bdu" },
+    { "english": "bow", "tera": "fl" },
+    { "english": "bow", "tera": "robor" },
+    { "english": "bow (weapon)", "tera": "robor" },
+    { "english": "bowl", "tera": "ugera" },
+    { "english": "bowl", "tera": "era" },
+    { "english": "bracciaque", "tera": "bracciaque" },
+    { "english": "brain", "tera": "itcur" },
+    { "english": "branch", "tera": "aet" },
+    { "english": "brash", "tera": "nisi" },
+    { "english": "brilliant", "tera": "carmina" },
+    { "english": "broad", "tera": "ovor" },
+    { "english": "broadcast", "tera": "queref" },
+    { "english": "broken", "tera": "tiu" },
+    { "english": "bronze", "tera": "hebet" },
+    { "english": "brook", "tera": "isaggel" },
+    { "english": "brother", "tera": "git" },
+    { "english": "buddy", "tera": "reb" },
+    { "english": "builder", "tera": "afuitarbor" },
+    { "english": "bullet", "tera": "esqu" },
+    { "english": "bureau", "tera": "sas" },
+    { "english": "bury", "tera": "emta" },
+    { "english": "bus", "tera": "gr" },
+    { "english": "business", "tera": "alityn" },
+    { "english": "but", "tera": "pa" },
+    { "english": "buttercup", "tera": "beofac" },
+    { "english": "button", "tera": "ger" },
+    { "english": "button", "tera": "roultr" },
+    { "english": "by", "tera": "no" },
+    { "english": "by", "tera": "el" },
+    { "english": "by", "tera": "ca" },
+    { "english": "by", "tera": "im" },
+    { "english": "calculate", "tera": "aenonso" },
+    { "english": "calculate", "tera": "ebusdixi" },
+    { "english": "calculate", "tera": "bridic" },
+    { "english": "camellia", "tera": "niodoha" },
+    { "english": "camera", "tera": "sis" },
+    { "english": "camera", "tera": "ephemiap" },
+    { "english": "camp", "tera": "tur" },
+    { "english": "campaign", "tera": "spercornua" },
+    { "english": "campaign", "tera": "ncavalito" },
+    { "english": "campaign", "tera": "ntacomas" },
+    { "english": "can", "tera": "et" },
+    { "english": "can", "tera": "ig" },
+    { "english": "cancel", "tera": "sco" },
+    { "english": "cancer", "tera": "antemixis" },
+    { "english": "candle", "tera": "vertal" },
+    { "english": "candlelight", "tera": "rumtame" },
+    { "english": "canyon", "tera": "braloc" },
+    { "english": "cap", "tera": "sa" },
+    { "english": "cap", "tera": "mv" },
+    { "english": "cap", "tera": "g" },
+    { "english": "capability", "tera": "evitese" },
+    { "english": "capability", "tera": "ttemporelu" },
+    { "english": "capability", "tera": "ctusabillo" },
+    { "english": "capability", "tera": "tar­do" },
+    { "english": "capacity", "tera": "unapamp" },
+    { "english": "caparison", "tera": "oniaso" },
+    { "english": "capture", "tera": "undam" },
+    { "english": "car", "tera": "ab" },
+    { "english": "carbon", "tera": "ushel" },
+    { "english": "card", "tera": "refu" },
+    { "english": "care", "tera": "cor" },
+    { "english": "care", "tera": "core" },
+    { "english": "career", "tera": "assa" },
+    { "english": "caress", "tera": "eroamoh" },
+    { "english": "carpet", "tera": "acontra" },
+    { "english": "cart", "tera": "dis" },
+    { "english": "case", "tera": "tan" },
+    { "english": "castle", "tera": "tamen" },
+    { "english": "castle", "tera": "ossos" },
+    { "english": "cat", "tera": "onosto" },
+    { "english": "catacomb", "tera": "omosc" },
+    { "english": "catapult", "tera": "copo" },
+    { "english": "category", "tera": "eiusatt" },
+    { "english": "cathedral", "tera": "epost" },
+    { "english": "catholic", "tera": "aeviti" },
+    { "english": "catholic", "tera": "amthrac" },
+    { "english": "cave", "tera": "nae" },
+    { "english": "ceiling", "tera": "insk" },
+    { "english": "cen", "tera": "di" },
+    { "english": "cendentes", "tera": "cendentes" },
+    { "english": "century", "tera": "reter" },
+    { "english": "certainly", "tera": "liosce" },
+    { "english": "certans", "tera": "certans" },
+    { "english": "chairman", "tera": "miniscircu" },
+    { "english": "chalice", "tera": "sinenam" },
+    { "english": "challenge", "tera": "idesqu" },
+    { "english": "chamber", "tera": "eor" },
+    { "english": "champion", "tera": "banpis" },
+    { "english": "chancel", "tera": "thnosdo" },
+    { "english": "changing", "tera": "bantfron" },
+    { "english": "chantry", "tera": "lionh" },
+    { "english": "chapel", "tera": "tahost" },
+    { "english": "chapel", "tera": "maliqui" },
+    { "english": "chapel choir", "tera": "ogosan" },
+    { "english": "chaplain", "tera": "oniamq" },
+    { "english": "chapter", "tera": "isqua" },
+    { "english": "charge", "tera": "tast" },
+    { "english": "charge", "tera": "cra" },
+    { "english": "chariot", "tera": "heros" },
+    { "english": "charm", "tera": "nimante" },
+    { "english": "chart", "tera": "yphen" },
+    { "english": "chart", "tera": "senem" },
+    { "english": "cheap", "tera": "telbo" },
+    { "english": "check", "tera": "idas" },
+    { "english": "cheer", "tera": "bit" },
+    { "english": "chemical", "tera": "snectilia" },
+    { "english": "chemistry", "tera": "usetco" },
+    { "english": "cherish", "tera": "neraga" },
+    { "english": "chieftain", "tera": "dapist" },
+    { "english": "child", "tera": "kayan" },
+    { "english": "childhood", "tera": "ndibusile" },
+    { "english": "childhood", "tera": "dolereta" },
+    { "english": "childhood", "tera": "rnibusumbra" },
+    { "english": "chimera", "tera": "ugeratorph" },
+    { "english": "chip", "tera": "calm" },
+    { "english": "chivalric", "tera": "enimant" },
+    { "english": "chivalrous", "tera": "roncha" },
+    { "english": "chivalry", "tera": "eali" },
+    { "english": "choir", "tera": "ogosan" },
+    { "english": "chop", "tera": "bas" },
+    { "english": "christmas", "tera": "buxumte" },
+    { "english": "chrysanthemum", "tera": "tanteq" },
+    { "english": "chunk", "tera": "acke" },
+    { "english": "church", "tera": "tion" },
+    { "english": "church", "tera": "tas" },
+    { "english": "church", "tera": "menohor" },
+    { "english": "cigarette", "tera": "alotos" },
+    { "english": "circuit", "tera": "ocon" },
+    { "english": "citizenship", "tera": "runtmembraco" },
+    { "english": "city", "tera": "erap" },
+    { "english": "civilian", "tera": "umnamque" },
+    { "english": "civilian", "tera": "etuseti" },
+    { "english": "civilian", "tera": "oquefle" },
+    { "english": "civilian", "tera": "ity wri" },
+    { "english": "classroom", "tera": "lorisvin" },
+    { "english": "clay", "tera": "nonem" },
+    { "english": "clay", "tera": "sim" },
+    { "english": "clearing", "tera": "necautq" },
+    { "english": "cleric", "tera": "ustinet" },
+    { "english": "clerk", "tera": "testo" },
+    { "english": "click", "tera": "inta" },
+    { "english": "climb", "tera": "carpesere" },
+    { "english": "cling", "tera": "fila" },
+    { "english": "cling", "tera": "com" },
+    { "english": "clinical", "tera": "mmatamoni" },
+    { "english": "clip", "tera": "scen" },
+    { "english": "clock", "tera": "elitec" },
+    { "english": "clock", "tera": "eli" },
+    { "english": "clock", "tera": "einosp" },
+    { "english": "cloister", "tera": "eoau" },
+    { "english": "cloister", "tera": "elosso" },
+    { "english": "close", "tera": "strine" },
+    { "english": "closest", "tera": "raloc" },
+    { "english": "cloud", "tera": "fos" },
+    { "english": "clown", "tera": "iszephy" },
+    { "english": "coal", "tera": "bri" },
+    { "english": "coal", "tera": "two" },
+    { "english": "coast", "tera": "sin" },
+    { "english": "coat", "tera": "rhodo" },
+    { "english": "coffee", "tera": "bit" },
+    { "english": "coffee", "tera": "rage" },
+    { "english": "coin", "tera": "plat" },
+    { "english": "cold", "tera": "irid" },
+    { "english": "collapse", "tera": "aeviti" },
+    { "english": "colleague", "tera": "stuque" },
+    { "english": "colleague", "tera": "ac­ci­pit" },
+    { "english": "collection", "tera": "squeex" },
+    { "english": "collective", "tera": "nodisque" },
+    { "english": "collector", "tera": "nialisac" },
+    { "english": "collector", "tera": "demcybel" },
+    { "english": "color", "tera": "sass" },
+    { "english": "columnist", "tera": "amthrac" },
+    { "english": "columnist", "tera": "rabacae" },
+    { "english": "columnist", "tera": "hts ne" },
+    { "english": "come", "tera": "fra" },
+    { "english": "comedy", "tera": "tisa" },
+    { "english": "comfort", "tera": "keti" },
+    { "english": "coming", "tera": "dif" },
+    { "english": "comment", "tera": "del" },
+    { "english": "commission", "tera": "tel­lu­ris" },
+    { "english": "commission", "tera": "derfar" },
+    { "english": "committee", "tera": "horridaca" },
+    { "english": "common", "tera": "iyass" },
+    { "english": "commoner", "tera": "oquefle" },
+    { "english": "community", "tera": "nentibusa" },
+    { "english": "companion", "tera": "eseditdis" },
+    { "english": "company", "tera": "nhyp" },
+    { "english": "comparison", "tera": "dolereta" },
+    { "english": "compassion", "tera": "peergon" },
+    { "english": "compelling", "tera": "busulmi" },
+    { "english": "complain", "tera": "tacupressu" },
+    { "english": "complete", "tera": "uaiunct" },
+    { "english": "complete", "tera": "tuliqui" },
+    { "english": "complete", "tera": "um­bras" },
+    { "english": "completely", "tera": "pampinea" },
+    { "english": "complex", "tera": "ymark" },
+    { "english": "compliance", "tera": "riaque" },
+    { "english": "compliance", "tera": "mitilleta" },
+    { "english": "component", "tera": "deummatri" },
+    { "english": "component", "tera": "menmunusqu" },
+    { "english": "compromise", "tera": "deuslugebere" },
+    { "english": "computer", "tera": "inusuti" },
+    { "english": "computer", "tera": "saestuse" },
+    { "english": "computer", "tera": "ierpi" },
+    { "english": "computer", "tera": "ierpi-" },
+    { "english": "conceal", "tera": "silen" },
+    { "english": "conceive", "tera": "lebatsedta" },
+    { "english": "conceive", "tera": "escitr" },
+    { "english": "conception", "tera": "epomoqueonerat" },
+    { "english": "concern", "tera": "atqueglan" },
+    { "english": "concerned", "tera": "atqueglan" },
+    { "english": "concerned", "tera": "ataquegland" },
+    { "english": "concert", "tera": "pul" },
+    { "english": "condition", "tera": "vul­ne­re" },
+    { "english": "conduct", "tera": "dity" },
+    { "english": "conference", "tera": "superisu" },
+    { "english": "confession", "tera": "demcybel" },
+    { "english": "confession", "tera": "isiqui" },
+    { "english": "confession", "tera": "mecybel" },
+    { "english": "confidence", "tera": "ugeratorph" },
+    { "english": "confront", "tera": "illeeti" },
+    { "english": "confront", "tera": "re­fu­gam" },
+    { "english": "confuse", "tera": "ptofo" },
+    { "english": "coniuge", "tera": "coniuge" },
+    { "english": "conscious", "tera": "tecapilli" },
+    { "english": "conservation", "tera": "re­vo­lu­ta­que" },
+    { "english": "conservative", "tera": "strineram" },
+    { "english": "consider", "tera": "oscarp" },
+    { "english": "consider", "tera": "engi" },
+    { "english": "consider", "tera": "nascol" },
+    { "english": "consider", "tera": "ginef" },
+    { "english": "consider", "tera": "engine f" },
+    { "english": "consist", "tera": "est" },
+    { "english": "consistent", "tera": "unclap" },
+    { "english": "consistent", "tera": "abiescurv" },
+    { "english": "constant", "tera": "mmatamoni" },
+    { "english": "constantly", "tera": "odeerat" },
+    { "english": "construct", "tera": "esarie" },
+    { "english": "container", "tera": "squadex" },
+    { "english": "continue", "tera": "lueree" },
+    { "english": "continuing", "tera": "nobisluge" },
+    { "english": "continuing", "tera": "scervusera" },
+    { "english": "continuous", "tera": "den­sus" },
+    { "english": "contractor", "tera": "lebraredo" },
+    { "english": "contrast", "tera": "antgra" },
+    { "english": "contribute", "tera": "dmonuitge" },
+    { "english": "controversy", "tera": "sacernymphisca" },
+    { "english": "convention", "tera": "ulatinos" },
+    { "english": "convention", "tera": "busulmiu" },
+    { "english": "convey", "tera": "esqu" },
+    { "english": "conviction", "tera": "ratmediu" },
+    { "english": "convince", "tera": "stisetua" },
+    { "english": "convince", "tera": "mhocpetita" },
+    { "english": "convince", "tera": "tanyod" },
+    { "english": "cool", "tera": "ha" },
+    { "english": "cool", "tera": "inen" },
+    { "english": "cooperate", "tera": "ueetpicea" },
+    { "english": "coordinate", "tera": "nmensosege" },
+    { "english": "coppersmith", "tera": "anomnem" },
+    { "english": "cord", "tera": "oen" },
+    { "english": "core", "tera": "tpla" },
+    { "english": "correspondent", "tera": "bantbracchia" },
+    { "english": "corridor", "tera": "basvario" },
+    { "english": "corruption", "tera": "in­ter" },
+    { "english": "cost", "tera": "urb" },
+    { "english": "cotton", "tera": "gesp" },
+    { "english": "couch", "tera": "agar" },
+    { "english": "council", "tera": "hiquintess" },
+    { "english": "counseling", "tera": "ebereso" },
+    { "english": "count", "tera": "lacan" },
+    { "english": "country1", "tera": "ter" },
+    { "english": "country2", "tera": "orno" },
+    { "english": "country3", "tera": "utilish" },
+    { "english": "courtly", "tera": "nisiib" },
+    { "english": "courtly love", "tera": "nisiib" },
+    { "english": "courtship", "tera": "adelph" },
+    { "english": "cousin", "tera": "ver" },
+    { "english": "covenant", "tera": "chomaip" },
+    { "english": "cover", "tera": "futu" },
+    { "english": "cover", "tera": "tive" },
+    { "english": "cow", "tera": "lam" },
+    { "english": "cow", "tera": "il" },
+    { "english": "cowl", "tera": "npate" },
+    { "english": "crack", "tera": "geat" },
+    { "english": "crack", "tera": "nocen" },
+    { "english": "creative", "tera": "loremetmo" },
+    { "english": "credit", "tera": "sig" },
+    { "english": "credit", "tera": "ogr" },
+    { "english": "creed", "tera": "mbaoer" },
+    { "english": "crenellation", "tera": "leiama" },
+    { "english": "cres", "tera": "volu" },
+    { "english": "crime", "tera": "ves" },
+    { "english": "criminal", "tera": "genitusv" },
+    { "english": "crisis", "tera": "nen" },
+    { "english": "crisis", "tera": "tge" },
+    { "english": "critical", "tera": "tquevi" },
+    { "english": "critical", "tera": "eratmul" },
+    { "english": "crop", "tera": "medi" },
+    { "english": "cross", "tera": "kow" },
+    { "english": "cross", "tera": "amita" },
+    { "english": "crossbowmen", "tera": "orquean" },
+    { "english": "crowd", "tera": "dig" },
+    { "english": "crown", "tera": "auras" },
+    { "english": "crucial", "tera": "tge" },
+    { "english": "crusade", "tera": "msuus" },
+    { "english": "crusader", "tera": "mferoa" },
+    { "english": "crush", "tera": "ospneu" },
+    { "english": "cry", "tera": "tetes" },
+    { "english": "cry", "tera": "hi" },
+    { "english": "crystal", "tera": "ight" },
+    { "english": "cuban", "tera": "ple" },
+    { "english": "cultural", "tera": "paramnic" },
+    { "english": "culture", "tera": "genemet" },
+    { "english": "culture", "tera": "met" },
+    { "english": "cupid", "tera": "eimisy" },
+    { "english": "cure", "tera": "urba" },
+    { "english": "curiosity", "tera": "iadumnon" },
+    { "english": "curious", "tera": "sadve" },
+    { "english": "currency", "tera": "trames" },
+    { "english": "current", "tera": "enquit" },
+    { "english": "currently", "tera": "oscarp" },
+    { "english": "curriculum", "tera": "mumter" },
+    { "english": "curse", "tera": "vix" },
+    { "english": "cut", "tera": "os" },
+    { "english": "cut", "tera": "ia" },
+    { "english": "cut", "tera": "fe" },
+    { "english": "cycle", "tera": "summae" },
+    { "english": "dad", "tera": "le" },
+    { "english": "daffodil", "tera": "iamquomo" },
+    { "english": "dahlia", "tera": "iodicop" },
+    { "english": "dainty", "tera": "mabas" },
+    { "english": "daisy", "tera": "roultr" },
+    { "english": "dance", "tera": "fa­ma" },
+    { "english": "dark", "tera": "nara" },
+    { "english": "dark", "tera": "onihiln" },
+    { "english": "darkness", "tera": "eetsucci" },
+    { "english": "darling", "tera": "ileiamat" },
+    { "english": "database", "tera": "evertice" },
+    { "english": "dead", "tera": "ten" },
+    { "english": "deadline", "tera": "vosquoflex" },
+    { "english": "dear", "tera": "franc" },
+    { "english": "dear", "tera": "hetesoic" },
+    { "english": "death", "tera": "jal" },
+    { "english": "debut", "tera": "tors" },
+    { "english": "decision", "tera": "eodem" },
+    { "english": "decorate", "tera": "queverti" },
+    { "english": "decrease", "tera": "lentibusi" },
+    { "english": "deep", "tera": "gun" },
+    { "english": "deeply", "tera": "derhy" },
+    { "english": "defeat", "tera": "hineparad" },
+    { "english": "defeat", "tera": "ota" },
+    { "english": "defend", "tera": "rel" },
+    { "english": "defender", "tera": "doquini" },
+    { "english": "defensible position", "tera": "jam" },
+    { "english": "definition", "tera": "nviridemve" },
+    { "english": "definition", "tera": "onolepta" },
+    { "english": "definition", "tera": "be­li­des" },
+    { "english": "degree", "tera": "tocor" },
+    { "english": "delicate", "tera": "eohouto" },
+    { "english": "delight", "tera": "har" },
+    { "english": "delight", "tera": "hara" },
+    { "english": "delight", "tera": "cosp" },
+    { "english": "demesne", "tera": "edeos" },
+    { "english": "democratic", "tera": "ispraemiapalm" },
+    { "english": "democratic", "tera": "rbosaposu" },
+    { "english": "densus", "tera": "densus" },
+    { "english": "dependent", "tera": "ratcoll" },
+    { "english": "dependent", "tera": "ne­ga­re" },
+    { "english": "depending", "tera": "statuitqu" },
+    { "english": "deposit", "tera": "buya" },
+    { "english": "describe", "tera": "tipraebe" },
+    { "english": "deserve", "tera": "lisml" },
+    { "english": "design", "tera": "urba" },
+    { "english": "designer", "tera": "a­ma­tam" },
+    { "english": "desirable", "tera": "hosecc" },
+    { "english": "desire", "tera": "unusta" },
+    { "english": "desk", "tera": "curromit" },
+    { "english": "detect", "tera": "teshi" },
+    { "english": "detective", "tera": "smanibuspra" },
+    { "english": "developing", "tera": "terpromate" },
+    { "english": "devotion", "tera": "pherom" },
+    { "english": "diagnose", "tera": "saltasipse" },
+    { "english": "diary", "tera": "crud" },
+    { "english": "diary", "tera": "ceyfa" },
+    { "english": "diary", "tera": "cfa" },
+    { "english": "die", "tera": "ui" },
+    { "english": "die", "tera": "t" },
+    { "english": "diet", "tera": "inse" },
+    { "english": "difference", "tera": "ipedesh" },
+    { "english": "difference", "tera": "stisetua" },
+    { "english": "difference", "tera": "tlentaevi" },
+    { "english": "difficulty", "tera": "floresnunc" },
+    { "english": "difficulty", "tera": "sposabl" },
+    { "english": "difficulty", "tera": "alotospe" },
+    { "english": "difficulty", "tera": "queina" },
+    { "english": "dignity", "tera": "dity" },
+    { "english": "diminish", "tera": "isiqui" },
+    { "english": "diminish", "tera": "sacerque" },
+    { "english": "diminish", "tera": "ner­vos­que" },
+    { "english": "dinner", "tera": "met" },
+    { "english": "diplomat", "tera": "rattit" },
+    { "english": "directly", "tera": "edeshde" },
+    { "english": "directly", "tera": "edeshede" },
+    { "english": "director", "tera": "du­o­rum" },
+    { "english": "dirty", "tera": "igur" },
+    { "english": "disabled", "tera": "uithui" },
+    { "english": "disappear", "tera": "rbosaposu" },
+    { "english": "disaster", "tera": "rodemissa" },
+    { "english": "disaster", "tera": "thachomine" },
+    { "english": "disclose", "tera": "irsutaqu" },
+    { "english": "discourse", "tera": "quecol" },
+    { "english": "discovery", "tera": "esarie" },
+    { "english": "discovery", "tera": "tutsaevo" },
+    { "english": "discuss", "tera": "fila" },
+    { "english": "dismiss", "tera": "angre" },
+    { "english": "disorder", "tera": "nsiaculo" },
+    { "english": "display", "tera": "retsand" },
+    { "english": "dissolve", "tera": "arubent" },
+    { "english": "distant", "tera": "doo" },
+    { "english": "distant", "tera": "idas" },
+    { "english": "distant", "tera": "adol" },
+    { "english": "distribute", "tera": "o­pa­ca" },
+    { "english": "district", "tera": "rescol" },
+    { "english": "district", "tera": "ttemporelu" },
+    { "english": "divide", "tera": "ence" },
+    { "english": "divine", "tera": "busin" },
+    { "english": "division", "tera": "minish" },
+    { "english": "dixit", "tera": "dixit" },
+    { "english": "do", "tera": "em" },
+    { "english": "do", "tera": "ul" },
+    { "english": "dock", "tera": "pen" },
+    { "english": "doctrine", "tera": "ebereso" },
+    { "english": "doctrine", "tera": "ntergore" },
+    { "english": "doctrine", "tera": "mo­ven­tem" },
+    { "english": "document", "tera": "edeshde" },
+    { "english": "document", "tera": "edeshede" },
+    { "english": "dog", "tera": "sique" },
+    { "english": "dom", "tera": "tem" },
+    { "english": "dominate", "tera": "tlateque" },
+    { "english": "dona", "tera": "dona" },
+    { "english": "donation", "tera": "interos" },
+    { "english": "donec", "tera": "donec" },
+    { "english": "donkey", "tera": "udole" },
+    { "english": "donkey", "tera": "oliscar" },
+    { "english": "donor", "tera": "menil" },
+    { "english": "doorway", "tera": "sass" },
+    { "english": "dough", "tera": "ket" },
+    { "english": "down", "tera": "vin" },
+    { "english": "downtown", "tera": "mcybel" },
+    { "english": "dozen", "tera": "boa" },
+    { "english": "dramatic", "tera": "do­nec" },
+    { "english": "drawbridge", "tera": "tosau" },
+    { "english": "drawer", "tera": "elfi" },
+    { "english": "dreamy", "tera": "einosp" },
+    { "english": "drift", "tera": "su­o" },
+    { "english": "drink", "tera": "ital" },
+    { "english": "drive", "tera": "apo" },
+    { "english": "drop", "tera": "soul" },
+    { "english": "drum", "tera": "occ" },
+    { "english": "drum", "tera": "opros" },
+    { "english": "drunk", "tera": "neb" },
+    { "english": "duchy", "tera": "mta" },
+    { "english": "due", "tera": "am" },
+    { "english": "due", "tera": "ad" },
+    { "english": "due", "tera": "gi" },
+    { "english": "due", "tera": "es" },
+    { "english": "duel", "tera": "ecdoche" },
+    { "english": "dumb", "tera": "sin" },
+    { "english": "dumb", "tera": "iarb" },
+    { "english": "dump", "tera": "pos" },
+    { "english": "dun", "tera": "tan" },
+    { "english": "duty", "tera": "flow" },
+    { "english": "each", "tera": "xinus" },
+    { "english": "eager", "tera": "do­na" },
+    { "english": "eagle", "tera": "nascol" },
+    { "english": "eagle", "tera": "idi" },
+    { "english": "eagle", "tera": "rinomai" },
+    { "english": "ear", "tera": "tosumf" },
+    { "english": "early", "tera": "nwo" },
+    { "english": "earth", "tera": "hege" },
+    { "english": "ease", "tera": "olen" },
+    { "english": "ease", "tera": "rity" },
+    { "english": "ease", "tera": "ght" },
+    { "english": "easily", "tera": "lig" },
+    { "english": "east", "tera": "car" },
+    { "english": "eat", "tera": "ma" },
+    { "english": "eat", "tera": "mane" },
+    { "english": "economic", "tera": "unapamp" },
+    { "english": "economics", "tera": "rboreafri" },
+    { "english": "economy", "tera": "cunesdem" },
+    { "english": "ed", "tera": "ac" },
+    { "english": "ed", "tera": "cap" },
+    { "english": "educate", "tera": "ereme" },
+    { "english": "education", "tera": "amvirid" },
+    { "english": "education", "tera": "scornuafu" },
+    { "english": "effect", "tera": "dit" },
+    { "english": "egg", "tera": "io" },
+    { "english": "egg", "tera": "equea" },
+    { "english": "ego", "tera": "si" },
+    { "english": "elbow", "tera": "demfo" },
+    { "english": "elect", "tera": "ctor" },
+    { "english": "election", "tera": "gusduceba" },
+    { "english": "electricity (magic)", "tera": "relaspa" },
+    { "english": "elegance", "tera": "term" },
+    { "english": "element", "tera": "umpop" },
+    { "english": "elementary", "tera": "de­fi­ce­ret" },
+    { "english": "elephant", "tera": "altamser" },
+    { "english": "elevator", "tera": "pulsae" },
+    { "english": "elevator", "tera": "diaar" },
+    { "english": "eleven", "tera": "lit" },
+    { "english": "ember", "tera": "euchom" },
+    { "english": "embrace", "tera": "onihiln" },
+    { "english": "embraceable", "tera": "oliscar" },
+    { "english": "emergency", "tera": "raeveni" },
+    { "english": "emerging", "tera": "arbutuse" },
+    { "english": "emission", "tera": "fessusinhe" },
+    { "english": "emotional", "tera": "carp­se­re" },
+    { "english": "emphasis", "tera": "sculusalti" },
+    { "english": "emphasis", "tera": "simulsali" },
+    { "english": "emphasis", "tera": "rfarmmo" },
+    { "english": "empire", "tera": "sile" },
+    { "english": "empire", "tera": "orele" },
+    { "english": "employee", "tera": "thal" },
+    { "english": "employment", "tera": "sus­ti­net" },
+    { "english": "employment", "tera": "lity je" },
+    { "english": "empty", "tera": "eamve" },
+    { "english": "enact", "tera": "finie" },
+    { "english": "enchant", "tera": "ccmetaga" },
+    { "english": "encounter", "tera": "tilloadf" },
+    { "english": "encounter", "tera": "sculusalti" },
+    { "english": "end", "tera": "fu" },
+    { "english": "end", "tera": "bo" },
+    { "english": "end", "tera": "n" },
+    { "english": "endearing", "tera": "diaar" },
+    { "english": "endearment", "tera": "enohorao" },
+    { "english": "endorse", "tera": "ope" },
+    { "english": "endure", "tera": "ght" },
+    { "english": "enemy", "tera": "ola" },
+    { "english": "engagement", "tera": "scaerula" },
+    { "english": "enough", "tera": "tellus" },
+    { "english": "ensign", "tera": "isv" },
+    { "english": "ensure", "tera": "man" },
+    { "english": "enterprise", "tera": "coloribu" },
+    { "english": "entertain", "tera": "here" },
+    { "english": "enthrall", "tera": "cheepa" },
+    { "english": "enthusiasm", "tera": "everet" },
+    { "english": "enthusiasm", "tera": "an­i­mae" },
+    { "english": "entire", "tera": "agile" },
+    { "english": "entirely", "tera": "ipedesh" },
+    { "english": "entirely", "tera": "ncisco" },
+    { "english": "entity", "tera": "gre" },
+    { "english": "entrance", "tera": "in­fe­lix" },
+    { "english": "entranced", "tera": "ngelia" },
+    { "english": "envision", "tera": "vi­den­di" },
+    { "english": "equality", "tera": "rvaingen" },
+    { "english": "er", "tera": "unct" },
+    { "english": "erat", "tera": "erat" },
+    { "english": "escape", "tera": "nch" },
+    { "english": "espionage", "tera": "gilesetfra" },
+    { "english": "essence", "tera": "te" },
+    { "english": "essence", "tera": "flow" },
+    { "english": "essence", "tera": "ence" },
+    { "english": "essence", "tera": "gar" },
+    { "english": "estimate", "tera": "nuesque" },
+    { "english": "estimate", "tera": "re­tro" },
+    { "english": "estimated", "tera": "atquegland" },
+    { "english": "estimated", "tera": "ataquegland" },
+    { "english": "ethereal", "tera": "oec" },
+    { "english": "ethnicity", "tera": "kilosista" },
+    { "english": "eu", "tera": "fama" },
+    { "english": "even", "tera": "nar" },
+    { "english": "evening", "tera": "ebulous" },
+    { "english": "everything", "tera": "utusetlenta" },
+    { "english": "everything", "tera": "runtmembraco" },
+    { "english": "everywhere", "tera": "emfacieb" },
+    { "english": "everywhere", "tera": "etuseti" },
+    { "english": "everywhere", "tera": "vatimul" },
+    { "english": "everywhere", "tera": "ribusege" },
+    { "english": "evil", "tera": "eor" },
+    { "english": "evolution", "tera": "snuncarborpu" },
+    { "english": "evolution", "tera": "squedie" },
+    { "english": "evolve", "tera": "dru" },
+    { "english": "exception", "tera": "laquamli" },
+    { "english": "excessive", "tera": "dampec" },
+    { "english": "exchange", "tera": "rubenti" },
+    { "english": "exchange", "tera": "dmonuitge" },
+    { "english": "excitement", "tera": "itesetamict" },
+    { "english": "excitement", "tera": "caelum" },
+    { "english": "exclusive", "tera": "rodemissa" },
+    { "english": "exhibit", "tera": "fice" },
+    { "english": "exhibit", "tera": "in­ten­dens" },
+    { "english": "exhibition", "tera": "eetsucci" },
+    { "english": "exhibition", "tera": "stosangui" },
+    { "english": "exhibition", "tera": "rticoepe" },
+    { "english": "existence", "tera": "tnervistempe" },
+    { "english": "exit", "tera": "exit" },
+    { "english": "expansion", "tera": "rvumadnova" },
+    { "english": "expansion", "tera": "menantea" },
+    { "english": "expansion", "tera": "dix­it" },
+    { "english": "expected", "tera": "lispectare" },
+    { "english": "expedition", "tera": "sidenshucla" },
+    { "english": "expensive", "tera": "myricaee" },
+    { "english": "expensive", "tera": "racapistri" },
+    { "english": "experience", "tera": "concre" },
+    { "english": "experience", "tera": "scaerula" },
+    { "english": "experience", "tera": "esupremu" },
+    { "english": "experiment", "tera": "nodisque" },
+    { "english": "expertise", "tera": "llucmollia" },
+    { "english": "explore", "tera": "ent" },
+    { "english": "exposure", "tera": "transir" },
+    { "english": "extensive", "tera": "idesqu" },
+    { "english": "extensive", "tera": "mumter" },
+    { "english": "extent", "tera": "tolin" },
+    { "english": "extra", "tera": "rtcyb" },
+    { "english": "extreme", "tera": "echei" },
+    { "english": "extreme", "tera": "sae" },
+    { "english": "extreme", "tera": "aquon" },
+    { "english": "extremely", "tera": "rylifr" },
+    { "english": "fabric", "tera": "dis" },
+    { "english": "fabric", "tera": "ion" },
+    { "english": "face", "tera": "iamar" },
+    { "english": "facilitate", "tera": "tabumbrahu" },
+    { "english": "facilitate", "tera": "esserat" },
+    { "english": "fade", "tera": "mono" },
+    { "english": "faith", "tera": "idi" },
+    { "english": "falcon", "tera": "pavorede" },
+    { "english": "fall", "tera": "arde" },
+    { "english": "fallow", "tera": "mneveru" },
+    { "english": "fame", "tera": "eur" },
+    { "english": "familiar", "tera": "rporaterra" },
+    { "english": "familiar", "tera": "ad­cli­vis" },
+    { "english": "family", "tera": "syn" },
+    { "english": "famous", "tera": "ratcoll" },
+    { "english": "fan", "tera": "pherom" },
+    { "english": "farmer", "tera": "ngau" },
+    { "english": "fascinate", "tera": "somaade" },
+    { "english": "fat", "tera": "go" },
+    { "english": "fat", "tera": "vo" },
+    { "english": "favor", "tera": "tur" },
+    { "english": "favor", "tera": "pop" },
+    { "english": "favorite", "tera": "adeummatr" },
+    { "english": "fealty", "tera": "sipersed" },
+    { "english": "feast", "tera": "isagg" },
+    { "english": "feather", "tera": "rtequon" },
+    { "english": "feedback", "tera": "thachomine" },
+    { "english": "feel", "tera": "rol" },
+    { "english": "fellow", "tera": "tri" },
+    { "english": "fellow", "tera": "dge" },
+    { "english": "female", "tera": "ankayan" },
+    { "english": "feminine", "tera": "eamve" },
+    { "english": "feminist", "tera": "laquamli" },
+    { "english": "festival", "tera": "htsne" },
+    { "english": "festival", "tera": "hts ne" },
+    { "english": "few", "tera": "eu" },
+    { "english": "fief", "tera": "thul" },
+    { "english": "fief", "tera": "usunus" },
+    { "english": "field", "tera": "dri" },
+    { "english": "field", "tera": "opro" },
+    { "english": "fiery", "tera": "lpheephe" },
+    { "english": "fight", "tera": "rege" },
+    { "english": "finally", "tera": "ideor" },
+    { "english": "finance", "tera": "pheni" },
+    { "english": "fishing", "tera": "ptofo" },
+    { "english": "fit", "tera": "ry" },
+    { "english": "fix", "tera": "ca" },
+    { "english": "fix", "tera": "i" },
+    { "english": "flag", "tera": "ehuc" },
+    { "english": "flash", "tera": "tices" },
+    { "english": "flee", "tera": "ente" },
+    { "english": "flee", "tera": "assih" },
+    { "english": "flexible", "tera": "isqueme" },
+    { "english": "flint", "tera": "aidyna" },
+    { "english": "flirt", "tera": "meronch" },
+    { "english": "flirt", "tera": "velve" },
+    { "english": "flood", "tera": "eren" },
+    { "english": "flour", "tera": "spa" },
+    { "english": "flow", "tera": "gus" },
+    { "english": "flower", "tera": "eohou" },
+    { "english": "fly", "tera": "ic" },
+    { "english": "fly", "tera": "sa" },
+    { "english": "fly", "tera": "lo" },
+    { "english": "foal", "tera": "isti" },
+    { "english": "fog", "tera": "pu" },
+    { "english": "folk", "tera": "rea" },
+    { "english": "follow", "tera": "ulsa" },
+    { "english": "following", "tera": "ereflo" },
+    { "english": "following", "tera": "ge­nas" },
+    { "english": "fond", "tera": "arist" },
+    { "english": "food", "tera": "mal" },
+    { "english": "food", "tera": "man" },
+    { "english": "foot", "tera": "eroamoh" },
+    { "english": "for", "tera": "i" },
+    { "english": "for", "tera": "it" },
+    { "english": "for", "tera": "ter" },
+    { "english": "force", "tera": "reg" },
+    { "english": "fore", "tera": "ren" },
+    { "english": "forehead", "tera": "aetsu" },
+    { "english": "forehead", "tera": "aetsucc" },
+    { "english": "forehead", "tera": "ttisexui" },
+    { "english": "forest", "tera": "alotospe" },
+    { "english": "forever", "tera": "temic" },
+    { "english": "forever", "tera": "rol" },
+    { "english": "fork", "tera": "lig" },
+    { "english": "fork", "tera": "cheepa" },
+    { "english": "form", "tera": "ital" },
+    { "english": "formation", "tera": "tasimita" },
+    { "english": "fort", "tera": "igmac" },
+    { "english": "fortification", "tera": "cumad" },
+    { "english": "fortress", "tera": "bsumvid" },
+    { "english": "fortunate", "tera": "ioeesch" },
+    { "english": "fortune", "tera": "mu­ta" },
+    { "english": "forum", "tera": "telbo" },
+    { "english": "found", "tera": "con" },
+    { "english": "foundation", "tera": "echere" },
+    { "english": "fourth", "tera": "cre" },
+    { "english": "fox", "tera": "infe" },
+    { "english": "fragrance", "tera": "legoei" },
+    { "english": "fraud", "tera": "mpu" },
+    { "english": "free", "tera": "rap" },
+    { "english": "free", "tera": "not" },
+    { "english": "free", "tera": "panna" },
+    { "english": "free", "tera": "erol" },
+    { "english": "freedom", "tera": "ket" },
+    { "english": "freeze", "tera": "puls" },
+    { "english": "french", "tera": "utur" },
+    { "english": "frequency", "tera": "ce­den­tes" },
+    { "english": "fresco", "tera": "imisye" },
+    { "english": "fresco", "tera": "natosame" },
+    { "english": "fresh", "tera": "olaeq" },
+    { "english": "freshman", "tera": "clusumpis" },
+    { "english": "friar", "tera": "tant" },
+    { "english": "friar's cowl", "tera": "npate" },
+    { "english": "friary", "tera": "ostolosn" },
+    { "english": "friend", "tera": "ech" },
+    { "english": "friend", "tera": "eagem" },
+    { "english": "friendly", "tera": "aesculus" },
+    { "english": "friendship", "tera": "liosade" },
+    { "english": "from", "tera": "aq" },
+    { "english": "from", "tera": "lon" },
+    { "english": "front", "tera": "ente" },
+    { "english": "front", "tera": "ras" },
+    { "english": "frontier", "tera": "laciapho" },
+    { "english": "frost", "tera": "lius" },
+    { "english": "fruit", "tera": "mvuln" },
+    { "english": "fruit", "tera": "ion" },
+    { "english": "fuel", "tera": "dri" },
+    { "english": "fun", "tera": "hest" },
+    { "english": "fun", "tera": "ne" },
+    { "english": "function", "tera": "rensbuxumte" },
+    { "english": "functional", "tera": "mptori" },
+    { "english": "fund", "tera": "owa" },
+    { "english": "fund", "tera": "col" },
+    { "english": "fur", "tera": "us" },
+    { "english": "furlong", "tera": "teriae" },
+    { "english": "futura", "tera": "futura" },
+    { "english": "gain", "tera": "phen" },
+    { "english": "galaxy", "tera": "u­ge" },
+    { "english": "game1", "tera": "itcur" },
+    { "english": "Game1", "tera": "itcuro" },
+    { "english": "garage", "tera": "fle" },
+    { "english": "garden", "tera": "epheme" },
+    { "english": "garden", "tera": "eepheme" },
+    { "english": "garden", "tera": "ngelia" },
+    { "english": "gardenia", "tera": "iindeh" },
+    { "english": "garrison", "tera": "utemta" },
+    { "english": "gate", "tera": "ulosap" },
+    { "english": "gatehouse", "tera": "hicomn" },
+    { "english": "gay", "tera": "g" },
+    { "english": "gaze", "tera": "fer" },
+    { "english": "ge", "tera": "u" },
+    { "english": "gem", "tera": "calem" },
+    { "english": "gender", "tera": "angiba" },
+    { "english": "general", "tera": "buya" },
+    { "english": "general", "tera": "ovoresta" },
+    { "english": "generate", "tera": "basvario" },
+    { "english": "generous", "tera": "onerata" },
+    { "english": "generous", "tera": "scervusera" },
+    { "english": "generous", "tera": "queref" },
+    { "english": "generous", "tera": "lueree" },
+    { "english": "gens", "tera": "mad" },
+    { "english": "gentle", "tera": "ephemiap" },
+    { "english": "gentleman", "tera": "nodisque" },
+    { "english": "gentry", "tera": "thegre" },
+    { "english": "gentry", "tera": "su­pre­mum­que" },
+    { "english": "gilded", "tera": "mohoc" },
+    { "english": "gilding", "tera": "adelph" },
+    { "english": "girl", "tera": "eiusa" },
+    { "english": "girlfriend", "tera": "echere" },
+    { "english": "give", "tera": "ris" },
+    { "english": "glad", "tera": "cres" },
+    { "english": "glass", "tera": "batco" },
+    { "english": "glass", "tera": "rumiem" },
+    { "english": "glass", "tera": "iamquomo" },
+    { "english": "glimmer", "tera": "hanato" },
+    { "english": "glisten", "tera": "same" },
+    { "english": "global", "tera": "tunc" },
+    { "english": "globe", "tera": "arrat" },
+    { "english": "glory", "tera": "enceamarant" },
+    { "english": "glove", "tera": "gla" },
+    { "english": "glove", "tera": "unusta" },
+    { "english": "glow", "tera": "vera" },
+    { "english": "glow", "tera": "ihepros" },
+    { "english": "go", "tera": "pe" },
+    { "english": "goal", "tera": "eme" },
+    { "english": "goal", "tera": "bis" },
+    { "english": "goat", "tera": "enohorao" },
+    { "english": "goblin", "tera": "neglim" },
+    { "english": "god", "tera": "el" },
+    { "english": "gold", "tera": "ora" },
+    { "english": "gold", "tera": "uiside" },
+    { "english": "golf", "tera": "rho" },
+    { "english": "good", "tera": "mel" },
+    { "english": "good", "tera": "tu­o" },
+    { "english": "gorgeous", "tera": "odoau" },
+    { "english": "government", "tera": "ttristisque" },
+    { "english": "government", "tera": "vo­lu­cres" },
+    { "english": "grace", "tera": "bea" },
+    { "english": "grace", "tera": "postin" },
+    { "english": "graceful", "tera": "npater" },
+    { "english": "gradually", "tera": "alidusin" },
+    { "english": "graduate", "tera": "reg­it" },
+    { "english": "grape", "tera": "ocaide" },
+    { "english": "grape", "tera": "miscac" },
+    { "english": "grasp", "tera": "stri" },
+    { "english": "grass", "tera": "psesec" },
+    { "english": "grateful", "tera": "tinosvosqu" },
+    { "english": "gravity", "tera": "mono" },
+    { "english": "gravity", "tera": "ceph" },
+    { "english": "great", "tera": "lise" },
+    { "english": "greatest", "tera": "busulmi" },
+    { "english": "green", "tera": "nali" },
+    { "english": "green", "tera": "iind" },
+    { "english": "green", "tera": "rif" },
+    { "english": "grief", "tera": "balt" },
+    { "english": "grief", "tera": "isv" },
+    { "english": "grow", "tera": "aus" },
+    { "english": "growing", "tera": "orniq" },
+    { "english": "guard", "tera": "su" },
+    { "english": "guardian", "tera": "setfra" },
+    { "english": "guidance", "tera": "oqueindu" },
+    { "english": "guidance", "tera": "sum­mae" },
+    { "english": "guideline", "tera": "mcavatempo" },
+    { "english": "guild", "tera": "uomo" },
+    { "english": "gym", "tera": "td" },
+    { "english": "ha", "tera": "ai" },
+    { "english": "ha", "tera": "of" },
+    { "english": "habit", "tera": "escha" },
+    { "english": "habit (religious garment)", "tera": "escha" },
+    { "english": "habitat", "tera": "erebi" },
+    { "english": "halberds", "tera": "urealimen" },
+    { "english": "halberds", "tera": "uealimen" },
+    { "english": "hall", "tera": "arripet" },
+    { "english": "hallowed", "tera": "istum" },
+    { "english": "hallway", "tera": "va­ca­run­t" },
+    { "english": "hammer", "tera": "mennun" },
+    { "english": "hand", "tera": "erum" },
+    { "english": "hand", "tera": "pro" },
+    { "english": "handle", "tera": "ndi" },
+    { "english": "handsome", "tera": "uiosdo" },
+    { "english": "happy", "tera": "rio" },
+    { "english": "happy", "tera": "obsa" },
+    { "english": "harassment", "tera": "sgeniali" },
+    { "english": "hard", "tera": "su­a" },
+    { "english": "hardtack", "tera": "ccrim" },
+    { "english": "harm", "tera": "edi" },
+    { "english": "harmony", "tera": "colamba" },
+    { "english": "harp", "tera": "coscat" },
+    { "english": "harvest", "tera": "assih" },
+    { "english": "harvest", "tera": "malam" },
+    { "english": "hat", "tera": "ginosc" },
+    { "english": "hauberk", "tera": "peius" },
+    { "english": "haul", "tera": "tive" },
+    { "english": "haul", "tera": "toli" },
+    { "english": "haul", "tera": "tar" },
+    { "english": "have", "tera": "an" },
+    { "english": "hay", "tera": "st" },
+    { "english": "hazard", "tera": "ysi" },
+    { "english": "he", "tera": "ba" },
+    { "english": "he", "tera": "ge" },
+    { "english": "head", "tera": "ult" },
+    { "english": "head", "tera": "asig" },
+    { "english": "health", "tera": "andit" },
+    { "english": "hear", "tera": "yphen" },
+    { "english": "hear", "tera": "anse" },
+    { "english": "heart", "tera": "rara" },
+    { "english": "heart", "tera": "uusip" },
+    { "english": "heart", "tera": "core" },
+    { "english": "heaven", "tera": "ni­si" },
+    { "english": "heel", "tera": "flui" },
+    { "english": "helmet", "tera": "misca" },
+    { "english": "help", "tera": "ainf" },
+    { "english": "help", "tera": "the" },
+    { "english": "helpful", "tera": "lise" },
+    { "english": "helpful", "tera": "uesim" },
+    { "english": "her", "tera": "nul" },
+    { "english": "herald", "tera": "umvix" },
+    { "english": "heraldic", "tera": "ospneu" },
+    { "english": "heraldry", "tera": "adsuma" },
+    { "english": "heresy", "tera": "eti" },
+    { "english": "heretic", "tera": "tosu" },
+    { "english": "hermit", "tera": "eccpash" },
+    { "english": "hero", "tera": "elysi" },
+    { "english": "hers", "tera": "ver" },
+    { "english": "hers", "tera": "nuwet" },
+    { "english": "hey", "tera": "od" },
+    { "english": "hi", "tera": "elg" },
+    { "english": "hi", "tera": "lg" },
+    { "english": "hide", "tera": "fose" },
+    { "english": "hierarchy", "tera": "param" },
+    { "english": "high", "tera": "gis" },
+    { "english": "highlight", "tera": "enistiset" },
+    { "english": "highlight", "tera": "xetplatanu" },
+    { "english": "highway", "tera": "erese" },
+    { "english": "highway", "tera": "ight" },
+    { "english": "highway", "tera": "aquiwere" },
+    { "english": "hill", "tera": "ura" },
+    { "english": "him", "tera": "fu" },
+    { "english": "him", "tera": "li" },
+    { "english": "him", "tera": "gen" },
+    { "english": "hint", "tera": "dem" },
+    { "english": "hip", "tera": "me" },
+    { "english": "hirn", "tera": "maipler" },
+    { "english": "his", "tera": "a" },
+    { "english": "his", "tera": "ix" },
+    { "english": "his", "tera": "genet" },
+    { "english": "historical", "tera": "rfarmmo" },
+    { "english": "historical", "tera": "mqueperi" },
+    { "english": "history", "tera": "nae" },
+    { "english": "hold", "tera": "lrec" },
+    { "english": "hole", "tera": "ware" },
+    { "english": "holiday", "tera": "tiu" },
+    { "english": "Holiday1", "tera": "eu­ry­di­cen­que" },
+    { "english": "holy", "tera": "oeccast" },
+    { "english": "holy water", "tera": "oeccast" },
+    { "english": "home", "tera": "eia" },
+    { "english": "home", "tera": "sub" },
+    { "english": "homeland", "tera": "snectilia" },
+    { "english": "homeland", "tera": "eu­me­ni­dum" },
+    { "english": "honey", "tera": "ketca" },
+    { "english": "honey", "tera": "doqua" },
+    { "english": "honeysuckle", "tera": "ucadsu" },
+    { "english": "honor", "tera": "veleti" },
+    { "english": "honorable", "tera": "cer" },
+    { "english": "hood", "tera": "eteam" },
+    { "english": "hope", "tera": "pri" },
+    { "english": "hope", "tera": "enb" },
+    { "english": "hope", "tera": "ment" },
+    { "english": "hopefully", "tera": "setcorylifra" },
+    { "english": "horn", "tera": "atese" },
+    { "english": "horrible", "tera": "nubalaur" },
+    { "english": "horse", "tera": "abillo" },
+    { "english": "horse", "tera": "somaade" },
+    { "english": "horseman", "tera": "cetusabillo" },
+    { "english": "hospital", "tera": "rmospendeba" },
+    { "english": "hospital", "tera": "iscaer" },
+    { "english": "hospital", "tera": "it­er­um" },
+    { "english": "host", "tera": "rltu" },
+    { "english": "hostage", "tera": "imilacr" },
+    { "english": "hot", "tera": "eish" },
+    { "english": "hot", "tera": "nt" },
+    { "english": "hound", "tera": "elix" },
+    { "english": "hour", "tera": "fidem" },
+    { "english": "house", "tera": "malec" },
+    { "english": "house", "tera": "eimisy" },
+    { "english": "household", "tera": "fle­bant" },
+    { "english": "household", "tera": "ru­r­sus" },
+    { "english": "how", "tera": "pi" },
+    { "english": "how", "tera": "pu" },
+    { "english": "human", "tera": "wlno" },
+    { "english": "hungry", "tera": "stic" },
+    { "english": "hunt", "tera": "assa" },
+    { "english": "hurricane", "tera": "quecol" },
+    { "english": "husband", "tera": "tae" },
+    { "english": "hypothesis", "tera": "estusin" },
+    { "english": "hypothesis", "tera": "mhocpetita" },
+    { "english": "iam", "tera": "an" },
+    { "english": "iamque", "tera": "iamque" },
+    { "english": "ice", "tera": "cquoqu" },
+    { "english": "icon", "tera": "ilon" },
+    { "english": "idea", "tera": "minai" },
+    { "english": "idea", "tera": "nquit" },
+    { "english": "ideal", "tera": "stup" },
+    { "english": "ideal", "tera": "deri" },
+    { "english": "identify", "tera": "mar­gi­ne" },
+    { "english": "identity", "tera": "setcorylifra" },
+    { "english": "identity", "tera": "lu­mi­na" },
+    { "english": "ideology", "tera": "mcavatempo" },
+    { "english": "ideology", "tera": "minaiaxon" },
+    { "english": "ides", "tera": "bel" },
+    { "english": "idi", "tera": "eur" },
+    { "english": "idyllic", "tera": "ronele" },
+    { "english": "igloo", "tera": "lpheephe" },
+    { "english": "ill", "tera": "my" },
+    { "english": "illegal", "tera": "xleth" },
+    { "english": "illusion", "tera": "siamel" },
+    { "english": "illustrate", "tera": "astise" },
+    { "english": "ima", "tera": "ima" },
+    { "english": "immediate", "tera": "ex­san­gues" },
+    { "english": "immigrant", "tera": "rpetuovi" },
+    { "english": "immigrant", "tera": "hiseur" },
+    { "english": "impact", "tera": "sto" },
+    { "english": "implement", "tera": "bisquea" },
+    { "english": "import", "tera": "urb" },
+    { "english": "importance", "tera": "racapistri" },
+    { "english": "important", "tera": "hirsuta" },
+    { "english": "impossible", "tera": "irsutaqu" },
+    { "english": "impress", "tera": "ceco" },
+    { "english": "impression", "tera": "mqueperi" },
+    { "english": "in", "tera": "ate" },
+    { "english": "in", "tera": "io" },
+    { "english": "increase", "tera": "tabumbrahu" },
+    { "english": "increased", "tera": "menmunusqu" },
+    { "english": "increased", "tera": "tra­mes" },
+    { "english": "incredible", "tera": "xitvol" },
+    { "english": "incredibly", "tera": "cutofixi" },
+    { "english": "indeed", "tera": "edro" },
+    { "english": "indicate", "tera": "vatimul" },
+    { "english": "indicator", "tera": "vosquoflex" },
+    { "english": "indicator", "tera": "sgeniali" },
+    { "english": "individual", "tera": "cepinu" },
+    { "english": "industry", "tera": "floresnunc" },
+    { "english": "inevitable", "tera": "tan­ta­lus" },
+    { "english": "inevitably", "tera": "rvaingen" },
+    { "english": "inevitably", "tera": "rporaterra" },
+    { "english": "infatuation", "tera": "osergas" },
+    { "english": "infection", "tera": "me­tu­ens" },
+    { "english": "inflation", "tera": "eresed" },
+    { "english": "influence", "tera": "sadundamtu" },
+    { "english": "ing", "tera": "glan" },
+    { "english": "ing", "tera": "mel" },
+    { "english": "ingredient", "tera": "mptori" },
+    { "english": "inherent", "tera": "simulsali" },
+    { "english": "inherent", "tera": "outubec" },
+    { "english": "inherit", "tera": "deficer" },
+    { "english": "inherit", "tera": "sig" },
+    { "english": "inheritance", "tera": "deficeret" },
+    { "english": "initiate", "tera": "cervuseta" },
+    { "english": "inn", "tera": "hariso" },
+    { "english": "innovation", "tera": "chaonis" },
+    { "english": "innovative", "tera": "ncpuerinpru" },
+    { "english": "innovative", "tera": "altisnect" },
+    { "english": "inquiry", "tera": "relaspa" },
+    { "english": "inrita", "tera": "inrita" },
+    { "english": "insect", "tera": "colamba" },
+    { "english": "inside", "tera": "ro" },
+    { "english": "inside", "tera": "fax" },
+    { "english": "insist", "tera": "phys" },
+    { "english": "inspection", "tera": "afuitarbor" },
+    { "english": "inspection", "tera": "ntacomas" },
+    { "english": "inspection", "tera": "pro­cul" },
+    { "english": "install", "tera": "ycle" },
+    { "english": "instantly", "tera": "ibushae" },
+    { "english": "instead", "tera": "cen" },
+    { "english": "instead", "tera": "mar" },
+    { "english": "instead", "tera": "abla" },
+    { "english": "institutional", "tera": "isexuithachominem" },
+    { "english": "instruct", "tera": "quampart" },
+    { "english": "instructor", "tera": "iscaer" },
+    { "english": "instructor", "tera": "tantod" },
+    { "english": "instrument", "tera": "carem" },
+    { "english": "instrument", "tera": "la­cri­mis" },
+    { "english": "insurance", "tera": "rmospendeba" },
+    { "english": "insurance", "tera": "au­ri­bus" },
+    { "english": "intact", "tera": "ngau" },
+    { "english": "integrate", "tera": "betignoti" },
+    { "english": "integrated", "tera": "ibusilexetplat" },
+    { "english": "integrated", "tera": "sargentea" },
+    { "english": "intellect", "tera": "bricidemet" },
+    { "english": "intendens", "tera": "intendens" },
+    { "english": "intense", "tera": "lui" },
+    { "english": "intense", "tera": "dolph" },
+    { "english": "intensity", "tera": "tamict" },
+    { "english": "intent", "tera": "tec" },
+    { "english": "interest", "tera": "nialis" },
+    { "english": "interested", "tera": "nialisac" },
+    { "english": "interested", "tera": "reiferve" },
+    { "english": "interior", "tera": "eratsept" },
+    { "english": "interior", "tera": "quapost" },
+    { "english": "interior", "tera": "vaporeco" },
+    { "english": "interior", "tera": "ar­du­us" },
+    { "english": "internal", "tera": "lesnecin" },
+    { "english": "internal", "tera": "quicitha" },
+    { "english": "internet", "tera": "sargentea" },
+    { "english": "Internet", "tera": "gilesetfra" },
+    { "english": "intimacy", "tera": "omaipl" },
+    { "english": "intimate", "tera": "rinomai" },
+    { "english": "intimate", "tera": "ex­i­er­it" },
+    { "english": "into", "tera": "st" },
+    { "english": "into", "tera": "lacan" },
+    { "english": "into", "tera": "eti" },
+    { "english": "invasion", "tera": "derfar" },
+    { "english": "invention", "tera": "annanoshi" },
+    { "english": "investigator", "tera": "epomoqueonerat" },
+    { "english": "investment", "tera": "tbicolorm" },
+    { "english": "investment", "tera": "buxumte" },
+    { "english": "investor", "tera": "raeveni" },
+    { "english": "involve", "tera": "ror" },
+    { "english": "involved", "tera": "turparile" },
+    { "english": "ion", "tera": "eprem" },
+    { "english": "iris", "tera": "ndoaliq" },
+    { "english": "iron", "tera": "ndoaliq" },
+    { "english": "ironically", "tera": "engine f" },
+    { "english": "is", "tera": "a" },
+    { "english": "is", "tera": "en" },
+    { "english": "is", "tera": "un" },
+    { "english": "island", "tera": "egohou" },
+    { "english": "israeli", "tera": "bor" },
+    { "english": "israeli", "tera": "echae" },
+    { "english": "Israeli", "tera": "orno" },
+    { "english": "ist", "tera": "sed" },
+    { "english": "it", "tera": "to" },
+    { "english": "it", "tera": "ci" },
+    { "english": "item", "tera": "tri" },
+    { "english": "iterum", "tera": "iterum" },
+    { "english": "ix", "tera": "ioni" },
+    { "english": "jacket", "tera": "uandot" },
+    { "english": "japanese", "tera": "nentibusa" },
+    { "english": "jasmine", "tera": "demfo" },
+    { "english": "jaw", "tera": "ve" },
+    { "english": "jeans", "tera": "tosauto" },
+    { "english": "jester", "tera": "dicca" },
+    { "english": "jewelry", "tera": "predaerimon" },
+    { "english": "jewish", "tera": "remar" },
+    { "english": "jigsaw", "tera": "meronch" },
+    { "english": "join", "tera": "pheni" },
+    { "english": "journal", "tera": "neura" },
+    { "english": "journalism", "tera": "positoce" },
+    { "english": "joy", "tera": "od" },
+    { "english": "joy", "tera": "d" },
+    { "english": "joy", "tera": "odai" },
+    { "english": "judicial", "tera": "esserat" },
+    { "english": "judicial", "tera": "tvellemori" },
+    { "english": "jump", "tera": "eveletia" },
+    { "english": "jungle", "tera": "noerch" },
+    { "english": "jury", "tera": "age" },
+    { "english": "just", "tera": "deri" },
+    { "english": "kangaroo", "tera": "omaipis" },
+    { "english": "keep", "tera": "sccola" },
+    { "english": "kettle", "tera": "soutis" },
+    { "english": "key", "tera": "ge" },
+    { "english": "key", "tera": "ef" },
+    { "english": "key", "tera": "antum" },
+    { "english": "kid", "tera": "te" },
+    { "english": "kid", "tera": "ae" },
+    { "english": "kill", "tera": "jale" },
+    { "english": "kill", "tera": "rum" },
+    { "english": "killing", "tera": "fal" },
+    { "english": "killing", "tera": "ycle" },
+    { "english": "kind", "tera": "bor" },
+    { "english": "king", "tera": "doqua" },
+    { "english": "kiss", "tera": "senem" },
+    { "english": "kitchen", "tera": "erebi" },
+    { "english": "kitchen", "tera": "les" },
+    { "english": "kite", "tera": "mitae" },
+    { "english": "kitten", "tera": "arist" },
+    { "english": "knife", "tera": "eti" },
+    { "english": "knight", "tera": "septan" },
+    { "english": "knight", "tera": "quamaliq" },
+    { "english": "knighthood", "tera": "eratsept" },
+    { "english": "knighthood", "tera": "tursub" },
+    { "english": "knoll", "tera": "ioeesch" },
+    { "english": "know", "tera": "ele" },
+    { "english": "knowledge", "tera": "el" },
+    { "english": "lab", "tera": "iu" },
+    { "english": "lab", "tera": "wo" },
+    { "english": "lace", "tera": "osthe" },
+    { "english": "lamp", "tera": "nimante" },
+    { "english": "lamp", "tera": "hanato" },
+    { "english": "lance", "tera": "ccosca" },
+    { "english": "land", "tera": "ada" },
+    { "english": "land", "tera": "ineta" },
+    { "english": "land", "tera": "inta" },
+    { "english": "land", "tera": "prewa" },
+    { "english": "land,noun", "tera": "ada" },
+    { "english": "landing", "tera": "eti" },
+    { "english": "landing", "tera": "tqu" },
+    { "english": "landscape", "tera": "aquic" },
+    { "english": "landscape", "tera": "aquatic" },
+    { "english": "lane", "tera": "nes" },
+    { "english": "language", "tera": "engalemi" },
+    { "english": "lantern", "tera": "atospne" },
+    { "english": "lap", "tera": "st" },
+    { "english": "lap", "tera": "at" },
+    { "english": "large", "tera": "bras" },
+    { "english": "laser", "tera": "post" },
+    { "english": "late", "tera": "urit" },
+    { "english": "lately", "tera": "entra" },
+    { "english": "laughter", "tera": "tatisexui" },
+    { "english": "launch", "tera": "orsax" },
+    { "english": "lavender", "tera": "rtequon" },
+    { "english": "law", "tera": "reboy" },
+    { "english": "law", "tera": "ne" },
+    { "english": "law", "tera": "ce" },
+    { "english": "lawmaker", "tera": "escitr" },
+    { "english": "lawmaker", "tera": "liacollo" },
+    { "english": "lay", "tera": "de" },
+    { "english": "lay", "tera": "ki" },
+    { "english": "lay", "tera": "ti" },
+    { "english": "lead", "tera": "doo" },
+    { "english": "leader", "tera": "mur" },
+    { "english": "leaf", "tera": "teuoet" },
+    { "english": "lean", "tera": "que" },
+    { "english": "leap", "tera": "antem" },
+    { "english": "learning", "tera": "aut" },
+    { "english": "leather", "tera": "dam" },
+    { "english": "leatherworker", "tera": "dampecca" },
+    { "english": "left", "tera": "xir" },
+    { "english": "legend", "tera": "onve" },
+    { "english": "lemon", "tera": "vixsicu" },
+    { "english": "lend", "tera": "les" },
+    { "english": "less", "tera": "der" },
+    { "english": "lesson", "tera": "rif" },
+    { "english": "letter", "tera": "vos" },
+    { "english": "level", "tera": "gar" },
+    { "english": "liability", "tera": "ulatinos" },
+    { "english": "liberal", "tera": "pannaram" },
+    { "english": "license", "tera": "fer" },
+    { "english": "lid", "tera": "ai" },
+    { "english": "liege", "tera": "sergaso" },
+    { "english": "life", "tera": "la" },
+    { "english": "lifetime", "tera": "evictor" },
+    { "english": "light", "tera": "ripa" },
+    { "english": "light", "tera": "gmen" },
+    { "english": "light", "tera": "agar" },
+    { "english": "light", "tera": "est" },
+    { "english": "lightning", "tera": "ovitumb" },
+    { "english": "lightning", "tera": "enistiset" },
+    { "english": "like", "tera": "echo" },
+    { "english": "like", "tera": "tra" },
+    { "english": "like", "tera": "incon" },
+    { "english": "like", "tera": "der" },
+    { "english": "likely", "tera": "edi" },
+    { "english": "likewise", "tera": "tcyparisseti" },
+    { "english": "lily", "tera": "nisic" },
+    { "english": "limitation", "tera": "sis­y­phe" },
+    { "english": "lion", "tera": "legoei" },
+    { "english": "liquid", "tera": "mar" },
+    { "english": "list", "tera": "jel" },
+    { "english": "list", "tera": "sid" },
+    { "english": "listener", "tera": "uaiunct" },
+    { "english": "listener", "tera": "acampiar" },
+    { "english": "listener", "tera": "urealimen" },
+    { "english": "listener", "tera": "uealimen" },
+    { "english": "literature", "tera": "lityje" },
+    { "english": "literature", "tera": "lity je" },
+    { "english": "little", "tera": "edro" },
+    { "english": "live", "tera": "anu" },
+    { "english": "liver", "tera": "cere" },
+    { "english": "living", "tera": "pho" },
+    { "english": "load", "tera": "ysc" },
+    { "english": "lock", "tera": "gela" },
+    { "english": "lock", "tera": "ussqu" },
+    { "english": "logic", "tera": "timid" },
+    { "english": "long", "tera": "ber" },
+    { "english": "long", "tera": "sacerque" },
+    { "english": "long", "tera": "toky" },
+    { "english": "long-term", "tera": "sacerque" },
+    { "english": "longtime", "tera": "aqueiu" },
+    { "english": "longtime", "tera": "rubenti" },
+    { "english": "loop", "tera": "rtcon" },
+    { "english": "loose", "tera": "mice" },
+    { "english": "lord", "tera": "ilon" },
+    { "english": "lord", "tera": "tumeu" },
+    { "english": "lord", "tera": "ysians" },
+    { "english": "lose", "tera": "hic" },
+    { "english": "loss", "tera": "timid" },
+    { "english": "lot", "tera": "di" },
+    { "english": "loud", "tera": "prim" },
+    { "english": "love", "tera": "moriente" },
+    { "english": "love", "tera": "gera" },
+    { "english": "love", "tera": "ea" },
+    { "english": "love", "tera": "sidems" },
+    { "english": "lovely", "tera": "mtumerg" },
+    { "english": "lover", "tera": "ocaide" },
+    { "english": "loyalty", "tera": "quequi" },
+    { "english": "lry", "tera": "lmer" },
+    { "english": "lumina", "tera": "lumina" },
+    { "english": "luscious", "tera": "eroe" },
+    { "english": "lustrous", "tera": "coinoni" },
+    { "english": "ly", "tera": "rri" },
+    { "english": "lye", "tera": "eragap" },
+    { "english": "mace", "tera": "flexit" },
+    { "english": "machine", "tera": "styre" },
+    { "english": "magazine", "tera": "tipraebe" },
+    { "english": "magic", "tera": "gesp" },
+    { "english": "magic", "tera": "ketca" },
+    { "english": "magnate", "tera": "landt" },
+    { "english": "magnitude", "tera": "cipitrh" },
+    { "english": "magnitude", "tera": "perpetu" },
+    { "english": "magnolia", "tera": "mabsum" },
+    { "english": "mainstream", "tera": "mtruncoque" },
+    { "english": "maintenance", "tera": "pren­di­que" },
+    { "english": "major", "tera": "sho" },
+    { "english": "major", "tera": "ult" },
+    { "english": "majority", "tera": "perpetu" },
+    { "english": "make", "tera": "ord" },
+    { "english": "male", "tera": "ohan" },
+    { "english": "man", "tera": "ean" },
+    { "english": "man", "tera": "gan" },
+    { "english": "man", "tera": "ef" },
+    { "english": "manage", "tera": "ret" },
+    { "english": "manage", "tera": "tafu" },
+    { "english": "management", "tera": "tpiceae" },
+    { "english": "managing", "tera": "terpromate" },
+    { "english": "manipulate", "tera": "siquide" },
+    { "english": "manipulate", "tera": "icalvo" },
+    { "english": "manor", "tera": "odoa" },
+    { "english": "mantlet", "tera": "robor" },
+    { "english": "map", "tera": "ut" },
+    { "english": "map", "tera": "fa" },
+    { "english": "marble", "tera": "same" },
+    { "english": "mare", "tera": "ioni" },
+    { "english": "marigold", "tera": "vixsicu" },
+    { "english": "mark", "tera": "vent" },
+    { "english": "mark", "tera": "curon" },
+    { "english": "marry", "tera": "ate" },
+    { "english": "martia", "tera": "mountain" },
+    { "english": "mask", "tera": "tum" },
+    { "english": "mask", "tera": "postin" },
+    { "english": "mass", "tera": "eprosall" },
+    { "english": "master", "tera": "cetusa" },
+    { "english": "mastery", "tera": "cetus" },
+    { "english": "matter", "tera": "e­nim" },
+    { "english": "may", "tera": "hu" },
+    { "english": "may", "tera": "el" },
+    { "english": "meadow", "tera": "leego" },
+    { "english": "mean", "tera": "rissi" },
+    { "english": "meaning", "tera": "ma­du­is­se" },
+    { "english": "meantime", "tera": "stosangui" },
+    { "english": "mechanism", "tera": "ustinet" },
+    { "english": "medal", "tera": "adega" },
+    { "english": "meeting", "tera": "non" },
+    { "english": "melee", "tera": "stri" },
+    { "english": "melt", "tera": "refri" },
+    { "english": "member of Religion2", "tera": "ustinet" },
+    { "english": "memory", "tera": "rhyever" },
+    { "english": "men", "tera": "ente" },
+    { "english": "men-at-arms", "tera": "entemport" },
+    { "english": "ment", "tera": "esta" },
+    { "english": "mention", "tera": "gens" },
+    { "english": "merchant", "tera": "pabulace" },
+    { "english": "mesmerize", "tera": "asoter" },
+    { "english": "meter", "tera": "phe" },
+    { "english": "middle", "tera": "iquit" },
+    { "english": "mild", "tera": "stru" },
+    { "english": "military", "tera": "suequod" },
+    { "english": "mill", "tera": "umaticc" },
+    { "english": "million", "tera": "tisa" },
+    { "english": "mind", "tera": "carest" },
+    { "english": "mind,spirit", "tera": "care" },
+    { "english": "mineral", "tera": "acef" },
+    { "english": "minimize", "tera": "gusduceba" },
+    { "english": "minimum", "tera": "nal" },
+    { "english": "ministry", "tera": "fessusinhe" },
+    { "english": "minstrel", "tera": "einosp" },
+    { "english": "mirror", "tera": "hnosdou" },
+    { "english": "missing", "tera": "buya" },
+    { "english": "mix", "tera": "ex" },
+    { "english": "moat", "tera": "iccosph" },
+    { "english": "modern", "tera": "ymark" },
+    { "english": "moment", "tera": "rhyev" },
+    { "english": "momentum", "tera": "ebusdixi" },
+    { "english": "momentum", "tera": "risquedo" },
+    { "english": "monastery", "tera": "monihi" },
+    { "english": "money", "tera": "xip" },
+    { "english": "monitor", "tera": "anfra" },
+    { "english": "monk", "tera": "sicutan" },
+    { "english": "monk", "tera": "edquod" },
+    { "english": "monkey", "tera": "senhosou" },
+    { "english": "monster", "tera": "quam" },
+    { "english": "moon", "tera": "tra" },
+    { "english": "moral", "tera": "eaqu" },
+    { "english": "more", "tera": "ceph" },
+    { "english": "more", "tera": "quem" },
+    { "english": "moriens", "tera": "moriens" },
+    { "english": "mortgage", "tera": "septerat" },
+    { "english": "mortgage", "tera": "re­gi­a" },
+    { "english": "motion", "tera": "xinus" },
+    { "english": "motivation", "tera": "rniquee" },
+    { "english": "motte", "tera": "senhos" },
+    { "english": "mound", "tera": "lethia" },
+    { "english": "mount", "tera": "car" },
+    { "english": "mountain", "tera": "tanteq" },
+    { "english": "mouse", "tera": "yrea" },
+    { "english": "move", "tera": "wat" },
+    { "english": "move", "tera": "gun" },
+    { "english": "move", "tera": "eso" },
+    { "english": "movement", "tera": "gane" },
+    { "english": "mrs", "tera": "in" },
+    { "english": "mud", "tera": "co" },
+    { "english": "multiple", "tera": "ineaev" },
+    { "english": "murder", "tera": "ter" },
+    { "english": "mushroom", "tera": "pabulace" },
+    { "english": "music", "tera": "star" },
+    { "english": "music", "tera": "eiusa" },
+    { "english": "musical", "tera": "umqu" },
+    { "english": "muta", "tera": "muta" },
+    { "english": "mutter", "tera": "tis" },
+    { "english": "mysterious", "tera": "aigang" },
+    { "english": "mystery", "tera": "gmed" },
+    { "english": "myth", "tera": "erat" },
+    { "english": "nail", "tera": "term" },
+    { "english": "napkin", "tera": "npater" },
+    { "english": "narrative", "tera": "transfer" },
+    { "english": "nasty", "tera": "finie" },
+    { "english": "natural", "tera": "ste" },
+    { "english": "naturally", "tera": "onantiam" },
+    { "english": "near", "tera": "en" },
+    { "english": "near", "tera": "cha" },
+    { "english": "necessity", "tera": "si­len­ti­a" },
+    { "english": "neck", "tera": "tindu" },
+    { "english": "necklace", "tera": "tatisexui" },
+    { "english": "necklace", "tera": "losaposto" },
+    { "english": "negare", "tera": "nega" },
+    { "english": "negative", "tera": "bisquea" },
+    { "english": "negotiate", "tera": "statuitqu" },
+    { "english": "negotiate", "tera": "eodile" },
+    { "english": "nere", "tera": "vul" },
+    { "english": "ness", "tera": "emet" },
+    { "english": "net", "tera": "ay" },
+    { "english": "net", "tera": "ccmetaga" },
+    { "english": "network", "tera": "nemun" },
+    { "english": "never", "tera": "euni" },
+    { "english": "new", "tera": "cu" },
+    { "english": "nightmare", "tera": "etutlevi" },
+    { "english": "no", "tera": "le" },
+    { "english": "no", "tera": "no" },
+    { "english": "no", "tera": "td" },
+    { "english": "no", "tera": "ol" },
+    { "english": "noble", "tera": "astise" },
+    { "english": "nobody", "tera": "xip" },
+    { "english": "nod", "tera": "ng" },
+    { "english": "noise", "tera": "ment" },
+    { "english": "nomination", "tera": "aramnico" },
+    { "english": "nominee", "tera": "stu" },
+    { "english": "non", "tera": "ono" },
+    { "english": "normal", "tera": "los" },
+    { "english": "nose", "tera": "nonem" },
+    { "english": "nostalgia", "tera": "seclodes" },
+    { "english": "notice", "tera": "altamser" },
+    { "english": "now", "tera": "us" },
+    { "english": "now", "tera": "du" },
+    { "english": "nuclear", "tera": "ite" },
+    { "english": "nurse", "tera": "moe" },
+    { "english": "nurturing", "tera": "iaeuan" },
+    { "english": "nut", "tera": "bi" },
+    { "english": "nut", "tera": "uamneve" },
+    { "english": "nutrient", "tera": "eiusatt" },
+    { "english": "o'clock", "tera": "insk" },
+    { "english": "oak", "tera": "osdicca" },
+    { "english": "oath", "tera": "tequa" },
+    { "english": "oath", "tera": "emeraoi" },
+    { "english": "oath", "tera": "idyna" },
+    { "english": "objective", "tera": "saequor" },
+    { "english": "obligation", "tera": "bicolormyr" },
+    { "english": "obscure", "tera": "caligine" },
+    { "english": "obsucor", "tera": "obsucor" },
+    { "english": "occasion", "tera": "rniquee" },
+    { "english": "occupation", "tera": "fu­tu­ra" },
+    { "english": "ocean", "tera": "esupremu" },
+    { "english": "ocean", "tera": "losnomo" },
+    { "english": "of", "tera": "tec" },
+    { "english": "of", "tera": "e" },
+    { "english": "of", "tera": "ta" },
+    { "english": "off", "tera": "an" },
+    { "english": "offer", "tera": "lori" },
+    { "english": "officer", "tera": "protinus" },
+    { "english": "official", "tera": "ngmarke" },
+    { "english": "oh", "tera": "et" },
+    { "english": "old", "tera": "mu" },
+    { "english": "old", "tera": "op" },
+    { "english": "Old Language", "tera": "engalemi" },
+    { "english": "olympic", "tera": "mar" },
+    { "english": "Olympic", "tera": "sto" },
+    { "english": "once", "tera": "cefa" },
+    { "english": "one", "tera": "as" },
+    { "english": "one", "tera": "hy" },
+    { "english": "one-third", "tera": "tamict" },
+    { "english": "open", "tera": "eper" },
+    { "english": "openly", "tera": "merae" },
+    { "english": "operation", "tera": "laciapho" },
+    { "english": "opponent", "tera": "saestuse" },
+    { "english": "opposition", "tera": "or­bis" },
+    { "english": "opt", "tera": "go" },
+    { "english": "option", "tera": "dolph" },
+    { "english": "option", "tera": "ketin" },
+    { "english": "or", "tera": "ro" },
+    { "english": "oral", "tera": "cum" },
+    { "english": "orange", "tera": "odoau" },
+    { "english": "orbit", "tera": "uatic" },
+    { "english": "orbit", "tera": "orb" },
+    { "english": "orchid", "tera": "acontra" },
+    { "english": "orchid", "tera": "uiosdo" },
+    { "english": "order", "tera": "cune" },
+    { "english": "ore", "tera": "due" },
+    { "english": "organ", "tera": "ansem" },
+    { "english": "organism", "tera": "ueetpicea" },
+    { "english": "original", "tera": "frustra" },
+    { "english": "original", "tera": "le­gem" },
+    { "english": "ostrich", "tera": "rumtame" },
+    { "english": "other", "tera": "cibu" },
+    { "english": "otherwise", "tera": "transir" },
+    { "english": "ought", "tera": "gula" },
+    { "english": "our", "tera": "e" },
+    { "english": "our", "tera": "no" },
+    { "english": "out", "tera": "op" },
+    { "english": "out", "tera": "ese" },
+    { "english": "out", "tera": "so" },
+    { "english": "outcome", "tera": "dno" },
+    { "english": "outlaw", "tera": "rabacae" },
+    { "english": "outsider", "tera": "frustra" },
+    { "english": "outsider", "tera": "tutsaevo" },
+    { "english": "oven", "tera": "nwo" },
+    { "english": "oven", "tera": "reane" },
+    { "english": "over", "tera": "ity" },
+    { "english": "over", "tera": "fisaf" },
+    { "english": "overlook", "tera": "lebraredo" },
+    { "english": "overlord", "tera": "euchoma" },
+    { "english": "overnight", "tera": "nuesquem" },
+    { "english": "owe", "tera": "oc" },
+    { "english": "owe", "tera": "sax" },
+    { "english": "own", "tera": "ce" },
+    { "english": "own", "tera": "cu" },
+    { "english": "ownership", "tera": "turparile" },
+    { "english": "ox", "tera": "lael" },
+    { "english": "pack", "tera": "nat" },
+    { "english": "pad", "tera": "is" },
+    { "english": "pagan", "tera": "lemer" },
+    { "english": "pagan", "tera": "onoqueitan" },
+    { "english": "pagan", "tera": "lacan" },
+    { "english": "paint", "tera": "ndi" },
+    { "english": "painting", "tera": "hirsuta" },
+    { "english": "painting", "tera": "rrimegenti" },
+    { "english": "pair", "tera": "ainf" },
+    { "english": "paladin", "tera": "olisca" },
+    { "english": "palisade", "tera": "ciodi" },
+    { "english": "pan", "tera": "os" },
+    { "english": "pansy", "tera": "videoa" },
+    { "english": "pant", "tera": "sin" },
+    { "english": "paper", "tera": "cri" },
+    { "english": "paper", "tera": "tex" },
+    { "english": "paper", "tera": "ntdi" },
+    { "english": "parade", "tera": "ccon" },
+    { "english": "parapet", "tera": "theteso" },
+    { "english": "parent", "tera": "manc" },
+    { "english": "parental", "tera": "frondibus" },
+    { "english": "parental", "tera": "nefletusi" },
+    { "english": "parish", "tera": "nanter" },
+    { "english": "parish", "tera": "aneih" },
+    { "english": "park", "tera": "hoc" },
+    { "english": "parley", "tera": "eress" },
+    { "english": "parrot", "tera": "scosmosa" },
+    { "english": "part", "tera": "te" },
+    { "english": "partially", "tera": "tuvacuu" },
+    { "english": "partially", "tera": "rvumadnova" },
+    { "english": "particle", "tera": "emfacieb" },
+    { "english": "particular", "tera": "betignoti" },
+    { "english": "partner", "tera": "toran" },
+    { "english": "party", "tera": "tasimita" },
+    { "english": "party", "tera": "pepale" },
+    { "english": "passenger", "tera": "rescol" },
+    { "english": "passion", "tera": "equea" },
+    { "english": "passionate", "tera": "gelion" },
+    { "english": "past", "tera": "selod" },
+    { "english": "pasture", "tera": "crinoma" },
+    { "english": "pat", "tera": "se" },
+    { "english": "patch", "tera": "iyass" },
+    { "english": "patient", "tera": "eus" },
+    { "english": "patriarch", "tera": "orsax" },
+    { "english": "pay", "tera": "ci" },
+    { "english": "pay", "tera": "la" },
+    { "english": "peace", "tera": "caelum" },
+    { "english": "peach", "tera": "tetos" },
+    { "english": "peasant", "tera": "dep" },
+    { "english": "pen", "tera": "my" },
+    { "english": "penance", "tera": "diove" },
+    { "english": "pencil", "tera": "tetso" },
+    { "english": "pencil", "tera": "nsaepe" },
+    { "english": "penguin", "tera": "ihepros" },
+    { "english": "pennant", "tera": "ainse" },
+    { "english": "pennon", "tera": "tosou" },
+    { "english": "pension", "tera": "mice" },
+    { "english": "peony", "tera": "antum" },
+    { "english": "perceive", "tera": "sgratusera" },
+    { "english": "perceived", "tera": "erevidi" },
+    { "english": "percentage", "tera": "sfierisu" },
+    { "english": "perfectly", "tera": "aenonso" },
+    { "english": "perfectly", "tera": "erevidi" },
+    { "english": "performer", "tera": "ovirens" },
+    { "english": "perfume", "tera": "senhosou" },
+    { "english": "permission", "tera": "tusetbac" },
+    { "english": "permission", "tera": "risquedo" },
+    { "english": "permit", "tera": "nerem" },
+    { "english": "person", "tera": "des" },
+    { "english": "perspective", "tera": "a­fu­er­unt" },
+    { "english": "persuade", "tera": "sadundamtu" },
+    { "english": "pet", "tera": "didu" },
+    { "english": "petal", "tera": "uisqueq" },
+    { "english": "pewter", "tera": "oecoin" },
+    { "english": "ph", "tera": "sisy" },
+    { "english": "philosophy", "tera": "odeerat" },
+    { "english": "phone", "tera": "tpla" },
+    { "english": "photograph", "tera": "ilisive" },
+    { "english": "photograph", "tera": "itsuaco" },
+    { "english": "photograph", "tera": "ispraemiapalm" },
+    { "english": "phrase", "tera": "nul" },
+    { "english": "physical", "tera": "moriente" },
+    { "english": "physically", "tera": "watchnoda" },
+    { "english": "physically", "tera": "watch noda" },
+    { "english": "physics", "tera": "nis" },
+    { "english": "picture", "tera": "func" },
+    { "english": "pie", "tera": "ri" },
+    { "english": "piety", "tera": "tumerg" },
+    { "english": "pig", "tera": "ji" },
+    { "english": "pile", "tera": "diy" },
+    { "english": "pile", "tera": "por" },
+    { "english": "pile", "tera": "ait" },
+    { "english": "pile", "tera": "lethiere" },
+    { "english": "pilgrim", "tera": "eergon" },
+    { "english": "pilgrim", "tera": "somaa" },
+    { "english": "pilgrimage", "tera": "lnequ" },
+    { "english": "pilgrimage", "tera": "hamar" },
+    { "english": "pilgrimage site", "tera": "hamar" },
+    { "english": "pill", "tera": "merae" },
+    { "english": "pin", "tera": "vi" },
+    { "english": "pink", "tera": "sault" },
+    { "english": "pipe", "tera": "sile" },
+    { "english": "pit", "tera": "gr" },
+    { "english": "pitch", "tera": "ergi" },
+    { "english": "pitch", "tera": "elfi" },
+    { "english": "pitcher", "tera": "rensbuxumte" },
+    { "english": "pizza", "tera": "aquon" },
+    { "english": "place", "tera": "sene" },
+    { "english": "place", "tera": "agile" },
+    { "english": "place of manufacture", "tera": "ca­li­gi­ne" },
+    { "english": "placement", "tera": "altisnect" },
+    { "english": "placement", "tera": "aepulche" },
+    { "english": "plain", "tera": "empav" },
+    { "english": "plan", "tera": "rem" },
+    { "english": "plan", "tera": "hanc" },
+    { "english": "plan", "tera": "uesim" },
+    { "english": "play", "tera": "ded" },
+    { "english": "play", "tera": "go" },
+    { "english": "play", "tera": "gon" },
+    { "english": "plead", "tera": "bitu" },
+    { "english": "plead", "tera": "tin" },
+    { "english": "pleasant", "tera": "rticoepe" },
+    { "english": "please", "tera": "rathe" },
+    { "english": "plow", "tera": "iosha" },
+    { "english": "plum", "tera": "temtame" },
+    { "english": "pm", "tera": "ge" },
+    { "english": "pocket", "tera": "ysi" },
+    { "english": "poem", "tera": "age" },
+    { "english": "poet", "tera": "li­a" },
+    { "english": "poetry", "tera": "iterumi" },
+    { "english": "point", "tera": "raloc" },
+    { "english": "point", "tera": "flui" },
+    { "english": "politics1", "tera": "liosce" },
+    { "english": "poll", "tera": "amar" },
+    { "english": "pollution", "tera": "ratarc" },
+    { "english": "pop", "tera": "or" },
+    { "english": "poppy", "tera": "uandot" },
+    { "english": "population", "tera": "ntsanfra" },
+    { "english": "population", "tera": "tfilas" },
+    { "english": "portcullis", "tera": "inaca" },
+    { "english": "portrait", "tera": "ispraemiapalm" },
+    { "english": "pose", "tera": "utur" },
+    { "english": "position", "tera": "cipitrh" },
+    { "english": "position", "tera": "manrif" },
+    { "english": "position", "tera": "jam" },
+    { "english": "possession", "tera": "suocapi" },
+    { "english": "post", "tera": "mpu" },
+    { "english": "post", "tera": "uat" },
+    { "english": "pot", "tera": "n" },
+    { "english": "potato", "tera": "queit" },
+    { "english": "potato", "tera": "ronele" },
+    { "english": "potential", "tera": "paramnic" },
+    { "english": "pour", "tera": "geas" },
+    { "english": "powder", "tera": "tos" },
+    { "english": "practice", "tera": "loribusin" },
+    { "english": "practice", "tera": "cancri" },
+    { "english": "praise", "tera": "tedre" },
+    { "english": "praise", "tera": "vix" },
+    { "english": "pray", "tera": "tal" },
+    { "english": "prayer", "tera": "ive" },
+    { "english": "precisely", "tera": "aesculus" },
+    { "english": "predator", "tera": "rathaeate" },
+    { "english": "predator", "tera": "lishastise" },
+    { "english": "predator", "tera": "cretegan" },
+    { "english": "predator", "tera": "crete gan" },
+    { "english": "predict", "tera": "her" },
+    { "english": "prediction", "tera": "odopen" },
+    { "english": "preference", "tera": "antgra" },
+    { "english": "pregnancy", "tera": "superisu" },
+    { "english": "pregnant", "tera": "ledieb" },
+    { "english": "pregnant", "tera": "quampart" },
+    { "english": "premise", "tera": "temic" },
+    { "english": "premise", "tera": "unx" },
+    { "english": "prendere", "tera": "prendere" },
+    { "english": "prendique", "tera": "prendique" },
+    { "english": "presbytery", "tera": "ruio" },
+    { "english": "presence", "tera": "mitilleta" },
+    { "english": "presence", "tera": "tebantau" },
+    { "english": "present", "tera": "sub" },
+    { "english": "pressure", "tera": "rvataque" },
+    { "english": "pressure", "tera": "re­cen­tes" },
+    { "english": "pretty", "tera": "nala" },
+    { "english": "pretty", "tera": "gant" },
+    { "english": "pretty", "tera": "atospne" },
+    { "english": "pretty, beautiful", "tera": "nala" },
+    { "english": "prevention", "tera": "braloc" },
+    { "english": "previously", "tera": "yrtusetbaci" },
+    { "english": "prey", "tera": "crete" },
+    { "english": "pri", "tera": "tunc" },
+    { "english": "priest", "tera": "tedos" },
+    { "english": "primarily", "tera": "positoce" },
+    { "english": "primrose", "tera": "udiove" },
+    { "english": "principal", "tera": "ctorisprae" },
+    { "english": "principal", "tera": "lentibusi" },
+    { "english": "principle", "tera": "liceset" },
+    { "english": "prior", "tera": "emque" },
+    { "english": "priority", "tera": "ssolisque" },
+    { "english": "priory", "tera": "mabasi" },
+    { "english": "priviledge", "tera": "theun" },
+    { "english": "pro", "tera": "wo" },
+    { "english": "procedure", "tera": "nteretige" },
+    { "english": "proceed", "tera": "emque" },
+    { "english": "processing", "tera": "abiescu" },
+    { "english": "proclaim", "tera": "horridaca" },
+    { "english": "proclaim", "tera": "itsuaco" },
+    { "english": "proclaim", "tera": "car­mi­ne" },
+    { "english": "producer", "tera": "saltasipse" },
+    { "english": "production", "tera": "ilisive" },
+    { "english": "production", "tera": "uralsile" },
+    { "english": "profession", "tera": "frondibus" },
+    { "english": "profile", "tera": "gssy" },
+    { "english": "program", "tera": "ysc" },
+    { "english": "project", "tera": "mor" },
+    { "english": "projection", "tera": "omniia" },
+    { "english": "promise", "tera": "the" },
+    { "english": "promising", "tera": "nubalaur" },
+    { "english": "prompt", "tera": "echa" },
+    { "english": "proper", "tera": "nat" },
+    { "english": "property", "tera": "lorisvin" },
+    { "english": "proposal", "tera": "entemport" },
+    { "english": "propose", "tera": "sco" },
+    { "english": "prosecutor", "tera": "rrimegenti" },
+    { "english": "prospect", "tera": "eccepone" },
+    { "english": "prospect", "tera": "gusetinnu" },
+    { "english": "prospect", "tera": "equesi" },
+    { "english": "protect", "tera": "geme" },
+    { "english": "protection", "tera": "modotexe" },
+    { "english": "protective", "tera": "aetsucc" },
+    { "english": "protest", "tera": "eaqu" },
+    { "english": "protest", "tera": "lae" },
+    { "english": "prove", "tera": "tion" },
+    { "english": "provider", "tera": "tlentaevi" },
+    { "english": "provider", "tera": "nefletusi" },
+    { "english": "province", "tera": "yricaeet" },
+    { "english": "psychological", "tera": "isexuithachominem" },
+    { "english": "psychology", "tera": "amvirid" },
+    { "english": "public", "tera": "iit" },
+    { "english": "publicity", "tera": "eusfemin" },
+    { "english": "publicity", "tera": "umnamque" },
+    { "english": "publicly", "tera": "illeeti" },
+    { "english": "publicly", "tera": "liceset" },
+    { "english": "pump", "tera": "xit" },
+    { "english": "punishment", "tera": "caturbaeme" },
+    { "english": "purchase", "tera": "orhabeb" },
+    { "english": "purpose", "tera": "eress" },
+    { "english": "push", "tera": "iam" },
+    { "english": "qualify", "tera": "ive" },
+    { "english": "quarter", "tera": "bles" },
+    { "english": "quartz", "tera": "osergas" },
+    { "english": "queen", "tera": "keti" },
+    { "english": "queen", "tera": "allaperi" },
+    { "english": "quest", "tera": "nsinena" },
+    { "english": "questa", "tera": "questa" },
+    { "english": "question", "tera": "ramnervise" },
+    { "english": "question", "tera": "transfer" },
+    { "english": "question", "tera": "pomoque" },
+    { "english": "quicksand", "tera": "nthropos" },
+    { "english": "quicquam", "tera": "quicquam" },
+    { "english": "quilt", "tera": "iterumi" },
+    { "english": "quite", "tera": "cour" },
+    { "english": "r", "tera": "regegia" },
+    { "english": "rabbit", "tera": "gut" },
+    { "english": "rabbit", "tera": "hotiec" },
+    { "english": "radiance", "tera": "hemera" },
+    { "english": "radiant", "tera": "nsinena" },
+    { "english": "radiation", "tera": "lesnecin" },
+    { "english": "radiation (magic)", "tera": "lesnecin" },
+    { "english": "raider", "tera": "ribusege" },
+    { "english": "railroad", "tera": "ques­ta" },
+    { "english": "ram", "tera": "oculos" },
+    { "english": "rampart", "tera": "fortequ" },
+    { "english": "rampart", "tera": "aperihoti" },
+    { "english": "rampart", "tera": "delph" },
+    { "english": "random", "tera": "rap" },
+    { "english": "random", "tera": "wila" },
+    { "english": "range", "tera": "margine" },
+    { "english": "rank", "tera": "opaca" },
+    { "english": "rapport", "tera": "oidapist" },
+    { "english": "rapture", "tera": "ossos" },
+    { "english": "ras", "tera": "umb" },
+    { "english": "rather", "tera": "reb" },
+    { "english": "rather", "tera": "bic" },
+    { "english": "reach", "tera": "cibu" },
+    { "english": "react", "tera": "ane" },
+    { "english": "reading", "tera": "sidenshucla" },
+    { "english": "reap", "tera": "mla" },
+    { "english": "rear", "tera": "sma" },
+    { "english": "recall", "tera": "inse" },
+    { "english": "receiver", "tera": "genitusv" },
+    { "english": "recent", "tera": "ccon" },
+    { "english": "recently", "tera": "in­ri­ta" },
+    { "english": "recession", "tera": "stu­puit­que" },
+    { "english": "recipe", "tera": "tema" },
+    { "english": "recipient", "tera": "itorar" },
+    { "english": "recipient", "tera": "rattit" },
+    { "english": "recipient", "tera": "tbicolorm" },
+    { "english": "recognize", "tera": "iliaemol" },
+    { "english": "recommend", "tera": "re boy" },
+    { "english": "reconnoiter", "tera": "sonscare" },
+    { "english": "recording", "tera": "ctorisprae" },
+    { "english": "recording", "tera": "pinusgrata" },
+    { "english": "red", "tera": "effa" },
+    { "english": "red", "tera": "men" },
+    { "english": "refectory", "tera": "eusisn" },
+    { "english": "refer", "tera": "dum" },
+    { "english": "reflection", "tera": "ncpuerinpru" },
+    { "english": "reform", "tera": "mvuln" },
+    { "english": "refuse", "tera": "kin" },
+    { "english": "regarding", "tera": "chaonis" },
+    { "english": "regional", "tera": "pulsae" },
+    { "english": "regit", "tera": "orant" },
+    { "english": "regret", "tera": "umpop" },
+    { "english": "regular", "tera": "olen" },
+    { "english": "regularly", "tera": "eranted" },
+    { "english": "regulate", "tera": "tantod" },
+    { "english": "regulatory", "tera": "ctoramorem" },
+    { "english": "regulatory", "tera": "lebatsedta" },
+    { "english": "regulatory", "tera": "reoy" },
+    { "english": "regulatory", "tera": "re boy" },
+    { "english": "relative", "tera": "minish" },
+    { "english": "relative", "tera": "nsiaculo" },
+    { "english": "relative", "tera": "ingemui" },
+    { "english": "relax", "tera": "tal" },
+    { "english": "release", "tera": "fisaf" },
+    { "english": "relieve", "tera": "dru" },
+    { "english": "relieve", "tera": "lm mo" },
+    { "english": "religion", "tera": "apophe" },
+    { "english": "religion", "tera": "ustinetisellis" },
+    { "english": "Religion2", "tera": "ustinetisellis" },
+    { "english": "religious", "tera": "cebasfonti" },
+    { "english": "reliquary", "tera": "epeite" },
+    { "english": "reluctant", "tera": "au­ras" },
+    { "english": "remarkable", "tera": "evictor" },
+    { "english": "remember", "tera": "tuliqui" },
+    { "english": "render", "tera": "sys" },
+    { "english": "rent", "tera": "hum" },
+    { "english": "repeatedly", "tera": "superplan" },
+    { "english": "repeatedly", "tera": "tinosvosqu" },
+    { "english": "reply", "tera": "tan" },
+    { "english": "report", "tera": "sconsar" },
+    { "english": "reportedly", "tera": "acampiar" },
+    { "english": "reportedly", "tera": "car­pi­tur" },
+    { "english": "represent", "tera": "ibusil" },
+    { "english": "representation", "tera": "ibusilexetplat" },
+    { "english": "required", "tera": "laeque" },
+    { "english": "rescue", "tera": "ter" },
+    { "english": "researcher", "tera": "doquini" },
+    { "english": "resemble", "tera": "mosmulcenda" },
+    { "english": "reserve", "tera": "mus" },
+    { "english": "reserve", "tera": "batco" },
+    { "english": "residence", "tera": "ndibusile" },
+    { "english": "resolve", "tera": "yrtusetbaci" },
+    { "english": "resource", "tera": "etutlevi" },
+    { "english": "respondent", "tera": "snaturali" },
+    { "english": "response", "tera": "ovitumb" },
+    { "english": "restore", "tera": "orniq" },
+    { "english": "restore", "tera": "cquid" },
+    { "english": "restrict", "tera": "menantea" },
+    { "english": "result", "tera": "ive" },
+    { "english": "retail", "tera": "xip" },
+    { "english": "retainer", "tera": "estusin" },
+    { "english": "retinue", "tera": "eleo" },
+    { "english": "reverie", "tera": "isaggel" },
+    { "english": "review", "tera": "tspa" },
+    { "english": "review", "tera": "calm" },
+    { "english": "revolutaque", "tera": "revolutaque" },
+    { "english": "revolution", "tera": "coloribu" },
+    { "english": "revolution", "tera": "cancri" },
+    { "english": "rhapsody", "tera": "ossosendo" },
+    { "english": "rhetoric", "tera": "abiescu" },
+    { "english": "ribbon", "tera": "hyph" },
+    { "english": "rich", "tera": "cet" },
+    { "english": "rid", "tera": "set" },
+    { "english": "rid", "tera": "st" },
+    { "english": "ridge", "tera": "jan" },
+    { "english": "ridge", "tera": "nestno" },
+    { "english": "ridiculous", "tera": "pinusgrata" },
+    { "english": "rife", "tera": "qui" },
+    { "english": "right", "tera": "issim" },
+    { "english": "ring", "tera": "omaipl" },
+    { "english": "riot", "tera": "cau" },
+    { "english": "risk", "tera": "sys" },
+    { "english": "risk", "tera": "rem" },
+    { "english": "ritual", "tera": "orph" },
+    { "english": "river", "tera": "eladel" },
+    { "english": "river", "tera": "mtumerg" },
+    { "english": "road", "tera": "ebantau" },
+    { "english": "robe", "tera": "uisill" },
+    { "english": "rock", "tera": "mas" },
+    { "english": "rock", "tera": "amnisiib" },
+    { "english": "rolling", "tera": "cyparissusa" },
+    { "english": "romance", "tera": "uamneve" },
+    { "english": "roof", "tera": "sty" },
+    { "english": "room", "tera": "nec" },
+    { "english": "rope", "tera": "enlogosa" },
+    { "english": "rope", "tera": "martia" },
+    { "english": "rose", "tera": "incon" },
+    { "english": "rose", "tera": "phys" },
+    { "english": "rose", "tera": "uidem" },
+    { "english": "rosebud", "tera": "amnisiib" },
+    { "english": "rosemary", "tera": "tosauto" },
+    { "english": "rosy", "tera": "hotiec" },
+    { "english": "round", "tera": "mun" },
+    { "english": "rous", "tera": "res" },
+    { "english": "royal", "tera": "nesin" },
+    { "english": "royal", "tera": "bri" },
+    { "english": "rub", "tera": "bi" },
+    { "english": "rub", "tera": "or" },
+    { "english": "ruin", "tera": "ope" },
+    { "english": "ruin", "tera": "esecir" },
+    { "english": "ruin", "tera": "ese" },
+    { "english": "rule", "tera": "erre" },
+    { "english": "run", "tera": "ch" },
+    { "english": "run", "tera": "au" },
+    { "english": "run", "tera": "vac" },
+    { "english": "runner", "tera": "ono" },
+    { "english": "running", "tera": "sid" },
+    { "english": "russian", "tera": "rity" },
+    { "english": "sacrament", "tera": "rdiaar" },
+    { "english": "sacrifice", "tera": "ederaev" },
+    { "english": "sacrifice", "tera": "loribusin" },
+    { "english": "sad", "tera": "o" },
+    { "english": "sad", "tera": "k" },
+    { "english": "safe", "tera": "dand" },
+    { "english": "sail", "tera": "orno" },
+    { "english": "salad", "tera": "ierpi" },
+    { "english": "salad", "tera": "bic" },
+    { "english": "salary", "tera": "num" },
+    { "english": "salary", "tera": "cery" },
+    { "english": "salary", "tera": "cer" },
+    { "english": "sales", "tera": "arrat" },
+    { "english": "salt", "tera": "vas" },
+    { "english": "san", "tera": "ex" },
+    { "english": "sanction", "tera": "oqueindu" },
+    { "english": "sandwich", "tera": "pren­de­re" },
+    { "english": "satellite", "tera": "in­que" },
+    { "english": "satisfy", "tera": "stic" },
+    { "english": "saving", "tera": "raf" },
+    { "english": "scabbard", "tera": "posenl" },
+    { "english": "scabbard", "tera": "cheepa" },
+    { "english": "scan", "tera": "manal" },
+    { "english": "scandal", "tera": "tem" },
+    { "english": "scare", "tera": "ctor" },
+    { "english": "scarf", "tera": "eroe" },
+    { "english": "scepter", "tera": "emiapoc" },
+    { "english": "schedule", "tera": "ctoramorem" },
+    { "english": "schedule", "tera": "reumgraci" },
+    { "english": "science", "tera": "axa" },
+    { "english": "science", "tera": "loon" },
+    { "english": "scope", "tera": "sed" },
+    { "english": "scorn", "tera": "detin" },
+    { "english": "scout", "tera": "iliaemol" },
+    { "english": "scramble", "tera": "xetplatanu" },
+    { "english": "scramble", "tera": "clusumpis" },
+    { "english": "screen", "tera": "dge" },
+    { "english": "screening", "tera": "veapende" },
+    { "english": "screw", "tera": "urit" },
+    { "english": "script", "tera": "evol" },
+    { "english": "scutage", "tera": "goei" },
+    { "english": "sea", "tera": "bi" },
+    { "english": "seal", "tera": "diccaioe" },
+    { "english": "search", "tera": "ent" },
+    { "english": "seat", "tera": "soul" },
+    { "english": "secondary", "tera": "xitvol" },
+    { "english": "secret", "tera": "spa" },
+    { "english": "secular", "tera": "nos" },
+    { "english": "see", "tera": "ni" },
+    { "english": "see", "tera": "eay" },
+    { "english": "seek", "tera": "tan" },
+    { "english": "seem", "tera": "eayea" },
+    { "english": "seer", "tera": "metuens" },
+    { "english": "segment", "tera": "toky" },
+    { "english": "seize", "tera": "iamar" },
+    { "english": "seize", "tera": "vil" },
+    { "english": "selection", "tera": "aqueiu" },
+    { "english": "seller", "tera": "met" },
+    { "english": "senator", "tera": "ende" },
+    { "english": "sensitive", "tera": "ctamoveba" },
+    { "english": "sensitive", "tera": "amaetat" },
+    { "english": "sensitive", "tera": "concre" },
+    { "english": "sentiment", "tera": "saequor" },
+    { "english": "sentiment", "tera": "repetuovi" },
+    { "english": "sentimental", "tera": "opro" },
+    { "english": "separate", "tera": "vo­cant" },
+    { "english": "separate", "tera": "a­mans" },
+    { "english": "sepulcher", "tera": "ristha" },
+    { "english": "sequence", "tera": "cap­ta­vit" },
+    { "english": "serenade", "tera": "nsaepe" },
+    { "english": "serf", "tera": "heospo" },
+    { "english": "serfdom", "tera": "veroul" },
+    { "english": "series", "tera": "ste" },
+    { "english": "servant", "tera": "thel" },
+    { "english": "servant", "tera": "bea" },
+    { "english": "serve", "tera": "there" },
+    { "english": "service", "tera": "aticcos" },
+    { "english": "set", "tera": "ke" },
+    { "english": "set", "tera": "ji" },
+    { "english": "set", "tera": "ma" },
+    { "english": "several", "tera": "franc" },
+    { "english": "severely", "tera": "echeia" },
+    { "english": "severely", "tera": "nia car" },
+    { "english": "sexual", "tera": "ent" },
+    { "english": "sexuality", "tera": "snaturali" },
+    { "english": "sexuality", "tera": "manrif" },
+    { "english": "shade", "tera": "lem" },
+    { "english": "shame", "tera": "kin" },
+    { "english": "shame", "tera": "toas" },
+    { "english": "share", "tera": "quid" },
+    { "english": "shark", "tera": "neraga" },
+    { "english": "she", "tera": "re" },
+    { "english": "she", "tera": "ne" },
+    { "english": "shed", "tera": "cour" },
+    { "english": "shed", "tera": "ware" },
+    { "english": "sheet", "tera": "nshri" },
+    { "english": "shell", "tera": "lmmo" },
+    { "english": "shell", "tera": "lm mo" },
+    { "english": "shield", "tera": "necaut" },
+    { "english": "shine", "tera": "oria" },
+    { "english": "shine", "tera": "hanc" },
+    { "english": "shining", "tera": "oriamel" },
+    { "english": "shit", "tera": "ota" },
+    { "english": "shock", "tera": "ity" },
+    { "english": "shock", "tera": "phen" },
+    { "english": "shock", "tera": "sax­o" },
+    { "english": "shop", "tera": "inu" },
+    { "english": "shore", "tera": "age" },
+    { "english": "short", "tera": "cohol" },
+    { "english": "shot", "tera": "ter" },
+    { "english": "should", "tera": "onve" },
+    { "english": "show", "tera": "nesin" },
+    { "english": "show", "tera": "exet" },
+    { "english": "shower", "tera": "rissi" },
+    { "english": "shrug", "tera": "nar" },
+    { "english": "shrug", "tera": "gssy" },
+    { "english": "shut", "tera": "ille" },
+    { "english": "sibling", "tera": "eisin" },
+    { "english": "sibling", "tera": "ende" },
+    { "english": "sick", "tera": "stup" },
+    { "english": "sickness", "tera": "crud" },
+    { "english": "siege", "tera": "ipsene" },
+    { "english": "signal", "tera": "orph" },
+    { "english": "signal", "tera": "atic" },
+    { "english": "signal", "tera": "ono" },
+    { "english": "signature", "tera": "queverti" },
+    { "english": "signature", "tera": "mo­ri­ens" },
+    { "english": "silence", "tera": "accip" },
+    { "english": "silk", "tera": "nacatah" },
+    { "english": "silly", "tera": "ota" },
+    { "english": "similarly", "tera": "uithui" },
+    { "english": "similarly", "tera": "rthaeate" },
+    { "english": "simple", "tera": "rgara" },
+    { "english": "since", "tera": "rit" },
+    { "english": "sincere", "tera": "euchom" },
+    { "english": "sing", "tera": "sto" },
+    { "english": "sit", "tera": "de" },
+    { "english": "sit", "tera": "inces" },
+    { "english": "sit", "tera": "ng" },
+    { "english": "sit", "tera": "ch" },
+    { "english": "situation", "tera": "orquean" },
+    { "english": "skin", "tera": "min" },
+    { "english": "skull", "tera": "rtcyb" },
+    { "english": "sky", "tera": "ra" },
+    { "english": "sky", "tera": "mo" },
+    { "english": "slaughter", "tera": "mala" },
+    { "english": "sleeve", "tera": "i­ma" },
+    { "english": "slow", "tera": "rea" },
+    { "english": "slowly", "tera": "sinp" },
+    { "english": "smell", "tera": "issim" },
+    { "english": "smitten", "tera": "egohou" },
+    { "english": "smoke", "tera": "ashae" },
+    { "english": "so", "tera": "ro" },
+    { "english": "so", "tera": "er" },
+    { "english": "so-called", "tera": "sposabl" },
+    { "english": "soak", "tera": "imaeq" },
+    { "english": "soccer", "tera": "bra" },
+    { "english": "socially", "tera": "tebantau" },
+    { "english": "sock", "tera": "acef" },
+    { "english": "sock", "tera": "cpashi" },
+    { "english": "soft", "tera": "toas" },
+    { "english": "soft", "tera": "occ" },
+    { "english": "soldier", "tera": "entemport" },
+    { "english": "solely", "tera": "tien" },
+    { "english": "solid", "tera": "erum" },
+    { "english": "some", "tera": "car" },
+    { "english": "some", "tera": "dele" },
+    { "english": "someday", "tera": "ger" },
+    { "english": "something", "tera": "rfrontemparvi" },
+    { "english": "sometimes", "tera": "superplan" },
+    { "english": "sometimes", "tera": "pro­ti­nus" },
+    { "english": "somewhat", "tera": "anusge" },
+    { "english": "somewhere", "tera": "flec­tat" },
+    { "english": "son", "tera": "su" },
+    { "english": "son", "tera": "ut" },
+    { "english": "son", "tera": "me" },
+    { "english": "song", "tera": "stom" },
+    { "english": "song", "tera": "endo" },
+    { "english": "soon", "tera": "fle" },
+    { "english": "soul", "tera": "omai" },
+    { "english": "soulmate", "tera": "omaipis" },
+    { "english": "sound", "tera": "dis" },
+    { "english": "soup", "tera": "pas" },
+    { "english": "source", "tera": "geas" },
+    { "english": "south", "tera": "nia" },
+    { "english": "southeast", "tera": "colosedrasti" },
+    { "english": "southeast", "tera": "niacar" },
+    { "english": "southeast", "tera": "ctamoveba" },
+    { "english": "southeast", "tera": "nia car" },
+    { "english": "southern", "tera": "eranted" },
+    { "english": "space", "tera": "nam" },
+    { "english": "sparkle", "tera": "reane" },
+    { "english": "speak", "tera": "stare" },
+    { "english": "speak", "tera": "stone" },
+    { "english": "speak", "tera": "ecce" },
+    { "english": "speaker", "tera": "eisin" },
+    { "english": "specialize", "tera": "co­ni­unx" },
+    { "english": "species", "tera": "gapo" },
+    { "english": "specific", "tera": "nmensosege" },
+    { "english": "spectacular", "tera": "sacernymphisca" },
+    { "english": "spectrum", "tera": "queina" },
+    { "english": "speculate", "tera": "mtruncoque" },
+    { "english": "speculate", "tera": "bantbracchia" },
+    { "english": "speculate", "tera": "tvellemori" },
+    { "english": "speculate", "tera": "ngmarke" },
+    { "english": "speculate", "tera": "apophe" },
+    { "english": "spending", "tera": "erbaeum" },
+    { "english": "spending", "tera": "gilesetfra" },
+    { "english": "spirit", "tera": "care" },
+    { "english": "spiritual", "tera": "ver­ba" },
+    { "english": "spoken", "tera": "eccen" },
+    { "english": "spontaneous", "tera": "aidyna" },
+    { "english": "spoon", "tera": "iindeh" },
+    { "english": "spot", "tera": "tolin" },
+    { "english": "spot", "tera": "nuit" },
+    { "english": "spot", "tera": "trunc" },
+    { "english": "spread", "tera": "quod" },
+    { "english": "spring", "tera": "fosle" },
+    { "english": "sprinkle", "tera": "squedie" },
+    { "english": "square", "tera": "ergi" },
+    { "english": "squire", "tera": "sisnos" },
+    { "english": "squire", "tera": "sopros" },
+    { "english": "squire's oath", "tera": "idyna" },
+    { "english": "staff", "tera": "thariso" },
+    { "english": "staff", "tera": "eego" },
+    { "english": "stained glass", "tera": "rumiam" },
+    { "english": "stair", "tera": "oran" },
+    { "english": "stallion", "tera": "taredo" },
+    { "english": "stand", "tera": "ripa" },
+    { "english": "standard", "tera": "reumgraci" },
+    { "english": "standard", "tera": "diccaios" },
+    { "english": "standard", "tera": "ix­i­o­nis" },
+    { "english": "standing", "tera": "nviridemve" },
+    { "english": "star", "tera": "nup" },
+    { "english": "stare", "tera": "mar" },
+    { "english": "start", "tera": "nshri" },
+    { "english": "start", "tera": "angre" },
+    { "english": "state", "tera": "sit" },
+    { "english": "state", "tera": "pesse" },
+    { "english": "state", "tera": "ista" },
+    { "english": "statement", "tera": "stuque" },
+    { "english": "statistics", "tera": "egbasys" },
+    { "english": "statute", "tera": "aqui" },
+    { "english": "statute", "tera": "cre" },
+    { "english": "steadily", "tera": "emollesne" },
+    { "english": "steel", "tera": "mina" },
+    { "english": "step", "tera": "ese" },
+    { "english": "steward", "tera": "urromit" },
+    { "english": "stewardship", "tera": "uange" },
+    { "english": "stock", "tera": "pri" },
+    { "english": "stone", "tera": "emra" },
+    { "english": "stone", "tera": "oproei" },
+    { "english": "storage", "tera": "omniia" },
+    { "english": "storage house", "tera": "omniia" },
+    { "english": "store", "tera": "ment" },
+    { "english": "storm", "tera": "menil" },
+    { "english": "story", "tera": "sophame" },
+    { "english": "stove", "tera": "wlno" },
+    { "english": "stove", "tera": "ainse" },
+    { "english": "straight", "tera": "banpis" },
+    { "english": "strange", "tera": "itaa" },
+    { "english": "strategic", "tera": "liacollo" },
+    { "english": "strategy", "tera": "tpiceae" },
+    { "english": "strategy", "tera": "miapalma" },
+    { "english": "strategy", "tera": "bridicemet" },
+    { "english": "stream", "tera": "enede" },
+    { "english": "street", "tera": "gmed" },
+    { "english": "stress", "tera": "rgara" },
+    { "english": "strike", "tera": "ceco" },
+    { "english": "strike", "tera": "rose" },
+    { "english": "string", "tera": "tes" },
+    { "english": "strong", "tera": "umaticc" },
+    { "english": "strongly", "tera": "rnibusumbra" },
+    { "english": "structure", "tera": "onantiam" },
+    { "english": "struggle", "tera": "atiung" },
+    { "english": "struggle", "tera": "anomnem" },
+    { "english": "student", "tera": "atend" },
+    { "english": "student", "tera": "ocon" },
+    { "english": "student", "tera": "ate" },
+    { "english": "stunning", "tera": "temtame" },
+    { "english": "stup", "tera": "stup" },
+    { "english": "stupid", "tera": "was" },
+    { "english": "su", "tera": "sust" },
+    { "english": "sua", "tera": "sua" },
+    { "english": "subject", "tera": "then" },
+    { "english": "subject (people)", "tera": "then" },
+    { "english": "sublime", "tera": "miscac" },
+    { "english": "submit", "tera": "echo" },
+    { "english": "substance", "tera": "cutofixi" },
+    { "english": "suburban", "tera": "loremetmo" },
+    { "english": "successful", "tera": "segrat" },
+    { "english": "such", "tera": "kow" },
+    { "english": "suck", "tera": "prewa" },
+    { "english": "suddenly", "tera": "imilacr" },
+    { "english": "suddenly", "tera": "crete gan" },
+    { "english": "sue", "tera": "ay" },
+    { "english": "sufficient", "tera": "purpurei" },
+    { "english": "sufficient", "tera": "tlateque" },
+    { "english": "suggest", "tera": "rage" },
+    { "english": "suitable", "tera": "ratmediu" },
+    { "english": "suitable", "tera": "o­ran­ti" },
+    { "english": "suite", "tera": "man" },
+    { "english": "suite", "tera": "asig" },
+    { "english": "sum", "tera": "k" },
+    { "english": "summary", "tera": "tqu" },
+    { "english": "summary", "tera": "vent" },
+    { "english": "summer", "tera": "viridae" },
+    { "english": "summit", "tera": "carpes" },
+    { "english": "sun", "tera": "nef" },
+    { "english": "sun", "tera": "nu" },
+    { "english": "sunflower", "tera": "doqua" },
+    { "english": "sunlight", "tera": "se­di­sti" },
+    { "english": "super", "tera": "tocor" },
+    { "english": "supervisor", "tera": "ius" },
+    { "english": "supervisor", "tera": "isqueme" },
+    { "english": "supplier", "tera": "everet" },
+    { "english": "supporter", "tera": "cacumine" },
+    { "english": "supposed", "tera": "ovenitnon" },
+    { "english": "supposed", "tera": "oc­u­los" },
+    { "english": "supposedly", "tera": "orhabeb" },
+    { "english": "supremumque", "tera": "supremumque" },
+    { "english": "sure", "tera": "eng" },
+    { "english": "surface", "tera": "aet" },
+    { "english": "surprise", "tera": "goreside" },
+    { "english": "surprise", "tera": "wri" },
+    { "english": "surprised", "tera": "itywri" },
+    { "english": "surprised", "tera": "ity wri" },
+    { "english": "survey", "tera": "nerem" },
+    { "english": "survey", "tera": "spra" },
+    { "english": "survival", "tera": "pomoque" },
+    { "english": "survival", "tera": "anesge" },
+    { "english": "survival", "tera": "anusge" },
+    { "english": "sus", "tera": "con" },
+    { "english": "sustain", "tera": "nocen" },
+    { "english": "swamp", "tera": "ingemui" },
+    { "english": "sweetheart", "tera": "curromit" },
+    { "english": "switch", "tera": "rec" },
+    { "english": "sword", "tera": "uoque" },
+    { "english": "sympohny", "tera": "pinusgrata" },
+    { "english": "syndrome", "tera": "in­ces­sit" },
+    { "english": "tail", "tera": "haec" },
+    { "english": "take", "tera": "ushel" },
+    { "english": "tale", "tera": "sho" },
+    { "english": "tale", "tera": "con" },
+    { "english": "talented", "tera": "nobisluge" },
+    { "english": "talk", "tera": "kan" },
+    { "english": "tap", "tera": "ad" },
+    { "english": "tap", "tera": "al" },
+    { "english": "tapestry", "tera": "tcuma" },
+    { "english": "target", "tera": "legem" },
+    { "english": "tat", "tera": "flec" },
+    { "english": "taxpayer", "tera": "smanibuspra" },
+    { "english": "taxpayer", "tera": "strial" },
+    { "english": "taxpayer", "tera": "unclap" },
+    { "english": "teaching", "tera": "eseditdis" },
+    { "english": "teaching", "tera": "arbutuse" },
+    { "english": "team", "tera": "nemun" },
+    { "english": "technician", "tera": "llucmollia" },
+    { "english": "technique", "tera": "rvataque" },
+    { "english": "teenager", "tera": "balauru" },
+    { "english": "telepathy", "tera": "atiung" },
+    { "english": "telephone", "tera": "cervuseta" },
+    { "english": "telephone", "tera": "peergon" },
+    { "english": "television", "tera": "ebantau" },
+    { "english": "television", "tera": "ramnervise" },
+    { "english": "television", "tera": "coinoni" },
+    { "english": "templar", "tera": "auribus" },
+    { "english": "ten", "tera": "to" },
+    { "english": "tender", "tera": "soudep" },
+    { "english": "tender", "tera": "sma" },
+    { "english": "tenderness", "tera": "coscat" },
+    { "english": "tennis", "tera": "rea" },
+    { "english": "tension", "tera": "ansem" },
+    { "english": "tent", "tera": "iquit" },
+    { "english": "tent", "tera": "rio" },
+    { "english": "terrain", "tera": "ntdi" },
+    { "english": "terribly", "tera": "usetco" },
+    { "english": "terrific", "tera": "deummatri" },
+    { "english": "terrorist", "tera": "dampec" },
+    { "english": "testimony", "tera": "icalvo" },
+    { "english": "text", "tera": "owa" },
+    { "english": "textbook", "tera": "erqueco" },
+    { "english": "textbook", "tera": "patentibu" },
+    { "english": "thane", "tera": "iphero" },
+    { "english": "theater", "tera": "mosmulcenda" },
+    { "english": "them", "tera": "gem" },
+    { "english": "themselves", "tera": "flex­it" },
+    { "english": "there", "tera": "ta" },
+    { "english": "thief", "tera": "siquide" },
+    { "english": "thing", "tera": "esdem" },
+    { "english": "think", "tera": "eme" },
+    { "english": "thinking", "tera": "erbaeum" },
+    { "english": "third", "tera": "tamict" },
+    { "english": "thirty", "tera": "not" },
+    { "english": "thirty", "tera": "nil" },
+    { "english": "this", "tera": "che" },
+    { "english": "this", "tera": "que" },
+    { "english": "this", "tera": "adega" },
+    { "english": "thistle", "tera": "tquevi" },
+    { "english": "thousand", "tera": "amaetat" },
+    { "english": "threat", "tera": "sile" },
+    { "english": "threat", "tera": "lisml" },
+    { "english": "thrive", "tera": "tors" },
+    { "english": "through", "tera": "iun" },
+    { "english": "throughout", "tera": "un­dam" },
+    { "english": "ticket", "tera": "stil" },
+    { "english": "tie", "tera": "ma" },
+    { "english": "tiger", "tera": "gitursu" },
+    { "english": "tight", "tera": "gapo" },
+    { "english": "tightly", "tera": "two" },
+    { "english": "tiltyard", "tera": "tosou" },
+    { "english": "timber", "tera": "def" },
+    { "english": "time", "tera": "insk" },
+    { "english": "tip", "tera": "om" },
+    { "english": "tired", "tera": "tus" },
+    { "english": "tithe", "tera": "quidem" },
+    { "english": "title", "tera": "eracam" },
+    { "english": "titular", "tera": "santhro" },
+    { "english": "to", "tera": "an" },
+    { "english": "to advance", "tera": "ren" },
+    { "english": "to anger", "tera": "hala" },
+    { "english": "to antagonize", "tera": "ole" },
+    { "english": "to be", "tera": "la" },
+    { "english": "to believe", "tera": "came" },
+    { "english": "to care", "tera": "core" },
+    { "english": "to cloud,to hide", "tera": "fose" },
+    { "english": "to defend", "tera": "rel" },
+    { "english": "to delight", "tera": "hara" },
+    { "english": "to eat", "tera": "ma" },
+    { "english": "to eat", "tera": "mane" },
+    { "english": "to educate, to teach", "tera": "ereme" },
+    { "english": "to entertain", "tera": "here" },
+    { "english": "to fight", "tera": "rege" },
+    { "english": "to flow", "tera": "gus" },
+    { "english": "to kill", "tera": "jale" },
+    { "english": "to know", "tera": "ele" },
+    { "english": "to like", "tera": "echo" },
+    { "english": "to move", "tera": "gun" },
+    { "english": "to play", "tera": "go" },
+    { "english": "to protect", "tera": "geme" },
+    { "english": "to reap", "tera": "mla" },
+    { "english": "to risk", "tera": "rem" },
+    { "english": "to serve", "tera": "there" },
+    { "english": "to sing", "tera": "sto" },
+    { "english": "to slaughter (livestock for food)", "tera": "mala" },
+    { "english": "to speak", "tera": "stare" },
+    { "english": "to speak", "tera": "stone" },
+    { "english": "to think", "tera": "eme" },
+    { "english": "tobacco", "tera": "dru" },
+    { "english": "tolerance", "tera": "yricaeet" },
+    { "english": "tolerance", "tera": "rho­do­pe­ius" },
+    { "english": "tolerate", "tera": "miniscircu" },
+    { "english": "tonight", "tera": "toran" },
+    { "english": "tonight", "tera": "tem" },
+    { "english": "tool", "tera": "stil" },
+    { "english": "toss", "tera": "nhyp" },
+    { "english": "totally", "tera": "edeos" },
+    { "english": "touch", "tera": "ac" },
+    { "english": "touchdown", "tera": "busulmiu" },
+    { "english": "touchdown", "tera": "tacupressu" },
+    { "english": "touchdown", "tera": "vaporeco" },
+    { "english": "tournament", "tera": "interos" },
+    { "english": "tournament", "tera": "sfrenabaso" },
+    { "english": "tournament", "tera": "demnisi" },
+    { "english": "toward", "tera": "car" },
+    { "english": "towards", "tera": "crim" },
+    { "english": "towel", "tera": "crim" },
+    { "english": "tower", "tera": "aidee" },
+    { "english": "town", "tera": "manc" },
+    { "english": "town", "tera": "rho" },
+    { "english": "toy", "tera": "pu" },
+    { "english": "toy", "tera": "ui" },
+    { "english": "trace", "tera": "balt" },
+    { "english": "track", "tera": "gis" },
+    { "english": "trade", "tera": "fas" },
+    { "english": "traditional", "tera": "utusetlenta" },
+    { "english": "tragedy", "tera": "doeles" },
+    { "english": "train", "tera": "erque" },
+    { "english": "training", "tera": "erqueco" },
+    { "english": "transfer", "tera": "balauru" },
+    { "english": "transformation", "tera": "deuslugebere" },
+    { "english": "transmit", "tera": "sannum" },
+    { "english": "transmit", "tera": "bullasupe" },
+    { "english": "transport", "tera": "ovenitnon" },
+    { "english": "trap", "tera": "yrea" },
+    { "english": "travel", "tera": "andesce" },
+    { "english": "traveler", "tera": "iam­que" },
+    { "english": "treason", "tera": "interm" },
+    { "english": "treasure", "tera": "tcyparisseti" },
+    { "english": "treasure", "tera": "hariso" },
+    { "english": "treaty", "tera": "eus" },
+    { "english": "treaty", "tera": "lui" },
+    { "english": "trebuchet", "tera": "nostoc" },
+    { "english": "tree", "tera": "atic" },
+    { "english": "tree", "tera": "esa" },
+    { "english": "tree", "tera": "nacatah" },
+    { "english": "troubled", "tera": "sfrenabaso" },
+    { "english": "truce", "tera": "ndoaliq" },
+    { "english": "truth", "tera": "amar" },
+    { "english": "try", "tera": "e" },
+    { "english": "tuck", "tera": "derhy" },
+    { "english": "tulip", "tera": "umqueve" },
+    { "english": "tuo", "tera": "tuo" },
+    { "english": "tur", "tera": "carpi" },
+    { "english": "turnip", "tera": "rursus" },
+    { "english": "turret", "tera": "osecc" },
+    { "english": "turtle", "tera": "ucadsu" },
+    { "english": "tv", "tera": "mi" },
+    { "english": "twentieth", "tera": "evitese" },
+    { "english": "twenty", "tera": "quo" },
+    { "english": "typical", "tera": "tafu" },
+    { "english": "typical", "tera": "hyph" },
+    { "english": "tyrant", "tera": "sdoron" },
+    { "english": "ue", "tera": "inq" },
+    { "english": "uh", "tera": "ge" },
+    { "english": "ultimately", "tera": "quapost" },
+    { "english": "umbrella", "tera": "bdu" },
+    { "english": "un", "tera": "on" },
+    { "english": "un-, non-", "tera": "ono" },
+    { "english": "uncover", "tera": "umqu" },
+    { "english": "under", "tera": "abla" },
+    { "english": "under", "tera": "rtcon" },
+    { "english": "undermine", "tera": "suocapi" },
+    { "english": "undermine", "tera": "eo­dem" },
+    { "english": "understand", "tera": "he­ros" },
+    { "english": "undertake", "tera": "quic­quam" },
+    { "english": "unhappy", "tera": "dea" },
+    { "english": "union", "tera": "noerch" },
+    { "english": "unit", "tera": "sem" },
+    { "english": "united", "tera": "puls" },
+    { "english": "unknown", "tera": "onaxa" },
+    { "english": "unknown", "tera": "axa" },
+    { "english": "unspoken", "tera": "isacwen" },
+    { "english": "until", "tera": "fra" },
+    { "english": "up", "tera": "fl" },
+    { "english": "update", "tera": "apo" },
+    { "english": "upon", "tera": "rltu" },
+    { "english": "ur", "tera": "iec" },
+    { "english": "urban", "tera": "nol" },
+    { "english": "us", "tera": "ke" },
+    { "english": "use", "tera": "t" },
+    { "english": "use", "tera": "ga" },
+    { "english": "used", "tera": "eren" },
+    { "english": "useful", "tera": "gula" },
+    { "english": "utility", "tera": "raf" },
+    { "english": "vacation", "tera": "ledieb" },
+    { "english": "vaccine", "tera": "neura" },
+    { "english": "vale", "tera": "rael" },
+    { "english": "valentine", "tera": "tosumf" },
+    { "english": "valid", "tera": "boa" },
+    { "english": "valles", "tera": "valles" },
+    { "english": "valor", "tera": "mnis" },
+    { "english": "valuable", "tera": "quicitha" },
+    { "english": "van", "tera": "ol" },
+    { "english": "variable", "tera": "laeque" },
+    { "english": "variation", "tera": "gusetinnu" },
+    { "english": "variety", "tera": "iarb" },
+    { "english": "vase", "tera": "matqueq" },
+    { "english": "vassal", "tera": "nuncq" },
+    { "english": "vassalage", "tera": "beofa" },
+    { "english": "vassalage", "tera": "tagare" },
+    { "english": "vehicle", "tera": "cohol" },
+    { "english": "velvet", "tera": "ospoi" },
+    { "english": "ven", "tera": "mo" },
+    { "english": "vendor", "tera": "alar" },
+    { "english": "venture", "tera": "cyparissusa" },
+    { "english": "version", "tera": "osum" },
+    { "english": "vertical", "tera": "lispectare" },
+    { "english": "victa", "tera": "mum" },
+    { "english": "videndi", "tera": "videndi" },
+    { "english": "vigil", "tera": "cumque" },
+    { "english": "vigilance", "tera": "ieohou" },
+    { "english": "vigilance", "tera": "osgeph" },
+    { "english": "villager", "tera": "entra" },
+    { "english": "violation", "tera": "tfilas" },
+    { "english": "violence", "tera": "nuesquem" },
+    { "english": "violence", "tera": "aigang" },
+    { "english": "violet", "tera": "sique" },
+    { "english": "violet", "tera": "mabsum" },
+    { "english": "violin", "tera": "adelph" },
+    { "english": "virtually", "tera": "sfierisu" },
+    { "english": "virus", "tera": "futu" },
+    { "english": "vis", "tera": "adcli" },
+    { "english": "visible", "tera": "medi" },
+    { "english": "vision", "tera": "be" },
+    { "english": "vision (magic)", "tera": "be" },
+    { "english": "visit", "tera": "tast" },
+    { "english": "vocant", "tera": "vocant" },
+    { "english": "volcano", "tera": "asoter" },
+    { "english": "volunteer", "tera": "bantfron" },
+    { "english": "vosque", "tera": "ner" },
+    { "english": "vote", "tera": "gau" },
+    { "english": "vulnerable", "tera": "itorar" },
+    { "english": "vulnerable", "tera": "ntergore" },
+    { "english": "vulnerable", "tera": "si­mul" },
+    { "english": "vulture", "tera": "osthe" },
+    { "english": "wait", "tera": "arend" },
+    { "english": "walk", "tera": "men" },
+    { "english": "wall", "tera": "sgrat" },
+    { "english": "wall", "tera": "dsiper" },
+    { "english": "war", "tera": "rata" },
+    { "english": "war", "tera": "iu" },
+    { "english": "warm", "tera": "git" },
+    { "english": "warm", "tera": "len" },
+    { "english": "warm", "tera": "erebe" },
+    { "english": "warmth", "tera": "anfra" },
+    { "english": "warrior", "tera": "ratarc" },
+    { "english": "waste", "tera": "huc" },
+    { "english": "watch", "tera": "ospneu" },
+    { "english": "water", "tera": "iosha" },
+    { "english": "way", "tera": "noda" },
+    { "english": "way", "tera": "rege" },
+    { "english": "we", "tera": "va" },
+    { "english": "we", "tera": "ham" },
+    { "english": "weak", "tera": "del" },
+    { "english": "weak", "tera": "osdicca" },
+    { "english": "wealthy", "tera": "spra" },
+    { "english": "weapon", "tera": "ga" },
+    { "english": "weather", "tera": "siden" },
+    { "english": "weed", "tera": "limeen" },
+    { "english": "weekly", "tera": "prim" },
+    { "english": "welfare", "tera": "hum" },
+    { "english": "well-known", "tera": "ratcoll" },
+    { "english": "western", "tera": "bus" },
+    { "english": "whale", "tera": "uisqueq" },
+    { "english": "wheel", "tera": "ner" },
+    { "english": "wheelchair", "tera": "ulisfu" },
+    { "english": "whisk", "tera": "iaeuan" },
+    { "english": "whisper", "tera": "castosg" },
+    { "english": "white", "tera": "rugi" },
+    { "english": "whole", "tera": "teshi" },
+    { "english": "why", "tera": "na" },
+    { "english": "why", "tera": "do" },
+    { "english": "widespread", "tera": "aramnico" },
+    { "english": "widespread", "tera": "myricaee" },
+    { "english": "widow", "tera": "vul" },
+    { "english": "wildlife", "tera": "sannum" },
+    { "english": "will", "tera": "alar" },
+    { "english": "will", "tera": "gun" },
+    { "english": "willingness", "tera": "brac­ci­a­que" },
+    { "english": "wind", "tera": "ghos" },
+    { "english": "window", "tera": "videoa" },
+    { "english": "winged", "tera": "torph" },
+    { "english": "winter", "tera": "evol" },
+    { "english": "winter", "tera": "sesene" },
+    { "english": "wipe", "tera": "min" },
+    { "english": "wipe", "tera": "comas" },
+    { "english": "withdrawal", "tera": "indurui" },
+    { "english": "within", "tera": "enci" },
+    { "english": "within", "tera": "tam" },
+    { "english": "within", "tera": "gera" },
+    { "english": "within", "tera": "gmen" },
+    { "english": "without", "tera": "malec" },
+    { "english": "without", "tera": "tan" },
+    { "english": "without", "tera": "lum" },
+    { "english": "without", "tera": "ohan" },
+    { "english": "wolf", "tera": "trunc" },
+    { "english": "woman", "tera": "nara" },
+    { "english": "wonder", "tera": "cere" },
+    { "english": "wood", "tera": "aeviti" },
+    { "english": "woods", "tera": "aevitian" },
+    { "english": "word", "tera": "ty" },
+    { "english": "worker", "tera": "pecca" },
+    { "english": "workout", "tera": "va­le" },
+    { "english": "workplace", "tera": "bicolormyr" },
+    { "english": "workplace", "tera": "equesi" },
+    { "english": "workplace", "tera": "uralsile" },
+    { "english": "workplace", "tera": "cepinu" },
+    { "english": "workshop", "tera": "ntsanfra" },
+    { "english": "worldwide", "tera": "ereflo" },
+    { "english": "worm", "tera": "ospoi" },
+    { "english": "worry", "tera": "dig" },
+    { "english": "worth", "tera": "spa" },
+    { "english": "would", "tera": "nil" },
+    { "english": "write", "tera": "gra" },
+    { "english": "x-ray", "tera": "mabas" },
+    { "english": "xylophone", "tera": "uidem" },
+    { "english": "y", "tera": "ic" },
+    { "english": "yard", "tera": "atese" },
+    { "english": "yard", "tera": "udiove" },
+    { "english": "yardstick", "tera": "eohouto" },
+    { "english": "yarn", "tera": "nisic" },
+    { "english": "yearning", "tera": "dicca" },
+    { "english": "yellow", "tera": "zebi" },
+    { "english": "yellow", "tera": "mensa" },
+    { "english": "yeoman", "tera": "tospneum" },
+    { "english": "yesterday", "tera": "tilloadf" },
+    { "english": "yogurt", "tera": "ileiamat" },
+    { "english": "yoke", "tera": "gelion" },
+    { "english": "young", "tera": "siden" },
+    { "english": "zebra", "tera": "umqueve" },
+    { "english": "zeppelin", "tera": "hemera" },
+    { "english": "zinnia", "tera": "hetesoic" },
+    { "english": "zipper", "tera": "niodoha" },
+    { "english": "zoo", "tera": "soudep" },
+    { "english": "the", "tera": "q" },
+    { "english": "and", "tera": "e" },
+    { "english": "you", "tera": "m" },
+    { "english": "that", "tera": "u" },
+    { "english": "was", "tera": "a" },
+    { "english": "on", "tera": "o" },
+    { "english": "are", "tera": "r" },
+    { "english": "with", "tera": "i" },
+    { "english": "I", "tera": "n" },
+    { "english": "they", "tera": "p" },
+    { "english": "at", "tera": "f" },
+    { "english": "had", "tera": "v" },
+    { "english": "what", "tera": "s" },
+    { "english": "were", "tera": "l" },
+    { "english": "when", "tera": "t" },
+    { "english": "your", "tera": "c" },
+    { "english": "said", "tera": "e" },
+    { "english": "an", "tera": "ex" },
+    { "english": "which", "tera": "re" },
+    { "english": "their", "tera": "ex" },
+    { "english": "if", "tera": "ti" },
+    { "english": "many", "tera": "ol" },
+    { "english": "then", "tera": "et" },
+    { "english": "these", "tera": "eh" },
+    { "english": "two", "tera": "po" },
+    { "english": "has", "tera": "su" },
+    { "english": "look", "tera": "io" },
+    { "english": "day", "tera": "er" },
+    { "english": "could", "tera": "iu" },
+    { "english": "did", "tera": "te" },
+    { "english": "number", "tera": "al" },
+    { "english": "most", "tera": "rr" },
+    { "english": "people", "tera": "ix" },
+    { "english": "my", "tera": "qu" },
+    { "english": "than", "tera": "ae" },
+    { "english": "call", "tera": "em" },
+    { "english": "first", "tera": "tr" },
+    { "english": "who", "tera": "it" },
+    { "english": "side", "tera": "au" },
+    { "english": "been", "tera": "ge" },
+    { "english": "find", "tera": "ed" },
+    { "english": "work", "tera": "le" },
+    { "english": "get", "tera": "at" },
+    { "english": "made", "tera": "ig" },
+    { "english": "where", "tera": "ra" },
+    { "english": "after", "tera": "ro" },
+    { "english": "only", "tera": "am" },
+    { "english": "year", "tera": "um" },
+    { "english": "came", "tera": "du" },
+    { "english": "every", "tera": "th" },
+    { "english": "me", "tera": "is" },
+    { "english": "name", "tera": "or" },
+    { "english": "very", "tera": "ar" },
+    { "english": "sentence", "tera": "op" },
+    { "english": "say", "tera": "ma" },
+    { "english": "low", "tera": "mu" },
+    { "english": "line", "tera": "ud" },
+    { "english": "differ", "tera": "ht" },
+    { "english": "turn", "tera": "oi" },
+    { "english": "cause", "tera": "si" },
+    { "english": "much", "tera": "xi" },
+    { "english": "before", "tera": "el" },
+    { "english": "boy", "tera": "em" },
+    { "english": "too", "tera": "que" },
+    { "english": "same", "tera": "cum" },
+    { "english": "tell", "tera": "icu" },
+    { "english": "does", "tera": "ero" },
+    { "english": "three", "tera": "ipo" },
+    { "english": "want", "tera": "oph" },
+    { "english": "well", "tera": "ppa" },
+    { "english": "small", "tera": "ump" },
+    { "english": "put", "tera": "udu" },
+    { "english": "read", "tera": "iqu" },
+    { "english": "port", "tera": "arm" },
+    { "english": "spell", "tera": "ort" },
+    { "english": "add", "tera": "apt" },
+    { "english": "here", "tera": "iri" },
+    { "english": "must", "tera": "eth" },
+    { "english": "big", "tera": "tio" },
+    { "english": "ask", "tera": "ues" },
+    { "english": "change", "tera": "ter" },
+    { "english": "went", "tera": "ris" },
+    { "english": "need", "tera": "iné" },
+    { "english": "again", "tera": "lis" },
+    { "english": "mother", "tera": "cap" },
+    { "english": "world", "tera": "uar" },
+    { "english": "build", "tera": "zan" },
+    { "english": "self", "tera": "aqu" },
+    { "english": "father", "tera": "her" },
+    { "english": "page", "tera": "ecu" },
+    { "english": "country", "tera": "aet" },
+    { "english": "school", "tera": "cir" },
+    { "english": "study", "tera": "ere" },
+    { "english": "still", "tera": "iun" },
+    { "english": "learn", "tera": "rum" },
+    { "english": "plant", "tera": "zer" },
+    { "english": "four", "tera": "vel" },
+    { "english": "eye", "tera": "bet" },
+    { "english": "last", "tera": "rte" },
+    { "english": "let", "tera": "emp" },
+    { "english": "thought", "tera": "ine" },
+    { "english": "farm", "tera": "ian" },
+    { "english": "might", "tera": "emi" },
+    { "english": "saw", "tera": "tam" },
+    { "english": "far", "tera": "lae" },
+    { "english": "draw", "tera": "nta" },
+    { "english": "don't", "tera": "spe" },
+    { "english": "while", "tera": "seu" },
+    { "english": "press", "tera": "ive" },
+    { "english": "night", "tera": "mae" },
+    { "english": "real", "tera": "umc" },
+    { "english": "north", "tera": "ion" },
+    { "english": "together", "tera": "sit" },
+    { "english": "next", "tera": "equ" },
+    { "english": "children", "tera": "tat" },
+    { "english": "got", "tera": "gig" },
+    { "english": "example", "tera": "uso" },
+    { "english": "group", "tera": "rci" },
+    { "english": "always", "tera": "uic" },
+    { "english": "those", "tera": "ngi" },
+    { "english": "both", "tera": "uni" },
+    { "english": "often", "tera": "hpo" },
+    { "english": "mile", "tera": "pmu" },
+    { "english": "feet", "tera": "euq" },
+    { "english": "second", "tera": "umr" },
+    { "english": "carry", "tera": "erz" },
+    { "english": "took", "tera": "lve" },
+    { "english": "began", "tera": "qui" },
+    { "english": "fish", "tera": "oër" },
+    { "english": "stop", "tera": "tbe" },
+    { "english": "main", "tera": "rii" },
+    { "english": "usual", "tera": "etr" },
+    { "english": "ready", "tera": "mna" },
+    { "english": "ever", "tera": "eni" },
+    { "english": "though", "tera": "nia" },
+    { "english": "direct", "tera": "mïe" },
+    { "english": "leave", "tera": "amt" },
+    { "english": "measure", "tera": "ael" },
+    { "english": "door", "tera": "ant" },
+    { "english": "product", "tera": "eps" },
+    { "english": "numeral", "tera": "use" },
+    { "english": "class", "tera": "vei" },
+    { "english": "happen", "tera": "ema" },
+    { "english": "ship", "tera": "cca" },
+    { "english": "area", "tera": "qmu" },
+    { "english": "half", "tera": "mea" },
+    { "english": "fire", "tera": "dou" },
+    { "english": "problem", "tera": "ïno" },
+    { "english": "piece", "tera": "cue" },
+    { "english": "told", "tera": "tis" },
+    { "english": "knew", "tera": "ueq" },
+    { "english": "pass", "tera": "igg" },
+    { "english": "top", "tera": "osu" },
+    { "english": "heard", "tera": "mqu" },
+    { "english": "better", "tera": "tau" },
+    { "english": "true .", "tera": "equ" },
+    { "english": "during", "tera": "odig" },
+    { "english": "hundred", "tera": "pedg" },
+    { "english": "five", "tera": "ezer" },
+    { "english": "west", "tera": "cene" },
+    { "english": "ground", "tera": "odig" },
+    { "english": "fast", "tera": "pedg" },
+    { "english": "verb", "tera": "ezer" },
+    { "english": "listen", "tera": "isne" },
+    { "english": "six", "tera": "pero" },
+    { "english": "table", "tera": "saev" },
+    { "english": "morning", "tera": "erba" },
+    { "english": "vowel", "tera": "eris" },
+    { "english": "pattern", "tera": "queh" },
+    { "english": "center", "tera": "hine" },
+    { "english": "rain", "tera": "ulae" },
+    { "english": "govern", "tera": "anta" },
+    { "english": "pull", "tera": "sisp" },
+    { "english": "voice", "tera": "sive" },
+    { "english": "power", "tera": "rumc" },
+    { "english": "fine", "tera": "meas" },
+    { "english": "certain", "tera": "icio" },
+    { "english": "note", "tera": "auso" },
+    { "english": "figure", "tera": "inia" },
+    { "english": "box", "tera": "eind" },
+    { "english": "noun", "tera": "erep" },
+    { "english": "rest", "tera": "reco" },
+    { "english": "correct", "tera": "imni" },
+    { "english": "able", "tera": "tidi" },
+    { "english": "pound", "tera": "veat" },
+    { "english": "done", "tera": "erat" },
+    { "english": "stood", "tera": "eubo" },
+    { "english": "contain", "tera": "tusa" },
+    { "english": "teach", "tera": "bill" },
+    { "english": "week", "tera": "evar" },
+    { "english": "final", "tera": "etup" },
+    { "english": "gave", "tera": "sith" },
+    { "english": "quick", "tera": "ante" },
+    { "english": "develop", "tera": "isin" },
+    { "english": "minute", "tera": "iect" },
+    { "english": "special", "tera": "amfa" },
+    { "english": "behind", "tera": "aqui" },
+    { "english": "clear", "tera": "dusu" },
+    { "english": "produce", "tera": "cuso" },
+    { "english": "fact", "tera": "neze" },
+    { "english": "inch", "tera": "clen" },
+    { "english": "multiply", "tera": "adve" },
+    { "english": "nothing", "tera": "rsaq" },
+    { "english": "course", "tera": "umti" },
+    { "english": "stay", "tera": "tani" },
+    { "english": "full", "tera": "meli" },
+    { "english": "object", "tera": "usse" },
+    { "english": "decide", "tera": "quer" },
+    { "english": "system", "tera": "odod" },
+    { "english": "busy", "tera": "igni" },
+    { "english": "test", "tera": "uaef" },
+    { "english": "record", "tera": "iduc" },
+    { "english": "possible", "tera": "iafo" },
+    { "english": "plane", "tera": "umes" },
+    { "english": "stead", "tera": "tinc" },
+    { "english": "dry", "tera": "armi" },
+    { "english": "laugh", "tera": "enim" },
+    { "english": "ago", "tera": "flam" },
+    { "english": "ran", "tera": "alut" },
+    { "english": "game", "tera": "ediv" },
+    { "english": "shape", "tera": "ctis" },
+    { "english": "equate", "tera": "debe" },
+    { "english": "miss", "tera": "mded" },
+    { "english": "brought", "tera": "uius" },
+    { "english": "heat", "tera": "inip" },
+    { "english": "snow", "tera": "save" },
+    { "english": "tire", "tera": "eali" },
+    { "english": "bring", "tera": "quod" },
+    { "english": "yes", "tera": "regn" },
+    { "english": "fill", "tera": "clop" },
+    { "english": "grand", "tera": "faci" },
+    { "english": "yet", "tera": "thoc" },
+    { "english": "wave", "tera": "dtob" },
+    { "english": "am", "tera": "ring" },
+    { "english": "heavy", "tera": "uppa" },
+    { "english": "engine", "tera": "esva" },
+    { "english": "arm", "tera": "riar" },
+    { "english": "wide", "tera": "caus" },
+    { "english": "material", "tera": "afur" },
+    { "english": "size", "tera": "part" },
+    { "english": "vary", "tera": "emfe" },
+    { "english": "settle", "tera": "rati" },
+    { "english": "weight", "tera": "dfre" },
+    { "english": "circle", "tera": "lena" },
+    { "english": "include", "tera": "fera" },
+    { "english": "syllable", "tera": "ultr" },
+    { "english": "felt", "tera": "oneu" },
+    { "english": "perhaps", "tera": "etwo" },
+    { "english": "pick", "tera": "bite" },
+    { "english": "sudden", "tera": "sads" },
+    { "english": "reason", "tera": "itqu" },
+    { "english": "length", "tera": "sapa" },
+    { "english": "region", "tera": "adei" },
+    { "english": "energy", "tera": "mise" },
+    { "english": "probable", "tera": "umfi" },
+    { "english": "bed", "tera": "ptat" },
+    { "english": "ride", "tera": "isop" },
+    { "english": "cell", "tera": "itvi" },
+    { "english": "fraction", "tera": "dear" },
+    { "english": "race", "tera": "ecyt" },
+    { "english": "sleep", "tera": "usiv" },
+    { "english": "lone", "tera": "fenr" },
+    { "english": "leg", "tera": "efor" },
+    { "english": "exercise", "tera": "isha" },
+    { "english": "catch", "tera": "apti" },
+    { "english": "wish", "tera": "tcir" },
+    { "english": "board", "tera": "aste" },
+    { "english": "sat", "tera": "rses" },
+    { "english": "written", "tera": "dict" },
+    { "english": "wild", "tera": "gram" },
+    { "english": "kept", "tera": "eneg" },
+    { "english": "job", "tera": "ocum" },
+    { "english": "edge", "tera": "deas" },
+    { "english": "sign", "tera": "asce" },
+    { "english": "bright", "tera": "nota" },
+    { "english": "gas", "tera": "liav" },
+    { "english": "month", "tera": "quet" },
+    { "english": "finish", "tera": "enet" },
+    { "english": "clothe", "tera": "conf" },
+    { "english": "gone", "tera": "sull" },
+    { "english": "eight", "tera": "atal" },
+    { "english": "village", "tera": "erog" },
+    { "english": "meet", "tera": "aber" },
+    { "english": "root", "tera": "epta" },
+    { "english": "buy", "tera": "ques" },
+    { "english": "raise", "tera": "ltro" },
+    { "english": "solve", "tera": "pote" },
+    { "english": "metal", "tera": "rhen" },
+    { "english": "whether", "tera": "apea" },
+    { "english": "seven", "tera": "quor" },
+    { "english": "paragraph", "tera": "bare" },
+    { "english": "shall", "tera": "ferr" },
+    { "english": "held", "tera": "rnam" },
+    { "english": "hair", "tera": "sola" },
+    { "english": "cook", "tera": "nary" },
+    { "english": "floor", "tera": "entr" },
+    { "english": "either", "tera": "iesa" },
+    { "english": "burn", "tera": "esqu" },
+    { "english": "type", "tera": "ebla" },
+    { "english": "copy", "tera": "ndit" },
+    { "english": "silent", "tera": "cont" },
+    { "english": "tall", "tera": "tesh" },
+    { "english": "sand", "tera": "uncd" },
+    { "english": "soil", "tera": "laca" },
+    { "english": "roll", "tera": "lori" },
+    { "english": "temperature", "tera": "ihis" },
+    { "english": "finger", "tera": "anes" },
+    { "english": "value", "tera": "sará" },
+    { "english": "lie", "tera": "aman" },
+    { "english": "beat", "tera": "doph" },
+    { "english": "excite", "tera": "oris" },
+    { "english": "view", "tera": "lito" },
+    { "english": "sense", "tera": "rein" },
+    { "english": "else", "tera": "nuse" },
+    { "english": "broke", "tera": "rasu" },
+    { "english": "lake", "tera": "tent" },
+    { "english": "scale", "tera": "efre" },
+    { "english": "observe", "tera": "tumg" },
+    { "english": "consonant", "tera": "lesa" },
+    { "english": "nation", "tera": "tque" },
+    { "english": "dictionary", "tera": "atri" },
+    { "english": "milk", "tera": "thre" },
+    { "english": "speed", "tera": "vuln" },
+    { "english": "method", "tera": "niae" },
+    { "english": "section", "tera": "sicu" },
+    { "english": "dress", "tera": "uemo" },
+    { "english": "quiet", "tera": "enia" },
+    { "english": "tiny", "tera": "rheg" },
+    { "english": "poor", "tera": "ascy" },
+    { "english": "single", "tera": "lami" },
+    { "english": "stick", "tera": "hivi" },
+    { "english": "flat", "tera": "ress" },
+    { "english": "smile", "tera": "equa" },
+    { "english": "crease", "tera": "gari" },
+    { "english": "melody", "tera": "etsi" },
+    { "english": "trip", "tera": "necu" },
+    { "english": "office", "tera": "mtan" },
+    { "english": "receive", "tera": "onaw" },
+    { "english": "row", "tera": "nium" },
+    { "english": "mouth", "tera": "vesa" },
+    { "english": "exact", "tera": "cros" },
+    { "english": "symbol", "tera": "quam" },
+    { "english": "least", "tera": "simu" },
+    { "english": "trouble", "tera": "lads" },
+    { "english": "shout", "tera": "twof" },
+    { "english": "except", "tera": "ioqu" },
+    { "english": "wrote", "tera": "arap" },
+    { "english": "seed", "tera": "tush" },
+    { "english": "tone", "tera": "erbi" },
+    { "english": "clean", "tera": "ntia" },
+    { "english": "break", "tera": "bubu" },
+    { "english": "lady", "tera": "sliq" },
+    { "english": "rise", "tera": "fero" },
+    { "english": "oil", "tera": "sadi" },
+    { "english": "grew", "tera": "itco" },
+    { "english": "cent", "tera": "stum" },
+    { "english": "wire", "tera": "idar" },
+    { "english": "lost", "tera": "manu" },
+    { "english": "brown", "tera": "magn" },
+    { "english": "wear", "tera": "atyr" },
+    { "english": "equal", "tera": "noqu" },
+    { "english": "sent", "tera": "odli" },
+    { "english": "choose", "tera": "tore" },
+    { "english": "fell", "tera": "soli" },
+    { "english": "fair", "tera": "umta" },
+    { "english": "bank", "tera": "ntuq" },
+    { "english": "collect", "tera": "scia" },
+    { "english": "save", "tera": "necq" },
+    { "english": "control", "tera": "uicq" },
+    { "english": "decimal", "tera": "ecap" },
+    { "english": "captain", "tera": "bush" },
+    { "english": "difficult", "tera": "ulto" },
+    { "english": "doctor", "tera": "raqu" },
+    { "english": "noon", "tera": "ammi" },
+    { "english": "whose", "tera": "hico" },
+    { "english": "locate", "tera": "gnit" },
+    { "english": "character", "tera": "etza" },
+    { "english": "caught", "tera": "exit" },
+    { "english": "period", "tera": "aacc" },
+    { "english": "radio", "tera": "navi" },
+    { "english": "spoke", "tera": "frag" },
+    { "english": "atom", "tera": "umqu" },
+    { "english": "electric", "tera": "quen" },
+    { "english": "expect", "tera": "ilop" },
+    { "english": "hit", "tera": "uses" },
+    { "english": "corner", "tera": "iasq" },
+    { "english": "supply", "tera": "umea" },
+    { "english": "bone", "tera": "nena" },
+    { "english": "rail", "tera": "rvaq" },
+    { "english": "imagine", "tera": "saes" },
+    { "english": "provide", "tera": "pudo" },
+    { "english": "thus", "tera": "rest" },
+    { "english": "capital", "tera": "usqu" },
+    { "english": "won't", "tera": "isum" },
+    { "english": "chair", "tera": "muta" },
+    { "english": "danger", "tera": "nant" },
+    { "english": "thick", "tera": "iorh" },
+    { "english": "process", "tera": "prom" },
+    { "english": "operate", "tera": "issa" },
+    { "english": "guess", "tera": "prec" },
+    { "english": "necessary", "tera": "vole" },
+    { "english": "sharp", "tera": "ntem" },
+    { "english": "wing", "tera": "iamo" },
+    { "english": "create", "tera": "tali" },
+    { "english": "neighbor", "tera": "come" },
+    { "english": "wash", "tera": "ssen" },
+    { "english": "bat", "tera": "null" },
+    { "english": "corn", "tera": "quid" },
+    { "english": "compare", "tera": "eade" },
+    { "english": "depend", "tera": "mpar" },
+    { "english": "meat", "tera": "iliq" },
+    { "english": "tube", "tera": "tibi" },
+    { "english": "dollar", "tera": "oata" },
+    { "english": "fear", "tera": "glau" },
+    { "english": "sight", "tera": "baes" },
+    { "english": "thin", "tera": "tute" },
+    { "english": "triangle", "tera": "efiv" },
+    { "english": "planet", "tera": "ibus" },
+    { "english": "hurry", "tera": "inge" },
+    { "english": "chief", "tera": "mihi" },
+    { "english": "colony", "tera": "cred" },
+    { "english": "mine", "tera": "aecq" },
+    { "english": "enter", "tera": "uero" },
+    { "english": "send", "tera": "neca" },
+    { "english": "gun", "tera": "rmen" },
+    { "english": "allow", "tera": "orem" },
+    { "english": "print", "tera": "ucib" },
+    { "english": "desert", "tera": "usae" },
+    { "english": "suit", "tera": "usin" },
+    { "english": "lift", "tera": "dici" },
+    { "english": "block", "tera": "veme" },
+    { "english": "sell", "tera": "inon" },
+    { "english": "success", "tera": "ncys" },
+    { "english": "subtract", "tera": "fil" },
+    { "english": "event", "tera": "iaS" },
+    { "english": "deal", "tera": "o" },
+    { "english": "swim", "tera": "lis" },
+    { "english": "term", "tera": "gra" },
+    { "english": "opposite", "tera": "min" },
+    { "english": "wife", "tera": "ecu" },
+    { "english": "shoe", "tera": "mta" },
+    { "english": "shoulder", "tera": "ntu" },
+    { "english": "arrange", "tera": "m" },
+    { "english": "invent", "tera": "tan" },
+    { "english": "determine", "tera": "tum" },
+    { "english": "quart", "tera": "quo" },
+    { "english": "nine", "tera": "que" },
+    { "english": "truck", "tera": "ca" },
+    { "english": "chance", "tera": "rmi" },
+    { "english": "gather", "tera": "nep" },
+    { "english": "stretch", "tera": "oss" },
+    { "english": "throw", "tera": "imt" },
+    { "english": "column", "tera": "hre" },
+    { "english": "molecule", "tera": "efi" },
+    { "english": "select", "tera": "veu" },
+    { "english": "wrong", "tera": "ttu" },
+    { "english": "gray", "tera": "asi" },
+    { "english": "repeat", "tera": "mvo" },
+    { "english": "require", "tera": "veo" },
+    { "english": "prepare", "tera": "spe" },
+    { "english": "plural", "tera": "rne" },
+    { "english": "claim", "tera": "nte" },
+    { "english": "continent", "tera": "m" },
+    { "english": "oxygen", "tera": "spe" },
+    { "english": "sugar", "tera": "rne" },
+    { "english": "skill", "tera": "sequ" },
+    { "english": "women", "tera": "ent" },
+    { "english": "season", "tera": "ir" },
+    { "english": "solution", "tera": "edd" },
+    { "english": "magnet", "tera": "evi" },
+    { "english": "silver", "tera": "ces" },
+    { "english": "thank", "tera": "uno" },
+    { "english": "match", "tera": "qu" },
+    { "english": "suffix", "tera": "edu" },
+    { "english": "especially", "tera": "asu" },
+    { "english": "fig", "tera": "lci" },
+    { "english": "huge", "tera": "sre" },
+    { "english": "sister", "tera": "f" },
+    { "english": "forward", "tera": "act" },
+    { "english": "similar", "tera": "oTa" },
+    { "english": "guide", "tera": "lia" },
+    { "english": "score", "tera": "tem" },
+    { "english": "bought", "tera": "p" },
+    { "english": "led", "tera": "tan" },
+    { "english": "band", "tera": "tip" },
+    { "english": "slip", "tera": "riu" },
+    { "english": "win", "tera": "sin" },
+    { "english": "dream", "tera": "qu" },
+    { "english": "feed", "tera": "i" },
+    { "english": "total", "tera": "tin" },
+    { "english": "valley", "tera": "aeq" },
+    { "english": "nor", "tera": "uor" },
+    { "english": "double", "tera": "efr" },
+    { "english": "arrive", "tera": "ond" },
+    { "english": "connect", "tera": "esG" },
+    { "english": "spend", "tera": "lau" },
+    { "english": "chord", "tera": "cus" },
+    { "english": "station", "tera": "eti" },
+    { "english": "bread", "tera": "nsu" },
+    { "english": "slave", "tera": "mmi" },
+    { "english": "duck", "tera": "sna" },
+    { "english": "instant", "tera": "s" },
+    { "english": "market", "tera": "cen" },
+    { "english": "populate", "tera": "tur" },
+    { "english": "chick", "tera": "mon" },
+    { "english": "occur", "tera": "tib" },
+    { "english": "support", "tera": "usa" },
+    { "english": "speech", "tera": "lga" },
+    { "english": "nature", "tera": "eso" },
+    { "english": "steam", "tera": "spi" },
+    { "english": "path", "tera": "teq" },
+    { "english": "log", "tera": "uam" },
+    { "english": "meant", "tera": "Scy" },
+    { "english": "quotient", "tera": "lla" },
+    { "english": "teeth", "tera": "nos" },
+    { "english": "quality", "tera": "tri" },
+    { "english": "action", "tera": "mut" },
+    { "english": "register", "tera": "ent" },
+    { "english": "ordinary", "tera": "ur" },
+    { "english": "parallel", "tera": "amo" },
+    { "english": "judgment", "tera": "res" },
+    { "english": "strength", "tera": "fou" },
+    { "english": "quantity", "tera": "rze" },
+    { "english": "discharge", "tera": "roI" },
+    { "english": "return", "tera": "ndi" },
+    { "english": "distance", "tera": "gna" },
+    { "english": "contract", "tera": "tad" },
+    { "english": "positive", "tera": "eae" },
+    { "english": "moderate", "tera": "ste" },
+    { "english": "superior", "tera": "lae" },
+    { "english": "compound", "tera": "der" },
+    { "english": "passage", "tera": "equ" },
+    { "english": "manner", "tera": "ate" },
+    { "english": "relation", "tera": "nus" },
+    { "english": "strain", "tera": "ips" },
+    { "english": "bearing", "tera": "umn" },
+    { "english": "account", "tera": "onp" },
+    { "english": "express", "tera": "ote" },
+    { "english": "capable", "tera": "r" },
+    { "english": "distress", "tera": "atn" },
+    { "english": "stroke", "tera": "ecv" },
+    { "english": "convert", "tera": "ell" },
+    { "english": "radical", "tera": "eta" },
+    { "english": "peculiar", "tera": "ma" },
+    { "english": "progress", "tera": "nsi" },
+    { "english": "external", "tera": "ras" },
+    { "english": "incapable", "tera": "cit" },
+    { "english": "issue", "tera": "uri" },
+    { "english": "domestic", "tera": "lli" },
+    { "english": "carriage", "tera": "qua" },
+    { "english": "feeling", "tera": "esi" },
+    { "english": "security", "tera": "bip" },
+    { "english": "direction", "tera": "rae" },
+    { "english": "frame", "tera": "lat" },
+    { "english": "inferior", "tera": "aes" },
+    { "english": "distinct", "tera": "tve" },
+    { "english": "grain", "tera": "ner" },
+    { "english": "circular", "tera": "isq" },
+    { "english": "pleasure", "tera": "ue" },
+    { "english": "faculty", "tera": "off" },
+    { "english": "personal", "tera": "ens" },
+    { "english": "narrow", "tera": "are" },
+    { "english": "contrary", "tera": "pul" },
+    { "english": "tongue", "tera": "sap" },
+    { "english": "address", "tera": "rot" },
+    { "english": "vessel", "tera": "inu" },
+    { "english": "temper", "tera": "sho" },
+    { "english": "compass", "tera": "rre" },
+    { "english": "command", "tera": "ndi" },
+    { "english": "reduce", "tera": "sin" },
+    { "english": "article", "tera": "fam" },
+    { "english": "backward", "tera": "iap" },
+    { "english": "taste", "tera": "abu" },
+    { "english": "native", "tera": "la" },
+    { "english": "maintain", "tera": "suc" },
+    { "english": "descent", "tera": "isc" },
+    { "english": "opinion", "tera": "ont" },
+    { "english": "justice", "tera": "eri" },
+    { "english": "regard", "tera": "tet" },
+    { "english": "shoot", "tera": "tri" },
+    { "english": "society", "tera": "tis" },
+    { "english": "sphere", "tera": "Hec" },
+    { "english": "cast", "tera": "ate" },
+    { "english": "definite", "tera": "iac" },
+    { "english": "private", "tera": "arm" },
+    { "english": "draught", "tera": "ina" },
+    { "english": "sovereign", "tera": "mis" },
+    { "english": "organic", "tera": "cet" },
+    { "english": "evidence", "tera": "fo" },
+    { "english": "court", "tera": "urf" },
+    { "english": "plate", "tera": "ive" },
+    { "english": "channel", "tera": "cae" },
+    { "english": "cylinder", "tera": "rul" },
+    { "english": "respect", "tera": "aqu" },
+    { "english": "stomach", "tera": "ein" },
+    { "english": "exterior", "tera": "dui" },
+    { "english": "pledge", "tera": "tur" },
+    { "english": "christian", "tera": "vel" },
+    { "english": "execution", "tera": "ami" },
+    { "english": "affected", "tera": "nap" },
+    { "english": "knot", "tera": "erq" },
+    { "english": "worship", "tera": "uef" },
+    { "english": "style", "tera": "era" },
+    { "english": "violent", "tera": "ru" },
+    { "english": "outside", "tera": "m" },
+    { "english": "mixture", "tera": "agm" },
+    { "english": "reproach", "tera": "ena" },
+    { "english": "volatile", "tera": "dul" },
+    { "english": "equivalent", "tera": "ant" },
+    { "english": "slender", "tera": "um" },
+    { "english": "remove", "tera": "med" },
+    { "english": "being", "tera": "iap" },
+    { "english": "preserve", "tera": "roc" },
+    { "english": "elevation", "tera": "edi" },
+    { "english": "furnish", "tera": "tab" },
+    { "english": "writing", "tera": "aul" },
+    { "english": "twist", "tera": "aop" },
+    { "english": "smooth", "tera": "pos" },
+    { "english": "estate", "tera": "itu" },
+    { "english": "anchor", "tera": "mq" },
+    { "english": "joint", "tera": "uep" },
+    { "english": "expression", "tera": "ete" },
+    { "english": "contest", "tera": "nsc" },
+    { "english": "trust", "tera": "ont" },
+    { "english": "traverse", "tera": "raZ" },
+    { "english": "irregular", "tera": "anc" },
+    { "english": "relief", "tera": "lei" },
+    { "english": "active", "tera": "asa" },
+    { "english": "proportion", "tera": "xaR" },
+    { "english": "apparent", "tera": "heg" },
+    { "english": "abstract", "tera": "ion" },
+    { "english": "portion", "tera": "ing" },
+    { "english": "voluntary", "tera": "r" },
+    { "english": "perform", "tera": "edi" },
+    { "english": "shaft", "tera": "tur" },
+    { "english": "neglect", "tera": "f" },
+    { "english": "attempt", "tera": "erv" },
+    { "english": "judge", "tera": "ent" },
+    { "english": "genus", "tera": "esa" },
+    { "english": "purple", "tera": "est" },
+    { "english": "foreign", "tera": "ibu" },
+    { "english": "perfect", "tera": "s" },
+    { "english": "compact", "tera": "und" },
+    { "english": "extract", "tera": "asi" },
+    { "english": "demand", "tera": "nqu" },
+    { "english": "burden", "tera": "ibu" },
+    { "english": "labor", "tera": "su" },
+    { "english": "interval", "tera": "tso" },
+    { "english": "destitute", "tera": "lid" },
+    { "english": "reference", "tera": "apo" },
+    { "english": "swallow", "tera": "nit" },
+    { "english": "medicine", "tera": "ves" },
+    { "english": "strip", "tera": "tig" },
+    { "english": "contempt", "tera": "iat" },
+    { "english": "decline", "tera": "err" },
+    { "english": "liberty", "tera": "afi" },
+    { "english": "fashion", "tera": "vez" },
+    { "english": "engage", "tera": "ero" },
+    { "english": "offensive", "tera": "sum" },
+    { "english": "drawing", "tera": "maq" },
+    { "english": "texture", "tera": "ued" },
+    { "english": "cutting", "tera": "ecu" },
+    { "english": "lower", "tera": "r" },
+    { "english": "hollow", "tera": "rit" },
+    { "english": "formal", "tera": "ped" },
+    { "english": "member", "tera": "ibu" },
+    { "english": "thread", "tera": "ssu" },
+    { "english": "corrupt", "tera": "per" },
+    { "english": "failure", "tera": "aeq" },
+    { "english": "disease", "tera": "uor" },
+    { "english": "intended", "tera": "asi" },
+    { "english": "swell", "tera": "cci" },
+    { "english": "stuff", "tera": "sPa" },
+    { "english": "bill", "tera": "rvu" },
+    { "english": "opening", "tera": "ser" },
+    { "english": "quarrel", "tera": "atg" },
+    { "english": "secure", "tera": "urg" },
+    { "english": "stage", "tera": "esc" },
+    { "english": "composition", "tera": "urv" },
+    { "english": "allowance", "tera": "oss" },
+    { "english": "establish", "tera": "inu" },
+    { "english": "essential", "tera": "atu" },
+    { "english": "examine", "tera": "sin" },
+    { "english": "benefit", "tera": "arc" },
+    { "english": "height", "tera": "usg" },
+    { "english": "movable", "tera": "rat" },
+    { "english": "tropical", "tera": "aqu" },
+    { "english": "platform", "tera": "ies" },
+    { "english": "alternate", "tera": "Scy" },
+    { "english": "bound", "tera": "lla" },
+    { "english": "thrust", "tera": "equ" },
+    { "english": "mercury", "tera": "ose" },
+    { "english": "alcohol", "tera": "ref" },
+    { "english": "making", "tera": "ere" },
+    { "english": "throat", "tera": "bat" },
+    { "english": "shelter", "tera": "aba" },
+    { "english": "elastic", "tera": "est" },
+    { "english": "slight", "tera": "uet" },
+    { "english": "inclose", "tera": "mar" },
+    { "english": "stem", "tera": "ise" },
+    { "english": "reduction", "tera": "t" },
+    { "english": "vegetable", "tera": "cae" },
+    { "english": "breast", "tera": "lim" },
+    { "english": "generation", "tera": "edi" },
+    { "english": "succession", "tera": "ocu" },
+    { "english": "dressing", "tera": "mpl" },
+    { "english": "powerful", "tera": "uri" },
+    { "english": "downward", "tera": "mu" },
+    { "english": "upright", "tera": "s" },
+    { "english": "extend", "tera": "orb" },
+    { "english": "custom", "tera": "eso" },
+    { "english": "mechanical", "tera": "ler" },
+    { "english": "turning", "tera": "ate" },
+    { "english": "extension", "tera": "tin" },
+    { "english": "medium", "tera": "ima" },
+    { "english": "application", "tera": "sav" },
+    { "english": "choice", "tera": "ert" },
+    { "english": "bitter", "tera": "ice" },
+    { "english": "rough", "tera": "fe" },
+    { "english": "privilege", "tera": "cer" },
+    { "english": "delicacy", "tera": "atu" },
+    { "english": "manifest", "tera": "mbr" },
+    { "english": "sacred", "tera": "asf" },
+    { "english": "breath", "tera": "ive" },
+    { "english": "belonging", "tera": "f" },
+    { "english": "border", "tera": "ive" },
+    { "english": "marine", "tera": "Hun" },
+    { "english": "breathing", "tera": "cde" },
+    { "english": "flesh", "tera": "apr" },
+    { "english": "imperfect", "tera": "ae" },
+    { "english": "keeping", "tera": "vit" },
+    { "english": "different", "tera": "iat" },
+    { "english": "image", "tera": "por" },
+    { "english": "plaster", "tera": "ten" },
+    { "english": "numerous", "tera": "tif" },
+    { "english": "surround", "tera": "ici" },
+    { "english": "commerce", "tera": "squ" },
+    { "english": "passing", "tera": "eve" },
+    { "english": "around", "tera": "nen" },
+    { "english": "popular", "tera": "isi" },
+    { "english": "counter", "tera": "nqu" },
+    { "english": "hence", "tera": "ina" },
+    { "english": "beneath", "tera": "thi" },
+    { "english": "sweet", "tera": "cpr" },
+    { "english": "inclined", "tera": "ess" },
+    { "english": "floating", "tera": "osl" },
+    { "english": "withdraw", "tera": "ati" },
+    { "english": "severe", "tera": "ces" },
+    { "english": "declare", "tera": "rad" },
+    { "english": "warrant", "tera": "ice" },
+    { "english": "suffer", "tera": "noc" },
+    { "english": "social", "tera": "ent" },
+    { "english": "bond", "tera": "spa" },
+    { "english": "virtue", "tera": "rgi" },
+    { "english": "doubtful", "tera": "te" },
+    { "english": "sympathy", "tera": "tob" },
+    { "english": "metallic", "tera": "scu" },
+    { "english": "poison", "tera": "rum" },
+    { "english": "worthy", "tera": "ver" },
+    { "english": "colored", "tera": "bor" },
+    { "english": "disguise", "tera": "uma" },
+    { "english": "speaking", "tera": "mba" },
+    { "english": "rising", "tera": "gen" },
+    { "english": "primary", "tera": "ovu" },
+    { "english": "agitation", "tera": "r" },
+    { "english": "flight", "tera": "umt" },
+    { "english": "discipline", "tera": "ern" },
+    { "english": "careless", "tera": "ovi" },
+    { "english": "minister", "tera": "ens" },
+    { "english": "excess", "tera": "car" },
+    { "english": "flourish", "tera": "men" },
+    { "english": "pole", "tera": "mag" },
+    { "english": "tooth", "tera": "ico" },
+    { "english": "situated", "tera": "dem" },
+    { "english": "disgrace", "tera": "urm" },
+    { "english": "censure", "tera": "ura" },
+    { "english": "treat", "tera": "tor" },
+    { "english": "grave", "tera": "eS" },
+    { "english": "deliver", "tera": "cyl" },
+    { "english": "surrender", "tera": "lav" },
+    { "english": "hydrogen", "tera": "en" },
+    { "english": "building", "tera": "itm" },
+    { "english": "preparation", "tera": "edi" },
+    { "english": "attend", "tera": "aqu" },
+    { "english": "limit", "tera": "ete" },
+    { "english": "fasten", "tera": "nus" },
+    { "english": "bind", "tera": "des" },
+    { "english": "swelling", "tera": "cen" },
+    { "english": "striking", "tera": "der" },
+    { "english": "witness", "tera": "ata" },
+    { "english": "ornament", "tera": "lvo" },
+    { "english": "hinder", "tera": "six" },
+    { "english": "beyond", "tera": "zer" },
+    { "english": "marriage", "tera": "ocu" },
+    { "english": "foul", "tera": "msu" },
+    { "english": "yield", "tera": "af" },
+    { "english": "uniform", "tera": "oed" },
+    { "english": "whatever", "tera": "ari" },
+    { "english": "earnest", "tera": "lat" },
+    { "english": "proof", "tera": "ran" },
+    { "english": "himself", "tera": "tib" },
+    { "english": "former", "tera": "usi" },
+    { "english": "restrain", "tera": "ngu" },
+    { "english": "prince", "tera": "ina" },
+    { "english": "setting", "tera": "mon" },
+    { "english": "trick", "tera": "str" },
+    { "english": "universal", "tera": "isa" },
+    { "english": "wrong", "tera": "dsp" },
+    { "english": "depression", "tera": "ici" },
+    { "english": "stamp", "tera": "tac" },
+    { "english": "destroy", "tera": "pri" },
+    { "english": "formerly", "tera": "moc" },
+    { "english": "growth", "tera": "red" },
+    { "english": "aggregate", "tera": "ens" },
+    { "english": "various", "tera": "non" },
+    { "english": "tissue", "tera": "cor" },
+    { "english": "dispute", "tera": "por" },
+    { "english": "become", "tera": "isi" },
+    { "english": "agreeable", "tera": "lla" },
+    { "english": "partial", "tera": "ses" },
+    { "english": "chain", "tera": "esu" },
+    { "english": "northern", "tera": "ipa" },
+    { "english": "heavenly", "tera": "rte" },
+    { "english": "arrangement", "tera": "sre" },
+    { "english": "impulse", "tera": "fug" },
+    { "english": "sport", "tera": "it" },
+    { "english": "apply", "tera": "que" },
+    { "english": "furnace", "tera": "abi" },
+    { "english": "token", "tera": "g" },
+    { "english": "decree", "tera": "itq" },
+    { "english": "trial", "tera": "uet" },
+    { "english": "engaged", "tera": "ime" },
+    { "english": "imitation", "tera": "tqu" },
+    { "english": "supreme", "tera": "eor" },
+    { "english": "sensible", "tera": "apr" },
+    { "english": "properly", "tera": "ote" },
+    { "english": "device", "tera": "rva" },
+    { "english": "solemn", "tera": "can" },
+    { "english": "happiness", "tera": "ums" },
+    { "english": "model", "tera": "edq" },
+    { "english": "delivery", "tera": "uos" },
+    { "english": "commonly", "tera": "fu" },
+    { "english": "ceremony", "tera": "git" },
+    { "english": "printing", "tera": "att" },
+    { "english": "measured", "tera": "rah" },
+    { "english": "frequent", "tera": "itu" },
+    { "english": "profit", "tera": "nae" },
+    { "english": "admit", "tera": "tco" },
+    { "english": "muscular", "tera": "rpu" },
+    { "english": "singular", "tera": "squ" },
+    { "english": "related", "tera": "aer" },
+    { "english": "vapor", "tera": "ens" },
+    { "english": "fault", "tera": "fem" },
+    { "english": "reverse", "tera": "oru" },
+    { "english": "college", "tera": "mcr" },
+    { "english": "battle", "tera": "uru" },
+    { "english": "appetite", "tera": "mq" },
+    { "english": "disposition", "tera": "uep" },
+    { "english": "recover", "tera": "edu" },
+    { "english": "beam", "tera": "mqu" },
+    { "english": "reverence", "tera": "esi" },
+    { "english": "converse", "tera": "xfi" },
+    { "english": "deprive", "tera": "v" },
+    { "english": "nervous", "tera": "eCe" },
+    { "english": "hawk", "tera": "rbe" },
+    { "english": "compose", "tera": "re" },
+    { "english": "skeleton", "tera": "isti" },
+    { "english": "error", "tera": "csia" },
+    { "english": "nucleus", "tera": "mque" },
+    { "english": "proposition", "tera": "pres" },
+    { "english": "bend", "tera": "suma" },
+    { "english": "drinking", "tera": "sole" },
+    { "english": "whip", "tera": "sata" },
+    { "english": "swimming", "tera": "ecir" },
+    { "english": "hanging", "tera": "taqu" },
+    { "english": "nerve", "tera": "ever" },
+    { "english": "generally", "tera": "niai" },
+    { "english": "coloring", "tera": "dnie" },
+    { "english": "exertion", "tera": "pere" },
+    { "english": "incline", "tera": "eroc" },
+    { "english": "unite", "tera": "nimi" },
+    { "english": "observation", "tera": "aevt" },
+    { "english": "territory", "tera": "aetr" },
+    { "english": "colorless", "tera": "boeu" },
+    { "english": "shallow", "tera": "uats" },
+    { "english": "solitary", "tera": "llib" },
+    { "english": "doubt", "tera": "esin" },
+    { "english": "acid", "tera": "rvae" },
+    { "english": "deceive", "tera": "pteu" },
+    { "english": "apparatus", "tera": "tshi" },
+    { "english": "dominion", "tera": "eabr" },
+    { "english": "introduce", "tera": "ntea" },
+    { "english": "severity", "tera": "snia" },
+    { "english": "becoming", "tera": "tcie" },
+    { "english": "extremity", "tera": "afma" },
+    { "english": "forth", "tera": "iauq" },
+    { "english": "diameter", "tera": "usdu" },
+    { "english": "scratch", "tera": "osuc" },
+    { "english": "assembly", "tera": "enze" },
+    { "english": "prevent", "tera": "ncel" },
+    { "english": "spindle", "tera": "veda" },
+    { "english": "bolt", "tera": "rsqa" },
+    { "english": "brief", "tera": "itmu" },
+    { "english": "cunning", "tera": "nati" },
+    { "english": "indirect", "tera": "lime" },
+    { "english": "burning", "tera": "euss" },
+    { "english": "fancy", "tera": "eruq" },
+    { "english": "confusion", "tera": "dood" },
+    { "english": "exhaust", "tera": "feau" },
+    { "english": "reception", "tera": "cudi" },
+    { "english": "utter", "tera": "faio" },
+    { "english": "yielding", "tera": "emsu" },
+    { "english": "remote", "tera": "nict" },
+    { "english": "stiff", "tera": "imar" },
+    { "english": "discover", "tera": "imen" },
+    { "english": "policy", "tera": "lamf" },
+    { "english": "angle", "tera": "luat" },
+    { "english": "below", "tera": "vedi" },
+    { "english": "literary", "tera": "stic" },
+    { "english": "rate", "tera": "ebde" },
+    { "english": "pursuit", "tera": "edmd" },
+    { "english": "clothing", "tera": "usiu" },
+    { "english": "trunk", "tera": "ipin" },
+    { "english": "previous", "tera": "evsa" },
+    { "english": "grant", "tera": "igod" },
+    { "english": "tribe", "tera": "ilea" },
+    { "english": "extinct", "tera": "doqu" },
+    { "english": "obtain", "tera": "nger" },
+    { "english": "furniture", "tera": "olcp" },
+    { "english": "imperial", "tera": "octh" },
+    { "english": "petition", "tera": "obtd" },
+    { "english": "pleasing", "tera": "grin" },
+    { "english": "remedy", "tera": "puap" },
+    { "english": "oblique", "tera": "vsea" },
+    { "english": "composed", "tera": "iarr" },
+    { "english": "promote", "tera": "scua" },
+    { "english": "covering", "tera": "rfua" },
+    { "english": "needle", "tera": "trap" },
+    { "english": "blind", "tera": "eefm" },
+    { "english": "acute", "tera": "itar" },
+    { "english": "foolish", "tera": "redf" },
+    { "english": "fossil", "tera": "aeln" },
+    { "english": "european", "tera": "afre" },
+    { "english": "combine", "tera": "rtlu" },
+    { "english": "volume", "tera": "euon" },
+    { "english": "exciting", "tera": "otwe" },
+    { "english": "outward", "tera": "etib" },
+    { "english": "sulphur", "tera": "dsas" },
+    { "english": "expose", "tera": "tqui" },
+    { "english": "posture", "tera": "apsa" },
+    { "english": "follower", "tera": "iead" },
+    { "english": "distinction", "tera": "esmi" },
+    { "english": "brush", "tera": "ifmu" },
+    { "english": "copper", "tera": "ttap" },
+    { "english": "sort", "tera": "pois" },
+    { "english": "attachment", "tera": "viït" },
+    { "english": "sensation", "tera": "reda" },
+    { "english": "stain", "tera": "cyte" },
+    { "english": "affinity", "tera": "vsui" },
+    { "english": "slide", "tera": "rfen" },
+    { "english": "perception", "tera": "erof" },
+    { "english": "conclusion", "tera": "ahis" },
+    { "english": "unequal", "tera": "tpaï" },
+    { "english": "boiling", "tera": "irct" },
+    { "english": "consent", "tera": "avse" },
+    { "english": "float", "tera": "acsu" },
+    { "english": "tincture", "tera": "esta" },
+    { "english": "beak", "tera": "epdg" },
+    { "english": "wearing", "tera": "sres" },
+    { "english": "decay", "tera": "tcdï" },
+    { "english": "moisture", "tera": "marg" },
+    { "english": "stern", "tera": "gëen" },
+    { "english": "confine", "tera": "muoc" },
+    { "english": "average", "tera": "sede" },
+    { "english": "scheme", "tera": "asëc" },
+    { "english": "pale", "tera": "tano" },
+    { "english": "declaration", "tera": "vali" },
+    { "english": "plunder", "tera": "aebr" },
+    { "english": "actual", "tera": "tequ" },
+    { "english": "bladder", "tera": "ntee" },
+    { "english": "curve", "tera": "fonc" },
+    { "english": "spiral", "tera": "llus" },
+    { "english": "political", "tera": "ltaa" },
+    { "english": "assault", "tera": "roeg" },
+    { "english": "tendency", "tera": "rbae" },
+    { "english": "remain", "tera": "tepa" },
+    { "english": "contraction", "tera": "esuq" },
+    { "english": "further", "tera": "trol" },
+    { "english": "sponge", "tera": "topë" },
+    { "english": "worthless", "tera": "nehr" },
+    { "english": "payment", "tera": "aepa" },
+    { "english": "pain", "tera": "ruoq" },
+    { "english": "dwelling", "tera": "rëba" },
+    { "english": "horizon", "tera": "rfre" },
+    { "english": "lime", "tera": "nrma" },
+    { "english": "kingdom", "tera": "lsoa" },
+    { "english": "constitution", "tera": "rany" },
+    { "english": "inclosure", "tera": "rtne" },
+    { "english": "suspension", "tera": "esia" },
+    { "english": "suffering", "tera": "bale" },
+    { "english": "collar", "tera": "dnti" },
+    { "english": "elevated", "tera": "tnco" },
+    { "english": "prominent", "tera": "mtep" },
+    { "english": "coarse", "tera": "shtë" },
+    { "english": "bent", "tera": "cund" },
+    { "english": "descend", "tera": "acla" },
+    { "english": "holding", "tera": "roil" },
+    { "english": "treatise", "tera": "hïsi" },
+    { "english": "pointed", "tera": "nesa" },
+    { "english": "adjacent", "tera": "uëqh" },
+    { "english": "formed", "tera": "arsá" },
+    { "english": "split", "tera": "hpod" },
+    { "english": "battery", "tera": "rsio" },
+    { "english": "price", "tera": "olit" },
+    { "english": "axis", "tera": "nier" },
+    { "english": "sweep", "tera": "ensu" },
+    { "english": "driving", "tera": "suar" },
+    { "english": "flavor", "tera": "tnet" },
+    { "english": "breed", "tera": "fere" },
+    { "english": "prepared", "tera": "gutm" },
+    { "english": "anterior", "tera": "asel" },
+    { "english": "saddle", "tera": "etuq" },
+    { "english": "pride", "tera": "iatr" },
+    { "english": "divinity", "tera": "erht" },
+    { "english": "aromatic", "tera": "ulvn" },
+    { "english": "lively", "tera": "eina" },
+    { "english": "continued", "tera": "usic" },
+    { "english": "derivative", "tera": "emuo" },
+    { "english": "minor", "tera": "iean" },
+    { "english": "conveyance", "tera": "herg" },
+    { "english": "utterance", "tera": "yasc" },
+    { "english": "legal", "tera": "mlai" },
+    { "english": "mistress", "tera": "vhiï" },
+    { "english": "reputation", "tera": "sers" },
+    { "english": "taking", "tera": "qäue" },
+    { "english": "crescent", "tera": "raig" },
+    { "english": "mistake", "tera": "site" },
+    { "english": "dull", "tera": "ucne" },
+    { "english": "mode", "tera": "ntam" },
+    { "english": "precious", "tera": "woan" },
+    { "english": "undergo", "tera": "mïun" },
+    { "english": "engraving", "tera": "erez" },
+    { "english": "moving", "tera": "seav" },
+    { "english": "wicked", "tera": "osrc" },
+    { "english": "vein", "tera": "amuq" },
+    { "english": "membrane", "tera": "umsi" },
+    { "english": "dispose", "tera": "dsal" },
+    { "english": "wound", "tera": "otwf" },
+    { "english": "rapid", "tera": "qoui" },
+    { "english": "hook", "tera": "pára" },
+    { "english": "bargain", "tera": "stuh" },
+    { "english": "sink", "tera": "ireb" },
+    { "english": "overcome", "tera": "intä" },
+    { "english": "stalk", "tera": "ubbu" },
+    { "english": "trumpet", "tera": "ilqs" },
+    { "english": "TRUE", "tera": "rofe" },
+    { "english": "courage", "tera": "idas" },
+    { "english": "carrying", "tera": "otci" },
+    { "english": "connection", "tera": "tmus" },
+    { "english": "successive", "tera": "rdai" },
+    { "english": "painful", "tera": "nuam" },
+    { "english": "advocate", "tera": "ngam" },
+    { "english": "motive", "tera": "atrï" },
+    { "english": "velocity", "tera": "uqon" },
+    { "english": "margin", "tera": "loid" },
+    { "english": "independent", "tera": "erto" },
+    { "english": "bore", "tera": "ïlos" },
+    { "english": "theory", "tera": "tqun" },
+    { "english": "wanting", "tera": "iasc" },
+    { "english": "arch", "tera": "qenc" },
+    { "english": "composite", "tera": "cuqi" },
+    { "english": "calendar", "tera": "pace" },
+    { "english": "artificial", "tera": "shbu" },
+    { "english": "indian", "tera": "ebra" },
+    { "english": "reward", "tera": "otlu" },
+    { "english": "likeness", "tera": "ïmam" },
+    { "english": "restraint", "tera": "ohïc" },
+    { "english": "courtesy", "tera": "ting" },
+    { "english": "delay", "tera": "tare" },
+    { "english": "reasoning", "tera": "ztea" },
+    { "english": "central", "tera": "tiex" },
+    { "english": "partition", "tera": "tïdc" },
+    { "english": "fold", "tera": "ïvan" },
+    { "english": "equation", "tera": "ragf" },
+    { "english": "shadow", "tera": "enuq" },
+    { "english": "easy", "tera": "opil" },
+    { "english": "verse", "tera": "suse" },
+    { "english": "absence", "tera": "qasi" },
+    { "english": "tertiary", "tera": "anen" },
+    { "english": "according", "tera": "vqra" },
+    { "english": "freight", "tera": "essa" },
+    { "english": "department", "tera": "setr" },
+    { "english": "outline", "tera": "qusu" },
+    { "english": "artifice", "tera": "sumï" },
+    { "english": "resistance", "tera": "atmu" },
+    { "english": "chase", "tera": "tnna" },
+    { "english": "diamond", "tera": "orhi" },
+    { "english": "forming", "tera": "mrpo" },
+    { "english": "given", "tera": "ssia" },
+    { "english": "trespass", "tera": "epcr" },
+    { "english": "primitive", "tera": "olve" },
+    { "english": "amorphous", "tera": "tmen" },
+    { "english": "appropriate", "tera": "moiä" },
+    { "english": "temple", "tera": "ïane" },
+    { "english": "invest", "tera": "itla" },
+    { "english": "dishonor", "tera": "eocm" },
+    { "english": "civil", "tera": "esns" },
+    { "english": "development", "tera": "llnu" },
+    { "english": "lateral", "tera": "diuq" },
+    { "english": "outer", "tera": "rmpa" },
+    { "english": "adjective", "tera": "qïil" },
+    { "english": "retreat", "tera": "bitï" },
+    { "english": "alkaloid", "tera": "atoa" },
+    { "english": "fail", "tera": "aulg" },
+    { "english": "roman", "tera": "esba" },
+    { "english": "profound", "tera": "vief" },
+    { "english": "ultimate", "tera": "bïus" },
+    { "english": "harbor", "tera": "neïg" },
+    { "english": "execute", "tera": "ïhïm" },
+    { "english": "sour", "tera": "rdce" },
+    { "english": "attach", "tera": "qeca" },
+    { "english": "bridge", "tera": "rouë" },
+    { "english": "duration", "tera": "cenä" },
+    { "english": "innocent", "tera": "nemr" },
+    { "english": "future", "tera": "rmoe" },
+    { "english": "permanent", "tera": "bïuc" },
+    { "english": "governor", "tera": "asue" },
+    { "english": "calling", "tera": "ïnsu" },
+    { "english": "posterior", "tera": "ïdcï" },
+    { "english": "erect", "tera": "evme" },
+    { "english": "humor", "tera": "noin" },
+    { "english": "morality", "tera": "tanä" },
+    { "english": "mutual", "tera": "yncs" },
+    { "english": "proceeding", "tera": "itis" },
+    { "english": "cheat", "tera": "iacs" },
+    { "english": "treatment", "tera": "qeum" },
+    { "english": "attendant", "tera": "ersp" },
+    { "english": "vocal", "tera": "amus" },
+    { "english": "sucker", "tera": "eslo" },
+    { "english": "leading", "tera": "astä" },
+    { "english": "flowing", "tera": "irec" },
+    { "english": "settlement", "tera": "vree" },
+    { "english": "infinite", "tera": "emec" },
+    { "english": "divided", "tera": "rdae" },
+    { "english": "skillful", "tera": "enec" },
+    { "english": "exceed", "tera": "ïani" },
+    { "english": "altitude", "tera": "ndie" },
+    { "english": "winding", "tera": "npto" },
+    { "english": "content", "tera": "tcirc" },
+    { "english": "commit", "tera": "grami" },
+    { "english": "bankrupt", "tera": "einde" },
+    { "english": "careful", "tera": "tcirc" },
+    { "english": "consequence", "tera": "grami" },
+    { "english": "concrete", "tera": "ersaq" },
+    { "english": "breeding", "tera": "carmi" },
+    { "english": "incident", "tera": "sdebe" },
+    { "english": "annual", "tera": "dregn" },
+    { "english": "skilled", "tera": "clopu" },
+    { "english": "remark", "tera": "rarum" },
+    { "english": "admission", "tera": "itque" },
+    { "english": "enlarge", "tera": "mdeas" },
+    { "english": "provided", "tera": "ascer" },
+    { "english": "breathe", "tera": "eptaq" },
+    { "english": "hearing", "tera": "andit" },
+    { "english": "raising", "tera": "reini" },
+    { "english": "attribute", "tera": "mgemi" },
+    { "english": "firm", "tera": "eatri" },
+    { "english": "meal", "tera": "tamth" },
+    { "english": "dish", "tera": "vulne" },
+    { "english": "atlantic", "tera": "ihivi" },
+    { "english": "congress", "tera": "nawor" },
+    { "english": "barrel", "tera": "qumae" },
+    { "english": "mental", "tera": "herbi" },
+    { "english": "aperture", "tera": "usliq" },
+    { "english": "lodge", "tera": "natyr" },
+    { "english": "sterling", "tera": "itore" },
+    { "english": "inserted", "tera": "cogni" },
+    { "english": "contact", "tera": "taacc" },
+    { "english": "prefix", "tera": "gumqu" },
+    { "english": "prejudice", "tera": "mmuta" },
+    { "english": "provision", "tera": "essen" },
+    { "english": "counsel", "tera": "tibis" },
+    { "english": "void", "tera": "aecqu" },
+    { "english": "chest", "tera": "lascy" },
+    { "english": "vulgar", "tera": "usind" },
+    { "english": "strap", "tera": "ncyst" },
+    { "english": "wanton", "tera": "earem" },
+    { "english": "latin", "tera": "terra" },
+    { "english": "institution", "tera": "optan" },
+    { "english": "ridicule", "tera": "temqu" },
+    { "english": "covered", "tera": "triné" },
+    { "english": "brace", "tera": "filia" },
+    { "english": "pronounce", "tera": "pidin" },
+    { "english": "limited", "tera": "rastr" },
+    { "english": "overthrow", "tera": "retem" },
+    { "english": "adherent", "tera": "necme" },
+    { "english": "flame", "tera": "rrtea" },
+    { "english": "dorsal", "tera": "pntoa" },
+    { "english": "capsule", "tera": "emutq" },
+    { "english": "guilty", "tera": "ditii" },
+    { "english": "stranger", "tera": "cifca" },
+    { "english": "nobility", "tera": "étrin" },
+    { "english": "possess", "tera": "lïfia" },
+    { "english": "electricity", "tera": "matum" },
+    { "english": "uncertain", "tera": "dipni" },
+    { "english": "affecting", "tera": "quäro" },
+    { "english": "rational", "tera": "rtsar" },
+    { "english": "clothes", "tera": "mteer" },
+    { "english": "request", "tera": "sclay" },
+    { "english": "reaction", "tera": "rrtea" },
+    { "english": "envelop", "tera": "mquet" },
+    { "english": "breach", "tera": "clopum" },
+    { "english": "excellent", "tera": "vulner" },
+    { "english": "obstruct", "tera": "clopum" },
+    { "english": "mantle", "tera": "dfrequ" },
+    { "english": "devoted", "tera": "vulner" },
+    { "english": "blast", "tera": "contem" },
+    { "english": "nice", "tera": "aeinde" },
+    { "english": "improper", "tera": "veatci" },
+    { "english": "excuse", "tera": "aquidu" },
+    { "english": "intention", "tera": "ciafor" },
+    { "english": "agent", "tera": "eratil" },
+    { "english": "limb", "tera": "lenafe" },
+    { "english": "excellence", "tera": "etwoze" },
+    { "english": "injury", "tera": "sapate" },
+    { "english": "faithful", "tera": "itvide" },
+    { "english": "chiefly", "tera": "fenref" },
+    { "english": "pastoral", "tera": "queten" },
+    { "english": "isomeric", "tera": "etconf" },
+    { "english": "trifling", "tera": "sullat" },
+    { "english": "appendix", "tera": "erogab" },
+    { "english": "temporary", "tera": "ltropo" },
+    { "english": "drill", "tera": "barefe" },
+    { "english": "burst", "tera": "naryen" },
+    { "english": "temporal", "tera": "lacalo" },
+    { "english": "beating", "tera": "sarátr" },
+    { "english": "orderly", "tera": "nusera" },
+    { "english": "sitting", "tera": "tentia" },
+    { "english": "tract", "tera": "efretu" },
+    { "english": "author", "tera": "arhegi" },
+    { "english": "strict", "tera": "gariet" },
+    { "english": "benefice", "tera": "niumse" },
+    { "english": "overflow", "tera": "uladsp" },
+    { "english": "stable", "tera": "twofio" },
+    { "english": "cannon", "tera": "iitcol" },
+    { "english": "dash", "tera": "quicqu" },
+    { "english": "idle", "tera": "pidine" },
+    { "english": "luminous", "tera": "ammihi" },
+    { "english": "originally", "tera": "eratet" },
+    { "english": "resolution", "tera": "pusest" },
+    { "english": "appoint", "tera": "iasque" },
+    { "english": "assurance", "tera": "nenarv" },
+    { "english": "shake", "tera": "dorest" },
+    { "english": "eastern", "tera": "promis" },
+    { "english": "torture", "tera": "saprec" },
+    { "english": "damage", "tera": "volent" },
+    { "english": "morbid", "tera": "acontr" },
+    { "english": "rounded", "tera": "nullio" },
+    { "english": "vigorous", "tera": "riliqu" },
+    { "english": "ascertain", "tera": "oatagl" },
+    { "english": "designate", "tera": "eretem" },
+    { "english": "effort", "tera": "efiveq" },
+    { "english": "repair", "tera": "ibusin" },
+    { "english": "binding", "tera": "mihicr" },
+    { "english": "fever", "tera": "noremo" },
+    { "english": "impregnate", "tera": "ucibus" },
+    { "english": "machinery", "tera": "vemein" },
+    { "english": "keeper", "tera": "onnota" },
+    { "english": "pungent", "tera": "istics" },
+    { "english": "whistle", "tera": "aecirc" },
+    { "english": "penetrate", "tera": "taquev" },
+    { "english": "having", "tera": "necmed" },
+    { "english": "elegant", "tera": "eclick" },
+    { "english": "irritate", "tera": "cklice" },
+    { "english": "fillet", "tera": "veatcir" },
+    { "english": "cluster", "tera": "dfreque" },
+    { "english": "woolen", "tera": "etwozer" },
+    { "english": "gross", "tera": "sapater" },
+    { "english": "german", "tera": "saeviri" },
+    { "english": "ferment", "tera": "ascerte" },
+    { "english": "rude", "tera": "contemp" },
+    { "english": "offering", "tera": "tentian" },
+    { "english": "dust", "tera": "tamthre" },
+    { "english": "angular", "tera": "niumseu" },
+    { "english": "tune", "tera": "nullion" },
+    { "english": "institute", "tera": "tibisit" },
+    { "english": "vital", "tera": "efivequ" },
+    { "english": "writer", "tera": "lascyle" },
+    { "english": "because", "tera": "ncystat" },
+    { "english": "obedience", "tera": "ceneque" },
+    { "english": "eccentric", "tera": "veatcir" },
+    { "english": "occupy", "tera": "etwozer" },
+    { "english": "crystalline", "tera": "sapater" },
+    { "english": "across", "tera": "saeviri" },
+    { "english": "communion", "tera": "ascerte" },
+    { "english": "appendage", "tera": "contemp" },
+    { "english": "ventral", "tera": "tentian" },
+    { "english": "oppose", "tera": "tamthre" },
+    { "english": "memorial", "tera": "niumseu" },
+    { "english": "cradle", "tera": "nullion" },
+    { "english": "lightly", "tera": "tibisit" },
+    { "english": "cloth", "tera": "efivequ" },
+    { "english": "symmetry", "tera": "lascyle" },
+    { "english": "triumph", "tera": "ncystat" },
+    { "english": "esteem", "tera": "ereprec" },
+    { "english": "riding", "tera": "evaretu" },
+    { "english": "assume", "tera": "iectamf" },
+    { "english": "subdue", "tera": "cusonez" },
+    { "english": "sorrow", "tera": "clenadv" },
+    { "english": "propriety", "tera": "umtitan" },
+    { "english": "impure", "tera": "querere" },
+    { "english": "sounding", "tera": "ododign" },
+    { "english": "scatter", "tera": "uaefidu" },
+    { "english": "scent", "tera": "umestin" },
+    { "english": "fanciful", "tera": "alutedi" },
+    { "english": "suspend", "tera": "mdederi" },
+    { "english": "marked", "tera": "saseuve" },
+    { "english": "stigma", "tera": "ealiquo" },
+    { "english": "creature", "tera": "causafu" },
+    { "english": "disperse", "tera": "partemf" },
+    { "english": "twisted", "tera": "ultrone" },
+    { "english": "depth", "tera": "adeimis" },
+    { "english": "african", "tera": "umfivel" },
+    { "english": "liable", "tera": "ptatiso" },
+    { "english": "profane", "tera": "ecytusi" },
+    { "english": "fence", "tera": "ishabet" },
+    { "english": "instance", "tera": "causast" },
+    { "english": "desolate", "tera": "rsesdic" },
+    { "english": "measuring", "tera": "enegocu" },
+    { "english": "kindness", "tera": "rhenape" },
+    { "english": "performance", "tera": "raequor" },
+    { "english": "march", "tera": "rnamsol" },
+    { "english": "rare", "tera": "triesan" },
+    { "english": "fragrant", "tera": "esquebl" },
+    { "english": "rendering", "tera": "amandop" },
+    { "english": "servile", "tera": "lesatqu" },
+    { "english": "malignant", "tera": "niaesic" },
+    { "english": "origin", "tera": "uemoeni" },
+    { "english": "twelve", "tera": "ascylam" },
+    { "english": "vagabond", "tera": "ressequ" },
+    { "english": "romantic", "tera": "necumta" },
+    { "english": "depress", "tera": "eclicko" },
+    { "english": "penalty", "tera": "vesacro" },
+    { "english": "eruption", "tera": "quamsim" },
+    { "english": "sonorous", "tera": "araptus" },
+    { "english": "perennial", "tera": "ntiabub" },
+    { "english": "journey", "tera": "ferosad" },
+    { "english": "casting", "tera": "stumida" },
+    { "english": "succeed", "tera": "manumag" },
+    { "english": "improve", "tera": "noquodl" },
+    { "english": "analogous", "tera": "filiaso" },
+    { "english": "poisonous", "tera": "umtantu" },
+    { "english": "steep", "tera": "scianec" },
+    { "english": "shooting", "tera": "busherb" },
+    { "english": "tenant", "tera": "ultoraq" },
+    { "english": "hostile", "tera": "exitdic" },
+    { "english": "endeavor", "tera": "navifra" },
+    { "english": "tear", "tera": "quenilo" },
+    { "english": "hang", "tera": "saestpu" },
+    { "english": "stake", "tera": "usquisu" },
+    { "english": "suppress", "tera": "nantior" },
+    { "english": "steady", "tera": "iamoeni" },
+    { "english": "liquor", "tera": "talicom" },
+    { "english": "varnish", "tera": "quidras" },
+    { "english": "bivalve", "tera": "eadempa" },
+    { "english": "intellectual", "tera": "baestut" },
+    { "english": "vice", "tera": "necarme" },
+    { "english": "wooden", "tera": "iamqueg" },
+    { "english": "alphabet", "tera": "pressum" },
+    { "english": "elevate", "tera": "solesat" },
+    { "english": "tenacious", "tera": "ceneque" },
+    { "english": "conversion", "tera": "iniater" },
+    { "english": "jack", "tera": "optante" },
+    { "english": "employ", "tera": "erepreco" },
+    { "english": "thunder", "tera": "aquidusu" },
+    { "english": "muscle", "tera": "alutediv" },
+    { "english": "gradual", "tera": "mdederis" },
+    { "english": "inactive", "tera": "causafur" },
+    { "english": "rustic", "tera": "ecytusiv" },
+    { "english": "degrade", "tera": "sullatal" },
+    { "english": "deck", "tera": "eptaques" },
+    { "english": "putting", "tera": "bareferr" },
+    { "english": "agency", "tera": "nuserasu" },
+    { "english": "constituent", "tera": "necumtan" },
+    { "english": "conflict", "tera": "volentem" },
+    { "english": "favorable", "tera": "oataglau" },
+    { "english": "antecedent", "tera": "ibusinge" },
+    { "english": "indefinite", "tera": "mihicred" },
+    { "english": "disposed", "tera": "aecquero" },
+    { "english": "customary", "tera": "taquever" },
+    { "english": "distemper", "tera": "oataglau" },
+    { "english": "subordinate", "tera": "erepreco" },
+    { "english": "restless", "tera": "aquidusu" },
+    { "english": "polish", "tera": "alutediv" },
+    { "english": "debate", "tera": "mdederis" },
+    { "english": "indulge", "tera": "causafur" },
+    { "english": "deviation", "tera": "ecytusiv" },
+    { "english": "serpent", "tera": "sullatal" },
+    { "english": "determination", "tera": "eptaques" },
+    { "english": "bark", "tera": "bareferr" },
+    { "english": "beforehand", "tera": "nuserasu" },
+    { "english": "slippery", "tera": "necumtan" },
+    { "english": "auxiliary", "tera": "volentem" },
+    { "english": "prime", "tera": "oataglau" },
+    { "english": "layer", "tera": "ibusinge" },
+    { "english": "vicious", "tera": "mihicred" },
+    { "english": "bonnet", "tera": "aecquero" },
+    { "english": "digest", "tera": "taquever" },
+    { "english": "accord", "tera": "iniaterr" },
+    { "english": "latter", "tera": "optantem" },
+    { "english": "scrape", "tera": "imnitidi" },
+    { "english": "swing", "tera": "erateubo" },
+    { "english": "cherry", "tera": "tusabill" },
+    { "english": "renounce", "tera": "sitherba" },
+    { "english": "awkward", "tera": "anteisin" },
+    { "english": "raised", "tera": "meliusse" },
+    { "english": "giving", "tera": "enimflam" },
+    { "english": "reserved", "tera": "amiuncti" },
+    { "english": "warp", "tera": "uiusinip" },
+    { "english": "girdle", "tera": "facithoc" },
+    { "english": "prostrate", "tera": "esvariar" },
+    { "english": "horizontal", "tera": "bitesads" },
+    { "english": "parting", "tera": "notaliav" },
+    { "english": "abuse", "tera": "teshuncd" },
+    { "english": "citizen", "tera": "ihisanes" },
+    { "english": "receptacle", "tera": "orislito" },
+    { "english": "bastard", "tera": "evaretupo" },
+    { "english": "terminal", "tera": "sitherbar" },
+    { "english": "inhabitant", "tera": "ododignio" },
+    { "english": "upper", "tera": "enimflamm" },
+    { "english": "mechanic", "tera": "adeimiser" },
+    { "english": "pigment", "tera": "itvidearm" },
+    { "english": "reality", "tera": "fenrefort" },
+    { "english": "traffic", "tera": "ltropoter" },
+    { "english": "treasury", "tera": "rnamsolal" },
+    { "english": "deed", "tera": "lacaloris" },
+    { "english": "shackle", "tera": "sarátriné" },
+    { "english": "meridian", "tera": "umtantuqu" },
+    { "english": "inflated", "tera": "pidinecap" },
+    { "english": "prize", "tera": "busherbae" },
+    { "english": "usage", "tera": "eratetzan" },
+    { "english": "scene", "tera": "nenarvaqu" },
+    { "english": "termination", "tera": "ucibusaet" },
+    { "english": "injure", "tera": "usindicio" },
+    { "english": "solidity", "tera": "quidrastr" },
+    { "english": "anatomy", "tera": "iniaterra" },
+    { "english": "reciprocal", "tera": "evaretupo" },
+    { "english": "charity", "tera": "sitherbar" },
+    { "english": "eating", "tera": "cusonezer" },
+    { "english": "gallery", "tera": "ododignio" },
+    { "english": "understanding", "tera": "enimflamm" },
+    { "english": "hardness", "tera": "itvidearm" },
+    { "english": "humble", "tera": "fenrefort" },
+    { "english": "pointing", "tera": "ltropoter" },
+    { "english": "confirm", "tera": "rnamsolal" },
+    { "english": "pure", "tera": "lacaloris" },
+    { "english": "fracture", "tera": "sarátriné" },
+    { "english": "distinguish", "tera": "umtantuqu" },
+    { "english": "plunge", "tera": "pidinecap" },
+    { "english": "adhesion", "tera": "busherbae" },
+    { "english": "purity", "tera": "eratetzan" },
+    { "english": "combined", "tera": "nenarvaqu" },
+    { "english": "sole", "tera": "quidrastr" },
+    { "english": "torment", "tera": "ucibusaet" },
+    { "english": "forcible", "tera": "usindicio" },
+    { "english": "genius", "tera": "dtobringu" },
+    { "english": "bottle", "tera": "cusonezero" },
+    { "english": "immovable", "tera": "umtitanipo" },
+    { "english": "fibrous", "tera": "ultroneudu" },
+    { "english": "association", "tera": "umfiveliqu" },
+    { "english": "pierce", "tera": "rsesdictio" },
+    { "english": "wander", "tera": "erogaberis" },
+    { "english": "gathering", "tera": "teshuncdix" },
+    { "english": "tread", "tera": "filiasolis" },
+    { "english": "naked", "tera": "ultoraquar" },
+    { "english": "gift", "tera": "iasquemeas" },
+    { "english": "glance", "tera": "nantiorher" },
+    { "english": "relish", "tera": "causasteth" },
+    { "english": "acting", "tera": "optantemqu" },
+    { "english": "trim", "tera": "imnitidicu" },
+    { "english": "departure", "tera": "erateuboic" },
+    { "english": "emotion", "tera": "umtitanipo" },
+    { "english": "reckoning", "tera": "ultroneudu" },
+    { "english": "grade", "tera": "adeimisere" },
+    { "english": "concave", "tera": "umfiveliqu" },
+    { "english": "royalty", "tera": "causasteth" },
+    { "english": "ability", "tera": "rsesdictio" },
+    { "english": "induction", "tera": "erogaberis" },
+    { "english": "validity", "tera": "teshuncdix" },
+    { "english": "apartment", "tera": "filiasolis" },
+    { "english": "along", "tera": "ultoraquar" },
+    { "english": "fleet", "tera": "iasquemeas" },
+    { "english": "crossing", "tera": "nantiorher" },
+    { "english": "mischief", "tera": "ihisanesqu" },
+    { "english": "polished", "tera": "amandophin" },
+    { "english": "ignorant", "tera": "necmedeare" },
+    { "english": "disposal", "tera": "temqu inia" },
+    { "english": "intrigue", "tera": "optantemque" },
+    { "english": "soluble", "tera": "imnitidicum" },
+    { "english": "stripe", "tera": "erateuboicu" },
+    { "english": "squeeze", "tera": "facithocoph" },
+    { "english": "plot", "tera": "esvariarump" },
+    { "english": "patience", "tera": "lenaferarum" },
+    { "english": "chestnut", "tera": "ptatisopero" },
+    { "english": "showing", "tera": "amandophine" },
+    { "english": "rupture", "tera": "efretumgemi" },
+    { "english": "depart", "tera": "niaesiculae" },
+    { "english": "concerning", "tera": "ressequanta" },
+    { "english": "national", "tera": "garietsispe" },
+    { "english": "visionary", "tera": "vesacrosive" },
+    { "english": "reflect", "tera": "twofioqumae" },
+    { "english": "expand", "tera": "stumidarumc" },
+    { "english": "preceding", "tera": "pressumauso" },
+    { "english": "upward", "tera": "necmedearem" },
+    { "english": "slope", "tera": "tusabillisn" },
+    { "english": "harsh", "tera": "umestincarm" },
+    { "english": "gravel", "tera": "facithocoph" },
+    { "english": "wholly", "tera": "esvariarump" },
+    { "english": "valence", "tera": "lenaferarum" },
+    { "english": "windlass", "tera": "ptatisopero" },
+    { "english": "itself", "tera": "amandophine" },
+    { "english": "bold", "tera": "efretumgemi" },
+    { "english": "massive", "tera": "niaesiculae" },
+    { "english": "construction", "tera": "ressequanta" },
+    { "english": "alloy", "tera": "garietsispe" },
+    { "english": "crust", "tera": "vesacrosive" },
+    { "english": "cake", "tera": "twofioqumae" },
+    { "english": "terminate", "tera": "stumidarumc" },
+    { "english": "parasite", "tera": "pressumauso" },
+    { "english": "medical", "tera": "necmedearem" },
+    { "english": "harness", "tera": "ferosadiitc" },
+    { "english": "fountain", "tera": "quetenetcon" },
+    { "english": "consideration", "tera": "lesatqueatr" },
+    { "english": "wrongly", "tera": "notaliaverb" },
+    { "english": "vehement", "tera": "noquodlitor" },
+    { "english": "going", "tera": "vemeinonnot" },
+    { "english": "groove", "tera": "ammihicogni" },
+    { "english": "electrical", "tera": "tusabillisne" },
+    { "english": "mature", "tera": "clenadversaq" },
+    { "english": "counterfeit", "tera": "umestincarmi" },
+    { "english": "inversion", "tera": "ealiquodregn" },
+    { "english": "faint", "tera": "dtobringuppa" },
+    { "english": "drag", "tera": "ishabetaptiu" },
+    { "english": "testament", "tera": "enegocumdeas" },
+    { "english": "ruffle", "tera": "notaliaverba" },
+    { "english": "repose", "tera": "quetenetconf" },
+    { "english": "fleshy", "tera": "esqueblandit" },
+    { "english": "communicate", "tera": "ihisanesqueh" },
+    { "english": "assistant", "tera": "lesatqueatri" },
+    { "english": "virgin", "tera": "ascylamihivi" },
+    { "english": "versed", "tera": "eclickonawor" },
+    { "english": "destruction", "tera": "araptusherbi" },
+    { "english": "prick", "tera": "manumagnatyr" },
+    { "english": "verbal", "tera": "noquodlitore" },
+    { "english": "transparent", "tera": "exitdictaacc" },
+    { "english": "revolve", "tera": "navifragumqu" },
+    { "english": "combination", "tera": "usquisummuta" },
+    { "english": "fantastic", "tera": "promissaprec" },
+    { "english": "weakness", "tera": "talicomessen" },
+    { "english": "lack", "tera": "vemeinonnota" },
+    { "english": "wrinkle", "tera": "clenadversaq" },
+    { "english": "alliance", "tera": "uaefiduciafo" },
+    { "english": "antiquity", "tera": "amiunctisdeb" },
+    { "english": "serious", "tera": "ealiquodregn" },
+    { "english": "tenth", "tera": "dtobringuppa" },
+    { "english": "information", "tera": "ishabetaptiu" },
+    { "english": "retire", "tera": "enegocumdeas" },
+    { "english": "siphon", "tera": "notaliaverba" },
+    { "english": "separation", "tera": "quetenetconf" },
+    { "english": "wedge", "tera": "esqueblandit" },
+    { "english": "crest", "tera": "ihisanesqueh" },
+    { "english": "vibrate", "tera": "lesatqueatri" },
+    { "english": "conical", "tera": "ascylamihivi" },
+    { "english": "procure", "tera": "eclickonawor" },
+    { "english": "numbers", "tera": "araptusherbi" },
+    { "english": "filling", "tera": "manumagnatyr" },
+    { "english": "spur", "tera": "noquodlitore" },
+    { "english": "angles", "tera": "exitdictaacc" },
+    { "english": "greek", "tera": "navifragumqu" },
+    { "english": "substitute", "tera": "usquisummuta" },
+    { "english": "feeding", "tera": "promissaprec" },
+    { "english": "correction", "tera": "talicomessen" },
+    { "english": "splendid", "tera": "vemeinonnota" },
+    { "english": "venomous", "tera": "eclicconawor" },
+    { "english": "founder", "tera": "bitesadsitqu" },
+    { "english": "dolphin", "tera": "ntiabubusliq" },
+    { "english": "tackle", "tera": "uaefiduciafor" },
+    { "english": "dislike", "tera": "amiunctisdebe" },
+    { "english": "entangle", "tera": "partemferatil" },
+    { "english": "magnetic", "tera": "naryentriesan" },
+    { "english": "brick", "tera": "orislitoreini" },
+    { "english": "slightly", "tera": "uemoeniarhegi" },
+    { "english": "disturb", "tera": "quamsimuladsp" },
+    { "english": "gallant", "tera": "ntiabubusliqu" },
+    { "english": "deliberate", "tera": "ferosadiitcol" },
+    { "english": "canvas", "tera": "scianecquicqu" },
+    { "english": "hedge", "tera": "ammihicogniti" },
+    { "english": "indulgence", "tera": "quenilopusest" },
+    { "english": "healthy", "tera": "saestpudorest" },
+    { "english": "drain", "tera": "iamoeniacontr" },
+    { "english": "insolent", "tera": "baestuteretem" },
+    { "english": "bodily", "tera": "necarmenoremo" },
+    { "english": "wise", "tera": "solesataecirc" },
+    { "english": "conceit", "tera": "meliussequere" },
+    { "english": "telescope", "tera": "partemferatil" },
+    { "english": "daughter", "tera": "naryentriesan" },
+    { "english": "yellowish", "tera": "orislitoreini" },
+    { "english": "pursue", "tera": "uemoeniarhegi" },
+    { "english": "identical", "tera": "quamsimuladsp" },
+    { "english": "spider", "tera": "ntiabubusliqu" },
+    { "english": "falsehood", "tera": "ferosadiitcol" },
+    { "english": "resemblance", "tera": "scianecquicqu" },
+    { "english": "description", "tera": "ammihicogniti" },
+    { "english": "readily", "tera": "quenilopusest" },
+    { "english": "savage", "tera": "saestpudorest" },
+    { "english": "arbitrary", "tera": "iamoeniacontr" },
+    { "english": "academy", "tera": "baestuteretem" },
+    { "english": "politics", "tera": "necarmenoremo" },
+    { "english": "looking", "tera": "solesataecirc" },
+    { "english": "agitate", "tera": "iniaterraeinde" },
+    { "english": "thorough", "tera": "bitesadsitquet" },
+    { "english": "secretion", "tera": "rhenaperaequor" },
+    { "english": "deficient", "tera": "bitesadsitquet" },
+    { "english": "strengthen", "tera": "rhenaperaequor" },
+    { "english": "recess", "tera": "meliussequerere" },
+    { "english": "bridle", "tera": "isticsiamquegig" },
+    { "english": "splendor", "tera": "anteisiniectamf" },
+    { "english": "impose", "tera": "uiusinipsaseuve" },
+    { "english": "emblem", "tera": "isticsiamquegig" },
+    { "english": "sting", "tera": "anteisiniectamfa" },
+    { "english": "truss", "tera": "uiusinipsaseuven" },
+    { "english": "explain", "tera": "eadempariliquecu" },
+    { "english": "resist", "tera": "eadempariliquecu" },
+    { "english": "slander", "tera": "gramiiniaterraeinde" },
+    { "english": "partisan", "tera": "eclicco" },
+    { "english": "aquatic", "tera": "orhi" },
+    { "english": "fresh-water", "tera": "roeg" },
+    { "english": "disdain", "tera": "acontr" },
+    { "english": "removed", "tera": "rtlu" },
+    { "english": "literal", "tera": "mmuta" },
+    { "english": "chloride", "tera": "eocm" },
+    { "english": "throne", "tera": "veatcir" },
+    { "english": "garment", "tera": "woan" },
+    { "english": "discount", "tera": "ara" },
+    { "english": "lasting", "tera": "culae" },
+    { "english": "cease", "tera": "teshuncd" },
+    { "english": "sharpen", "tera": "stuh" },
+    { "english": "quicken", "tera": "nia" },
+    { "english": "receipt", "tera": "ucibusaet" },
+    { "english": "morally", "tera": "vqra" },
+    { "english": "habitual", "tera": "uemoeni" },
+    { "english": "ecstasy", "tera": "luat" },
+    { "english": "defense", "tera": "mea" },
+    { "english": "alone", "tera": "pusest" },
+    { "english": "heap", "tera": "hico" },
+    { "english": "edible", "tera": "causas" },
+    { "english": "beast", "tera": "temqu" },
+    { "english": "palm", "tera": "lami" },
+    { "english": "dimension", "tera": "nena" },
+    { "english": "gospel", "tera": "emi" },
+    { "english": "fluid", "tera": "tibis" },
+    { "english": "cattle", "tera": "ceneque" },
+    { "english": "suppose", "tera": "ultrone" },
+    { "english": "concord", "tera": "astä" },
+    { "english": "cream", "tera": "riliquecu" },
+    { "english": "roller", "tera": "uanta" },
+    { "english": "patent", "tera": "doph" },
+    { "english": "rubber", "tera": "usin" },
+    { "english": "patron", "tera": "istics" },
+    { "english": "brass", "tera": "epta" },
+    { "english": "appointment", "tera": "uso" },
+    { "english": "vigor", "tera": "ptusherbi" },
+    { "english": "passive", "tera": "suma" },
+    { "english": "vascular", "tera": "amuq" },
+    { "english": "fabulous", "tera": "tali" },
+    { "english": "prodigal", "tera": "aeinde" },
+    { "english": "abandon", "tera": "iect" },
+    { "english": "apprehension", "tera": "teshuncdix" },
+    { "english": "fertile", "tera": "tibi" },
+    { "english": "imagination", "tera": "usquisu" },
+    { "english": "welcome", "tera": "iectamf" },
+    { "english": "distrust", "tera": "anes" },
+    { "english": "contend", "tera": "prom" },
+    { "english": "dishonest", "tera": "rhenape" },
+    { "english": "finding", "tera": "sers" },
+    { "english": "imposing", "tera": "alutediv" },
+    { "english": "erroneous", "tera": "come" },
+    { "english": "utmost", "tera": "navi" },
+    { "english": "pertaining", "tera": "rëba" },
+    { "english": "diffuse", "tera": "cusonez" },
+    { "english": "obtained", "tera": "nota" },
+    { "english": "cushion", "tera": "i" },
+    { "english": "notion", "tera": "evaretupo" },
+    { "english": "dispatch", "tera": "asc" },
+    { "english": "cabbage", "tera": "uic" },
+    { "english": "equivocal", "tera": "onnota" },
+    { "english": "youth", "tera": "facith" },
+    { "english": "washing", "tera": "sole" },
+    { "english": "sluggish", "tera": "ecytusiv" },
+    { "english": "messenger", "tera": "vesacro" },
+    { "english": "maturity", "tera": "vuln" },
+    { "english": "infamous", "tera": "eare" },
+    { "english": "shorten", "tera": "cir" },
+    { "english": "dexterous", "tera": "causafur" },
+    { "english": "apparel", "tera": "ucib" },
+    { "english": "mourning", "tera": "sullatal" },
+    { "english": "crooked", "tera": "itque" },
+    { "english": "rigorous", "tera": "atri" },
+    { "english": "rush", "tera": "itco" },
+    { "english": "stubborn", "tera": "ttap" },
+    { "english": "dependence", "tera": "ian" },
+    { "english": "disturbance", "tera": "ïhïm" },
+    { "english": "trench", "tera": "gariet" },
+    { "english": "till", "tera": "filia" },
+    { "english": "radiate", "tera": "dood" },
+    { "english": "sailing", "tera": "mauso" },
+    { "english": "infusion", "tera": "necumta" },
+    { "english": "solemnity", "tera": "etup" },
+    { "english": "fret", "tera": "evar" },
+    { "english": "highly", "tera": "seu" },
+    { "english": "charter", "tera": "enegocu" },
+    { "english": "gloomy", "tera": "au" },
+    { "english": "scraping", "tera": "itqu" },
+    { "english": "nitrogen", "tera": "ediv" },
+    { "english": "tide", "tera": "esba" },
+    { "english": "linen", "tera": "baestut" },
+    { "english": "residue", "tera": "apsa" },
+    { "english": "bending", "tera": "emutq" },
+    { "english": "spar", "tera": "ntia" },
+    { "english": "imaginary", "tera": "ïmam" },
+    { "english": "flying", "tera": "facithoc" },
+    { "english": "accept", "tera": "erba" },
+    { "english": "bloom", "tera": "xi" },
+    { "english": "driver", "tera": "npto" },
+    { "english": "file", "tera": "erepreco" },
+    { "english": "foliage", "tera": "ppa" },
+    { "english": "eminence", "tera": "qu" },
+    { "english": "conquer", "tera": "sres" },
+    { "english": "translate", "tera": "adeimiser" },
+    { "english": "sect", "tera": "uncd" },
+    { "english": "allied", "tera": "rfre" },
+    { "english": "melancholy", "tera": "al" },
+    { "english": "breadth", "tera": "vemein" },
+    { "english": "flatter", "tera": "otci" },
+    { "english": "venereal", "tera": "usliq" },
+    { "english": "abdomen", "tera": "ucne" },
+    { "english": "monument", "tera": "iorh" },
+    { "english": "deduction", "tera": "stu" },
+    { "english": "inflame", "tera": "arhegi" },
+    { "english": "flush", "tera": "rati" },
+    { "english": "disgust", "tera": "isin" },
+    { "english": "fragment", "tera": "optan" },
+    { "english": "inspire", "tera": "otlu" },
+    { "english": "neutral", "tera": "tute" },
+    { "english": "piercing", "tera": "amiuncti" },
+    { "english": "knowing", "tera": "rhenap" },
+    { "english": "stump", "tera": "atmu" },
+    { "english": "cement", "tera": "eroc" },
+    { "english": "enforce", "tera": "ïno" },
+    { "english": "medicinal", "tera": "necmed" },
+    { "english": "adverse", "tera": "adeimisere" },
+    { "english": "oriental", "tera": "arump" },
+    { "english": "embarrass", "tera": "tque" },
+    { "english": "club", "tera": "ctio" },
+    { "english": "soften", "tera": "pta" },
+    { "english": "obstinate", "tera": "midarumc" },
+    { "english": "offspring", "tera": "boeu" },
+    { "english": "enamel", "tera": "olis" },
+    { "english": "practical", "tera": "mquet" },
+    { "english": "examination", "tera": "mna" },
+    { "english": "beard", "tera": "rsio" },
+    { "english": "publish", "tera": "zer" },
+    { "english": "shift", "tera": "ues" },
+    { "english": "stall", "tera": "t" },
+    { "english": "sterile", "tera": "nrma" },
+    { "english": "noxious", "tera": "étrin" },
+    { "english": "sweeten", "tera": "erz" },
+    { "english": "obsolete", "tera": "oata" },
+    { "english": "recital", "tera": "moiä" },
+    { "english": "scholar", "tera": "euon" },
+    { "english": "theology", "tera": "lesatqu" },
+    { "english": "distillation", "tera": "quenilo" },
+    { "english": "disk", "tera": "eclick" },
+    { "english": "assumed", "tera": "aquidu" },
+    { "english": "rack", "tera": "aferarum" },
+    { "english": "animate", "tera": "iniaterra" },
+    { "english": "christ", "tera": "iafo" },
+    { "english": "paradise", "tera": "ibusin" },
+    { "english": "jurisdiction", "tera": "aulg" },
+    { "english": "shrink", "tera": "umfiveliqu" },
+    { "english": "touching", "tera": "les" },
+    { "english": "recompense", "tera": "ecir" },
+    { "english": "alarm", "tera": "len" },
+    { "english": "conquest", "tera": "equa" },
+    { "english": "arms", "tera": "eatri" },
+    { "english": "perch", "tera": "boicu" },
+    { "english": "politic", "tera": "ion" },
+    { "english": "paddle", "tera": "io" },
+    { "english": "intestine", "tera": "dou" },
+    { "english": "repetition", "tera": "orisli" },
+    { "english": "abusive", "tera": "enet" },
+    { "english": "spear", "tera": "bubu" },
+    { "english": "honorary", "tera": "uemo" },
+    { "english": "relating", "tera": "uats" },
+    { "english": "reed", "tera": "nantior" },
+    { "english": "disorderly", "tera": "quar" },
+    { "english": "immediately", "tera": "necarme" },
+    { "english": "produced", "tera": "busherb" },
+    { "english": "prudent", "tera": "tcdï" },
+    { "english": "dividing", "tera": "qui" },
+    { "english": "caution", "tera": "quamsi" },
+    { "english": "litter", "tera": "anteisin" },
+    { "english": "fixed", "tera": "iatr" },
+    { "english": "useless", "tera": "esvari" },
+    { "english": "defective", "tera": "cap" },
+    { "english": "injurious", "tera": "rher" },
+    { "english": "wretched", "tera": "rrtea" },
+    { "english": "funeral", "tera": "emuo" },
+    { "english": "enjoyment", "tera": "ine" },
+    { "english": "access", "tera": "tcie" },
+    { "english": "defect", "tera": "ves" },
+    { "english": "procession", "tera": "armi" },
+    { "english": "accurate", "tera": "scia" },
+    { "english": "lessen", "tera": "llib" },
+    { "english": "explosive", "tera": "sitherbar" },
+    { "english": "cheerful", "tera": "igg" },
+    { "english": "embryo", "tera": "lis" },
+    { "english": "fellowship", "tera": "enimflam" },
+    { "english": "rotation", "tera": "riliqu" },
+    { "english": "secretary", "tera": "hïsi" },
+    { "english": "wisdom", "tera": "iqu" },
+    { "english": "temperate", "tera": "vei" },
+    { "english": "instruction", "tera": "dorest" },
+    { "english": "transient", "tera": "apti" },
+    { "english": "resolute", "tera": "ptat" },
+    { "english": "solicit", "tera": "dfre" },
+    { "english": "weaken", "tera": "imni" },
+    { "english": "tarnish", "tera": "stumid" },
+    { "english": "abortive", "tera": "lori" },
+    { "english": "mounted", "tera": "emsu" },
+    { "english": "straw", "tera": "nullion" },
+    { "english": "learned", "tera": "iamqueg" },
+    { "english": "commander", "tera": "usqu" },
+    { "english": "strive", "tera": "sarátriné" },
+    { "english": "doubling", "tera": "cudi" },
+    { "english": "chlorine", "tera": "ge" },
+    { "english": "butter", "tera": "reda" },
+    { "english": "dangerous", "tera": "part" },
+    { "english": "catching", "tera": "nantio" },
+    { "english": "infant", "tera": "shbu" },
+    { "english": "greenish", "tera": "aliaverba" },
+    { "english": "abundant", "tera": "usiu" },
+    { "english": "sulphuric", "tera": "rdae" },
+    { "english": "explanation", "tera": "euss" },
+    { "english": "nearly", "tera": "uaef" },
+    { "english": "vexation", "tera": "ersp" },
+    { "english": "perfection", "tera": "eth" },
+    { "english": "farther", "tera": "tisdebe" },
+    { "english": "administer", "tera": "veat" },
+    { "english": "spoil", "tera": "osu" },
+    { "english": "junction", "tera": "vree" },
+    { "english": "mast", "tera": "itis" },
+    { "english": "eclipse", "tera": "naryen" },
+    { "english": "rake", "tera": "dsas" },
+    { "english": "suborder", "tera": "olcp" },
+    { "english": "prolific", "tera": "raequor" },
+    { "english": "forbear", "tera": "nesa" },
+    { "english": "tribunal", "tera": "quäro" },
+    { "english": "irritation", "tera": "atyr" },
+    { "english": "boom", "tera": "ododign" },
+    { "english": "divination", "tera": "twof" },
+    { "english": "vacant", "tera": "andit" },
+    { "english": "sinister", "tera": "fenr" },
+    { "english": "inspired", "tera": "iead" },
+    { "english": "sensibility", "tera": "ultora" },
+    { "english": "exist", "tera": "bitesads" },
+    { "english": "stated", "tera": "nium" },
+    { "english": "intercourse", "tera": "etza" },
+    { "english": "gland", "tera": "eretem" },
+    { "english": "calm", "tera": "o" },
+    { "english": "perverse", "tera": "orem" },
+    { "english": "modest", "tera": "etr" },
+    { "english": "legitimate", "tera": "causasteth" },
+    { "english": "ardent", "tera": "tentian" },
+    { "english": "manifold", "tera": "erat" },
+    { "english": "league", "tera": "taquever" },
+    { "english": "blunt", "tera": "ruoq" },
+    { "english": "frequently", "tera": "cue" },
+    { "english": "framework", "tera": "querere" },
+    { "english": "worse", "tera": "grin" },
+    { "english": "stitch", "tera": "iniaterr" },
+    { "english": "equally", "tera": "tano" },
+    { "english": "shrill", "tera": "hine" },
+    { "english": "larva", "tera": "esmi" },
+    { "english": "inflammation", "tera": "aecirc" },
+    { "english": "bundle", "tera": "emfe" },
+    { "english": "immature", "tera": "tanä" },
+    { "english": "pepper", "tera": "cogni" },
+    { "english": "called", "tera": "am" },
+    { "english": "frontal", "tera": "esta" },
+    { "english": "date", "tera": "ume" },
+    { "english": "condemn", "tera": "amquegig" },
+    { "english": "nasal", "tera": "dict" },
+    { "english": "willing", "tera": "ssumauso" },
+    { "english": "disciple", "tera": "baes" },
+    { "english": "wine", "tera": "zan" },
+    { "english": "expense", "tera": "ting" },
+    { "english": "marshal", "tera": "idar" },
+    { "english": "cowardly", "tera": "rsqa" },
+    { "english": "riddle", "tera": "tbe" },
+    { "english": "smart", "tera": "eps" },
+    { "english": "contrivance", "tera": "amus" },
+    { "english": "shank", "tera": "amfa" },
+    { "english": "cutter", "tera": "edmd" },
+    { "english": "hasty", "tera": "hivi" },
+    { "english": "gauge", "tera": "iasque" },
+    { "english": "merit", "tera": "nimi" },
+    { "english": "sheep", "tera": "enec" },
+    { "english": "trail", "tera": "ptatiso" },
+    { "english": "trimming", "tera": "dtobrin" },
+    { "english": "marking", "tera": "amt" },
+    { "english": "precipitate", "tera": "use" },
+    { "english": "interpret", "tera": "eal" },
+    { "english": "depressed", "tera": "igni" },
+    { "english": "regiment", "tera": "doqu" },
+    { "english": "decoration", "tera": "efr" },
+    { "english": "abroad", "tera": "tconf" },
+    { "english": "specious", "tera": "csia" },
+    { "english": "subtile", "tera": "dtobringu" },
+    { "english": "cipher", "tera": "ïlos" },
+    { "english": "combat", "tera": "amando" },
+    { "english": "arsenic", "tera": "ciafor" },
+    { "english": "tough", "tera": "filiaso" },
+    { "english": "sentinel", "tera": "esqu" },
+    { "english": "adequate", "tera": "iarhegi" },
+    { "english": "spare", "tera": "ibusinge" },
+    { "english": "digestion", "tera": "marg" },
+    { "english": "wealth", "tera": "ecytusi" },
+    { "english": "manual", "tera": "emque" },
+    { "english": "eternal", "tera": "imnitidicu" },
+    { "english": "believer", "tera": "abillisne" },
+    { "english": "compress", "tera": "ipo" },
+    { "english": "refine", "tera": "aecq" },
+    { "english": "fidelity", "tera": "bitesa" },
+    { "english": "armed", "tera": "iarr" },
+    { "english": "valve", "tera": "terraei" },
+    { "english": "sullen", "tera": "mlai" },
+    { "english": "conformity", "tera": "opusest" },
+    { "english": "lifeless", "tera": "icu" },
+    { "english": "prosecute", "tera": "vem" },
+    { "english": "panel", "tera": "umtantu" },
+    { "english": "defile", "tera": "ti" },
+    { "english": "grating", "tera": "qumae" },
+    { "english": "transverse", "tera": "tmen" },
+    { "english": "tumult", "tera": "gram" },
+    { "english": "malicious", "tera": "tibisit" },
+    { "english": "flowering", "tera": "usdu" },
+    { "english": "fitting", "tera": "nary" },
+    { "english": "slate", "tera": "itore" },
+    { "english": "sweeping", "tera": "nuam" },
+    { "english": "hydrous", "tera": "ltro" },
+    { "english": "angry", "tera": "vief" },
+    { "english": "resort", "tera": "sciane" },
+    { "english": "locality", "tera": "matum" },
+    { "english": "closely", "tera": "bite" },
+    { "english": "comb", "tera": "or" },
+    { "english": "reversed", "tera": "sata" },
+    { "english": "heating", "tera": "udorest" },
+    { "english": "grammar", "tera": "tmus" },
+    { "english": "vault", "tera": "tesh" },
+    { "english": "diagonal", "tera": "quamsim" },
+    { "english": "couple", "tera": "te" },
+    { "english": "engraved", "tera": "prec" },
+    { "english": "bloody", "tera": "nullio" },
+    { "english": "university", "tera": "umc" },
+    { "english": "portable", "tera": "esquebl" },
+    { "english": "thorax", "tera": "itar" },
+    { "english": "juice", "tera": "qusu" },
+    { "english": "spotted", "tera": "gar" },
+    { "english": "exclude", "tera": "erep" },
+    { "english": "abnormal", "tera": "meli" },
+    { "english": "attain", "tera": "tamthre" },
+    { "english": "logical", "tera": "guppa" },
+    { "english": "fruitful", "tera": "etwo" },
+    { "english": "removal", "tera": "pára" },
+    { "english": "doing", "tera": "diuq" },
+    { "english": "mournful", "tera": "quicqu" },
+    { "english": "monstrous", "tera": "ebde" },
+    { "english": "elaborate", "tera": "eris" },
+    { "english": "canon", "tera": "nenarv" },
+    { "english": "endless", "tera": "iacontr" },
+    { "english": "seventh", "tera": "ohïc" },
+    { "english": "defensive", "tera": "osadiitc" },
+    { "english": "orchestra", "tera": "pois" },
+    { "english": "simplicity", "tera": "quid" },
+    { "english": "transform", "tera": "soli" },
+    { "english": "confound", "tera": "ngi" },
+    { "english": "pool", "tera": "quidrastr" },
+    { "english": "violate", "tera": "baestu" },
+    { "english": "vesicle", "tera": "nadversaq" },
+    { "english": "precise", "tera": "pres" },
+    { "english": "scientific", "tera": "ecu" },
+    { "english": "creation", "tera": "pidine" },
+    { "english": "inward", "tera": "octh" },
+    { "english": "masonry", "tera": "saseuve" },
+    { "english": "belly", "tera": "niectamf" },
+    { "english": "adversary", "tera": "lascy" },
+    { "english": "gripe", "tera": "cuqi" },
+    { "english": "egyptian", "tera": "eratil" },
+    { "english": "delegate", "tera": "lacaloris" },
+    { "english": "variance", "tera": "gramiinia" },
+    { "english": "corolla", "tera": "inip" },
+    { "english": "alienate", "tera": "pote" },
+    { "english": "accessory", "tera": "ht" },
+    { "english": "inner", "tera": "nier" },
+    { "english": "temperament", "tera": "partemf" },
+    { "english": "sore", "tera": "afma" },
+    { "english": "constrain", "tera": "ishabet" },
+    { "english": "exempt", "tera": "irec" },
+    { "english": "recovery", "tera": "veatci" },
+    { "english": "complaint", "tera": "isti" },
+    { "english": "melting", "tera": "bare" },
+    { "english": "dialect", "tera": "ammihi" },
+    { "english": "shrub", "tera": "nantiorher" },
+    { "english": "prison", "tera": "odli" },
+    { "english": "deserving", "tera": "faci" },
+    { "english": "rightful", "tera": "stumida" },
+    { "english": "excursion", "tera": "mteer" },
+    { "english": "entreaty", "tera": "phine" },
+    { "english": "refined", "tera": "dnie" },
+    { "english": "debt", "tera": "man" },
+    { "english": "denial", "tera": "tenetconf" },
+    { "english": "oily", "tera": "umestincarm" },
+    { "english": "avoid", "tera": "dto" },
+    { "english": "inverted", "tera": "dear" },
+    { "english": "proverb", "tera": "tcir" },
+    { "english": "metameric", "tera": "ubbu" },
+    { "english": "cleavage", "tera": "temqu" },
+    { "english": "chimney", "tera": "tus" },
+    { "english": "metrical", "tera": "tusabillisn" },
+    { "english": "twitch", "tera": "onaw" },
+    { "english": "improvement", "tera": "caus" },
+    { "english": "arrogant", "tera": "dsitquet" },
+    { "english": "universe", "tera": "iesa" },
+    { "english": "peduncle", "tera": "uiusinip" },
+    { "english": "abatement", "tera": "sicu" },
+    { "english": "canal", "tera": "stincarmi" },
+    { "english": "multitude", "tera": "rii" },
+    { "english": "resident", "tera": "rumc" },
+    { "english": "safety", "tera": "osive" },
+    { "english": "derision", "tera": "triesan" },
+    { "english": "sweat", "tera": "amiunc" },
+    { "english": "rider", "tera": "faio" },
+    { "english": "reckon", "tera": "quet" },
+    { "english": "dread", "tera": "earem" },
+    { "english": "superficial", "tera": "aste" },
+    { "english": "tend", "tera": "causafu" },
+    { "english": "player", "tera": "sará" },
+    { "english": "mortal", "tera": "etsi" },
+    { "english": "president", "tera": "sadi" },
+    { "english": "barbarous", "tera": "einde" },
+    { "english": "devise", "tera": "ndie" },
+    { "english": "genuine", "tera": "ene" },
+    { "english": "surrounding", "tera": "nde" },
+    { "english": "imitate", "tera": "gocumdeas" },
+    { "english": "convenient", "tera": "rbae" },
+    { "english": "revolving", "tera": "el" },
+    { "english": "hardened", "tera": "l" },
+    { "english": "bruise", "tera": "ihivi" },
+    { "english": "conform", "tera": "conf" },
+    { "english": "tribute", "tera": "n" },
+    { "english": "contention", "tera": "isum" },
+    { "english": "steal", "tera": "sisp" },
+    { "english": "honest", "tera": "le" },
+    { "english": "nest", "tera": "sanesqueh" },
+    { "english": "harmonize", "tera": "opero" },
+    { "english": "disable", "tera": "acla" },
+    { "english": "creep", "tera": "snia" },
+    { "english": "mortar", "tera": "cene" },
+    { "english": "consistency", "tera": "muta" },
+    { "english": "verge", "tera": "ïdcï" },
+    { "english": "disquiet", "tera": "ucibus" },
+    { "english": "vanity", "tera": "imar" },
+    { "english": "defiance", "tera": "iniate" },
+    { "english": "strait", "tera": "emp" },
+    { "english": "rouse", "tera": "rr" },
+    { "english": "fringe", "tera": "oneu" },
+    { "english": "mate", "tera": "inia" },
+    { "english": "bass", "tera": "ïane" },
+    { "english": "flounder", "tera": "veme" },
+    { "english": "compensation", "tera": "ebla" },
+    { "english": "quickly", "tera": "tentia" },
+    { "english": "bull", "tera": "ncel" },
+    { "english": "prisoner", "tera": "diitcol" },
+    { "english": "resembling", "tera": "q" },
+    { "english": "pardon", "tera": "dusu" },
+    { "english": "crustacea", "tera": "ntiabub" },
+    { "english": "starch", "tera": "pre" },
+    { "english": "heavily", "tera": "ter" },
+    { "english": "platinum", "tera": "bill" },
+    { "english": "bush", "tera": "lsoa" },
+    { "english": "decided", "tera": "niectamfa" },
+    { "english": "cock", "tera": "ilop" },
+    { "english": "omission", "tera": "natyr" },
+    { "english": "surety", "tera": "obtd" },
+    { "english": "accidental", "tera": "osuc" },
+    { "english": "clumsy", "tera": "dregn" },
+    { "english": "punish", "tera": "ante" },
+    { "english": "contents", "tera": "quor" },
+    { "english": "british", "tera": "imnitidi" },
+    { "english": "exposition", "tera": "ïvan" },
+    { "english": "gigantic", "tera": "apt" },
+    { "english": "warranty", "tera": "thoc" },
+    { "english": "fiction", "tera": "nenarvaqu" },
+    { "english": "collision", "tera": "mgemi" },
+    { "english": "plank", "tera": "nuse" },
+    { "english": "attorney", "tera": "tnna" },
+    { "english": "radiated", "tera": "ferosad" },
+    { "english": "encircle", "tera": "fenref" },
+    { "english": "antelope", "tera": "umagnatyr" },
+    { "english": "scotch", "tera": "llus" },
+    { "english": "accomplish", "tera": "enia" },
+    { "english": "emit", "tera": "umtantuqu" },
+    { "english": "hesitate", "tera": "umti" },
+    { "english": "pedestal", "tera": "gumqu" },
+    { "english": "pearl", "tera": "liqu" },
+    { "english": "bandage", "tera": "fenrefort" },
+    { "english": "fatigue", "tera": "laca" },
+    { "english": "submission", "tera": "ibus" },
+    { "english": "partake", "tera": "eraequor" },
+    { "english": "rapidity", "tera": "necq" },
+    { "english": "worldly", "tera": "issa" },
+    { "english": "incense", "tera": "nant" },
+    { "english": "attached", "tera": "ultoraquar" },
+    { "english": "probably", "tera": "umsi" },
+    { "english": "engrave", "tera": "ultoraq" },
+    { "english": "distribution", "tera": "contem" },
+    { "english": "inform", "tera": "equ" },
+    { "english": "impart", "tera": "aeln" },
+    { "english": "mail", "tera": "et" },
+    { "english": "swift", "tera": "rte" },
+    { "english": "premium", "tera": "teth" },
+    { "english": "narcotic", "tera": "etwoze" },
+    { "english": "trifle", "tera": "essen" },
+    { "english": "unfold", "tera": "seav" },
+    { "english": "glucoside", "tera": "sclay" },
+    { "english": "kernel", "tera": "mtep" },
+    { "english": "reconcile", "tera": "quenil" },
+    { "english": "profuse", "tera": "mae" },
+    { "english": "plastic", "tera": "gëen" },
+    { "english": "defendant", "tera": "necumtan" },
+    { "english": "cavity", "tera": "cogniti" },
+    { "english": "silicate", "tera": "ealiquo" },
+    { "english": "inhabit", "tera": "tpaï" },
+    { "english": "continuance", "tera": "rci" },
+    { "english": "crude", "tera": "uar" },
+    { "english": "charcoal", "tera": "erto" },
+    { "english": "india", "tera": "iean" },
+    { "english": "destructive", "tera": "er" },
+    { "english": "ether", "tera": "rasu" },
+    { "english": "adhere", "tera": "itvi" },
+    { "english": "ditch", "tera": "ma" },
+    { "english": "estimation", "tera": "p" },
+    { "english": "chinese", "tera": "amiunct" },
+    { "english": "solvent", "tera": "rdce" },
+    { "english": "persuasion", "tera": "asue" },
+    { "english": "oxidation", "tera": "iauq" },
+    { "english": "entertainment", "tera": "ssen" },
+    { "english": "detail", "tera": "llnu" },
+    { "english": "disunite", "tera": "apea" },
+    { "english": "reliance", "tera": "lenafe" },
+    { "english": "urge", "tera": "ort" },
+    { "english": "mixed", "tera": "viït" },
+    { "english": "immortal", "tera": "icio" },
+    { "english": "beverage", "tera": "vedi" },
+    { "english": "weigh", "tera": "tat" },
+    { "english": "constitute", "tera": "mihicr" },
+    { "english": "tack", "tera": "aliaverb" },
+    { "english": "intermediate", "tera": "ocoph" },
+    { "english": "sale", "tera": "ersaq" },
+    { "english": "vent", "tera": "taqu" },
+    { "english": "publication", "tera": "itvide" },
+    { "english": "coating", "tera": "volentem" },
+    { "english": "audience", "tera": "eubo" },
+    { "english": "particularly", "tera": "atrï" },
+    { "english": "compel", "tera": "inge" },
+    { "english": "augment", "tera": "emec" },
+    { "english": "laying", "tera": "quidras" },
+    { "english": "interfere", "tera": "causast" },
+    { "english": "index", "tera": "sdebe" },
+    { "english": "garland", "tera": "two" },
+    { "english": "entry", "tera": "rmoe" },
+    { "english": "rectitude", "tera": "sitqu" },
+    { "english": "discord", "tera": "umea" },
+    { "english": "deformity", "tera": "ascerte" },
+    { "english": "dullness", "tera": "niae" },
+    { "english": "exactly", "tera": "redf" },
+    { "english": "farthest", "tera": "arumc" },
+    { "english": "tubular", "tera": "ptatis" },
+    { "english": "infernal", "tera": "iliq" },
+    { "english": "regarded", "tera": "gutm" },
+    { "english": "narrowly", "tera": "atqueatr" },
+    { "english": "toll", "tera": "evme" },
+    { "english": "kindred", "tera": "einonnot" },
+    { "english": "sensual", "tera": "noquodl" },
+    { "english": "railway", "tera": "otwe" },
+    { "english": "efficacy", "tera": "ntam" },
+    { "english": "uniformity", "tera": "vemeino" },
+    { "english": "remainder", "tera": "alutedi" },
+    { "english": "employed", "tera": "nta" },
+    { "english": "integrity", "tera": "adei" },
+    { "english": "operculum", "tera": "rastr" },
+    { "english": "conscience", "tera": "gari" },
+    { "english": "incision", "tera": "tïdc" },
+    { "english": "stout", "tera": "ditii" },
+    { "english": "devote", "tera": "rsesdi" },
+    { "english": "dragon", "tera": "rmen" },
+    { "english": "divest", "tera": "pidinecap" },
+    { "english": "exclamation", "tera": "exitdic" },
+    { "english": "indented", "tera": "isha" },
+    { "english": "enlargement", "tera": "esva" },
+    { "english": "orthodox", "tera": "mise" },
+    { "english": "conductor", "tera": "nict" },
+    { "english": "frustrate", "tera": "isop" },
+    { "english": "dialogue", "tera": "esq" },
+    { "english": "mollusca", "tera": "uicq" },
+    { "english": "curtain", "tera": "ihi" },
+    { "english": "poetical", "tera": "uiusini" },
+    { "english": "infectious", "tera": "tepa" },
+    { "english": "bare", "tera": "rsaq" },
+    { "english": "rabble", "tera": "essa" },
+    { "english": "crab", "tera": "sive" },
+    { "english": "watery", "tera": "ressequ" },
+    { "english": "income", "tera": "tusa" },
+    { "english": "feeble", "tera": "iasq" },
+    { "english": "lease", "tera": "ctis" },
+    { "english": "enormous", "tera": "eslo" },
+    { "english": "volcanic", "tera": "mu" },
+    { "english": "humanity", "tera": "lacalo" },
+    { "english": "perplex", "tera": "intä" },
+    { "english": "requital", "tera": "notalia" },
+    { "english": "plaintiff", "tera": "sith" },
+    { "english": "revenue", "tera": "sequanta" },
+    { "english": "wagon", "tera": "fonc" },
+    { "english": "susceptible", "tera": "ezer" },
+    { "english": "sanskrit", "tera": "frag" },
+    { "english": "noisy", "tera": "ar" },
+    { "english": "speculation", "tera": "otwf" },
+    { "english": "suture", "tera": "mdederi" },
+    { "english": "contrive", "tera": "efor" },
+    { "english": "cant", "tera": "eabr" },
+    { "english": "olive", "tera": "ae" },
+    { "english": "finished", "tera": "iquodregn" },
+    { "english": "forge", "tera": "nehr" },
+    { "english": "dexterity", "tera": "iamo" },
+    { "english": "showy", "tera": "ere" },
+    { "english": "indifferent", "tera": "asëc" },
+    { "english": "pervert", "tera": "s" },
+    { "english": "tasteless", "tera": "asce" },
+    { "english": "discussion", "tera": "flam" },
+    { "english": "slacken", "tera": "fer" },
+    { "english": "deposition", "tera": "aqui" },
+    { "english": "manufacture", "tera": "cund" },
+    { "english": "deity", "tera": "solesat" },
+    { "english": "blemish", "tera": "ntea" },
+    { "english": "strained", "tera": "ix" },
+    { "english": "writ", "tera": "ael" },
+    { "english": "criticism", "tera": "ultr" },
+    { "english": "affair", "tera": "dipni" },
+    { "english": "scattered", "tera": "eptaq" },
+    { "english": "inference", "tera": "quen" },
+    { "english": "alkaline", "tera": "tam" },
+    { "english": "mostly", "tera": "niumseu" },
+    { "english": "cardinal", "tera": "pressum" },
+    { "english": "slice", "tera": "ud" },
+    { "english": "crank", "tera": "meas" },
+    { "english": "keen", "tera": "uladsp" },
+    { "english": "essay", "tera": "tiex" },
+    { "english": "retain", "tera": "erateuboic" },
+    { "english": "abundance", "tera": "phin" },
+    { "english": "periodical", "tera": "um" },
+    { "english": "pillar", "tera": "erogab" },
+    { "english": "retort", "tera": "teretem" },
+    { "english": "purify", "tera": "retem" },
+    { "english": "goodness", "tera": "tenetcon" },
+    { "english": "hind", "tera": "anta" },
+    { "english": "refusal", "tera": "cyte" },
+    { "english": "conspicuous", "tera": "etconf" },
+    { "english": "widely", "tera": "erateubo" },
+    { "english": "deadly", "tera": "oatagl" },
+    { "english": "objection", "tera": "sarátr" },
+    { "english": "partly", "tera": "roil" },
+    { "english": "rapacious", "tera": "euq" },
+    { "english": "sauce", "tera": "ebra" },
+    { "english": "spin", "tera": "grami" },
+    { "english": "subjected", "tera": "aqu" },
+    { "english": "stuffing", "tera": "vsui" },
+    { "english": "recoil", "tera": "uero" },
+    { "english": "pine", "tera": "eptaques" },
+    { "english": "conclude", "tera": "feratil" },
+    { "english": "falling", "tera": "etib" },
+    { "english": "tonic", "tera": "abetaptiu" },
+    { "english": "legislative", "tera": "esvariarump" },
+    { "english": "formality", "tera": "pace" },
+    { "english": "expectation", "tera": "arap" },
+    { "english": "staple", "tera": "ress" },
+    { "english": "revive", "tera": "efiveq" },
+    { "english": "globular", "tera": "saestp" },
+    { "english": "unnatural", "tera": "stic" },
+    { "english": "escutcheon", "tera": "mded" },
+    { "english": "alcoholic", "tera": "esin" },
+    { "english": "monthly", "tera": "orislito" },
+    { "english": "recite", "tera": "sapa" },
+    { "english": "brood", "tera": "aet" },
+    { "english": "astringent", "tera": "sede" },
+    { "english": "fineness", "tera": "ncystat" },
+    { "english": "arranged", "tera": "erog" },
+    { "english": "seam", "tera": "lïfia" },
+    { "english": "tumble", "tera": "busliqu" },
+    { "english": "branches", "tera": "udu" },
+    { "english": "fastening", "tera": "evsa" },
+    { "english": "assent", "tera": "rnam" },
+    { "english": "proud", "tera": "ro" },
+    { "english": "bosom", "tera": "aquidusu" },
+    { "english": "artful", "tera": "qeum" },
+    { "english": "eminent", "tera": "pteu" },
+    { "english": "diminution", "tera": "ammi" },
+    { "english": "unity", "tera": "sitherba" },
+    { "english": "headlong", "tera": "medearem" },
+    { "english": "cautious", "tera": "efivequ" },
+    { "english": "mistaken", "tera": "ant" },
+    { "english": "derive", "tera": "topë" },
+    { "english": "homology", "tera": "gig" },
+    { "english": "inflict", "tera": "iamoeni" },
+    { "english": "sulphide", "tera": "trap" },
+    { "english": "humility", "tera": "rses" },
+    { "english": "pouch", "tera": "uemoen" },
+    { "english": "neat", "tera": "esiculae" },
+    { "english": "prohibit", "tera": "usae" },
+    { "english": "grind", "tera": "uppa" },
+    { "english": "pavement", "tera": "saev" },
+    { "english": "pluck", "tera": "ulae" },
+    { "english": "kindly", "tera": "ecl" },
+    { "english": "monarch", "tera": "rarum" },
+    { "english": "tumor", "tera": "ring" },
+    { "english": "mingle", "tera": "vesa" },
+    { "english": "turbulent", "tera": "lve" },
+    { "english": "predicate", "tera": "vulne" },
+    { "english": "however", "tera": "shtë" },
+    { "english": "watchful", "tera": "tshi" },
+    { "english": "painted", "tera": "ickonawor" },
+    { "english": "ordnance", "tera": "amm" },
+    { "english": "chatter", "tera": "ema" },
+    { "english": "sediment", "tera": "optantem" },
+    { "english": "cognizance", "tera": "triné" },
+    { "english": "literally", "tera": "rmpa" },
+    { "english": "derivation", "tera": "vhiï" },
+    { "english": "abrupt", "tera": "imniti" },
+    { "english": "subtle", "tera": "ndophine" },
+    { "english": "craft", "tera": "nemr" },
+    { "english": "fool", "tera": "verba" },
+    { "english": "bestow", "tera": "usic" },
+    { "english": "spleen", "tera": "atoa" },
+    { "english": "facing", "tera": "sapate" },
+    { "english": "keel", "tera": "sispe" },
+    { "english": "vibration", "tera": "eni" },
+    { "english": "valued", "tera": "bïuc" },
+    { "english": "harangue", "tera": "usindicio" },
+    { "english": "frank", "tera": "ireb" },
+    { "english": "rust", "tera": "bitesad" },
+    { "english": "coach", "tera": "lae" },
+    { "english": "wreck", "tera": "psaseuve" },
+    { "english": "earthy", "tera": "erht" },
+    { "english": "authentic", "tera": "ciafo" },
+    { "english": "palliate", "tera": "notaliav" },
+    { "english": "oxide", "tera": "rein" },
+    { "english": "working", "tera": "esns" },
+    { "english": "pacific", "tera": "ultroneudu" },
+    { "english": "aversion", "tera": "ihis" },
+    { "english": "pyroxene", "tera": "atqueatri" },
+    { "english": "grains", "tera": "liav" },
+    { "english": "spanish", "tera": "null" },
+    { "english": "heave", "tera": "manumag" },
+    { "english": "chorus", "tera": "etumgemi" },
+    { "english": "magnesia", "tera": "herbi" },
+    { "english": "tenor", "tera": "c" },
+    { "english": "productive", "tera": "noremo" },
+    { "english": "mitigate", "tera": "ododignio" },
+    { "english": "denoting", "tera": "sumï" },
+    { "english": "gall", "tera": "dtob" },
+    { "english": "carbonate", "tera": "res" },
+    { "english": "inclosed", "tera": "cifca" },
+    { "english": "bulk", "tera": "cdix" },
+    { "english": "taint", "tera": "veda" },
+    { "english": "pillage", "tera": "promiss" },
+    { "english": "healing", "tera": "tare" },
+    { "english": "effective", "tera": "tcirc" },
+    { "english": "foil", "tera": "tio" },
+    { "english": "pressing", "tera": "eefm" },
+    { "english": "unctuous", "tera": "vesacr" },
+    { "english": "nitrogenous", "tera": "rum" },
+    { "english": "calcium", "tera": "itla" },
+    { "english": "hydrocarbon", "tera": "lads" },
+    { "english": "suggestion", "tera": "tequ" },
+    { "english": "integral", "tera": "ulvn" },
+    { "english": "extended", "tera": "suse" },
+    { "english": "unlucky", "tera": "trol" },
+    { "english": "stir", "tera": "aptiu" },
+    { "english": "spirited", "tera": "eind" },
+    { "english": "convent", "tera": "pudo" },
+    { "english": "statue", "tera": "f" },
+    { "english": "ligament", "tera": "squeh" },
+    { "english": "reflected", "tera": "pero" },
+    { "english": "existing", "tera": "ecap" },
+    { "english": "noted", "tera": "efiv" },
+    { "english": "ecliptic", "tera": "clop" },
+    { "english": "equitable", "tera": "mïun" },
+    { "english": "anxious", "tera": "vel" },
+    { "english": "neither", "tera": "muoc" },
+    { "english": "farewell", "tera": "ihicogni" },
+    { "english": "bail", "tera": "ïani" },
+    { "english": "flute", "tera": "mihicred" },
+    { "english": "facility", "tera": "iduc" },
+    { "english": "italian", "tera": "taacc" },
+    { "english": "barren", "tera": "iu" },
+    { "english": "solitude", "tera": "saprec" },
+    { "english": "refrain", "tera": "rest" },
+    { "english": "charitable", "tera": "ex" },
+    { "english": "weary", "tera": "bale" },
+    { "english": "silvery", "tera": "mqu" },
+    { "english": "deception", "tera": "deas" },
+    { "english": "wheat", "tera": "umr" },
+    { "english": "nobleman", "tera": "ive" },
+    { "english": "antimony", "tera": "dicum" },
+    { "english": "pronoun", "tera": "enimflamm" },
+    { "english": "received", "tera": "etwozer" },
+    { "english": "chancery", "tera": "asel" },
+    { "english": "expedient", "tera": "ascylam" },
+    { "english": "flock", "tera": "queh" },
+    { "english": "repeated", "tera": "iasquemeas" },
+    { "english": "saffron", "tera": "m" },
+    { "english": "exemption", "tera": "umfi" },
+    { "english": "kindle", "tera": "anteisi" },
+    { "english": "stool", "tera": "cenä" },
+    { "english": "breaking", "tera": "niumse" },
+    { "english": "thicken", "tera": "ereprec" },
+    { "english": "abate", "tera": "efre" },
+    { "english": "harden", "tera": "odod" },
+    { "english": "prose", "tera": "rsesdictio" },
+    { "english": "ward", "tera": "osrc" },
+    { "english": "devil", "tera": "rtsar" },
+    { "english": "celestial", "tera": "uni" },
+    { "english": "leguminous", "tera": "twofio" },
+    { "english": "throwing", "tera": "ntem" },
+    { "english": "voyage", "tera": "queten" },
+    { "english": "diminutive", "tera": "v" },
+    { "english": "explode", "tera": "quod" },
+    { "english": "fugitive", "tera": "opil" },
+    { "english": "including", "tera": "quetene" },
+    { "english": "fastened", "tera": "ol" },
+    { "english": "sermon", "tera": "pressu" },
+    { "english": "snap", "tera": "reini" },
+    { "english": "dreadful", "tera": "aebr" },
+    { "english": "custody", "tera": "mque" },
+    { "english": "cruel", "tera": "qoui" },
+    { "english": "oppress", "tera": "ump" },
+    { "english": "magical", "tera": "ietsispe" },
+    { "english": "galley", "tera": "qïil" },
+    { "english": "uncommon", "tera": "ragf" },
+    { "english": "executive", "tera": "her" },
+    { "english": "denote", "tera": "qeca" },
+    { "english": "warning", "tera": "quam" },
+    { "english": "livery", "tera": "iun" },
+    { "english": "salmon", "tera": "qäue" },
+    { "english": "designed", "tera": "esuq" },
+    { "english": "bringing", "tera": "eratet" },
+    { "english": "modesty", "tera": "ndit" },
+    { "english": "prostitute", "tera": "ama" },
+    { "english": "initial", "tera": "etuq" },
+    { "english": "humming", "tera": "aetr" },
+    { "english": "heathen", "tera": "ahis" },
+    { "english": "confused", "tera": "r" },
+    { "english": "adhesive", "tera": "arm" },
+    { "english": "sickly", "tera": "lamf" },
+    { "english": "throng", "tera": "eratetzan" },
+    { "english": "attract", "tera": "cred" },
+    { "english": "packing", "tera": "scianec" },
+    { "english": "occupied", "tera": "hpo" },
+    { "english": "ornamental", "tera": "muladsp" },
+    { "english": "quill", "tera": "meliusse" },
+    { "english": "hydrate", "tera": "nger" },
+    { "english": "snatch", "tera": "isdeb" },
+    { "english": "vagrant", "tera": "op" },
+    { "english": "tunnel", "tera": "hpod" },
+    { "english": "inflamed", "tera": "necme" },
+    { "english": "stirring", "tera": "ecyt" },
+    { "english": "alumina", "tera": "tqui" },
+    { "english": "meanness", "tera": "aecqu" },
+    { "english": "cable", "tera": "erof" },
+    { "english": "incumbent", "tera": "sola" },
+    { "english": "insipid", "tera": "que" },
+    { "english": "spout", "tera": "yasc" },
+    { "english": "orator", "tera": "vsea" },
+    { "english": "punch", "tera": "aacc" },
+    { "english": "attended", "tera": "atal" },
+    { "english": "articulation", "tera": "sequere" },
+    { "english": "default", "tera": "mpar" },
+    { "english": "poverty", "tera": "uëqh" },
+    { "english": "lighter", "tera": "nnota" },
+    { "english": "paste", "tera": "rofe" },
+    { "english": "viscous", "tera": "aepa" },
+    { "english": "analogy", "tera": "afre" },
+    { "english": "imposition", "tera": "enoremo" },
+    { "english": "quadrate", "tera": "ocum" },
+    { "english": "flattery", "tera": "cuso" },
+    { "english": "insult", "tera": "itmu" },
+    { "english": "justify", "tera": "qasi" },
+    { "english": "disregard", "tera": "avse" },
+    { "english": "parliament", "tera": "evaretu" },
+    { "english": "vinegar", "tera": "adve" },
+    { "english": "cleave", "tera": "oër" },
+    { "english": "delineate", "tera": "irct" },
+    { "english": "borough", "tera": "promis" },
+    { "english": "diversion", "tera": "tnco" },
+    { "english": "dealer", "tera": "igod" },
+    { "english": "whitish", "tera": "dnti" },
+    { "english": "imitative", "tera": "qenc" },
+    { "english": "boiler", "tera": "tani" },
+    { "english": "spurious", "tera": "clen" },
+    { "english": "vain", "tera": "mihi" },
+    { "english": "ending", "tera": "oi" },
+    { "english": "camphor", "tera": "amandop" },
+    { "english": "puzzle", "tera": "erez" },
+    { "english": "included", "tera": "ferosa" },
+    { "english": "pause", "tera": "ntee" },
+    { "english": "contracted", "tera": "eh" },
+    { "english": "adjectively", "tera": "rvaq" },
+    { "english": "fondness", "tera": "aevt" },
+    { "english": "indies", "tera": "cros" },
+    { "english": "squirrel", "tera": "tamth" },
+    { "english": "crane", "tera": "bush" },
+    { "english": "sketch", "tera": "umta" },
+    { "english": "guarantee", "tera": "iitcol" },
+    { "english": "chastity", "tera": "ueq" },
+    { "english": "unlimited", "tera": "toreini" },
+    { "english": "fighting", "tera": "cle" },
+    { "english": "pretend", "tera": "rouë" },
+    { "english": "surpass", "tera": "itvidearm" },
+    { "english": "overseer", "tera": "nati" },
+    { "english": "unusual", "tera": "pntoa" },
+    { "english": "flank", "tera": "eclicko" },
+    { "english": "stony", "tera": "clopu" },
+    { "english": "efficient", "tera": "oataglau" },
+    { "english": "rarely", "tera": "umfivel" },
+    { "english": "mankind", "tera": "ngam" },
+    { "english": "spice", "tera": "esia" },
+    { "english": "guilt", "tera": "sapater" },
+    { "english": "formula", "tera": "ltropo" },
+    { "english": "teacher", "tera": "qmu" },
+    { "english": "innocence", "tera": "erateu" },
+    { "english": "vitreous", "tera": "dfrequ" },
+    { "english": "clergyman", "tera": "erbi" },
+    { "english": "animation", "tera": "iniater" },
+    { "english": "serving", "tera": "umtitanipo" },
+    { "english": "equity", "tera": "umestin" },
+    { "english": "scripture", "tera": "solesa" },
+    { "english": "containing", "tera": "cklice" },
+    { "english": "stopping", "tera": "tr" },
+    { "english": "consisting", "tera": "arsá" },
+    { "english": "decomposition", "tera": "ish" },
+    { "english": "latitude", "tera": "facithocoph" },
+    { "english": "hire", "tera": "optant" },
+    { "english": "purse", "tera": "noqu" },
+    { "english": "gossip", "tera": "save" },
+    { "english": "capillary", "tera": "inon" },
+    { "english": "trivial", "tera": "noin" },
+    { "english": "pompous", "tera": "eade" },
+    { "english": "feature", "tera": "tau" },
+    { "english": "suspense", "tera": "umfive" },
+    { "english": "rigid", "tera": "ïnsu" },
+    { "english": "optical", "tera": "is" },
+    { "english": "available", "tera": "iné" },
+    { "english": "malice", "tera": "nec" },
+    { "english": "critic", "tera": "cca" },
+    { "english": "brave", "tera": "rany" },
+    { "english": "link", "tera": "sads" },
+    { "english": "stratagem", "tera": "usiv" },
+    { "english": "spire", "tera": "fioqumae" },
+    { "english": "seeing", "tera": "pmu" },
+    { "english": "prudence", "tera": "ylamihivi" },
+    { "english": "assertion", "tera": "niai" },
+    { "english": "extravagant", "tera": "eali" },
+    { "english": "harmonious", "tera": "cusonezero" },
+    { "english": "acquire", "tera": "bet" },
+    { "english": "decisive", "tera": "it" },
+    { "english": "backbone", "tera": "ilea" },
+    { "english": "sportive", "tera": "olit" },
+    { "english": "granular", "tera": "oph" },
+    { "english": "asiatic", "tera": "optantemqu" },
+    { "english": "diligence", "tera": "tusabill" },
+    { "english": "cordial", "tera": "scua" },
+    { "english": "dealing", "tera": "du" },
+    { "english": "brighten", "tera": "stum" },
+    { "english": "dense", "tera": "herg" },
+    { "english": "tortoise", "tera": "epcr" },
+    { "english": "sculpture", "tera": "iasc" },
+    { "english": "shearing", "tera": "pidin" },
+    { "english": "reptile", "tera": "vali" },
+    { "english": "bible", "tera": "uaefidu" },
+    { "english": "seizure", "tera": "ntuq" },
+    { "english": "indent", "tera": "thre" },
+    { "english": "pulse", "tera": "cont" },
+    { "english": "wool", "tera": "quer" },
+    { "english": "univalve", "tera": "ncys" },
+    { "english": "lash", "tera": "saeviri" },
+    { "english": "withhold", "tera": "filiasolis" },
+    { "english": "suspicion", "tera": "nusera" },
+    { "english": "adherence", "tera": "mdeas" },
+    { "english": "firmness", "tera": "uqon" },
+    { "english": "celebrate", "tera": "tumg" },
+    { "english": "nickname", "tera": "raig" },
+    { "english": "discern", "tera": "niaesi" },
+    { "english": "undue", "tera": "esvariar" },
+    { "english": "diurnal", "tera": "aprec" },
+    { "english": "hebrew", "tera": "e" },
+    { "english": "evergreen", "tera": "carmi" },
+    { "english": "shepherd", "tera": "pedg" },
+    { "english": "impudent", "tera": "epdg" },
+    { "english": "detached", "tera": "po" },
+    { "english": "jointed", "tera": "fero" },
+    { "english": "cask", "tera": "niaesic" },
+    { "english": "alive", "tera": "gnit" },
+    { "english": "comparative", "tera": "afur" },
+    { "english": "frolic", "tera": "terra" },
+    { "english": "signify", "tera": "tent" },
+    { "english": "announce", "tera": "bïus" },
+    { "english": "quickness", "tera": "tqun" },
+    { "english": "orifice", "tera": "setr" },
+    { "english": "accompany", "tera": "sliq" },
+    { "english": "explosion", "tera": "mtan" },
+    { "english": "caustic", "tera": "auso" },
+    { "english": "pace", "tera": "tnet" },
+    { "english": "cohesion", "tera": "lito" },
+    { "english": "artillery", "tera": "tis" },
+    { "english": "insert", "tera": "iri" },
+    { "english": "mobile", "tera": "adeimis" },
+    { "english": "conversation", "tera": "ques" },
+    { "english": "symptom", "tera": "enze" },
+    { "english": "grease", "tera": "ascer" },
+    { "english": "polarity", "tera": "ueblandit" },
+    { "english": "offset", "tera": "rnamsolal" },
+    { "english": "deer", "tera": "rraeinde" },
+    { "english": "furious", "tera": "dfreque" },
+    { "english": "transact", "tera": "odig" },
+    { "english": "calamity", "tera": "araptus" },
+    { "english": "resolved", "tera": "uven" },
+    { "english": "producing", "tera": "fera" },
+    { "english": "contingent", "tera": "talicom" },
+    { "english": "complexion", "tera": "u" },
+    { "english": "puff", "tera": "acsu" },
+    { "english": "sagacious", "tera": "ulto" },
+    { "english": "classical", "tera": "bitï" },
+    { "english": "deluge", "tera": "navifra" },
+    { "english": "rattle", "tera": "rfua" },
+    { "english": "rash", "tera": "suar" },
+    { "english": "expert", "tera": "iamoen" },
+    { "english": "expressive", "tera": "ltropoter" },
+    { "english": "footing", "tera": "riar" },
+    { "english": "cone", "tera": "busherbae" },
+    { "english": "austere", "tera": "tidi" },
+    { "english": "competent", "tera": "ssia" },
+    { "english": "plausible", "tera": "a" },
+    { "english": "studious", "tera": "ilqs" },
+    { "english": "breech", "tera": "oris" },
+    { "english": "spelling", "tera": "nuserasu" },
+    { "english": "petty", "tera": "ra" },
+    { "english": "reasonable", "tera": "rhen" },
+    { "english": "buffalo", "tera": "ihisane" },
+    { "english": "bubble", "tera": "tore" },
+    { "english": "insanity", "tera": "ltaa" },
+    { "english": "idleness", "tera": "anen" },
+    { "english": "proceeds", "tera": "ioqu" },
+    { "english": "curl", "tera": "contemp" },
+    { "english": "ascend", "tera": "tisopero" },
+    { "english": "creeping", "tera": "taecirc" },
+    { "english": "balloon", "tera": "volent" },
+    { "english": "rage", "tera": "cquicqu" },
+    { "english": "entreat", "tera": "ris" },
+    { "english": "insertion", "tera": "dici" },
+    { "english": "offend", "tera": "rheg" },
+    { "english": "rove", "tera": "at" },
+    { "english": "shifting", "tera": "puap" },
+    { "english": "twelfth", "tera": "vulner" },
+    { "english": "inspect", "tera": "rdai" },
+    { "english": "figurative", "tera": "erogaberis" },
+    { "english": "athletic", "tera": "ensu" },
+    { "english": "directed", "tera": "feau" },
+    { "english": "exceeding", "tera": "alut" },
+    { "english": "absorb", "tera": "mrpo" },
+    { "english": "tangent", "tera": "rsesdic" },
+    { "english": "bait", "tera": "eruq" },
+    { "english": "haughty", "tera": "aber" },
+    { "english": "intercept", "tera": "entr" },
+    { "english": "translation", "tera": "eina" },
+    { "english": "crisp", "tera": "aecquero" },
+    { "english": "darken", "tera": "spe" },
+    { "english": "stability", "tera": "dsal" },
+    { "english": "factor", "tera": "neze" },
+    { "english": "octave", "tera": "ero" },
+    { "english": "insnare", "tera": "cum" },
+    { "english": "propagate", "tera": "ncyst" },
+    { "english": "evident", "tera": "ihisanes" },
+    { "english": "tenure", "tera": "eneg" },
+    { "english": "auditory", "tera": "teshun" },
+    { "english": "forked", "tera": "bringuppa" },
+    { "english": "obstacle", "tera": "ig" },
+    { "english": "muzzle", "tera": "optante" },
+    { "english": "intricate", "tera": "resseq" },
+    { "english": "grate", "tera": "filias" },
+    { "english": "peevish", "tera": "isticsi" },
+    { "english": "applied", "tera": "taquev" },
+    { "english": "summons", "tera": "usse" },
+    { "english": "golden", "tera": "not" },
+    { "english": "locomotive", "tera": "umes" },
+    { "english": "incorrect", "tera": "th" },
+    { "english": "intensive", "tera": "em" },
+    { "english": "insoluble", "tera": "sullat" },
+    { "english": "collected", "tera": "ihisan" },
+    { "english": "amusement", "tera": "umtitan" },
+    { "english": "attentive", "tera": "sit" },
+    { "english": "reproduce", "tera": "uius" },
+    { "english": "cleft", "tera": "sequerere" },
+    { "english": "dropping", "tera": "ntiabu" },
+    { "english": "pectoral", "tera": "partem" },
+    { "english": "indigo", "tera": "idas" },
+    { "english": "ruminant", "tera": "regn" },
+    { "english": "artless", "tera": "loid" },
+    { "english": "message", "tera": "manu" },
+    { "english": "pity", "tera": "efretu" },
+    { "english": "ravenous", "tera": "isne" },
+    { "english": "rapidly", "tera": "reco" },
+    { "english": "quadrant", "tera": "exit" },
+    { "english": "lying", "tera": "neïg" },
+    { "english": "invite", "tera": "enuq" },
+    { "english": "merry", "tera": "ever" },
+    { "english": "pliable", "tera": "si" },
+    { "english": "animated", "tera": "simu" },
+    { "english": "assuming", "tera": "iacs" },
+    { "english": "sprout", "tera": "ztea" },
+    { "english": "affirmative", "tera": "acrosive" },
+    { "english": "barter", "tera": "pere" },
+    { "english": "elder", "tera": "olve" },
+    { "english": "tending", "tera": "psase" },
+    { "english": "ethylene", "tera": "mdederis" },
+    { "english": "reign", "tera": "nawor" },
+    { "english": "lofty", "tera": "ferr" },
+    { "english": "rubbish", "tera": "lena" },
+    { "english": "foremost", "tera": "imen" },
+    { "english": "eighteen", "tera": "fere" },
+    { "english": "feathered", "tera": "vole" },
+    { "english": "formally", "tera": "su" },
+    { "english": "reckless", "tera": "mïe" },
+    { "english": "deaden", "tera": "lascyle" },
+    { "english": "spruce", "tera": "umqu" },
+    { "english": "molasses", "tera": "necarm" },
+    { "english": "sheath", "tera": "melius" },
+    { "english": "secrecy", "tera": "barefe" },
+    { "english": "entrails", "tera": "raqu" },
+    { "english": "digestive", "tera": "rnamsol" },
+    { "english": "commercial", "tera": "ascy" },
+    { "english": "horror", "tera": "cusonezer" },
+    { "english": "geometry", "tera": "uodlitor" },
+    { "english": "provoke", "tera": "rtne" },
+    { "english": "abide", "tera": "saes" },
+    { "english": "winning", "tera": "tush" },
+    { "english": "satisfaction", "tera": "saestpu" },
+    { "english": "foliated", "tera": "clopum" },
+    { "english": "cultivate", "tera": "lime" },
+    { "english": "dejection", "tera": "site" },
+    { "english": "bench", "tera": "tinc" },
+    { "english": "notch", "tera": "ipin" },
+    { "english": "sanctuary", "tera": "lesa" },
+    { "english": "threaten", "tera": "glau" },
+    { "english": "thirst", "tera": "aman" },
+    { "english": "crimson", "tera": "necmedearem" },
+    { "english": "isolated", "tera": "bareferr" },
+    { "english": "fate", "tera": "uses" },
+    { "english": "potassium", "tera": "neca" },
+    { "english": "sphenoid", "tera": "necu" },
+    { "english": "gloss", "tera": "clenadv" },
+    { "english": "remembrance", "tera": "yncs" },
+    { "english": "acuteness", "tera": "enim" },
+    { "english": "digging", "tera": "debe" },
+    { "english": "endowment", "tera": "sull" },
+    { "english": "commanding", "tera": "ed" },
+    { "english": "stale", "tera": "magn" },
+    { "english": "resin", "tera": "rvae" },
+    { "english": "tally", "tera": "re" },
+    { "english": "weaving", "tera": "noq" },
+    { "english": "sloping", "tera": "rfen" },
+    { "english": "exalt", "tera": "eadempa" },
+    { "english": "interrupt", "tera": "usind" },
+    { "english": "wither", "tera": "ifmu" },
+    { "english": "foresight", "tera": "filiaSolisgra" },
+    { "english": "circulation", "tera": "minecumtantum" },
+    { "english": "gill", "tera": "tantumquoqueca" },
+    { "english": "igneous", "tera": "rminepossimthre" },
+    { "english": "obscurity", "tera": "efiveuttuasimvo" },
+    { "english": "distill", "tera": "veospernentem" },
+    { "english": "inscribe", "tera": "spernesequentir" },
+    { "english": "bondage", "tera": "eddevicesunoqu" },
+    { "english": "hastily", "tera": "eduasulcisceref" },
+    { "english": "notation", "tera": "actoTaliatemp" },
+    { "english": "firearm", "tera": "tantipriusinqui" },
+    { "english": "mute", "tera": "tinaequorefrond" },
+    { "english": "oppressive", "tera": "esGlaucusetinsu" },
+    { "english": "pericarp", "tera": "mmisnascenturm" },
+    { "english": "communication", "tera": "ontibusalgaeso" },
+    { "english": "creeper", "tera": "spitequamScylla" },
+    { "english": "forfeit", "tera": "nostrimutentur" },
+    { "english": "apprehend", "tera": "amoresfourzeroI" },
+    { "english": "fully", "tera": "ndignatadeaeste" },
+    { "english": "gracious", "tera": "tlaederequaten" },
+    { "english": "divert", "tera": "usipsumnonpoter" },
+    { "english": "derived", "tera": "atnecvelletama" },
+    { "english": "interchange", "tera": "nsirasciturilli" },
+    { "english": "originate", "tera": "quaesibipraela" },
+    { "english": "obstinacy", "tera": "taestvenerisque" },
+    { "english": "neuter", "tera": "offensarepulsap" },
+    { "english": "sack", "tera": "rotinushorrendi" },
+    { "english": "fencing", "tera": "sinfamiapabula" },
+    { "english": "inquire", "tera": "sucisconteritet" },
+    { "english": "pope", "tera": "tritisHecateiac" },
+    { "english": "greatly", "tera": "arminamiscetfo" },
+    { "english": "degraded", "tera": "urfivecaerulaqu" },
+    { "english": "dejected", "tera": "einduiturvelami" },
+    { "english": "aerial", "tera": "naperqueferarum" },
+    { "english": "rhyme", "tera": "agmenadulantum" },
+    { "english": "insensible", "tera": "mediaproceditab" },
+    { "english": "discordant", "tera": "aulaoppositumq" },
+    { "english": "ligature", "tera": "uepetenscontraZ" },
+    { "english": "adopted", "tera": "ancleiasaxaRheg" },
+    { "english": "sanguine", "tera": "ioningrediturf" },
+    { "english": "spasmodic", "tera": "erventesaestibu" },
+    { "english": "physician", "tera": "sundasinquibusu" },
+    { "english": "luster", "tera": "tsolidaponitves" },
+    { "english": "salute", "tera": "tigiaterrafiveze" },
+    { "english": "broach", "tera": "rosummaquedecur" },
+    { "english": "gear", "tera": "ritpedibussuper" },
+    { "english": "graduated", "tera": "aequorasiccisPa" },
+    { "english": "adultery", "tera": "rvuseratgurgesc" },
+    { "english": "warlike", "tera": "urvossinuatusin" },
+    { "english": "obstruction", "tera": "arcusgrataquies" },
+    { "english": "smallpox", "tera": "Scyllaequoseref" },
+    { "english": "lighten", "tera": "erebatabaestuet" },
+    { "english": "loosen", "tera": "marisetcaelim" },
+    { "english": "rigor", "tera": "ediocumplurimu" },
+    { "english": "deformed", "tera": "sorbesolerateti" },
+    { "english": "climate", "tera": "nimasaverticefe" },
+    { "english": "admitted", "tera": "ceratumbrasfivef" },
+    { "english": "hunting", "tera": "iveHuncdeaprae" },
+    { "english": "fifteenth", "tera": "vitiatportentif" },
+    { "english": "reject", "tera": "icisquevenenisi" },
+    { "english": "butcher", "tera": "nquinathicpress" },
+    { "english": "cessation", "tera": "oslaticesradice" },
+    { "english": "approve", "tera": "nocentispargite" },
+    { "english": "turkish", "tera": "tobscurumverbor" },
+    { "english": "fare", "tera": "umambagenovoru" },
+    { "english": "saturated", "tera": "mternovienscarm" },
+    { "english": "impair", "tera": "enmagicodemurmu" },
+    { "english": "shroud", "tera": "ratoreScyllaven" },
+    { "english": "clamor", "tera": "itmediaquetenus" },
+    { "english": "disjoint", "tera": "descenderatalvo" },
+    { "english": "fourteen", "tera": "sixzerocumsuaf" },
+    { "english": "epidemic", "tera": "oedarilatrantib" },
+    { "english": "clergy", "tera": "usinguinamonstr" },
+    { "english": "muddy", "tera": "isadspicitacpri" },
+    { "english": "shrewd", "tera": "mocredensnoncor" },
+    { "english": "observance", "tera": "porisillasesses" },
+    { "english": "singing", "tera": "uipartesrefugit" },
+    { "english": "snuff", "tera": "queabigitquetim" },
+    { "english": "cricket", "tera": "etqueoraproterv" },
+    { "english": "geology", "tera": "acanumsedquosfu" },
+    { "english": "insane", "tera": "gitattrahitunae" },
+    { "english": "subsequent", "tera": "tcorpusquaerens" },
+    { "english": "missile", "tera": "femorumcrurumq" },
+    { "english": "beggar", "tera": "uepedumquesixfiv" },
+    { "english": "cane", "tera": "eCerbere" },
+    { "english": "abruptly", "tera": "filiaSol" },
+    { "english": "deceitful", "tera": "isgra" },
+    { "english": "reddish", "tera": "minecumta" },
+    { "english": "sixteenth", "tera": "ntum" },
+    { "english": "senate", "tera": "tantumquo" },
+    { "english": "buck", "tera": "queca" },
+    { "english": "nourish", "tera": "rmineposs" },
+    { "english": "displace", "tera": "imthre" },
+    { "english": "relate", "tera": "efiveuttu" },
+    { "english": "candidate", "tera": "asimvo" },
+    { "english": "plump", "tera": "veosperne" },
+    { "english": "slack", "tera": "ntem" },
+    { "english": "artery", "tera": "sperneseq" },
+    { "english": "sodium", "tera": "uentir" },
+    { "english": "powdered", "tera": "eddevices" },
+    { "english": "ascent", "tera": "unoqu" },
+    { "english": "gloom", "tera": "eduasulci" },
+    { "english": "lowering", "tera": "seref" },
+    { "english": "resinous", "tera": "actoTalia" },
+    { "english": "tradition", "tera": "temp" },
+    { "english": "governing", "tera": "tantipriu" },
+    { "english": "boiled", "tera": "sinqui" },
+    { "english": "induce", "tera": "tinaequor" },
+    { "english": "arise", "tera": "efrond" },
+    { "english": "meditate", "tera": "esGlaucus" },
+    { "english": "voltaic", "tera": "etinsu" },
+    { "english": "harmless", "tera": "mmisnasce" },
+    { "english": "shedding", "tera": "nturm" },
+    { "english": "ripple", "tera": "ontibusal" },
+    { "english": "uneasy", "tera": "gaeso" },
+    { "english": "fissure", "tera": "spitequam" },
+    { "english": "merchandise", "tera": "Scylla" },
+    { "english": "victory", "tera": "nostrimute" },
+    { "english": "paid", "tera": "ntur" },
+    { "english": "uneasiness", "tera": "amoresfou" },
+    { "english": "instinct", "tera": "rzeroI" },
+    { "english": "unworthy", "tera": "ndignatad" },
+    { "english": "rival", "tera": "eaeste" },
+    { "english": "wasteful", "tera": "tlaedereq" },
+    { "english": "preliminary", "tera": "uaten" },
+    { "english": "branching", "tera": "usipsumno" },
+    { "english": "boasting", "tera": "npoter" },
+    { "english": "brittle", "tera": "atnecvelle" },
+    { "english": "honesty", "tera": "tama" },
+    { "english": "indistinct", "tera": "nsirascit" },
+    { "english": "inspiration", "tera": "urilli" },
+    { "english": "giddy", "tera": "quaesibip" },
+    { "english": "absent", "tera": "raela" },
+    { "english": "buffoon", "tera": "taestvene" },
+    { "english": "convex", "tera": "risque" },
+    { "english": "thickness", "tera": "offensare" },
+    { "english": "marginal", "tera": "pulsap" },
+    { "english": "untimely", "tera": "rotinusho" },
+    { "english": "exquisite", "tera": "rrendi" },
+    { "english": "rogue", "tera": "sinfamiap" },
+    { "english": "potter", "tera": "abula" },
+    { "english": "qualities", "tera": "suciscont" },
+    { "english": "nonsense", "tera": "eritet" },
+    { "english": "stealing", "tera": "tritisHec" },
+    { "english": "lining", "tera": "ateiac" },
+    { "english": "infuse", "tera": "arminamis" },
+    { "english": "ruling", "tera": "cetfo" },
+    { "english": "additional", "tera": "urfivecae" },
+    { "english": "streak", "tera": "rulaqu" },
+    { "english": "immerse", "tera": "einduitur" },
+    { "english": "condense", "tera": "velami" },
+    { "english": "tablet", "tera": "naperquef" },
+    { "english": "tinge", "tera": "erarum" },
+    { "english": "onward", "tera": "agmenadul" },
+    { "english": "smother", "tera": "antum" },
+    { "english": "grasping", "tera": "mediaproce" },
+    { "english": "ammonia", "tera": "ditab" },
+    { "english": "jupiter", "tera": "aulaoppos" },
+    { "english": "doublet", "tera": "itumq" },
+    { "english": "mission", "tera": "uepetensc" },
+    { "english": "fission", "tera": "ontraZ" },
+    { "english": "anew", "tera": "ancleiasa" },
+    { "english": "causing", "tera": "xaRheg" },
+    { "english": "authorized", "tera": "ioningred" },
+    { "english": "amber", "tera": "iturf" },
+    { "english": "excrement", "tera": "erventesa" },
+    { "english": "damp", "tera": "estibu" },
+    { "english": "affront", "tera": "sundasinq" },
+    { "english": "offense", "tera": "uibusu" },
+    { "english": "budding", "tera": "tsolidapo" },
+    { "english": "confederate", "tera": "nitves" },
+    { "english": "sever", "tera": "tigiaterra" },
+    { "english": "ambush", "tera": "fiveze" },
+    { "english": "irritable", "tera": "rosummaqu" },
+    { "english": "local", "tera": "edecur" },
+    { "english": "homage", "tera": "ritpedibu" },
+    { "english": "vitality", "tera": "ssuper" },
+    { "english": "northwest", "tera": "aequorasi" },
+    { "english": "spongy", "tera": "ccisPa" },
+    { "english": "leaves", "tera": "rvuseratg" },
+    { "english": "elsewhere", "tera": "urgesc" },
+    { "english": "police", "tera": "urvossinu" },
+    { "english": "placenta", "tera": "atusin" },
+    { "english": "spirituous", "tera": "arcusgrat" },
+    { "english": "accustom", "tera": "aquies" },
+    { "english": "therefore", "tera": "Scyllaequ" },
+    { "english": "intelligence", "tera": "oseref" },
+    { "english": "actually", "tera": "erebataba" },
+    { "english": "destiny", "tera": "estuet" },
+    { "english": "cloak", "tera": "marisetca" },
+    { "english": "forbid", "tera": "elim" },
+    { "english": "cylindrical", "tera": "ediocumpl" },
+    { "english": "fifth", "tera": "urimu" },
+    { "english": "urine", "tera": "sorbesole" },
+    { "english": "haste", "tera": "rateti" },
+    { "english": "already", "tera": "nimasaver" },
+    { "english": "durable", "tera": "ticefe" },
+    { "english": "grievous", "tera": "ceratumbr" },
+    { "english": "arrival", "tera": "asfivef" },
+    { "english": "fierce", "tera": "iveHuncde" },
+    { "english": "whirl", "tera": "aprae" },
+    { "english": "afflict", "tera": "vitiatpor" },
+    { "english": "built", "tera": "tentif" },
+    { "english": "furrow", "tera": "icisqueve" },
+    { "english": "sorrowful", "tera": "nenisi" },
+    { "english": "plume", "tera": "nquinathi" },
+    { "english": "aniline", "tera": "cpress" },
+    { "english": "tick", "tera": "oslatices" },
+    { "english": "connected", "tera": "radice" },
+    { "english": "serpentine", "tera": "nocentisp" },
+    { "english": "spit", "tera": "argite" },
+    { "english": "epoch", "tera": "tobscurum" },
+    { "english": "magnify", "tera": "verbor" },
+    { "english": "drunken", "tera": "umambagen" },
+    { "english": "torpedo", "tera": "ovoru" },
+    { "english": "fortify", "tera": "mternovie" },
+    { "english": "session", "tera": "nscarm" },
+    { "english": "vertebra", "tera": "enmagicode" },
+    { "english": "shipping", "tera": "murmu" },
+    { "english": "saint", "tera": "ratoreScy" },
+    { "english": "petroleum", "tera": "llaven" },
+    { "english": "assist", "tera": "itmediaqu" },
+    { "english": "curb", "tera": "etenus" },
+    { "english": "observer", "tera": "descendera" },
+    { "english": "asunder", "tera": "talvo" },
+    { "english": "qualified", "tera": "sixzerocu" },
+    { "english": "occurrence", "tera": "msuaf" },
+    { "english": "cleaning", "tera": "oedarilat" },
+    { "english": "offender", "tera": "rantib" },
+    { "english": "mediate", "tera": "usinguina" },
+    { "english": "occurring", "tera": "monstr" },
+    { "english": "negligent", "tera": "isadspici" },
+    { "english": "beaten", "tera": "tacpri" },
+    { "english": "illustration", "tera": "mocredens" },
+    { "english": "mock", "tera": "noncor" },
+    { "english": "stormy", "tera": "porisilla" },
+    { "english": "figured", "tera": "ssesses" },
+    { "english": "assemblage", "tera": "uipartesr" },
+    { "english": "drying", "tera": "efugit" },
+    { "english": "murmur", "tera": "queabigit" },
+    { "english": "deviate", "tera": "quetim" },
+    { "english": "zinc", "tera": "etqueorap" },
+    { "english": "servitude", "tera": "roterv" },
+    { "english": "creditor", "tera": "acanumsed" },
+    { "english": "privy", "tera": "quosfu" },
+    { "english": "monopoly", "tera": "gitattrah" },
+    { "english": "newspaper", "tera": "itunae" },
+    { "english": "retard", "tera": "tcorpusqu" },
+    { "english": "licensed", "tera": "aerens" },
+    { "english": "terrestrial", "tera": "femorumcr" },
+    { "english": "boastful", "tera": "urumq" },
+    { "english": "sliding", "tera": "uepedumq" },
+    { "english": "ragged", "tera": "uesixfiv" },
+    { "english": "furnished", "tera": "eCerbere" },
+    { "english": "wrought", "tera": "filiaSo" },
+    { "english": "frightful", "tera": "lisgra" },
+    { "english": "whence", "tera": "minecu" },
+    { "english": "stratum", "tera": "mtantu" },
+    { "english": "gratify", "tera": "m" },
+    { "english": "conjecture", "tera": "tantumq" },
+    { "english": "whimsical", "tera": "uoqueca" },
+    { "english": "mere", "tera": "rminepo" },
+    { "english": "fundamental", "tera": "ssimthre" },
+    { "english": "variant", "tera": "efiveut" },
+    { "english": "arboreal", "tera": "tuasimvo" },
+    { "english": "subjection", "tera": "veosper" },
+    { "english": "strife", "tera": "nentem" },
+    { "english": "subscribe", "tera": "spernes" },
+    { "english": "ointment", "tera": "equentir" },
+    { "english": "symmetrical", "tera": "eddevic" },
+    { "english": "exactness", "tera": "esunoqu" },
+    { "english": "glossy", "tera": "eduasul" },
+    { "english": "liking", "tera": "cisceref" },
+    { "english": "sprightly", "tera": "actoTal" },
+    { "english": "pudding", "tera": "iatemp" },
+    { "english": "cultivation", "tera": "tantipr" },
+    { "english": "disfavor", "tera": "iusinqu" },
+    { "english": "dart", "tera": "i" },
+    { "english": "renew", "tera": "tinaequ" },
+    { "english": "consign", "tera": "orefrond" },
+    { "english": "tremulous", "tera": "esGlauc" },
+    { "english": "distinguished", "tera": "usetinsu" },
+    { "english": "pleading", "tera": "mmisnas" },
+    { "english": "saline", "tera": "centurm" },
+    { "english": "limestone", "tera": "ontibus" },
+    { "english": "vindicate", "tera": "algaeso" },
+    { "english": "heroic", "tera": "spitequ" },
+    { "english": "preface", "tera": "amScyll" },
+    { "english": "magistrate", "tera": "a" },
+    { "english": "inflection", "tera": "nostrim" },
+    { "english": "unlike", "tera": "utentur" },
+    { "english": "cruelty", "tera": "amoresf" },
+    { "english": "semblance", "tera": "ourzeroI" },
+    { "english": "readiness", "tera": "ndignat" },
+    { "english": "abode", "tera": "adeaest" },
+    { "english": "troop", "tera": "e" },
+    { "english": "equator", "tera": "tlaeder" },
+    { "english": "invisible", "tera": "equaten" },
+    { "english": "hindrance", "tera": "usipsum" },
+    { "english": "anthozoa", "tera": "nonpoter" },
+    { "english": "spike", "tera": "atnecve" },
+    { "english": "refractory", "tera": "lletama" },
+    { "english": "narration", "tera": "nsirasc" },
+    { "english": "magnetism", "tera": "iturilli" },
+    { "english": "naval", "tera": "quaesib" },
+    { "english": "bitumen", "tera": "ipraela" },
+    { "english": "impetuous", "tera": "taestve" },
+    { "english": "germinal", "tera": "nerisque" },
+    { "english": "measurement", "tera": "offensa" },
+    { "english": "unjust", "tera": "repulsa" },
+    { "english": "mole", "tera": "protinus" },
+    { "english": "chosen", "tera": "horrendi" },
+    { "english": "willow", "tera": "sinfami" },
+    { "english": "retract", "tera": "apabula" },
+    { "english": "obvious", "tera": "sucisco" },
+    { "english": "combining", "tera": "nteritet" },
+    { "english": "prosperity", "tera": "tritisH" },
+    { "english": "allay", "tera": "ecateiac" },
+    { "english": "stocking", "tera": "arminam" },
+    { "english": "lymphatic", "tera": "iscetfo" },
+    { "english": "adapted", "tera": "urfivec" },
+    { "english": "protract", "tera": "aerulaqu" },
+    { "english": "sober", "tera": "einduit" },
+    { "english": "abounding", "tera": "urvelami" },
+    { "english": "commotion", "tera": "naperqu" },
+    { "english": "pricking", "tera": "eferaru" },
+    { "english": "affix", "tera": "m" },
+    { "english": "dipping", "tera": "agmenad" },
+    { "english": "nutrition", "tera": "ulantum" },
+    { "english": "pigeon", "tera": "mediapr" },
+    { "english": "forcing", "tera": "oceditab" },
+    { "english": "palate", "tera": "aulaopp" },
+    { "english": "cartilage", "tera": "ositumq" },
+    { "english": "republic", "tera": "uepeten" },
+    { "english": "rebuke", "tera": "scontraZ" },
+    { "english": "walking", "tera": "ancleia" },
+    { "english": "reclaim", "tera": "saxaRheg" },
+    { "english": "duplicate", "tera": "ioningr" },
+    { "english": "quit", "tera": "editurf" },
+    { "english": "scallop", "tera": "ervente" },
+    { "english": "trump", "tera": "saestibu" },
+    { "english": "homologous", "tera": "s" },
+    { "english": "sixteen", "tera": "undasin" },
+    { "english": "grieve", "tera": "quibusu" },
+    { "english": "removing", "tera": "tsolidap" },
+    { "english": "extracted", "tera": "onitves" },
+    { "english": "suspect", "tera": "tigiater" },
+    { "english": "engineer", "tera": "rafivez" },
+    { "english": "aldehyde", "tera": "erosumm" },
+    { "english": "titmouse", "tera": "aquedecur" },
+    { "english": "carried", "tera": "ritpedib" },
+    { "english": "stringed", "tera": "ussuper" },
+    { "english": "arrogance", "tera": "aequora" },
+    { "english": "studied", "tera": "siccisPa" },
+    { "english": "tractable", "tera": "rvusera" },
+    { "english": "reveal", "tera": "tgurgesc" },
+    { "english": "observing", "tera": "urvossi" },
+    { "english": "distaste", "tera": "nuatusin" },
+    { "english": "delicious", "tera": "arcusgr" },
+    { "english": "retired", "tera": "ataquies" },
+    { "english": "hinge", "tera": "Scyllae" },
+    { "english": "obscene", "tera": "quoseref" },
+    { "english": "preacher", "tera": "erebata" },
+    { "english": "triple", "tera": "baestuet" },
+    { "english": "bolster", "tera": "mariset" },
+    { "english": "cheek", "tera": "caelim" },
+    { "english": "fullness", "tera": "ediocum" },
+    { "english": "applause", "tera": "plurimu" },
+    { "english": "surgeon", "tera": "s" },
+    { "english": "voracious", "tera": "orbesol" },
+    { "english": "moth", "tera": "erateti" },
+    { "english": "carving", "tera": "nimasav" },
+    { "english": "deny", "tera": "erticefe" },
+    { "english": "grapple", "tera": "ceratum" },
+    { "english": "vehemence", "tera": "brasfivef" },
+    { "english": "tartar", "tera": "iveHunc" },
+    { "english": "parcel", "tera": "deaprae" },
+    { "english": "tabernacle", "tera": "vitiatp" },
+    { "english": "opaque", "tera": "ortentif" },
+    { "english": "cathartic", "tera": "icisque" },
+    { "english": "herring", "tera": "venenisi" },
+    { "english": "opposed", "tera": "nquinat" },
+    { "english": "abdominal", "tera": "hicpress" },
+    { "english": "steamer", "tera": "oslatic" },
+    { "english": "tiller", "tera": "esradice" },
+    { "english": "breeches", "tera": "nocenti" },
+    { "english": "obedient", "tera": "spargite" },
+    { "english": "thrusting", "tera": "tobscur" },
+    { "english": "bluster", "tera": "umverbor" },
+    { "english": "owner", "tera": "umambag" },
+    { "english": "certainty", "tera": "enovoru" },
+    { "english": "sway", "tera": "mternov" },
+    { "english": "respond", "tera": "ienscarm" },
+    { "english": "scarlet", "tera": "enmagic" },
+    { "english": "goose", "tera": "odemurmu" },
+    { "english": "ashes", "tera": "ratoreS" },
+    { "english": "martial", "tera": "cyllaven" },
+    { "english": "salient", "tera": "itmedia" },
+    { "english": "manganese", "tera": "quetenus" },
+    { "english": "accession", "tera": "descend" },
+    { "english": "glutinous", "tera": "eratalvo" },
+    { "english": "declivity", "tera": "sixzero" },
+    { "english": "popularly", "tera": "cumsuaf" },
+    { "english": "invalid", "tera": "oedaril" },
+    { "english": "correspond", "tera": "atranti" },
+    { "english": "practiced", "tera": "b" },
+    { "english": "bias", "tera": "usingui" },
+    { "english": "nocturnal", "tera": "namonstr" },
+    { "english": "calcareous", "tera": "isadspi" },
+    { "english": "tumultuous", "tera": "citacpri" },
+    { "english": "dispense", "tera": "mocrede" },
+    { "english": "quietly", "tera": "nsnoncor" },
+    { "english": "discretion", "tera": "porisill" },
+    { "english": "proboscis", "tera": "asesses" },
+    { "english": "skirt", "tera": "uiparte" },
+    { "english": "laudable", "tera": "srefugit" },
+    { "english": "separated", "tera": "queabig" },
+    { "english": "pulp", "tera": "itquetim" },
+    { "english": "privacy", "tera": "etqueor" },
+    { "english": "sternum", "tera": "aproterv" },
+    { "english": "rifle", "tera": "acanums" },
+    { "english": "awake", "tera": "edquosfu" },
+    { "english": "tallow", "tera": "gitattr" },
+    { "english": "vomit", "tera": "ahitunae" },
+    { "english": "bracket", "tera": "tcorpus" },
+    { "english": "terror", "tera": "quaerens" },
+    { "english": "freezing", "tera": "femorum" },
+    { "english": "persian", "tera": "crurumq" },
+    { "english": "unstable", "tera": "uepedum" },
+    { "english": "inequality", "tera": "quesixfiv" },
+    { "english": "truly", "tera": "eCerber" },
+    { "english": "ripe", "tera": "e" },
+    { "english": "overhang", "tera": "abiesubie" },
+    { "english": "misfortune", "tera": "ctaqueter" },
+    { "english": "performed", "tera": "gaferaru" },
+    { "english": "oyster", "tera": "minguini" },
+    { "english": "citation", "tera": "bustrunc" },
+    { "english": "dilute", "tera": "isuteroq" },
+    { "english": "confess", "tera": "ueexstan" },
+    { "english": "specially", "tera": "tecoerce" },
+    { "english": "extraordinary", "tera": "tFlevita" },
+    { "english": "expressed", "tera": "mansGlau" },
+    { "english": "contained", "tera": "cusnimiu" },
+    { "english": "breeze", "tera": "mquehost" },
+    { "english": "contagious", "tera": "iliterus" },
+    { "english": "package", "tera": "aeviribu" },
+    { "english": "infect", "tera": "sherbaru" },
+    { "english": "percussion", "tera": "mfugitco" },
+    { "english": "warbler", "tera": "nubiaCir" },
+    { "english": "captive", "tera": "cesseven" },
+    { "english": "failing", "tera": "zeroScyl" },
+    { "english": "secrete", "tera": "lalocom" },
+    { "english": "technical", "tera": "ansitcum" },
+    { "english": "knitting", "tera": "queestda" },
+    { "english": "goddess", "tera": "tacopiap" },
+    { "english": "trousers", "tera": "rimuminC" },
+    { "english": "puncture", "tera": "ircesodi" },
+    { "english": "cheese", "tera": "umsociis" },
+    { "english": "tapering", "tera": "spoliavi" },
+    { "english": "ingenious", "tera": "tUlixenm" },
+    { "english": "windpipe", "tera": "oxeademT" },
+    { "english": "workman", "tera": "eucrasfu" },
+    { "english": "mammalia", "tera": "eratmer" },
+    { "english": "collateral", "tera": "suracari" },
+    { "english": "shave", "tera": "nasnipri" },
+    { "english": "painter", "tera": "usinscop" },
+    { "english": "harass", "tera": "ulumqui" },
+    { "english": "reel", "tera": "nuncquoe" },
+    { "english": "countenance", "tera": "saxeusex" },
+    { "english": "frivolous", "tera": "stattra" },
+    { "english": "evacuate", "tera": "nsformata" },
+    { "english": "ignorance", "tera": "foretsco" },
+    { "english": "mosaic", "tera": "pulumquo" },
+    { "english": "collectively", "tera": "quenavi" },
+    { "english": "slavery", "tera": "tavitCe" },
+    { "english": "mackerel", "tera": "rcopesse" },
+    { "english": "navigation", "tera": "venfiveH" },
+    { "english": "brisk", "tera": "uncubiTr" },
+    { "english": "savor", "tera": "oianaere" },
+    { "english": "blister", "tera": "misavid" },
+    { "english": "developed", "tera": "amqueCha" },
+    { "english": "claw", "tera": "rybdimev" },
+    { "english": "episcopal", "tera": "icererat" },
+    { "english": "undivided", "tera": "escumia" },
+    { "english": "redress", "tera": "mpropeli" },
+    { "english": "stumble", "tera": "tusades" },
+    { "english": "boisterous", "tera": "setAuso" },
+    { "english": "reproof", "tera": "niumLiby" },
+    { "english": "ramble", "tera": "casvento" },
+    { "english": "encourage", "tera": "refuntur" },
+    { "english": "twice", "tera": "adorasE" },
+    { "english": "thrush", "tera": "xcipitAe" },
+    { "english": "triangular", "tera": "neanilli" },
+    { "english": "tapeworm", "tera": "canimoqu" },
+    { "english": "fitness", "tera": "edomoque" },
+    { "english": "lodging", "tera": "nonbene" },
+    { "english": "appointed", "tera": "discidiu" },
+    { "english": "confer", "tera": "mPhrygi" },
+    { "english": "manure", "tera": "ilaturam" },
+    { "english": "parties", "tera": "aritieig" },
+    { "english": "phenomena", "tera": "htzeroSi" },
+    { "english": "expel", "tera": "donisin" },
+    { "english": "dried", "tera": "quepyras" },
+    { "english": "idiom", "tera": "acrisubi" },
+    { "english": "theme", "tera": "maginefa" },
+    { "english": "stimulate", "tera": "ctaincub" },
+    { "english": "admitting", "tera": "uitferro" },
+    { "english": "drapery", "tera": "deceptaq" },
+    { "english": "genera", "tera": "uedecipi" },
+    { "english": "countries", "tera": "tomnesRu" },
+    { "english": "stamens", "tera": "rsushare" },
+    { "english": "involving", "tera": "nosaefug" },
+    { "english": "separating", "tera": "iensnova" },
+    { "english": "murderous", "tera": "moeniate" },
+    { "english": "seizing", "tera": "rreadsed" },
+    { "english": "frighten", "tera": "esEryci" },
+    { "english": "hoop", "tera": "sfidumqu" },
+    { "english": "printed", "tera": "erelatus" },
+    { "english": "supported", "tera": "Acestens" },
+    { "english": "spiritless", "tera": "acrific" },
+    { "english": "plumb", "tera": "attumulu" },
+    { "english": "shoal", "tera": "mquesuig" },
+    { "english": "pavilion", "tera": "enitoris" },
+    { "english": "endurance", "tera": "honorate" },
+    { "english": "encumber", "tera": "ightfive" },
+    { "english": "pendent", "tera": "quasquer" },
+    { "english": "turkey", "tera": "atesIris" },
+    { "english": "receiving", "tera": "Iunoniap" },
+    { "english": "faction", "tera": "aenecrem" },
+    { "english": "limber", "tera": "aratsolv" },
+    { "english": "disagree", "tera": "itetHipp" },
+    { "english": "stupefy", "tera": "otadaere" },
+    { "english": "prevail", "tera": "gnumterr" },
+    { "english": "enlarged", "tera": "asquecal" },
+    { "english": "cage", "tera": "entisul" },
+    { "english": "clasp", "tera": "phurefu" },
+    { "english": "conveying", "tera": "mantesA" },
+    { "english": "mammals", "tera": "cheloia" },
+    { "english": "protoplasm", "tera": "dumque" },
+    { "english": "engross", "tera": "relinqu" },
+    { "english": "exert", "tera": "itSir" },
+    { "english": "emperor", "tera": "enumscop" },
+    { "english": "extending", "tera": "ulosorb" },
+    { "english": "porous", "tera": "ataquepr" },
+    { "english": "consequent", "tera": "aesidepi" },
+    { "english": "horseback", "tera": "nusInar" },
+    { "english": "froth", "tera": "imenPro" },
+    { "english": "settled", "tera": "chytenqu" },
+    { "english": "bachelor", "tera": "elegit" },
+    { "english": "reduced", "tera": "teriliqu" },
+    { "english": "knock", "tera": "elocatasn" },
+    { "english": "republican", "tera": "inezeroco" },
+    { "english": "partaking", "tera": "llepithec" },
+    { "english": "suspended", "tera": "usashabit" },
+    { "english": "edifice", "tera": "antumnomi" },
+    { "english": "buckle", "tera": "nedictasq" },
+    { "english": "vanish", "tera": "uippedeum" },
+    { "english": "righteous", "tera": "genitorfr" },
+    { "english": "lawful", "tera": "audemetpe" },
+    { "english": "maiden", "tera": "riuriaquo" },
+    { "english": "telltale", "tera": "ndamcerc" },
+    { "english": "cellular", "tera": "opumexosu" },
+    { "english": "convict", "tera": "sgentisqu" },
+    { "english": "soothe", "tera": "eadmissad" },
+    { "english": "snail", "tera": "olosaeind" },
+    { "english": "brake", "tera": "eformevir" },
+    { "english": "sparrow", "tera": "osanimalm" },
+    { "english": "vast", "tera": "utavituti" },
+    { "english": "chaff", "tera": "demdissim" },
+    { "english": "filament", "tera": "ileshomini" },
+    { "english": "chill", "tera": "possentsi" },
+    { "english": "glassy", "tera": "milesquev" },
+    { "english": "tracing", "tera": "iderinine" },
+    { "english": "accusation", "tera": "fivemembr" },
+    { "english": "fishes", "tera": "aquecontr" },
+    { "english": "envy", "tera": "axitnares" },
+    { "english": "hunger", "tera": "queafr" },
+    { "english": "polite", "tera": "onteresim" },
+    { "english": "lumber", "tera": "ascontudi" },
+    { "english": "freely", "tera": "tetrugisp" },
+    { "english": "flashing", "tera": "eraravita" },
+    { "english": "discredit", "tera": "nilibusor" },
+    { "english": "profess", "tera": "atotaquev" },
+    { "english": "accretion", "tera": "elatosfla" },
+    { "english": "brightness", "tera": "venticorp" },
+    { "english": "moist", "tera": "oravillom" },
+    { "english": "affirm", "tera": "isitinhas" },
+    { "english": "illuminate", "tera": "sedesnecn" },
+    { "english": "pliant", "tera": "onpriusab" },
+    { "english": "effusion", "tera": "stulitusu" },
+    { "english": "exclusion", "tera": "mverborum" },
+    { "english": "blessed", "tera": "etnataedi" },
+    { "english": "enrich", "tera": "rainperi" },
+    { "english": "utensil", "tera": "urialingu" },
+    { "english": "frugality", "tera": "aeonezero" },
+    { "english": "revenge", "tera": "zeroposse" },
+    { "english": "implied", "tera": "queritant" },
+    { "english": "corona", "tera": "umraucost" },
+    { "english": "differential", "tera": "ridorerel" },
+    { "english": "fusion", "tera": "iquitsiby" },
+    { "english": "impotent", "tera": "llahasubi" },
+    { "english": "dissection", "tera": "praeterii" },
+    { "english": "woody", "tera": "tetparthen" },
+    { "english": "cleanse", "tera": "opeiadext" },
+    { "english": "deceit", "tera": "ramoeniad" },
+    { "english": "longer", "tera": "eseruitla" },
+    { "english": "yearly", "tera": "evadepar" },
+    { "english": "almost", "tera": "tecanoria" },
+    { "english": "pendulum", "tera": "eolidaetu" },
+    { "english": "twin", "tera": "mulumetlo" },
+    { "english": "respiration", "tera": "cafetapal" },
+    { "english": "infantry", "tera": "ustribusu" },
+    { "english": "hail", "tera": "ndislitor" },
+    { "english": "consume", "tera": "acumarumv" },
+    { "english": "distrain", "tera": "ivacisque" },
+    { "english": "reducing", "tera": "antrasiby" },
+    { "english": "spectator", "tera": "llaeoneze" },
+    { "english": "swiftness", "tera": "rofiveint" },
+    { "english": "lever", "tera": "ratetutma" },
+    { "english": "prosperous", "tera": "nesveni" },
+    { "english": "ventilate", "tera": "atperaver" },
+    { "english": "parietal", "tera": "napaterno" },
+    { "english": "arctic", "tera": "soratat" },
+    { "english": "bismuth", "tera": "illadiuvu" },
+    { "english": "cranium", "tera": "ltumtell" },
+    { "english": "formative", "tera": "uremorat" },
+    { "english": "flax", "tera": "umerexitt" },
+    { "english": "solar", "tera": "andemqued" },
+    { "english": "undertaking", "tera": "eofuribun" },
+    { "english": "behave", "tera": "darecepto" },
+    { "english": "urinary", "tera": "magnapeti" },
+    { "english": "worsted", "tera": "sdixitvir" },
+    { "english": "coral", "tera": "factisma" },
+    { "english": "humorous", "tera": "ximecuius" },
+    { "english": "nineteen", "tera": "dexterape" },
+    { "english": "sameness", "tera": "rferrumes" },
+    { "english": "resentment", "tera": "tpietassp" },
+    { "english": "gaseous", "tera": "ectataper" },
+    { "english": "grecian", "tera": "ignesoneo" },
+    { "english": "textile", "tera": "nezeropon" },
+    { "english": "stagger", "tera": "etamentro" },
+    { "english": "vivacity", "tera": "ianemetum" },
+    { "english": "iniquity", "tera": "potierepe" },
+    { "english": "summon", "tera": "titiselys" },
+    { "english": "clause", "tera": "iasquedom" },
+    { "english": "smear", "tera": "osetregna" },
+    { "english": "encompass", "tera": "novissim" },
+    { "english": "swollen", "tera": "amundime" },
+    { "english": "fashionable", "tera": "ducecogno" },
+    { "english": "intrude", "tera": "scessimu" },
+    { "english": "deprived", "tera": "lacraque" },
+    { "english": "garnish", "tera": "carapare" },
+    { "english": "composing", "tera": "ntisinvi" },
+    { "english": "loom", "tera": "avirtutin" },
+    { "english": "preaching", "tera": "ullaestvi" },
+    { "english": "eloquence", "tera": "adixitete" },
+    { "english": "decayed", "tera": "aurofulge" },
+    { "english": "silurian", "tera": "ntemramum" },
+    { "english": "parchment", "tera": "silvaiuno" },
+    { "english": "magnesium", "tera": "nisaverna" },
+    { "english": "prelude", "tera": "eoneonef" },
+    { "english": "discontent", "tera": "ivemonstr" },
+    { "english": "thumb", "tera": "avitiuss" },
+    { "english": "tympanum", "tera": "itquesuod" },
+    { "english": "distract", "tera": "ivelleret" },
+    { "english": "rehearse", "tera": "runcoparu" },
+    { "english": "dictate", "tera": "itaeneas" },
+    { "english": "abortion", "tera": "etformid" },
+    { "english": "seminary", "tera": "abilisor" },
+    { "english": "skip", "tera": "cividito" },
+    { "english": "manager", "tera": "pesatavo" },
+    { "english": "selfish", "tera": "squesuosu" },
+    { "english": "loathing", "tera": "mbramque" },
+    { "english": "obsequious", "tera": "senilemma" },
+    { "english": "pyramid", "tera": "gnanimia" },
+    { "english": "observant", "tera": "nchisaed" },
+    { "english": "establishment", "tera": "idicitquo" },
+    { "english": "trinity", "tera": "queiuralo" },
+    { "english": "springing", "tera": "corumquae" },
+    { "english": "weeping", "tera": "quenovis" },
+    { "english": "gayety", "tera": "sessentad" },
+    { "english": "rugged", "tera": "eundaperi" },
+    { "english": "stave", "tera": "culabelli" },
+    { "english": "flask", "tera": "sonetwoze" },
+    { "english": "concurrence", "tera": "roindefer" },
+    { "english": "mood", "tera": "enslassos" },
+    { "english": "inscription", "tera": "adversotr" },
+    { "english": "viscid", "tera": "amitepass" },
+    { "english": "baptism", "tera": "uscumduce" },
+    { "english": "calculus", "tera": "cumaeamol" },
+    { "english": "enduring", "tera": "litsermon" },
+    { "english": "foretell", "tera": "elaboremd" },
+    { "english": "reprove", "tera": "umqueiter" },
+    { "english": "eucharist", "tera": "horrendu" },
+    { "english": "madness", "tera": "mperopaca" },
+    { "english": "stupidity", "tera": "crepuscu" },
+    { "english": "catalogue", "tera": "lacarpits" },
+    { "english": "collation", "tera": "eudeatup" },
+    { "english": "pillow", "tera": "raesensse" },
+    { "english": "eject", "tera": "udisgrat" },
+    { "english": "housing", "tera": "issimadix" },
+    { "english": "peel", "tera": "itnumini" },
+    { "english": "location", "tera": "sinstarer" },
+    { "english": "inhuman", "tera": "issemper" },
+    { "english": "tuft", "tera": "mihimequ" },
+    { "english": "substantial", "tera": "efateboro" },
+    { "english": "sustained", "tera": "netwofive" },
+    { "english": "thwart", "tera": "munerisse" },
+    { "english": "unlawful", "tera": "tuicaeme" },
+    { "english": "cabinet", "tera": "locamorti" },
+    { "english": "ventricle", "tera": "sadirequa" },
+    { "english": "rigging", "tera": "elocamev" },
+    { "english": "determined", "tera": "isaevolui" },
+    { "english": "assize", "tera": "stievader" },
+    { "english": "driven", "tera": "emortispr" },
+    { "english": "hurt", "tera": "oquibusa" },
+    { "english": "smoky", "tera": "eriasmeri" },
+    { "english": "longing", "tera": "tisevectu" },
+    { "english": "radius", "tera": "sadaurast" },
+    { "english": "ambiguous", "tera": "emplatibi" },
+    { "english": "exalted", "tera": "statuamtr" },
+    { "english": "albumin", "tera": "ibuamtibi" },
+    { "english": "oppression", "tera": "turishon" },
+    { "english": "frugal", "tera": "oresrespi" },
+    { "english": "gothic", "tera": "cithuncva" },
+    { "english": "stately", "tera": "tesetsus" },
+    { "english": "hooked", "tera": "piratibu" },
+    { "english": "shears", "tera": "shaustiso" },
+    { "english": "porcelain", "tera": "nethreeze" },
+    { "english": "benzene", "tera": "ronecdeas" },
+    { "english": "franchise", "tera": "umdixitn" },
+    { "english": "although", "tera": "ecsacitur" },
+    { "english": "flavored", "tera": "ishonore" },
+    { "english": "substitution", "tera": "humanumd" },
+    { "english": "distinctly", "tera": "ignarecap" },
+    { "english": "entitle", "tera": "utneunes" },
+    { "english": "transit", "tera": "ciuserre" },
+    { "english": "ghost", "tera": "sluxaeter" },
+    { "english": "divorce", "tera": "namihica" },
+    { "english": "prophecy", "tera": "rituraqu" },
+    { "english": "representative", "tera": "efinedab" },
+    { "english": "changeable", "tera": "atursime" },
+    { "english": "bohemian", "tera": "avirgini" },
+    { "english": "unable", "tera": "tasphoebo" },
+    { "english": "explicit", "tera": "patuisset" },
+    { "english": "advise", "tera": "amantidu" },
+    { "english": "greedy", "tera": "mtamenha" },
+    { "english": "squander", "tera": "ncsperat" },
+    { "english": "requisite", "tera": "dumpraeco" },
+    { "english": "enroll", "tera": "rrumpere" },
+    { "english": "revolt", "tera": "donisone" },
+    { "english": "scold", "tera": "threefiv" },
+    { "english": "foreshow", "tera": "emecupite" },
+    { "english": "evaporate", "tera": "ligeaitv" },
+    { "english": "warfare", "tera": "irgocuma" },
+    { "english": "pearly", "tera": "eaquidop" },
+    { "english": "vertebral", "tera": "tesoptat" },
+    { "english": "swiftly", "tera": "ispotier" },
+    { "english": "stereotype", "tera": "etuisego" },
+    { "english": "herb", "tera": "pulveris" },
+    { "english": "impartial", "tera": "haustios" },
+    { "english": "hardy", "tera": "tendicum" },
+    { "english": "authorize", "tera": "ulumquot" },
+    { "english": "corrosive", "tera": "haberetc" },
+    { "english": "laborious", "tera": "orporapu" },
+    { "english": "infinity", "tera": "lvistotm" },
+    { "english": "absorption", "tera": "ihinatal" },
+    { "english": "conjunction", "tera": "esconti" },
+    { "english": "reservoir", "tera": "ngerevan" },
+    { "english": "acrid", "tera": "arogavie" },
+    { "english": "commodity", "tera": "xciditutp" },
+    { "english": "uterus", "tera": "eteremi" },
+    { "english": "eleventh", "tera": "uvenesquo" },
+    { "english": "fifteen", "tera": "queproti" },
+    { "english": "pretender", "tera": "nusanno" },
+    { "english": "diatonic", "tera": "sonefourz" },
+    { "english": "hydroxyl", "tera": "erohosta" },
+    { "english": "varieties", "tera": "menillem" },
+    { "english": "surgery", "tera": "ihidabat" },
+    { "english": "commons", "tera": "aeternam" },
+    { "english": "responsible", "tera": "queiuven" },
+    { "english": "requite", "tera": "tamsiven" },
+    { "english": "reside", "tera": "erempate" },
+    { "english": "lathe", "tera": "rercontem" },
+    { "english": "allege", "tera": "ptomuner" },
+    { "english": "consort", "tera": "ephoebin" },
+    { "english": "mentally", "tera": "ubaperm" },
+    { "english": "licentious", "tera": "aneosedi" },
+    { "english": "excavate", "tera": "amfelic" },
+    { "english": "babble", "tera": "ioraetas" },
+    { "english": "feudal", "tera": "tergaded" },
+    { "english": "canvass", "tera": "ittremul" },
+    { "english": "comprehend", "tera": "oquegrad" },
+    { "english": "dissolute", "tera": "uvenita" },
+    { "english": "blessing", "tera": "egrasenec" },
+    { "english": "effeminate", "tera": "tusquaep" },
+    { "english": "repeating", "tera": "atienda" },
+    { "english": "balsam", "tera": "diuestna" },
+    { "english": "shuffle", "tera": "miammih" },
+    { "english": "stifle", "tera": "isaecula" },
+    { "english": "outrage", "tera": "septemone" },
+    { "english": "appease", "tera": "fourfivea" },
+    { "english": "tilt", "tera": "ctavidess" },
+    { "english": "stoop", "tera": "uperestn" },
+    { "english": "vexatious", "tera": "umerosutp" },
+    { "english": "wager", "tera": "ulverisa" },
+    { "english": "resound", "tera": "equemterc" },
+    { "english": "drawn", "tera": "entummes" },
+    { "english": "subdued", "tera": "sesterce" },
+    { "english": "dagger", "tera": "ntummust" },
+    { "english": "indication", "tera": "avideret" },
+    { "english": "pickle", "tera": "empuseri" },
+    { "english": "hackney", "tera": "tcumdetan" },
+    { "english": "hearty", "tera": "tomecorp" },
+    { "english": "relapse", "tera": "oreparva" },
+    { "english": "concealed", "tera": "mlongadi" },
+    { "english": "tame", "tera": "esfacietc" },
+    { "english": "speculum", "tera": "onsumpta" },
+    { "english": "persistent", "tera": "quemembr" },
+    { "english": "blanch", "tera": "asenecta" },
+    { "english": "carbonic", "tera": "adminimu" },
+    { "english": "prickly", "tera": "mredigen" },
+    { "english": "syllogism", "tera": "turonusn" },
+    { "english": "luxury", "tera": "ecamatav" },
+    { "english": "childish", "tera": "ideboron" },
+    { "english": "provincial", "tera": "efivezer" },
+    { "english": "knit", "tera": "onecplacu" },
+    { "english": "forced", "tera": "issedeop" },
+    { "english": "wasting", "tera": "hoebusqu" },
+    { "english": "designation", "tera": "oquefors" },
+    { "english": "corporation", "tera": "itanipse" },
+    { "english": "coupling", "tera": "velnonco" },
+    { "english": "venus", "tera": "gnoscetv" },
+    { "english": "ballast", "tera": "eldilexi" },
+    { "english": "lavish", "tera": "ssenegab" },
+    { "english": "phenomenon", "tera": "itusquea" },
+    { "english": "curvature", "tera": "deomutat" },
+    { "english": "bully", "tera": "aferarnu" },
+    { "english": "ruff", "tera": "lliquevi" },
+    { "english": "bowsprit", "tera": "dendavoc" },
+    { "english": "bastion", "tera": "etamennos" },
+    { "english": "braid", "tera": "carvocem" },
+    { "english": "consult", "tera": "mihifata" },
+    { "english": "harrow", "tera": "relinque" },
+    { "english": "hasten", "tera": "ntachaem" },
+    { "english": "deputy", "tera": "enidesap" },
+    { "english": "suspicious", "tera": "udpolyph" },
+    { "english": "betray", "tera": "emumtali" },
+    { "english": "puppet", "tera": "aconvexu" },
+    { "english": "playing", "tera": "mperimem" },
+    { "english": "privately", "tera": "orantesi" },
+    { "english": "assert", "tera": "byllao" },
+    { "english": "chisel", "tera": "nefivefi" },
+    { "english": "reformed", "tera": "vesedibu" },
+    { "english": "ratio", "tera": "seuboica" },
+    { "english": "mustard", "tera": "mstygiis" },
+    { "english": "hissing", "tera": "emergitin" },
+    { "english": "hurtful", "tera": "urbemtro" },
+    { "english": "leaning", "tera": "iusaenea" },
+    { "english": "reversal", "tera": "ssacrisq" },
+    { "english": "villain", "tera": "ueexmore" },
+    { "english": "corresponding", "tera": "litatisli" },
+    { "english": "resulting", "tera": "toraadit" },
+    { "english": "treble", "tera": "nondumnu" },
+    { "english": "pushing", "tera": "tricisha" },
+    { "english": "examining", "tera": "bentiano" },
+    { "english": "ductile", "tera": "menhicq" },
+    { "english": "affirmation", "tera": "uoquesub" },
+    { "english": "flux", "tera": "stiterat" },
+    { "english": "guttural", "tera": "pertaedi" },
+    { "english": "remission", "tera": "alongala" },
+    { "english": "congregation", "tera": "borumner" },
+    { "english": "annoy", "tera": "itiusmac" },
+    { "english": "criticise", "tera": "areuscom" },
+    { "english": "mortify", "tera": "esexperi" },
+    { "english": "heedless", "tera": "entisul" },
+    { "english": "tabular", "tera": "ixeiones" },
+    { "english": "shiver", "tera": "ixzerode" },
+    { "english": "uneven", "tera": "sertumq" },
+    { "english": "displeasure", "tera": "uondamme" },
+    { "english": "antique", "tera": "diiserup" },
+    { "english": "fatal", "tera": "ibusaetn" },
+    { "english": "characteristic", "tera": "aenoscit" },
+    { "english": "zigzag", "tera": "achaemen" },
+    { "english": "audible", "tera": "idenimpr" },
+    { "english": "reversion", "tera": "ovisoque" },
+    { "english": "canker", "tera": "repertum" },
+    { "english": "respecting", "tera": "viveremi" },
+    { "english": "surveyor", "tera": "ratusqui" },
+    { "english": "pistil", "tera": "decasusv" },
+    { "english": "premature", "tera": "edeusves" },
+    { "english": "agility", "tera": "ervatach" },
+    { "english": "sulphate", "tera": "aemenide" },
+    { "english": "wreath", "tera": "curinqui" },
+    { "english": "inflate", "tera": "tbarbara" },
+    { "english": "presage", "tera": "graiumpr" },
+    { "english": "lustful", "tera": "oravehit" },
+    { "english": "eighth", "tera": "petiturv" },
+    { "english": "capstan", "tera": "estraqua" },
+    { "english": "confined", "tera": "eterraca" },
+    { "english": "rendered", "tera": "rinaones" },
+    { "english": "chalk", "tera": "ixfiveta" },
+    { "english": "engender", "tera": "liaquaer" },
+    { "english": "twofold", "tera": "entiia" },
+    { "english": "attractive", "tera": "mnonhir" },
+    { "english": "diligent", "tera": "sutusam" },
+    { "english": "burlesque", "tera": "ictuiams" },
+    { "english": "vacancy", "tera": "uusetspi" },
+    { "english": "bustle", "tera": "niscons" },
+    { "english": "misery", "tera": "ertoteg" },
+    { "english": "luxurious", "tera": "minenul" },
+    { "english": "holland", "tera": "lisfatu" },
+    { "english": "silicon", "tera": "rachaem" },
+    { "english": "antagonist", "tera": "enidesit" },
+    { "english": "fright", "tera": "teri" },
+    { "english": "concretion", "tera": "liqu" },
+    { "english": "overpower", "tera": "eloc" },
+    { "english": "dissent", "tera": "atas" },
+    { "english": "introduction", "tera": "nine" },
+    { "english": "abandoned", "tera": "zero" },
+    { "english": "pottery", "tera": "coll" },
+    { "english": "lives", "tera": "epit" },
+    { "english": "desperate", "tera": "hecu" },
+    { "english": "roving", "tera": "sash" },
+    { "english": "birch", "tera": "abit" },
+    { "english": "density", "tera": "antu" },
+    { "english": "bunch", "tera": "mnom" },
+    { "english": "overturn", "tera": "ined" },
+    { "english": "revival", "tera": "icta" },
+    { "english": "turnpike", "tera": "squi" },
+    { "english": "operative", "tera": "pped" },
+    { "english": "finishing", "tera": "eumg" },
+    { "english": "spine", "tera": "enit" },
+    { "english": "dismount", "tera": "orfr" },
+    { "english": "headdress", "tera": "aude" },
+    { "english": "veil", "tera": "metp" },
+    { "english": "overwhelm", "tera": "eriu" },
+    { "english": "coarsely", "tera": "riaq" },
+    { "english": "perplexity", "tera": "uond" },
+    { "english": "ellipse", "tera": "amce" },
+    { "english": "oration", "tera": "rcop" },
+    { "english": "tributary", "tera": "umex" },
+    { "english": "informal", "tera": "osus" },
+    { "english": "herbaceous", "tera": "gent" },
+    { "english": "sanctity", "tera": "isqu" },
+    { "english": "undo", "tera": "eadm" },
+    { "english": "restoration", "tera": "issa" },
+    { "english": "artist", "tera": "dolo" },
+    { "english": "vicinity", "tera": "saei" },
+    { "english": "median", "tera": "ndef" },
+    { "english": "pivot", "tera": "ormev" },
+    { "english": "mohammedan", "tera": "iros" },
+    { "english": "negligence", "tera": "anim" },
+    { "english": "uniformly", "tera": "almu" },
+    { "english": "echo", "tera": "tavi" },
+    { "english": "modify", "tera": "tuti" },
+    { "english": "testify", "tera": "demd" },
+    { "english": "absurd", "tera": "issi" },
+    { "english": "seaweed", "tera": "mile" },
+    { "english": "projectile", "tera": "shom" },
+    { "english": "aberration", "tera": "inip" },
+    { "english": "piston", "tera": "osse" },
+    { "english": "saturate", "tera": "ntsi" },
+    { "english": "marrow", "tera": "mile" },
+    { "english": "vomiting", "tera": "sque" },
+    { "english": "infirm", "tera": "vide" },
+    { "english": "testing", "tera": "rini" },
+    { "english": "enjoy", "tera": "nefi" },
+    { "english": "languish", "tera": "veme" },
+    { "english": "precedent", "tera": "mbra" },
+    { "english": "stationary", "tera": "quec" },
+    { "english": "rudder", "tera": "ontr" },
+    { "english": "inanimate", "tera": "axit" },
+    { "english": "payable", "tera": "nare" },
+    { "english": "seventy", "tera": "sque" },
+    { "english": "clutch", "tera": "afro" },
+    { "english": "china", "tera": "nter" },
+    { "english": "peaceful", "tera": "esim" },
+    { "english": "sucking", "tera": "asco" },
+    { "english": "preach", "tera": "ntud" },
+    { "english": "prosecution", "tera": "itet" },
+    { "english": "jaundice", "tera": "rugi" },
+    { "english": "gradient", "tera": "sper" },
+    { "english": "adjoining", "tera": "arav" },
+    { "english": "penitent", "tera": "itan" },
+    { "english": "concealment", "tera": "ilib" },
+    { "english": "perpetual", "tera": "usor" },
+    { "english": "airy", "tera": "atot" },
+    { "english": "rostrum", "tera": "aque" },
+    { "english": "dying", "tera": "vela" },
+    { "english": "accuse", "tera": "tosf" },
+    { "english": "talking", "tera": "lave" },
+    { "english": "tumbler", "tera": "ntic" },
+    { "english": "thrown", "tera": "orpo" },
+    { "english": "palatine", "tera": "ravi" },
+    { "english": "defraud", "tera": "llom" },
+    { "english": "basin", "tera": "isit" },
+    { "english": "calmness", "tera": "inha" },
+    { "english": "symphony", "tera": "ssed" },
+    { "english": "rudimentary", "tera": "esne" },
+    { "english": "wandering", "tera": "cnon" },
+    { "english": "quail", "tera": "pri" },
+    { "english": "revelation", "tera": "usab" },
+    { "english": "greatness", "tera": "stul" },
+    { "english": "answerable", "tera": "itus" },
+    { "english": "besides", "tera": "umve" },
+    { "english": "alter", "tera": "rbor" },
+    { "english": "falsify", "tera": "umet" },
+    { "english": "autumn", "tera": "nata" },
+    { "english": "oval", "tera": "edir" },
+    { "english": "crossbow", "tera": "ainp" },
+    { "english": "recede", "tera": "eriu" },
+    { "english": "broker", "tera": "riali" },
+    { "english": "hatch", "tera": "ngua" },
+    { "english": "erection", "tera": "eone" },
+    { "english": "adjunct", "tera": "zero" },
+    { "english": "tense", "tera": "zerop" },
+    { "english": "habitation", "tera": "osse" },
+    { "english": "inclining", "tera": "quer" },
+    { "english": "manuscript", "tera": "itant" },
+    { "english": "realize", "tera": "umra" },
+    { "english": "folly", "tera": "ucos" },
+    { "english": "ascending", "tera": "trid" },
+    { "english": "patronage", "tera": "orer" },
+    { "english": "wedlock", "tera": "eliq" },
+    { "english": "getting", "tera": "uits" },
+    { "english": "snake", "tera": "ibyl" },
+    { "english": "abridge", "tera": "laha" },
+    { "english": "dismal", "tera": "subi" },
+    { "english": "senior", "tera": "prae" },
+    { "english": "oblong", "tera": "teri" },
+    { "english": "sequester", "tera": "itet" },
+    { "english": "organization", "tera": "part" },
+    { "english": "diseased", "tera": "heno" },
+    { "english": "vacuum", "tera": "peia" },
+    { "english": "bryozoa", "tera": "dext" },
+    { "english": "immersion", "tera": "ramo" },
+    { "english": "focus", "tera": "enia" },
+    { "english": "plait", "tera": "des" },
+    { "english": "founded", "tera": "erui" },
+    { "english": "offered", "tera": "tlae" },
+    { "english": "dioxide", "tera": "vade" },
+    { "english": "unfeeling", "tera": "part" },
+    { "english": "fluke", "tera": "ecan" },
+    { "english": "chicken", "tera": "oria" },
+    { "english": "puddling", "tera": "eoli" },
+    { "english": "moisten", "tera": "daet" },
+    { "english": "perforated", "tera": "umul" },
+    { "english": "olfactory", "tera": "umet" },
+    { "english": "roundish", "tera": "loca" },
+    { "english": "warehouse", "tera": "feta" },
+    { "english": "granite", "tera": "palu" },
+    { "english": "frozen", "tera": "stri" },
+    { "english": "quarry", "tera": "busu" },
+    { "english": "splinter", "tera": "ndis" },
+    { "english": "gunpowder", "tera": "lito" },
+    { "english": "molding", "tera": "racu" },
+    { "english": "heighten", "tera": "maru" },
+    { "english": "surveying", "tera": "mviv" },
+    { "english": "trough", "tera": "acis" },
+    { "english": "searching", "tera": "quea" },
+    { "english": "stab", "tera": "ntra" },
+    { "english": "extraction", "tera": "siby" },
+    { "english": "refinement", "tera": "llae" },
+    { "english": "crotchet", "tera": "onez" },
+    { "english": "rhythm", "tera": "erof" },
+    { "english": "ivory", "tera": "ivei" },
+    { "english": "desirous", "tera": "ntra" },
+    { "english": "attainment", "tera": "tetut" },
+    { "english": "rectify", "tera": "mane" },
+    { "english": "indolent", "tera": "sven" },
+    { "english": "jerk", "tera": "iatp" },
+    { "english": "umbilicus", "tera": "erav" },
+    { "english": "smack", "tera": "erna" },
+    { "english": "muse", "tera": "pate" },
+    { "english": "auction", "tera": "rnos" },
+    { "english": "define", "tera": "orat" },
+    { "english": "apparently", "tera": "atill" },
+    { "english": "tarsus", "tera": "adiu" },
+    { "english": "inability", "tera": "vult" },
+    { "english": "baggage", "tera": "umte" },
+    { "english": "boarding", "tera": "llur" },
+    { "english": "folding", "tera": "emor" },
+    { "english": "junior", "tera": "atum" },
+    { "english": "clamp", "tera": "erex" },
+    { "english": "changed", "tera": "ittan" },
+    { "english": "possessed", "tera": "demq" },
+    { "english": "passable", "tera": "uede" },
+    { "english": "bromine", "tera": "ofur" },
+    { "english": "spill", "tera": "ibun" },
+    { "english": "delirium", "tera": "dare" },
+    { "english": "coffin", "tera": "cept" },
+    { "english": "trickery", "tera": "omag" },
+    { "english": "withered", "tera": "nape" },
+    { "english": "polar", "tera": "tisd" },
+    { "english": "utterly", "tera": "ixit" },
+    { "english": "stagnant", "tera": "virf" },
+    { "english": "phosphorus", "tera": "acti" },
+    { "english": "coalesce", "tera": "smax" },
+    { "english": "consecrate", "tera": "imec" },
+    { "english": "straddle", "tera": "uius" },
+    { "english": "submissive", "tera": "dext" },
+    { "english": "shatter", "tera": "erap" },
+    { "english": "ulcer", "tera": "erfe" },
+    { "english": "shameful", "tera": "rrum" },
+    { "english": "daily", "tera": "estp" },
+    { "english": "disengage", "tera": "ieta" },
+    { "english": "ruler", "tera": "sspe" },
+    { "english": "bearer", "tera": "ctat" },
+    { "english": "bony", "tera": "aper" },
+    { "english": "calyx", "tera": "igne" },
+    { "english": "wickedness", "tera": "sone" },
+    { "english": "placed", "tera": "onez" },
+    { "english": "felicity", "tera": "erop" },
+    { "english": "vocation", "tera": "onet" },
+    { "english": "attendance", "tera": "amen" },
+    { "english": "falsely", "tera": "troi" },
+    { "english": "wonderful", "tera": "anem" },
+    { "english": "potash", "tera": "etum" },
+    { "english": "bodies", "tera": "poti" },
+    { "english": "substantive", "tera": "erep" },
+    { "english": "liberate", "tera": "etit" },
+    { "english": "prevailing", "tera": "isel" },
+    { "english": "telegraph", "tera": "ysia" },
+    { "english": "carrier", "tera": "sque" },
+    { "english": "courteous", "tera": "dome" },
+    { "english": "waist", "tera": "treg" },
+    { "english": "herd", "tera": "nano" },
+    { "english": "aspirate", "tera": "viss" },
+    { "english": "intend", "tera": "imam" },
+    { "english": "potent", "tera": "undi" },
+    { "english": "enhance", "tera": "medu" }
 ];
