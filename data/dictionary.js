@@ -1,5 +1,6 @@
 export const dictionary = [
     { "english": "teraethnicity", "tera": "Gáandtardésska" },
+    { "english": "teraking", "tera": "Temídzjon" },
     { "english": "teraethos", "tera": "andtardekka" },
     { "english": "teranobility", "tera": "Aradíndt" },
     { "english": "teranhierarchy", "tera": "saanchúursik" },
