@@ -7624,7 +7624,7 @@ export const dictionary = [
     { "english": "dryer", "tera": "" },
     { "english": "ralph", "tera": "" },
     { "english": "mercy", "tera": "" },
-    { "english": "jewel", "tera": "" },
+    { "english": "jewel", "tera": "dzara" },
     { "english": "dildo", "tera": "" },
     { "english": "kills", "tera": "" },
     { "english": "locks", "tera": "" },
