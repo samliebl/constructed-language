@@ -53246,5 +53246,9 @@ export const dictionary = [
     {
         "english": "false",
         "tera": "yla"
+    },
+    {
+        "english": "true",
+        "tera": "vlare"
     }
 ];
