@@ -4833,7 +4833,7 @@ export const dictionary = [
     },
     {
         "english": "beer",
-        "tera": "elg"
+        "tera": "elge"
     },
     {
         "english": "beetle",
@@ -4849,11 +4849,11 @@ export const dictionary = [
     },
     {
         "english": "began",
-        "tera": "jhuuuauv"
+        "tera": "vituav"
     },
     {
         "english": "beggar",
-        "tera": "uepedumquesixfiv"
+        "tera": "ueped"
     },
     {
         "english": "beghard",
@@ -4869,11 +4869,11 @@ export const dictionary = [
     },
     {
         "english": "beginner",
-        "tera": "enukooompa"
+        "tera": "enuvit"
     },
     {
         "english": "beginners",
-        "tera": "xeiuobpha"
+        "tera": "onerataa"
     },
     {
         "english": "beginning",
@@ -4881,7 +4881,7 @@ export const dictionary = [
     },
     {
         "english": "begins",
-        "tera": "pusvwue"
+        "tera": "vitwue"
     },
     {
         "english": "begonia",
@@ -4897,19 +4897,23 @@ export const dictionary = [
     },
     {
         "english": "behave",
-        "tera": "darecepto"
+        "tera": "tayzra"
+    },
+    {
+        "english": "name2",
+        "tera": "darcepto"
     },
     {
         "english": "behavior",
-        "tera": "val­les"
+        "tera": "tayzoa"
     },
     {
         "english": "behavioral",
-        "tera": "unegbwo"
+        "tera": "tayzune"
     },
     {
-        "english": "behaviour",
-        "tera": "yodwatayzooa"
+        "english": "behavior",
+        "tera": "tayzoa"
     },
     {
         "english": "behind",
@@ -4920,20 +4924,40 @@ export const dictionary = [
         "tera": "ribusege"
     },
     {
-        "english": "beijing",
-        "tera": "stasCumvo"
+        "english": "place1",
+        "tera": "statiskümovo"
     },
     {
         "english": "being",
-        "tera": "msuaefas"
+        "tera": "imas"
+    },
+    {
+        "english": "being",
+        "tera": "màssi"
+    },
+    {
+        "english": "potentate",
+        "tera": "humesùa"
+    },
+    {
+        "english": "squired",
+        "tera": "msùa"
     },
     {
         "english": "beings",
         "tera": "ricis"
     },
     {
-        "english": "belamour",
-        "tera": "ynvpyhu"
+        "english": "herr",
+        "tera": "bed"
+    },
+    {
+        "english": "name3",
+        "tera": "esbel"
+    },
+    {
+        "english": "name4",
+        "tera": "estabella"
     },
     {
         "english": "belamour",
@@ -5021,7 +5045,7 @@ export const dictionary = [
     },
     {
         "english": "beloved",
-        "tera": "scosmosa"
+        "tera": "eya"
     },
     {
         "english": "below",
@@ -11101,7 +11125,11 @@ export const dictionary = [
     },
     {
         "english": "conquer",
-        "tera": "uáwa"
+        "tera": "uáwe"
+    },
+    {
+        "english": "conquer",
+        "tera": "uáwe"
     },
     {
         "english": "conquest",
@@ -15989,7 +16017,7 @@ export const dictionary = [
     },
     {
         "english": "duchy",
-        "tera": "mta"
+        "tera": "médtand"
     },
     {
         "english": "duck",
@@ -16021,7 +16049,7 @@ export const dictionary = [
     },
     {
         "english": "duke",
-        "tera": "eupfc"
+        "tera": "ephuwetic"
     },
     {
         "english": "dull",
@@ -16197,7 +16225,11 @@ export const dictionary = [
     },
     {
         "english": "earth",
-        "tera": "hege"
+        "tera": "hége"
+    },
+    {
+        "english": "protectorate",
+        "tera": "hegála"
     },
     {
         "english": "earth",
@@ -17118,6 +17150,10 @@ export const dictionary = [
     {
         "english": "engine",
         "tera": "esva"
+    },
+    {
+        "english": "warengine",
+        "tera": "essisava"
     },
     {
         "english": "engineer",
@@ -18765,7 +18801,7 @@ export const dictionary = [
     },
     {
         "english": "faq",
-        "tera": "ll"
+        "tera": "ell"
     },
     {
         "english": "faqs",
@@ -18797,7 +18833,7 @@ export const dictionary = [
     },
     {
         "english": "farm",
-        "tera": "ian"
+        "tera": "iani"
     },
     {
         "english": "farmer",
@@ -18916,15 +18952,15 @@ export const dictionary = [
         "tera": "nleuttoel"
     },
     {
-        "english": "favour",
+        "english": "",
         "tera": "qneiu"
     },
     {
-        "english": "favourite",
+        "english": "",
         "tera": "idruojsa"
     },
     {
-        "english": "favourites",
+        "english": "",
         "tera": "xlucodeeq"
     },
     {
@@ -28364,6 +28400,10 @@ export const dictionary = [
         "tera": "udyo"
     },
     {
+        "english": "conquering",
+        "tera": "uáwefy"
+    },
+    {
         "english": "lite",
         "tera": "tayoeo"
     },
@@ -28376,12 +28416,24 @@ export const dictionary = [
         "tera": "oxalaee"
     },
     {
+        "english": "literal",
+        "tera": "oxalaee"
+    },
+    {
         "english": "literally",
         "tera": "uziutyeuai"
     },
     {
         "english": "literary",
         "tera": "ytlquoouda"
+    },
+    {
+        "english": "terareligion",
+        "tera": "omuwieovo"
+    },
+    {
+        "english": "name5",
+        "tera": "mercyllisandra"
     },
     {
         "english": "literature",
@@ -47386,6 +47438,18 @@ export const dictionary = [
     {
         "english": "teraethnicity",
         "tera": "Gáandtardésska"
+    },
+    {
+        "english": "terafullname",
+        "tera": "hegála kà dástratéra"
+    },
+    {
+        "english": "teraname",
+        "tera": "dastratera"
+    },
+    {
+        "english": "oftera",
+        "tera": "das"
     },
     {
         "english": "teraethos",
