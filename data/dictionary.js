@@ -1144,6 +1144,14 @@ export const dictionary = [
         "tera": "vitiatpor"
     },
     {
+        "english": "afflict",
+        "tera": "vitiatpor"
+    },
+    {
+        "english": "afflicted",
+        "tera": "vititeket"
+    },
+    {
         "english": "afforce",
         "tera": "jfwneiqbo"
     },
@@ -4621,7 +4629,7 @@ export const dictionary = [
     },
     {
         "english": "be",
-        "tera": "come"
+        "tera": "co"
     },
     {
         "english": "be",
@@ -11093,11 +11101,15 @@ export const dictionary = [
     },
     {
         "english": "conquer",
-        "tera": "uauaruaaf"
+        "tera": "uáwa"
     },
     {
         "english": "conquest",
-        "tera": "weeyee"
+        "tera": "uárásing"
+    },
+    {
+        "english": "conquered",
+        "tera": "uáruáket"
     },
     {
         "english": "cons",
@@ -12105,7 +12117,7 @@ export const dictionary = [
     },
     {
         "english": "country1",
-        "tera": "ter"
+        "tera": "ikhetéra"
     },
     {
         "english": "country2",
@@ -12124,8 +12136,12 @@ export const dictionary = [
         "tera": "outubec"
     },
     {
+        "english": "country6",
+        "tera": "oriora"
+    },
+    {
         "english": "counts",
-        "tera": "raeeeob"
+        "tera": "ráhieob"
     },
     {
         "english": "county",
@@ -16184,6 +16200,10 @@ export const dictionary = [
         "tera": "hege"
     },
     {
+        "english": "earth",
+        "tera": "hege"
+    },
+    {
         "english": "earthquake",
         "tera": "uubuoak"
     },
@@ -19981,19 +20001,19 @@ export const dictionary = [
     },
     {
         "english": "forbear",
-        "tera": "aoyayyuuou"
+        "tera": "xeréfy"
     },
     {
-        "english": "forbes",
-        "tera": "ueuyaolaea"
+        "english": "money1",
+        "tera": "ebes"
     },
     {
         "english": "forbid",
-        "tera": "elim"
+        "tera": "éklim"
     },
     {
         "english": "forbidden",
-        "tera": "uwibuovira"
+        "tera": "éklimvira"
     },
     {
         "english": "force",
@@ -20876,16 +20896,16 @@ export const dictionary = [
         "tera": "eaieoexqoa"
     },
     {
-        "english": "Game1",
+        "english": "game2",
         "tera": "itcuro"
     },
     {
-        "english": "gamecube",
-        "tera": "lgjufegaki"
+        "english": "game3",
+        "tera": "fegaki"
     },
     {
         "english": "games",
-        "tera": "aule"
+        "tera": "aulet"
     },
     {
         "english": "gamespot",
@@ -23388,15 +23408,15 @@ export const dictionary = [
         "tera": "ajiai"
     },
     {
-        "english": "Holiday1",
-        "tera": "eu­ry­di­cen­que"
+        "english": "holiday1",
+        "tera": "cén­queeu­rÿdi­"
     },
     {
         "english": "holidays",
         "tera": "aaaepeensi"
     },
     {
-        "english": "holland",
+        "english": "country7",
         "tera": "lisfatu"
     },
     {
@@ -24502,6 +24522,14 @@ export const dictionary = [
     {
         "english": "in",
         "tera": "ate"
+    },
+    {
+        "english": "incarnate",
+        "tera": "mÿssiáte"
+    },
+    {
+        "english": "onearth",
+        "tera": "éktohéget"
     },
     {
         "english": "inability",
@@ -30100,7 +30128,7 @@ export const dictionary = [
         "tera": "ymvo"
     },
     {
-        "english": "member of Religion2",
+        "english": "god1",
         "tera": "yuaie"
     },
     {
@@ -30441,7 +30469,7 @@ export const dictionary = [
     },
     {
         "english": "middle",
-        "tera": "iquit"
+        "tera": "hekki"
     },
     {
         "english": "midi",
@@ -39512,7 +39540,7 @@ export const dictionary = [
         "tera": "apophe"
     },
     {
-        "english": "Religion2",
+        "english": "religion2",
         "tera": "izlnvaoxpa"
     },
     {
@@ -42021,11 +42049,11 @@ export const dictionary = [
     },
     {
         "english": "sea",
-        "tera": "dhqiec"
+        "tera": "duhiek"
     },
     {
         "english": "seafood",
-        "tera": "gqeegacd"
+        "tera": "duhekemas"
     },
     {
         "english": "seal",
@@ -42040,8 +42068,16 @@ export const dictionary = [
         "tera": "amoro"
     },
     {
-        "english": "sean",
-        "tera": "qadi"
+        "english": "name1",
+        "tera": "hamoqadix"
+    },
+    {
+        "english": "family1",
+        "tera": "yqoronai"
+    },
+    {
+        "english": "search",
+        "tera": "hamo"
     },
     {
         "english": "search",
@@ -42053,19 +42089,19 @@ export const dictionary = [
     },
     {
         "english": "searched",
-        "tera": "beweiai"
+        "tera": "hamoti"
     },
     {
         "english": "searches",
-        "tera": "uuwaaupoxeog"
+        "tera": "hamoquea"
     },
     {
         "english": "searching",
-        "tera": "quea"
+        "tera": "hamotnei"
     },
     {
         "english": "seas",
-        "tera": "xyqoronai"
+        "tera": "duhieket"
     },
     {
         "english": "season",
@@ -48240,8 +48276,12 @@ export const dictionary = [
         "tera": "bao"
     },
     {
-        "english": "to",
+        "english": "forbearer",
         "tera": "xeref"
+    },
+    {
+        "english": "to",
+        "tera": "xe"
     },
     {
         "english": "to advance",
