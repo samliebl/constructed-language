@@ -47468,8 +47468,12 @@ export const dictionary = [
         "tera": "Burleregále"
     },
     {
-        "english": "teraking",
+        "english": "terakingdom",
         "tera": "Temídzjon"
+    },
+    {
+        "english": "teraking",
+        "tera": "Temígdon"
     },
     {
         "english": "teranhierarchy",
@@ -47497,39 +47501,43 @@ export const dictionary = [
     },
     {
         "english": "term",
-        "tera": "yiyydoa"
+        "tera": "odea"
     },
     {
         "english": "terminal",
-        "tera": "sitherbar"
+        "tera": "graejv"
     },
     {
         "english": "terminals",
-        "tera": "lolouxgraejv"
+        "tera": "loloux"
     },
     {
         "english": "terminate",
-        "tera": "ecuseoj"
+        "tera": "ojecuse"
     },
     {
         "english": "termination",
-        "tera": "ucibusaet"
+        "tera": "ojecuse "
     },
     {
         "english": "terminology",
-        "tera": "eieopaee"
+        "tera": "ucibusaet"
+    },
+    {
+        "english": "city1",
+        "tera": "ucibaset"
     },
     {
         "english": "terms",
-        "tera": "fzwu"
+        "tera": "odeay"
     },
     {
         "english": "terrace",
-        "tera": "tIuli"
+        "tera": "tiuli"
     },
     {
         "english": "terrain",
-        "tera": "auuua"
+        "tera": "arua"
     },
     {
         "english": "terrawarriors",
@@ -47541,39 +47549,39 @@ export const dictionary = [
     },
     {
         "english": "terrible",
-        "tera": "uiythoojz"
+        "tera": "uiyo"
     },
     {
         "english": "terribly",
-        "tera": "oeip"
+        "tera": "thoeip"
     },
     {
         "english": "terrific",
-        "tera": "mauo"
+        "tera": "thoeo"
     },
     {
         "english": "territories",
-        "tera": "pbdyeizofys"
+        "tera": "aruafys"
     },
     {
         "english": "territory",
-        "tera": "aetr"
+        "tera": "aruaiter"
     },
     {
         "english": "terror",
-        "tera": "quaerens"
+        "tera": "quaren"
     },
     {
         "english": "terrorism",
-        "tera": "oeoeailyupt"
+        "tera": "quarenylyt"
     },
     {
         "english": "terrorist",
-        "tera": "prifnpbs"
+        "tera": "quarentor"
     },
     {
         "english": "terrorists",
-        "tera": "qmoyyfodvf"
+        "tera": "quarentory"
     },
     {
         "english": "terry",
@@ -47593,31 +47601,31 @@ export const dictionary = [
     },
     {
         "english": "tested",
-        "tera": "ocofesuaig"
+        "tera": "uaefig"
     },
     {
         "english": "testify",
-        "tera": "demd"
+        "tera": "efede"
     },
     {
         "english": "testimonials",
-        "tera": "aapvaycuac"
+        "tera": "efedemdry"
     },
     {
         "english": "testimony",
-        "tera": "vuaqiyy"
+        "tera": "efedemd"
     },
     {
         "english": "testing",
-        "tera": "rini"
+        "tera": "uaefri"
     },
     {
         "english": "tests",
-        "tera": "awaeu"
+        "tera": "uaefy"
     },
     {
         "english": "tex",
-        "tera": "foj"
+        "tera": "nuaquèrifúekāë"
     },
     {
         "english": "texas",
@@ -47633,7 +47641,7 @@ export const dictionary = [
     },
     {
         "english": "textbooks",
-        "tera": "uqoekauq"
+        "tera": "erquecim"
     },
     {
         "english": "textile",
@@ -47641,7 +47649,7 @@ export const dictionary = [
     },
     {
         "english": "textiles",
-        "tera": "aereaoouoeey"
+        "tera": "nezeropon"
     },
     {
         "english": "texts",
@@ -52593,15 +52601,15 @@ export const dictionary = [
     },
     {
         "english": "woman",
-        "tera": "muukihu"
+        "tera": "veòhix"
     },
     {
         "english": "women",
-        "tera": "yoyiveoiux"
+        "tera": "veòhixe"
     },
     {
         "english": "womens",
-        "tera": "nv"
+        "tera": "veòhixenv"
     },
     {
         "english": "won",
