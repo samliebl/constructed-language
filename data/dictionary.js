@@ -5440,7 +5440,7 @@ export const dictionary = [{
     },
     {
         "english": "biography",
-        "tera": "oyokaatocon"
+        "tera": "Oyokaatocon"
     },
     {
         "english": "biol",
@@ -23356,7 +23356,7 @@ export const dictionary = [{
     },
     {
         "english": "history",
-        "tera": "xiieoo"
+        "tera": "Xieyou"
     },
     {
         "english": "hit",
@@ -47144,11 +47144,11 @@ export const dictionary = [{
     },
     {
         "english": "teacher",
-        "tera": "ieuyuo"
+        "tera": "Ieshùyoh"
     },
     {
         "english": "teachers",
-        "tera": "uasoeziaok"
+        "tera": "Ieshùyoha"
     },
     {
         "english": "teaches",
