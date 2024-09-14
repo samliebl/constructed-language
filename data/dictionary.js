@@ -7483,15 +7483,15 @@ export const dictionary = [{
         "tera": "ioimoieo"
     },
     {
-        "english": "cambodia",
-        "tera": "eoraeeueke"
+        "english": "to_be_conquered",
+        "tera": "Xeréficóme"
     },
     {
-        "english": "cambridge",
+        "english": "place_01",
         "tera": "diwyaee"
     },
     {
-        "english": "camcorder",
+        "english": "weapon_01",
         "tera": "aaoavnnu"
     },
     {
@@ -7511,19 +7511,19 @@ export const dictionary = [{
         "tera": "uujfogm"
     },
     {
-        "english": "camera",
-        "tera": "sis"
+        "english": "artifact_01",
+        "tera": "turesse"
     },
     {
         "english": "cameras",
-        "tera": "turesse"
+        "tera": "turessesis"
     },
     {
         "english": "cameron",
         "tera": "eqoef"
     },
     {
-        "english": "cameroon",
+        "english": "place_02",
         "tera": "ioeoyvob"
     },
     {
@@ -7539,11 +7539,11 @@ export const dictionary = [{
         "tera": "abiescurv"
     },
     {
-        "english": "camisade",
+        "english": "religion_01",
         "tera": "el"
     },
     {
-        "english": "camisade",
+        "english": "artifact_02",
         "tera": "hyeqemj"
     },
     {
@@ -7559,7 +7559,7 @@ export const dictionary = [{
         "tera": "ougyoieul"
     },
     {
-        "english": "campbell",
+        "english": "name_01",
         "tera": "eofdieiu"
     },
     {
@@ -7587,11 +7587,11 @@ export const dictionary = [{
         "tera": "et"
     },
     {
-        "english": "canada",
+        "english": "place_03",
         "tera": "atup"
     },
     {
-        "english": "canadian",
+        "english": "place_03",
         "tera": "yeasieu"
     },
     {
@@ -7652,7 +7652,7 @@ export const dictionary = [{
     },
     {
         "english": "cane",
-        "tera": "eCerbere"
+        "tera": "ecerbere"
     },
     {
         "english": "canker",
@@ -14479,7 +14479,7 @@ export const dictionary = [{
         "tera": "ukael"
     },
     {
-        "english": "diabetes",
+        "english": "disease_01",
         "tera": "oaoiuobb"
     },
     {
@@ -14535,7 +14535,7 @@ export const dictionary = [{
         "tera": "earayti"
     },
     {
-        "english": "diane",
+        "english": "name_02",
         "tera": "oekdqy"
     },
     {
@@ -14555,11 +14555,11 @@ export const dictionary = [{
         "tera": "auauyy"
     },
     {
-        "english": "dick",
+        "english": "name_03",
         "tera": "yuyveundli"
     },
     {
-        "english": "dicke",
+        "english": "name_04",
         "tera": "hhavcca"
     },
     {
@@ -14591,7 +14591,7 @@ export const dictionary = [{
         "tera": "xerohle"
     },
     {
-        "english": "diego",
+        "english": "name_05",
         "tera": "aoiaauzmi"
     },
     {
@@ -14599,7 +14599,7 @@ export const dictionary = [{
         "tera": "otuouiev"
     },
     {
-        "english": "diesel",
+        "english": "fuel",
         "tera": "lemih"
     },
     {
