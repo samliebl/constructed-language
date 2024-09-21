@@ -1,4 +1,5 @@
-export const dictionary = [{
+export const dictionary = [
+    {
         "english": "a",
         "tera": "li"
     },
@@ -5296,7 +5297,7 @@ export const dictionary = [{
     },
     {
         "english": "bible",
-        "tera": "nfvoem"
+        "tera": "nefovoem"
     },
     {
         "english": "bibler",
@@ -8724,7 +8725,11 @@ export const dictionary = [{
     },
     {
         "english": "chapter",
-        "tera": "oajyiliifh"
+        "tera": "ojay"
+    },
+    {
+        "english": "propernoun_14",
+        "tera": "ilifeh"
     },
     {
         "english": "chapters",
@@ -10415,8 +10420,24 @@ export const dictionary = [{
         "tera": "naperqu"
     },
     {
-        "english": "communicate",
+        "english": "propernoun_1",
         "tera": "ihisanesqueh"
+    },
+    {
+        "english": "propernoun_10",
+        "tera": "Lia"
+    },
+    {
+        "english": "propernoun_11",
+        "tera": "Oesez"
+    },
+    {
+        "english": "communicate",
+        "tera": "ihsihane"
+    },
+    {
+        "english": "communicating",
+        "tera": "ihsihanet"
     },
     {
         "english": "communication",
@@ -10668,7 +10689,7 @@ export const dictionary = [{
     },
     {
         "english": "composer",
-        "tera": "ztxuveauoyuh"
+        "tera": "xuvea"
     },
     {
         "english": "composing",
@@ -15360,7 +15381,7 @@ export const dictionary = [{
     },
     {
         "english": "divine",
-        "tera": "busin"
+        "tera": "bueßin"
     },
     {
         "english": "diving",
@@ -17452,7 +17473,7 @@ export const dictionary = [{
     },
     {
         "english": "epic",
-        "tera": "oouwheaja"
+        "tera": "wheaja"
     },
     {
         "english": "epidemic",
@@ -19528,6 +19549,10 @@ export const dictionary = [{
     },
     {
         "english": "first",
+        "tera": "obtko"
+    },
+    {
+        "english": "",
         "tera": "tr"
     },
     {
@@ -20028,7 +20053,7 @@ export const dictionary = [{
     },
     {
         "english": "for",
-        "tera": "kgaaw"
+        "tera": "aw"
     },
     {
         "english": "for",
@@ -23084,7 +23109,7 @@ export const dictionary = [{
     },
     {
         "english": "her",
-        "tera": "nul"
+        "tera": "nel"
     },
     {
         "english": "herald",
@@ -23920,7 +23945,7 @@ export const dictionary = [{
     },
     {
         "english": "hundred",
-        "tera": "pedg"
+        "tera": "noceq"
     },
     {
         "english": "hundreds",
@@ -28876,23 +28901,31 @@ export const dictionary = [{
     },
     {
         "english": "loved",
-        "tera": "oviqizoeh"
+        "tera": "ndyaet"
     },
     {
         "english": "lovely",
-        "tera": "mtumerg"
+        "tera": "ndyaio"
     },
     {
         "english": "lover",
-        "tera": "reaobuoegt"
+        "tera": "ndyai"
     },
     {
         "english": "lovers",
-        "tera": "aimwaiqebf"
+        "tera": "ndyaim"
     },
     {
         "english": "loves",
+        "tera": "ndya"
+    },
+    {
+        "english": "propernoun_12",
         "tera": "ndyaauuyo"
+    },
+    {
+        "english": "propernoun_13",
+        "tera": "ndyahea"
     },
     {
         "english": "loving",
@@ -31812,11 +31845,15 @@ export const dictionary = [{
     },
     {
         "english": "narration",
+        "tera": "tranes"
+    },
+    {
+        "english": "propernoun_9",
         "tera": "nsirasc"
     },
     {
         "english": "narrative",
-        "tera": "transfer"
+        "tera": "tranessep"
     },
     {
         "english": "narrow",
@@ -33336,7 +33373,19 @@ export const dictionary = [{
     },
     {
         "english": "on",
+        "tera": "aj"
+    },
+    {
+        "english": "propernoun_6",
         "tera": "oaajbgdy"
+    },
+    {
+        "english": "propernoun_7",
+        "tera": "iylec"
+    },
+    {
+        "english": "propernoun_8",
+        "tera": "iaduqoaul"
     },
     {
         "english": "once",
@@ -33344,7 +33393,7 @@ export const dictionary = [{
     },
     {
         "english": "one",
-        "tera": "obtko"
+        "tera": "obt"
     },
     {
         "english": "one-third",
@@ -36116,7 +36165,7 @@ export const dictionary = [{
     },
     {
         "english": "poem",
-        "tera": "ogzg"
+        "tera": "osez"
     },
     {
         "english": "poems",
@@ -36128,7 +36177,7 @@ export const dictionary = [{
     },
     {
         "english": "poetical",
-        "tera": "uiusini"
+        "tera": "osiusini"
     },
     {
         "english": "poetry",
@@ -39600,7 +39649,7 @@ export const dictionary = [{
     },
     {
         "english": "religious",
-        "tera": "wxaeirqhea"
+        "tera": "weirhea"
     },
     {
         "english": "reliquary",
@@ -42240,7 +42289,7 @@ export const dictionary = [{
     },
     {
         "english": "sections",
-        "tera": "aeieshuumnm"
+        "tera": "sicuheshu"
     },
     {
         "english": "sector",
@@ -42751,12 +42800,16 @@ export const dictionary = [{
         "tera": "quor"
     },
     {
+        "english": "seventeen",
+        "tera": "quorceq"
+    },
+    {
         "english": "seventh",
-        "tera": "moeqa"
+        "tera": "quormo"
     },
     {
         "english": "seventy",
-        "tera": "osiegey"
+        "tera": "quorosi"
     },
     {
         "english": "sever",
@@ -44436,7 +44489,7 @@ export const dictionary = [{
     },
     {
         "english": "speakers",
-        "tera": "qtuneyau"
+        "tera": "tyuop"
     },
     {
         "english": "speaking",
@@ -47364,7 +47417,7 @@ export const dictionary = [{
     },
     {
         "english": "ten",
-        "tera": "buounoceq"
+        "tera": "ceq"
     },
     {
         "english": "tenacious",
@@ -47632,7 +47685,7 @@ export const dictionary = [{
     },
     {
         "english": "text",
-        "tera": "etaeoe"
+        "tera": "etastoe"
     },
     {
         "english": "textbook",
@@ -47712,7 +47765,7 @@ export const dictionary = [{
     },
     {
         "english": "the",
-        "tera": "q"
+        "tera": "ca"
     },
     {
         "english": "theater",
@@ -47867,7 +47920,15 @@ export const dictionary = [{
         "tera": "aoby"
     },
     {
+        "english": "",
+        "tera": "cai"
+    },
+    {
         "english": "thinking",
+        "tera": "aobyui"
+    },
+    {
+        "english": "",
         "tera": "caiui"
     },
     {
@@ -52248,6 +52309,10 @@ export const dictionary = [{
     },
     {
         "english": "who",
+        "tera": "iad"
+    },
+    {
+        "english": "propernoun_5",
         "tera": "iaduqoiylk"
     },
     {
@@ -52864,10 +52929,18 @@ export const dictionary = [{
     },
     {
         "english": "write",
+        "tera": "aule"
+    },
+    {
+        "english": "propernoun_2",
         "tera": "gra"
     },
     {
         "english": "writer",
+        "tera": "aulre"
+    },
+    {
+        "english": "propernoun_3",
         "tera": "lascyle"
     },
     {
@@ -52876,6 +52949,10 @@ export const dictionary = [{
     },
     {
         "english": "writes",
+        "tera": "auley"
+    },
+    {
+        "english": "propernoun_4",
         "tera": "uraq"
     },
     {
@@ -52888,11 +52965,11 @@ export const dictionary = [{
     },
     {
         "english": "written",
-        "tera": "dict"
+        "tera": "auly"
     },
     {
         "english": "wrong",
-        "tera": "dsp"
+        "tera": "desp"
     },
     {
         "english": "wrong",
@@ -53358,62 +53435,228 @@ export const dictionary = [{
         "english": "false",
         "tera": "yla"
     },
-    { "english": "", "tera": "gawsloy" },
-    { "english": "", "tera": "toulle" },
-    { "english": "", "tera": "ascaop" },
-    { "english": "", "tera": "scao" },
-    { "english": "", "tera": "scaodal" },
-    { "english": "", "tera": "altrag" },
-    { "english": "", "tera": "omot" },
-    { "english": "", "tera": "gomist" },
-    { "english": "", "tera": "alam" },
-    { "english": "", "tera": "altag" },
-    { "english": "", "tera": "elai" },
-    { "english": "", "tera": "dtae" },
-    { "english": "", "tera": "calam" },
-    { "english": "", "tera": "caoer" },
-    { "english": "", "tera": "irapast" },
-    { "english": "", "tera": "eathur" },
-    { "english": "", "tera": "stabfor" },
-    { "english": "", "tera": "aerdhen" },
-    { "english": "", "tera": "accehan" },
-    { "english": "", "tera": "aerdthen" },
-    { "english": "", "tera": "aerdem" },
-    { "english": "", "tera": "alfae" },
-    { "english": "", "tera": "alcar" },
-    { "english": "", "tera": "homil" },
-    { "english": "", "tera": "orined" },
-    { "english": "", "tera": "liat" },
-    { "english": "", "tera": "lor" },
-    { "english": "", "tera": "diurrend" },
-    { "english": "", "tera": "ghatand" },
-    { "english": "", "tera": "oatade" },
-    { "english": "", "tera": "lilyg" },
-    { "english": "", "tera": "alur" },
-    { "english": "", "tera": "vorascono" },
-    { "english": "", "tera": "anneti" },
-    { "english": "", "tera": "rheacom" },
-    { "english": "", "tera": "emdanni" },
-    { "english": "", "tera": "itep" },
-    { "english": "", "tera": "linal" },
-    { "english": "", "tera": "ilmet" },
-    { "english": "", "tera": "scaor" },
-    { "english": "", "tera": "slace" },
-    { "english": "", "tera": "vilej" },
-    { "english": "", "tera": "gledt" },
-    { "english": "", "tera": "al" },
-    { "english": "family2", "tera": "tellmartin" },
-    { "english": "family3", "tera": "hochstall" },
-    { "english": "family4", "tera": "ionep" },
-    { "english": "family5", "tera": "tarandon" },
-    { "english": "family6", "tera": "ieptin" },
-    { "english": "family7", "tera": "curac" },
-    { "english": "family8", "tera": "xerenophale" },
-    { "english": "family9", "tera": "obonith" },
-    { "english": "family10", "tera": "fandt" },
-    { "english": "family11", "tera": "fannedet" },
+    {
+        "english": "",
+        "tera": "gawsloy"
+    },
+    {
+        "english": "",
+        "tera": "toulle"
+    },
+    {
+        "english": "",
+        "tera": "ascaop"
+    },
+    {
+        "english": "",
+        "tera": "scao"
+    },
+    {
+        "english": "",
+        "tera": "scaodal"
+    },
+    {
+        "english": "",
+        "tera": "altrag"
+    },
+    {
+        "english": "",
+        "tera": "omot"
+    },
+    {
+        "english": "",
+        "tera": "gomist"
+    },
+    {
+        "english": "",
+        "tera": "alam"
+    },
+    {
+        "english": "",
+        "tera": "altag"
+    },
+    {
+        "english": "",
+        "tera": "elai"
+    },
+    {
+        "english": "",
+        "tera": "dtae"
+    },
+    {
+        "english": "",
+        "tera": "calam"
+    },
+    {
+        "english": "",
+        "tera": "caoer"
+    },
+    {
+        "english": "",
+        "tera": "irapast"
+    },
+    {
+        "english": "",
+        "tera": "eathur"
+    },
+    {
+        "english": "",
+        "tera": "stabfor"
+    },
+    {
+        "english": "",
+        "tera": "aerdhen"
+    },
+    {
+        "english": "",
+        "tera": "accehan"
+    },
+    {
+        "english": "",
+        "tera": "aerdthen"
+    },
+    {
+        "english": "",
+        "tera": "aerdem"
+    },
+    {
+        "english": "",
+        "tera": "alfae"
+    },
+    {
+        "english": "",
+        "tera": "alcar"
+    },
+    {
+        "english": "",
+        "tera": "homil"
+    },
+    {
+        "english": "",
+        "tera": "orined"
+    },
+    {
+        "english": "",
+        "tera": "liat"
+    },
+    {
+        "english": "",
+        "tera": "lor"
+    },
+    {
+        "english": "",
+        "tera": "diurrend"
+    },
+    {
+        "english": "",
+        "tera": "ghatand"
+    },
+    {
+        "english": "",
+        "tera": "oatade"
+    },
+    {
+        "english": "",
+        "tera": "lilyg"
+    },
+    {
+        "english": "",
+        "tera": "alur"
+    },
+    {
+        "english": "",
+        "tera": "vorascono"
+    },
+    {
+        "english": "",
+        "tera": "anneti"
+    },
+    {
+        "english": "",
+        "tera": "rheacom"
+    },
+    {
+        "english": "",
+        "tera": "emdanni"
+    },
+    {
+        "english": "",
+        "tera": "itep"
+    },
+    {
+        "english": "",
+        "tera": "linal"
+    },
+    {
+        "english": "",
+        "tera": "ilmet"
+    },
+    {
+        "english": "",
+        "tera": "scaor"
+    },
+    {
+        "english": "",
+        "tera": "slace"
+    },
+    {
+        "english": "",
+        "tera": "vilej"
+    },
+    {
+        "english": "",
+        "tera": "gledt"
+    },
+    {
+        "english": "",
+        "tera": "al"
+    },
+    {
+        "english": "family2",
+        "tera": "tellmartin"
+    },
+    {
+        "english": "family3",
+        "tera": "hochstall"
+    },
+    {
+        "english": "family4",
+        "tera": "ionep"
+    },
+    {
+        "english": "family5",
+        "tera": "tarandon"
+    },
+    {
+        "english": "family6",
+        "tera": "ieptin"
+    },
+    {
+        "english": "family7",
+        "tera": "curac"
+    },
+    {
+        "english": "family8",
+        "tera": "xerenophale"
+    },
+    {
+        "english": "family9",
+        "tera": "obonith"
+    },
+    {
+        "english": "family10",
+        "tera": "fandt"
+    },
+    {
+        "english": "family11",
+        "tera": "fannedet"
+    },
     {
         "english": "true",
         "tera": "vlare"
+    },
+    {
+        "tera": "gainsbury",
+        "english": "family_12"
     }
 ];
