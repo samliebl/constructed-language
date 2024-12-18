@@ -53658,5 +53658,9 @@ export const dictionary = [
     {
         "tera": "gainsbury",
         "english": "family_12"
+    },
+    {
+        "english": "alabaster",
+        "tera": "liquemra"
     }
 ];
