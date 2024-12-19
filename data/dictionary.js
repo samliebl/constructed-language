@@ -1,5 +1,4 @@
-export const dictionary = [
-    {
+export const dictionary = [{
         "english": "a",
         "tera": "li"
     },
@@ -53662,5 +53661,25 @@ export const dictionary = [
     {
         "english": "alabaster",
         "tera": "liquemra"
+    },
+    {
+        "english": "crooked",
+        "tera": "daga"
+    },
+    {
+        "english": "broken",
+        "tera": "caèswen"
+    },
+    {
+        "english": "fixed",
+        "tera": "eswén"
+    },
+    {
+        "english": "bent",
+        "tera": "agat"
+    },
+    {
+        "english": "sharp",
+        "tera": "kelg"
     }
 ];
