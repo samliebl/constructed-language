@@ -1,4 +1,5 @@
-export const dictionary = [{
+export const dictionary = [
+    {
         "english": "a",
         "tera": "li"
     },
@@ -53681,5 +53682,13 @@ export const dictionary = [{
     {
         "english": "sharp",
         "tera": "kelg"
+    },
+    {
+        "tera": "eledg",
+        "english": "risky"
+    },
+    {
+        "tera": "eledg",
+        "english": "risky"
     }
 ];
