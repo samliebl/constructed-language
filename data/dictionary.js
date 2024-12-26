@@ -16185,10 +16185,10 @@ export const dictionary = [
     },
     {
         "english": "eagle",
-        "tera": "tedvenrti"
+        "tera": "tede"
     },
     {
-        "english": "eagle",
+        "english": "raptor",
         "tera": "rinomai"
     },
     {
@@ -18741,7 +18741,7 @@ export const dictionary = [
     },
     {
         "english": "falcon",
-        "tera": "ofbealuupe"
+        "tera": "tedvenrti"
     },
     {
         "english": "fall",
@@ -44464,6 +44464,10 @@ export const dictionary = [
         "tera": "osanimalm"
     },
     {
+        "english": "finch",
+        "tera": "malem"
+    },
+    {
         "english": "spas",
         "tera": "yduu"
     },
@@ -53690,5 +53694,17 @@ export const dictionary = [
     {
         "tera": "eledg",
         "english": "risky"
+    },
+    {
+        "english": "dell",
+        "tera": "mele"
+    },
+    {
+        "english": "dove",
+        "tera": "beal"
+    },
+    {
+        "english": "equanimity",
+        "tera": "Gvelle"
     }
 ];
